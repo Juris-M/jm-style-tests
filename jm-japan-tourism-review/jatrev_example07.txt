@@ -1,0 +1,56 @@
+>>===== MODE =====>>
+bibliography
+<<===== MODE =====<<
+
+>>===== RESULT =====>>
+???
+<<===== RESULT =====<<
+
+
+>>===== CITATIONS =====>>
+[
+    [
+        {
+            "citationID": "CITATION-1", 
+            "citationItems": [
+                {
+                    "id": "ITEM-1"
+                }
+            ], 
+            "properties": {
+                "noteIndex": 1
+            }
+        }, 
+        [], 
+        []
+    ]
+]
+<<===== CITATIONS =====<<
+
+
+>>===== CSL =====>>
+jm-japan-tourism-review.csl
+<<===== CSL =====<<
+
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "ITEM-1",
+    "type": "book",
+    "author": [
+      {
+        "family": "Tribe",
+        "given": "John"
+      }
+    ],
+    "issued": {
+      "date-parts": [[1997]]
+    },
+    "title": "Corporate strategy for tourism",
+    "publisher-place": "London, UK",
+    "publisher": "International Thomson Business Press",
+    "note": "alt-translator: 大橋||昭一\nalt-translator: 渡辺||朗\nalt-translator: 竹林||浩志\nalt-issued: 2007\nalt-title: 観光経営戦略―戦略策定から実行まで\nalt-publisher: センゲージラーニング"
+  }
+]
+<<===== INPUT =====<<

@@ -1,0 +1,91 @@
+>>===== MODE =====>>
+bibliography
+<<===== MODE =====<<
+
+
+
+>>===== RESULT =====>>
+<div class="csl-bib-body">
+  <div class="csl-entry">山中速人，2004，「なにが人質を解放させたのか」，Yamanaka Research Office，(2009年2月2日取得，http://www.asahi-net.or.jp/~cr1h-ymnk/kaiho.html）)．</div>
+  <div class="csl-entry">日本社会学会，2006，「日本社会学会倫理綱領にもとづく研究指針」，日本社会学会ホームページ，(2009年2月2日取得，http://www.gakkai.ne.jp/jss/about/shishin.pdf)．</div>
+  <div class="csl-entry">———，2009，日本社会学会ホームページ，(2009年2月2日取得，http://www.gakkai.ne.jp/jss)．</div>
+</div>
+<<===== RESULT =====<<
+
+
+>>===== CITATIONS =====>>
+[
+    [
+        {
+            "citationID": "CITATION-1", 
+            "citationItems": [
+                {
+                    "id": "Item-1"
+                }, 
+                {
+                    "id": "Item-2"
+                }, 
+                {
+                    "id": "Item-3"
+                }
+            ], 
+            "properties": {
+                "noteIndex": 1
+            }
+        }, 
+        [], 
+        []
+    ]
+]
+<<===== CITATIONS =====<<
+
+
+>>===== CSL =====>>
+jm-japan-sociological-society.csl
+<<===== CSL =====<<
+
+
+>>===== INPUT =====>>
+[
+    {
+        "id": "Item-1",
+        "type": "webpage",
+        "language": "ja",
+        "author": [
+            {"literal": "日本社会学会"}
+        ],
+        "issued": {"date-parts": [[2006]]},
+        "title": "日本社会学会倫理綱領にもとづく研究指針",
+        "container-title": "日本社会学会ホームページ",
+        "accessed": {"date-parts": [[2009,2,2]]},
+        "URL": "http://www.gakkai.ne.jp/jss/about/shishin.pdf"
+     },
+     {
+        "id": "Item-2",
+        "type": "webpage",
+        "language": "ja",
+        "author": [
+            {"family": "山中", "given": "速人"}
+        ],
+        "issued": {"date-parts": [[2004]]},
+        "title": "なにが人質を解放させたのか",
+        "container-title": "Yamanaka Research Office",
+        "accessed": {"date-parts": [[2009,2,2]]},
+        "URL": "http://www.asahi-net.or.jp/~cr1h-ymnk/kaiho.html）"
+    },
+    {
+    
+    
+        "id": "Item-3",
+        "type": "webpage",
+        "language": "ja",
+        "author": [
+          {"literal": "日本社会学会"}
+        ],
+        "issued": {"date-parts": [[2009]]},
+        "title": "日本社会学会ホームページ",
+        "accessed": {"date-parts": [[2009,2,2]]},
+        "URL": "http://www.gakkai.ne.jp/jss"
+    }
+]
+<<===== INPUT =====<<

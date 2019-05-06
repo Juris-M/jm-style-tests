@@ -1,0 +1,134 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+This illustrates the application of year-suffix to an entry
+with original-date. In this case, year-suffix should be applied
+to the second year. The first year is earlier, and displayed in braces
+at the front of the cite in the bib entry, but is not used for
+sorting. The second year is the primary year of the reference.
+
+>>===== RESULT =====>>
+>>[0] （田中 1961:78=1984a:86）
+>>[1] （田中 1961=1984a:78）
+>>[2] （田中 1961:78–80=1984b:86–92）
+<<===== RESULT =====<<
+
+
+>>===== CITATIONS =====>>
+[
+    [
+        {
+            "citationID": "CITATION-1", 
+            "citationItems": [
+                {
+                    "id": "ITEM-1", 
+                    "locator": "78|86"
+                }
+            ], 
+            "properties": {
+                "noteIndex": 1
+            }
+        }, 
+        [], 
+        []
+    ], 
+    [
+        {
+            "citationID": "CITATION-2", 
+            "citationItems": [
+                {
+                    "id": "ITEM-1", 
+                    "locator": "78"
+                }
+            ], 
+            "properties": {
+                "noteIndex": 0
+            }
+        }, 
+        [
+            [
+                "CITATION-1", 
+                0
+            ]
+        ], 
+        []
+    ], 
+    [
+        {
+            "citationID": "CITATION-3", 
+            "citationItems": [
+                {
+                    "id": "ITEM-2", 
+                    "locator": "78-80|86-92"
+                }
+            ], 
+            "properties": {
+                "noteIndex": 0
+            }
+        }, 
+        [
+            [
+                "CITATION-1", 
+                0
+            ], 
+            [
+                "CITATION-2", 
+                0
+            ]
+        ], 
+        []
+    ]
+]
+<<===== CITATIONS =====<<
+
+
+>>===== CSL =====>>
+jm-japan-sociological-society.csl
+<<===== CSL =====<<
+
+
+>>===== INPUT =====>>
+[
+    {
+        "title": "Book One",
+        "author": [
+          {
+            "family": "田中", "given":"哲"
+          }
+        ],
+        "id": "ITEM-1", 
+        "type": "bill",
+        "original-date": {
+           "date-parts": [
+             [1961]
+           ]
+        },
+        "issued": {
+           "date-parts": [
+             [1984]
+           ]
+        }
+    },
+    {
+        "title": "Book One",
+        "author": [
+          {
+            "family": "田中", "given":"哲"
+          }
+        ],
+        "id": "ITEM-2", 
+        "type": "bill",
+        "original-date": {
+           "date-parts": [
+             [1961]
+           ]
+        },
+        "issued": {
+           "date-parts": [
+             [1984]
+           ]
+        }
+    }
+]
+<<===== INPUT =====<<

@@ -1,0 +1,57 @@
+>>===== MODE =====>>
+bibliography
+<<===== MODE =====<<
+
+
+
+>>===== RESULT =====>>
+<div class="csl-bib-body">
+  <div class="csl-entry">Abbott, Andrew, 1995, “Things of Boundaries,” <i>Social Research</i>, 62(4): 857–82.</div>
+</div>
+<<===== RESULT =====<<
+
+
+>>===== CITATIONS =====>>
+[
+    [
+        {
+            "citationID": "CITATION-1", 
+            "citationItems": [
+                {
+                    "id": "Item-1"
+                }
+            ], 
+            "properties": {
+                "noteIndex": 1
+            }
+        }, 
+        [], 
+        []
+    ]
+]
+<<===== CITATIONS =====<<
+
+
+>>===== CSL =====>>
+jm-japan-sociological-society.csl
+<<===== CSL =====<<
+
+
+>>===== INPUT =====>>
+[
+{
+    "id": "Item-1",
+    "type": "article-journal",
+    "language": "en",
+    "author": [
+      { "family": "Abbott", "given": "Andrew" }
+     ],
+    "issued": { "date-parts": [[1995]]},
+    "title": "Things of Boundaries",
+    "container-title": "Social Research",
+    "volume": "62",
+    "issue": "4",
+    "page": "857-82"
+}
+]
+<<===== INPUT =====<<

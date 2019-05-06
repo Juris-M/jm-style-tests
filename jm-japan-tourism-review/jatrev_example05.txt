@@ -1,0 +1,57 @@
+>>===== MODE =====>>
+bibliography
+<<===== MODE =====<<
+
+>>===== RESULT =====>>
+???
+<<===== RESULT =====<<
+
+
+>>===== CITATIONS =====>>
+[
+    [
+        {
+            "citationID": "CITATION-1", 
+            "citationItems": [
+                {
+                    "id": "ITEM-1"
+                }
+            ], 
+            "properties": {
+                "noteIndex": 1
+            }
+        }, 
+        [], 
+        []
+    ]
+]
+<<===== CITATIONS =====<<
+
+
+>>===== CSL =====>>
+jm-japan-tourism-review.csl
+<<===== CSL =====<<
+
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "ITEM-1",
+    "type": "article ",
+    "author": [
+      {
+        "family": "橋本",
+        "given": "和也"
+      }
+    ],
+    "issued": {
+      "date-parts": [[2013]]
+    },
+    "title": "観光学の新たな展望―なぜ、いま「観光経験」なのか",
+    "container-title": "観光学評論",
+    "volume": "1",
+    "issue": "1",
+    "page": "19-34"
+  }
+]
+<<===== INPUT =====<<

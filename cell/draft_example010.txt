@@ -1,0 +1,93 @@
+>>===== MODE =====>>
+bibliography
+<<===== MODE =====<<
+
+>>===== RESULT =====>>
+<div class="csl-bib-body">
+  <div class="csl-entry">Cox, G.W., Rosenbluth, F.M., and Thies, M.F. (2000). Electoral Rules, Career Ambitions, and Party Structure: Comparing Factions in Japan’s Upper and Lower Houses. American Journal of Political Science <i>44</i>, 115–122.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== CITATIONS =====>>
+[
+    [
+        {
+            "citationID": "CITATION-1", 
+            "citationItems": [
+                {
+                    "id": "ITEM-1"
+                }
+            ], 
+            "properties": {
+                "noteIndex": 1
+            }
+        }, 
+        [], 
+        []
+    ]
+]
+<<===== CITATIONS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "article-journal",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "title": "Electoral Rules, Career Ambitions, and Party Structure: Comparing Factions in Japan's Upper and Lower Houses",
+    "container-title": "American Journal of Political Science",
+    "page": "115-122",
+    "volume": "44",
+    "issue": "1",
+    "source": "JSTOR",
+    "abstract": "We argue that the incentive for a Japanese politician to join a faction is a function of the extent to which her career goals require factional assistance. The two houses of Japan's bicameral national parliament use different electoral rules but face the same cultural and socioeconomic factors. Moreover, the Upper House rules vary both cross-sectionally and cross-temporally. Taking advantage of this \"natural experiment,\" we derive and test six specific hypotheses. Our most robust findings are that the rate of factional affiliation varies directly with the level of intraparty competition induced by these different regimes and that Upper House members with cabinet experience are more likely to be factionally affiliated than those without. We also find that smaller factions died out sooner in the Upper House and that the distribution of factional strengths was more skewed there.",
+    "URL": "http://www.jstor.org.ejgw.nul.nagoya-u.ac.jp/stable/2669297",
+    "ISSN": "00925853",
+    "note": "ArticleType: research-article / Full publication date: Jan., 2000 / Copyright © 2000 Midwest Political Science Association",
+    "shortTitle": "Electoral Rules, Career Ambitions, and Party Structure",
+    "author": [
+      {
+        "family": "Cox",
+        "given": "Gary W.",
+        "multi": {
+          "_key": {}
+        }
+      },
+      {
+        "family": "Rosenbluth",
+        "given": "Frances M.",
+        "multi": {
+          "_key": {}
+        }
+      },
+      {
+        "family": "Thies",
+        "given": "Michael F.",
+        "multi": {
+          "_key": {}
+        }
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2000",
+          1
+        ]
+      ]
+    },
+    "accessed": {
+      "date-parts": [
+        [
+          "2010",
+          10,
+          10
+        ]
+      ]
+    },
+    "id": "ITEM-1"
+  }
+]
+<<===== INPUT =====<<

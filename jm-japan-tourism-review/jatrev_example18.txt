@@ -1,0 +1,55 @@
+>>===== MODE =====>>
+bibliography
+<<===== MODE =====<<
+
+>>===== RESULT =====>>
+???
+<<===== RESULT =====<<
+
+
+>>===== CITATIONS =====>>
+[
+    [
+        {
+            "citationID": "CITATION-1", 
+            "citationItems": [
+                {
+                    "id": "ITEM-1"
+                }
+            ], 
+            "properties": {
+                "noteIndex": 1
+            }
+        }, 
+        [], 
+        []
+    ]
+]
+<<===== CITATIONS =====<<
+
+
+>>===== CSL =====>>
+jm-japan-tourism-review.csl
+<<===== CSL =====<<
+
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "ITEM-1",
+    "type": "article-newspaper",
+    "author": [
+      {
+        "family": "Boyd",
+        "given": "E."
+      }
+    ],
+    "issued": {
+      "date-parts": [[2017,8,26]]
+    },
+    "title": "Qantas plays long game",
+    "container-title": "Gold Coast Bulletin",
+    "page": "20"
+  }
+]
+<<===== INPUT =====<<

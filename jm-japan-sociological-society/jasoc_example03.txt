@@ -1,0 +1,55 @@
+>>===== MODE =====>>
+bibliography
+<<===== MODE =====<<
+
+
+
+>>===== RESULT =====>>
+<div class="csl-bib-body">
+  <div class="csl-entry">Douglas, Jack ed., 1970, <i>Understanding Everyday Life</i>, Chicago: Aldine.</div>
+</div>
+<<===== RESULT =====<<
+
+
+>>===== CITATIONS =====>>
+[
+    [
+        {
+            "citationID": "CITATION-1", 
+            "citationItems": [
+                {
+                    "id": "Item-1"
+                }
+            ], 
+            "properties": {
+                "noteIndex": 1
+            }
+        }, 
+        [], 
+        []
+    ]
+]
+<<===== CITATIONS =====<<
+
+
+>>===== CSL =====>>
+jm-japan-sociological-society.csl
+<<===== CSL =====<<
+
+
+>>===== INPUT =====>>
+[
+{
+    "id": "Item-1",
+    "type": "book",
+    "language": "en",
+    "editor": [
+      { "family": "Douglas", "given": "Jack" }
+     ],
+    "issued": { "date-parts": [[1970]]},
+    "title": "Understanding Everyday Life",
+    "publisher-place": "Chicago",
+    "publisher": "Aldine"
+}
+]
+<<===== INPUT =====<<

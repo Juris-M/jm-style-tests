@@ -1,0 +1,55 @@
+>>===== MODE =====>>
+bibliography
+<<===== MODE =====<<
+
+
+
+>>===== RESULT =====>>
+<div class="csl-bib-body">
+  <div class="csl-entry">田中一郎，2000，「社会学とは何か」第一回日本社会学会大会報告原稿．</div>
+</div>
+<<===== RESULT =====<<
+
+
+>>===== CITATIONS =====>>
+[
+    [
+        {
+            "citationID": "CITATION-1", 
+            "citationItems": [
+                {
+                    "id": "Item-1"
+                }
+            ], 
+            "properties": {
+                "noteIndex": 1
+            }
+        }, 
+        [], 
+        []
+    ]
+]
+<<===== CITATIONS =====<<
+
+
+>>===== CSL =====>>
+jm-japan-sociological-society.csl
+<<===== CSL =====<<
+
+
+>>===== INPUT =====>>
+[
+    {
+        "id": "Item-1",
+        "type": "paper-conference",
+        "language": "ja",
+        "author": [
+            {"family": "田中", "given": "一郎"}
+        ],
+        "event": "第一回日本社会学会大会報告原稿",
+        "event-date": {"date-parts": [[2000]]},
+        "title": "社会学とは何か"
+    }
+]
+
+<<===== INPUT =====<<

@@ -1,0 +1,56 @@
+>>===== MODE =====>>
+bibliography
+<<===== MODE =====<<
+
+
+
+>>===== RESULT =====>>
+<div class="csl-bib-body">
+  <div class="csl-entry">Berger, Peter L. and Brigitte Berger, 1972, <i>Sociology: A Biographical Approach</i>, New York: Basic Books.</div>
+</div>
+<<===== RESULT =====<<
+
+
+>>===== CITATIONS =====>>
+[
+    [
+        {
+            "citationID": "CITATION-1", 
+            "citationItems": [
+                {
+                    "id": "Item-1"
+                }
+            ], 
+            "properties": {
+                "noteIndex": 1
+            }
+        }, 
+        [], 
+        []
+    ]
+]
+<<===== CITATIONS =====<<
+
+
+>>===== CSL =====>>
+jm-japan-sociological-society.csl
+<<===== CSL =====<<
+
+
+>>===== INPUT =====>>
+[
+{
+    "id": "Item-1",
+    "type": "book",
+    "language": "en",
+    "author": [
+      { "family": "Berger", "given": "Peter L." },
+      { "family": "Berger", "given": "Brigitte" }
+     ],
+    "issued": { "date-parts": [[1972]]},
+    "title": "Sociology: A Biographical Approach",
+    "publisher-place": "New York",
+    "publisher": "Basic Books"
+}
+]
+<<===== INPUT =====<<

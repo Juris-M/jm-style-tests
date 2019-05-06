@@ -1,0 +1,68 @@
+>>===== MODE =====>>
+bibliography
+<<===== MODE =====<<
+
+
+
+>>===== RESULT =====>>
+<div class="csl-bib-body">
+  <div class="csl-entry">内閣府国民生活局，2009，『平成20年版国民生活白書』．</div>
+  <div class="csl-entry">静岡県，1972，『第8次静岡県総合開発計画』．</div>
+</div>
+<<===== RESULT =====<<
+
+
+>>===== CITATIONS =====>>
+[
+    [
+        {
+            "citationID": "CITATION-1", 
+            "citationItems": [
+                {
+                    "id": "Item-1"
+                }, 
+                {
+                    "id": "Item-2"
+                }
+            ], 
+            "properties": {
+                "noteIndex": 1
+            }
+        }, 
+        [], 
+        []
+    ]
+]
+<<===== CITATIONS =====<<
+
+
+>>===== CSL =====>>
+jm-japan-sociological-society.csl
+<<===== CSL =====<<
+
+
+>>===== INPUT =====>>
+[
+    {
+        "id": "Item-1",
+        "type": "report",
+        "language": "ja",
+        "author": [
+            {"literal": "内閣府国民生活局"}
+        ],
+        "issued": {"date-parts": [[2009]]},
+        "title": "平成20年版国民生活白書"
+},
+{
+        "id": "Item-2",
+        "type": "report",
+        "language": "ja",
+        "author": [
+            {"literal": "静岡県"}
+        ],
+        "issued": {"date-parts": [[1972]]},
+        "title": "第8次静岡県総合開発計画"
+    }
+]
+
+<<===== INPUT =====<<

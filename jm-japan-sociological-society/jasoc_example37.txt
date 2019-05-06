@@ -1,0 +1,65 @@
+>>===== MODE =====>>
+bibliography
+<<===== MODE =====<<
+
+
+
+>>===== RESULT =====>>
+<div class="csl-bib-body">
+  <div class="csl-entry">American Institute of Public Opinion, 1976, <i>Gallup Public Opinion Poll</i> #965 [MRDF], Princeton, NJ: American Institute of Public Opinion [producer]. New Haven, CT: Roper Public Opinion Research Center, Yale University [distributor].</div>
+</div>
+<<===== RESULT =====<<
+
+
+>>===== CITATIONS =====>>
+[
+    [
+        {
+            "citationID": "CITATION-1", 
+            "citationItems": [
+                {
+                    "id": "Item-1"
+                }
+            ], 
+            "properties": {
+                "noteIndex": 1
+            }
+        }, 
+        [], 
+        []
+    ]
+]
+<<===== CITATIONS =====<<
+
+
+>>===== CSL =====>>
+jm-japan-sociological-society.csl
+<<===== CSL =====<<
+
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "Item-1",
+    "type": "report",
+    "language": "en",
+    "author": [
+        {
+            "literal": "American Institute of Public Opinion"
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                1976
+            ]
+        ]
+    },
+    "title": "Gallup Public Opinion Poll",
+    "number": "965",
+    "medium": "MRDF",
+    "publisher-place": "Princeton, NJ; New Haven, CT",
+    "publisher": "American Institute of Public Opinion [producer]; Roper Public Opinion Research Center, Yale University [distributor]"
+  }
+]
+<<===== INPUT =====<<

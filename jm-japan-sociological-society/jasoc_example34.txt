@@ -1,0 +1,55 @@
+>>===== MODE =====>>
+bibliography
+<<===== MODE =====<<
+
+
+
+>>===== RESULT =====>>
+<div class="csl-bib-body">
+  <div class="csl-entry">総務省統計局，2007，「平成17年国勢調査第1表 労働力状態（8区分）・年齢（各歳）・男女別15歳以上人口――全国（第2次基本集計）」，(2009年1月10日取得，http://www.e-stat.go.jp/SG1/estat/)．</div>
+</div>
+<<===== RESULT =====<<
+
+
+>>===== CITATIONS =====>>
+[
+    [
+        {
+            "citationID": "CITATION-1", 
+            "citationItems": [
+                {
+                    "id": "Item-1"
+                }
+            ], 
+            "properties": {
+                "noteIndex": 1
+            }
+        }, 
+        [], 
+        []
+    ]
+]
+<<===== CITATIONS =====<<
+
+
+>>===== CSL =====>>
+jm-japan-sociological-society.csl
+<<===== CSL =====<<
+
+
+>>===== INPUT =====>>
+[
+    {
+        "id": "Item-1",
+        "type": "report",
+        "language": "ja",
+        "author": [
+            {"literal": "総務省統計局"}
+        ],
+        "issued": {"date-parts": [[2007]]},
+        "title": "平成17年国勢調査第1表 労働力状態（8区分）・年齢（各歳）・男女別15歳以上人口――全国（第2次基本集計）",
+        "accessed": {"date-parts": [[2009,1,10]]},
+        "URL": "http://www.e-stat.go.jp/SG1/estat/"
+    }
+]
+<<===== INPUT =====<<

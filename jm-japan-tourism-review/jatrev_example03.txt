@@ -1,0 +1,54 @@
+>>===== MODE =====>>
+bibliography
+<<===== MODE =====<<
+
+>>===== RESULT =====>>
+???
+<<===== RESULT =====<<
+
+
+>>===== CITATIONS =====>>
+[
+    [
+        {
+            "citationID": "CITATION-1", 
+            "citationItems": [
+                {
+                    "id": "ITEM-1"
+                }
+            ], 
+            "properties": {
+                "noteIndex": 1
+            }
+        }, 
+        [], 
+        []
+    ]
+]
+<<===== CITATIONS =====<<
+
+
+>>===== CSL =====>>
+jm-japan-tourism-review.csl
+<<===== CSL =====<<
+
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "ITEM-1",
+    "type": "book",
+    "editor": [
+      {
+        "family": "神田",
+        "given": "孝治"
+      }
+    ],
+    "issued": {
+      "date-parts": [[2009]]
+    },
+    "title": "観光の空間",
+    "publisher": "ナカニシヤ出版"
+  }
+]
+<<===== INPUT =====<<

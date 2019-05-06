@@ -1,0 +1,50 @@
+>>===== MODE =====>>
+bibliography
+<<===== MODE =====<<
+
+>>===== RESULT =====>>
+???
+<<===== RESULT =====<<
+
+
+>>===== CITATIONS =====>>
+[
+    [
+        {
+            "citationID": "CITATION-1", 
+            "citationItems": [
+                {
+                    "id": "ITEM-1"
+                }
+            ], 
+            "properties": {
+                "noteIndex": 1
+            }
+        }, 
+        [], 
+        []
+    ]
+]
+<<===== CITATIONS =====<<
+
+
+>>===== CSL =====>>
+jm-japan-tourism-review.csl
+<<===== CSL =====<<
+
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "ITEM-1",
+    "type": "article-newspaper",
+    "container-title": "朝日新聞",
+    "issued": {
+      "date-parts": [[2017,10,23]]
+    },
+    "title": "投票率53.6%前後見通し",
+    "edition": "朝刊",
+    "page": "4"
+  }
+]
+<<===== INPUT =====<<

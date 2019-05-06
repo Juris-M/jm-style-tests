@@ -1,0 +1,52 @@
+>>===== MODE =====>>
+bibliography
+<<===== MODE =====<<
+
+>>===== RESULT =====>>
+???
+<<===== RESULT =====<<
+
+
+>>===== CITATIONS =====>>
+[
+    [
+        {
+            "citationID": "CITATION-1", 
+            "citationItems": [
+                {
+                    "id": "ITEM-1"
+                }
+            ], 
+            "properties": {
+                "noteIndex": 1
+            }
+        }, 
+        [], 
+        []
+    ]
+]
+<<===== CITATIONS =====<<
+
+
+>>===== CSL =====>>
+jm-japan-tourism-review.csl
+<<===== CSL =====<<
+
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "ITEM-1",
+    "type": "article-newspaper",
+    "container-title": "毎日新聞",
+    "issued": {
+      "date-parts": [[2016,1,7]]
+    },
+    "title": "訪日客４５年ぶり出国者を逆転へ",
+    "accessed": {
+      "date-parts": [[2017,10,10]]
+    },
+    "URL": "https://mainichi.jp/"
+  }
+]
+<<===== INPUT =====<<

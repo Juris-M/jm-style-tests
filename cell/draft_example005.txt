@@ -1,0 +1,73 @@
+>>===== MODE =====>>
+bibliography
+<<===== MODE =====<<
+
+>>===== RESULT =====>>
+<div class="csl-bib-body">
+  <div class="csl-entry">Calvo, A. (2009). Somali Piracy, International Customary Law, and the Dispatch of Japan’s MSDF. The Asia-Pacific Journal <i>9-2–09xx</i>.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== CITATIONS =====>>
+[
+    [
+        {
+            "citationID": "CITATION-1", 
+            "citationItems": [
+                {
+                    "id": "ITEM-1"
+                }
+            ], 
+            "properties": {
+                "noteIndex": 1
+            }
+        }, 
+        [], 
+        []
+    ]
+]
+<<===== CITATIONS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "article-journal",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "title": "Somali Piracy, International Customary Law, and the Dispatch of Japan’s MSDF",
+    "container-title": "The Asia-Pacific Journal",
+    "volume": "9-2-09xx",
+    "URL": "http://www.japanfocus.org/-Alex-Calvo/3060",
+    "author": [
+      {
+        "family": "Calvo",
+        "given": "Alex",
+        "multi": {
+          "_key": {}
+        }
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2009",
+          2,
+          25
+        ]
+      ]
+    },
+    "accessed": {
+      "date-parts": [
+        [
+          "2010",
+          2,
+          28
+        ]
+      ]
+    },
+    "id": "ITEM-1"
+  }
+]
+<<===== INPUT =====<<

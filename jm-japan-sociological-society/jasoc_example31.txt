@@ -1,0 +1,87 @@
+>>===== MODE =====>>
+bibliography
+<<===== MODE =====<<
+
+
+
+>>===== RESULT =====>>
+<div class="csl-bib-body">
+  <div class="csl-entry">American Sociological Association, 2006, “Status Committees,” Washington, DC: American Sociological Association, (Retrieved December 12, 2006, http://www.asanet.org/cs/root/leftnav/committees/committees).</div>
+  <div class="csl-entry">ICPSR, 2009, “Mission Statement,” Ann Arbor, MI: University of Michigan, (Retrieved February 2, 2009, http://www.icpsr.umich.edu/ICPSR/org/mission.html).</div>
+  <div class="csl-entry">Johns Hopkins University, 2003, “Economic Impact of the Johns Hopkins Institutions in Maryland,” Silver Spring, MD: Johns Hopkins University and Johns Hopkins Medicine, (Retrieved January 26, 2007, http://www.jhu.edu/ news_info/reports/impact/2003/impact2003.pdf).</div>
+</div>
+<<===== RESULT =====<<
+
+
+>>===== CITATIONS =====>>
+[
+    [
+        {
+            "citationID": "CITATION-1", 
+            "citationItems": [
+                {
+                    "id": "Item-1"
+                }, 
+                {
+                    "id": "Item-2"
+                }, 
+                {
+                    "id": "Item-3"
+                }
+            ], 
+            "properties": {
+                "noteIndex": 1
+            }
+        }, 
+        [], 
+        []
+    ]
+]
+<<===== CITATIONS =====<<
+
+
+>>===== CSL =====>>
+jm-japan-sociological-society.csl
+<<===== CSL =====<<
+
+
+>>===== INPUT =====>>
+[
+{
+    "id": "Item-1",
+    "type": "report",
+    "language": "en",
+    "author": [ { "literal": "Johns Hopkins University" } ],
+    "issued": { "date-parts": [[2003]]},
+    "title": "Economic Impact of the Johns Hopkins Institutions in Maryland",
+    "publisher-place": "Silver Spring, MD",
+    "publisher": "Johns Hopkins University and Johns Hopkins Medicine",
+    "accessed": {"date-parts": [[2007,1,26]]},
+    "URL": "http://www.jhu.edu/ news_info/reports/impact/2003/impact2003.pdf"
+},
+{
+    "id": "Item-2",
+    "type": "report",
+    "language": "en",
+    "author": [ { "literal": "American Sociological Association" } ],
+    "issued": { "date-parts": [[2006]]},
+    "title": "Status Committees",
+    "publisher-place": "Washington, DC",
+    "publisher": "American Sociological Association",
+    "accessed": {"date-parts": [[2006,12,12]]},
+    "URL": "http://www.asanet.org/cs/root/leftnav/committees/committees"
+},
+{
+    "id": "Item-3",
+    "type": "report",
+    "language": "en",
+    "author": [ { "literal": "ICPSR" } ],
+    "issued": { "date-parts": [[2009]]},
+    "title": "Mission Statement",
+    "publisher-place": "Ann Arbor, MI",
+    "publisher": "University of Michigan",
+    "accessed": {"date-parts": [[2009,2,2]]},
+    "URL": "http://www.icpsr.umich.edu/ICPSR/org/mission.html"
+}
+]
+<<===== INPUT =====<<

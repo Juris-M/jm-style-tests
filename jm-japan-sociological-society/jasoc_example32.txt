@@ -1,0 +1,56 @@
+>>===== MODE =====>>
+bibliography
+<<===== MODE =====<<
+
+
+
+>>===== RESULT =====>>
+<div class="csl-bib-body">
+  <div class="csl-entry">渡辺潤，2009，「スポーツの値段」，珈琲をもう一杯film&#38;tv，2009年1月5日，(2009年2月2日取得，http://www.tku.ac.jp/~juwat/blog/film_blog/2009/01/post_54.html)．</div>
+</div>
+<<===== RESULT =====<<
+
+
+>>===== CITATIONS =====>>
+[
+    [
+        {
+            "citationID": "CITATION-1", 
+            "citationItems": [
+                {
+                    "id": "Item-1"
+                }
+            ], 
+            "properties": {
+                "noteIndex": 1
+            }
+        }, 
+        [], 
+        []
+    ]
+]
+<<===== CITATIONS =====<<
+
+
+>>===== CSL =====>>
+jm-japan-sociological-society.csl
+<<===== CSL =====<<
+
+
+>>===== INPUT =====>>
+[
+    {
+        "id": "Item-1",
+        "type": "post",
+        "language": "ja",
+        "author": [
+            {"family": "渡辺", "given": "潤"}
+        ],
+        "issued": {"date-parts": [[2009, 1, 5]]},
+        "title": "スポーツの値段",
+        "container-title": "珈琲をもう一杯film&tv",
+        "accessed": {"date-parts": [[2009,2,2]]},
+        "URL": "http://www.tku.ac.jp/~juwat/blog/film_blog/2009/01/post_54.html"
+     }   
+]
+<<===== INPUT =====<<

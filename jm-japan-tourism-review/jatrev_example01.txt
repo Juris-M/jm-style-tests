@@ -1,0 +1,54 @@
+>>===== MODE =====>>
+bibliography
+<<===== MODE =====<<
+
+>>===== RESULT =====>>
+???
+<<===== RESULT =====<<
+
+
+>>===== CITATIONS =====>>
+[
+    [
+        {
+            "citationID": "CITATION-1", 
+            "citationItems": [
+                {
+                    "id": "ITEM-1"
+                }
+            ], 
+            "properties": {
+                "noteIndex": 1
+            }
+        }, 
+        [], 
+        []
+    ]
+]
+<<===== CITATIONS =====<<
+
+
+>>===== CSL =====>>
+jm-japan-tourism-review.csl
+<<===== CSL =====<<
+
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "ITEM-1",
+    "type": "book",
+    "author": [
+      {
+        "family": "橋本",
+        "given": "和也"
+      }
+    ],
+    "issued": {
+      "date-parts": [[1999]]
+    },
+    "title": "観光人類学の戦略―文化の売り方・売られ方",
+    "publisher": "世界思想社"
+  }
+]
+<<===== INPUT =====<<

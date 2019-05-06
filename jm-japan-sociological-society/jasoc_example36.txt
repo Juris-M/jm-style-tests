@@ -1,0 +1,57 @@
+>>===== MODE =====>>
+bibliography
+<<===== MODE =====<<
+
+
+
+>>===== RESULT =====>>
+<div class="csl-bib-body">
+  <div class="csl-entry">大阪商業大学比較地域研究所・東京大学社会科学研究所，2003，『日本版General Social Surveys〈JGSS-2003〉面接票0350』[MRDF]，大阪商業大学比較地域研究所・東京大学社会科学研究所，東京大学社会科学研究所附属日本社会研究情報センターより入手．</div>
+</div>
+<<===== RESULT =====<<
+
+
+>>===== CITATIONS =====>>
+[
+    [
+        {
+            "citationID": "CITATION-1", 
+            "citationItems": [
+                {
+                    "id": "Item-1"
+                }
+            ], 
+            "properties": {
+                "noteIndex": 1
+            }
+        }, 
+        [], 
+        []
+    ]
+]
+<<===== CITATIONS =====<<
+
+
+>>===== CSL =====>>
+jm-japan-sociological-society.csl
+<<===== CSL =====<<
+
+
+>>===== INPUT =====>>
+[
+    {
+        "id": "Item-1",
+        "type": "report",
+        "language": "ja",
+        "author": [
+            {"literal": "大阪商業大学比較地域研究所"},
+            {"literal": "東京大学社会科学研究所"}
+        ],
+        "issued": {"date-parts": [[2003]]},
+        "title": "日本版General Social Surveys〈JGSS-2003〉面接票0350",
+        "medium": "MRDF",
+        "publisher": "大阪商業大学比較地域研究所・東京大学社会科学研究所",
+        "URL": "東京大学社会科学研究所附属日本社会研究情報センターより入手"
+    }
+]
+<<===== INPUT =====<<

@@ -1,0 +1,59 @@
+>>===== MODE =====>>
+bibliography
+<<===== MODE =====<<
+
+>>===== RESULT =====>>
+???
+<<===== RESULT =====<<
+
+
+>>===== CITATIONS =====>>
+[
+    [
+        {
+            "citationID": "CITATION-1", 
+            "citationItems": [
+                {
+                    "id": "ITEM-1"
+                }
+            ], 
+            "properties": {
+                "noteIndex": 1
+            }
+        }, 
+        [], 
+        []
+    ]
+]
+<<===== CITATIONS =====<<
+
+
+>>===== CSL =====>>
+jm-japan-tourism-review.csl
+<<===== CSL =====<<
+
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "ITEM-1",
+    "type": "book",
+    "author": [
+      {
+        "family": "Reisinger",
+        "given": "Yvette"
+      },
+      {
+        "family": "Turner",
+        "given": "Lindsay"
+      }
+    ],
+    "issued": {
+      "date-parts": [[2003]]
+    },
+    "title": "Cross-cultural behaviour in tourism: Concepts and analysis",
+    "publisher-place": "Burlington, US",
+    "publisher": "Taylor & Francis"
+  }
+]
+<<===== INPUT =====<<

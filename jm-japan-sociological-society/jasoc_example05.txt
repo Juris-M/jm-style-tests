@@ -1,0 +1,63 @@
+>>===== MODE =====>>
+bibliography
+<<===== MODE =====<<
+
+
+
+>>===== RESULT =====>>
+<div class="csl-bib-body">
+  <div class="csl-entry">Mayer, Margit and Poland Roth, 1995, “New Social Movements and the Transformation to Post-Fordist Society,” Marcy Darnovsky, Barbara Epstein, and Richard Flacks eds., <i>Cultural Politics and Social Movements</i>, Philadelphia: Temple University Press, 299–319.</div>
+</div>
+<<===== RESULT =====<<
+
+
+>>===== CITATIONS =====>>
+[
+    [
+        {
+            "citationID": "CITATION-1", 
+            "citationItems": [
+                {
+                    "id": "Item-1"
+                }
+            ], 
+            "properties": {
+                "noteIndex": 1
+            }
+        }, 
+        [], 
+        []
+    ]
+]
+<<===== CITATIONS =====<<
+
+
+>>===== CSL =====>>
+jm-japan-sociological-society.csl
+<<===== CSL =====<<
+
+
+>>===== INPUT =====>>
+[
+{
+    "id": "Item-1",
+    "type": "chapter",
+    "language": "en",
+    "author": [
+      { "family": "Mayer", "given": "Margit" },
+      { "family": "Roth", "given": "Poland" }
+     ],
+    "issued": { "date-parts": [[1995]]},
+    "title": "New Social Movements and the Transformation to Post-Fordist Society",
+    "editor": [
+      { "family": "Darnovsky", "given": "Marcy" },
+      { "family": "Epstein", "given": "Barbara" },
+      { "family": "Flacks", "given": "Richard" }
+     ],
+    "container-title": "Cultural Politics and Social Movements",
+    "publisher-place": "Philadelphia",
+    "publisher": "Temple University Press",
+    "page": "299-319"
+}
+]
+<<===== INPUT =====<<

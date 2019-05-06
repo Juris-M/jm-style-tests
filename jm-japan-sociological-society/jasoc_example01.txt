@@ -1,0 +1,55 @@
+>>===== MODE =====>>
+bibliography
+<<===== MODE =====<<
+
+
+
+>>===== RESULT =====>>
+<div class="csl-bib-body">
+  <div class="csl-entry">Broadbent, Jeffrey, 1998, <i>Environmental Politics in Japan: Networks of Power and Protest</i>, New York: Cambridge University Press.</div>
+</div>
+<<===== RESULT =====<<
+
+
+>>===== CITATIONS =====>>
+[
+    [
+        {
+            "citationID": "CITATION-1", 
+            "citationItems": [
+                {
+                    "id": "Item-1"
+                }
+            ], 
+            "properties": {
+                "noteIndex": 1
+            }
+        }, 
+        [], 
+        []
+    ]
+]
+<<===== CITATIONS =====<<
+
+
+>>===== CSL =====>>
+jm-japan-sociological-society.csl
+<<===== CSL =====<<
+
+
+>>===== INPUT =====>>
+[
+{
+    "id": "Item-1",
+    "type": "book",
+    "language": "en",
+    "author": [
+      { "family": "Broadbent", "given": "Jeffrey" }
+     ],
+    "issued": { "date-parts": [[1998]]},
+    "title": "Environmental Politics in Japan: Networks of Power and Protest",
+    "publisher-place": "New York",
+    "publisher": "Cambridge University Press"
+}
+]
+<<===== INPUT =====<<

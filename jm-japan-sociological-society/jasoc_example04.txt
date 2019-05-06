@@ -1,0 +1,56 @@
+>>===== MODE =====>>
+bibliography
+<<===== MODE =====<<
+
+
+
+>>===== RESULT =====>>
+<div class="csl-bib-body">
+  <div class="csl-entry">Rubington, Earl and Martin Weinberg eds., 1965, <i>Deviance: The International Perspective</i>, New York: Macmillan.</div>
+</div>
+<<===== RESULT =====<<
+
+
+>>===== CITATIONS =====>>
+[
+    [
+        {
+            "citationID": "CITATION-1", 
+            "citationItems": [
+                {
+                    "id": "Item-1"
+                }
+            ], 
+            "properties": {
+                "noteIndex": 1
+            }
+        }, 
+        [], 
+        []
+    ]
+]
+<<===== CITATIONS =====<<
+
+
+>>===== CSL =====>>
+jm-japan-sociological-society.csl
+<<===== CSL =====<<
+
+
+>>===== INPUT =====>>
+[
+{
+    "id": "Item-1",
+    "type": "book",
+    "language": "en",
+    "editor": [
+      { "family": "Rubington", "given": "Earl" },
+      { "family": "Weinberg", "given": "Martin" }
+     ],
+    "issued": { "date-parts": [[1965]]},
+    "title": "Deviance: The International Perspective",
+    "publisher-place": "New York",
+    "publisher": "Macmillan"
+}
+]
+<<===== INPUT =====<<

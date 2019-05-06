@@ -1,0 +1,67 @@
+>>===== MODE =====>>
+bibliography
+<<===== MODE =====<<
+
+>>===== RESULT =====>>
+???
+<<===== RESULT =====<<
+
+
+>>===== CITATIONS =====>>
+[
+    [
+        {
+            "citationID": "CITATION-1", 
+            "citationItems": [
+                {
+                    "id": "ITEM-1"
+                }
+            ], 
+            "properties": {
+                "noteIndex": 1
+            }
+        }, 
+        [], 
+        []
+    ]
+]
+<<===== CITATIONS =====<<
+
+
+>>===== CSL =====>>
+jm-japan-tourism-review.csl
+<<===== CSL =====<<
+
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "ITEM-1",
+    "type": "chapter",
+    "author": [
+      {
+        "family": "Gursoy",
+        "given": "Dogan"
+      }
+    ],
+    "issued": {
+      "date-parts": [[2011]]
+    },
+    "title": "Destination information search strategies",
+    "editor": [
+      {
+        "family": "Wang",
+        "given": "Y."
+      },
+      {
+        "family": "Pizam",
+        "given": "A."
+      }
+    ],
+    "container-title": "Destination marketing and management: Theories and applications",
+    "page": "67-81",
+    "publisher-place": "Wallingford, UK",
+    "publisher": "CABI"
+  }
+]
+<<===== INPUT =====<<

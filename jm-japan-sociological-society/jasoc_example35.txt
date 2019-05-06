@@ -1,0 +1,53 @@
+>>===== MODE =====>>
+bibliography
+<<===== MODE =====<<
+
+
+
+>>===== RESULT =====>>
+<div class="csl-bib-body">
+  <div class="csl-entry">National Center for Health Statistics, 2007, “Faststats, A to Z,” (Retrieved February 2, 2007, http://www.cdc.gov/).</div>
+</div>
+<<===== RESULT =====<<
+
+
+>>===== CITATIONS =====>>
+[
+    [
+        {
+            "citationID": "CITATION-1", 
+            "citationItems": [
+                {
+                    "id": "Item-1"
+                }
+            ], 
+            "properties": {
+                "noteIndex": 1
+            }
+        }, 
+        [], 
+        []
+    ]
+]
+<<===== CITATIONS =====<<
+
+
+>>===== CSL =====>>
+jm-japan-sociological-society.csl
+<<===== CSL =====<<
+
+
+>>===== INPUT =====>>
+[
+{
+    "id": "Item-1",
+    "type": "report",
+    "language": "en",
+    "author": [ { "literal": "National Center for Health Statistics" } ],
+    "issued": { "date-parts": [[2007]]},
+    "title": "Faststats, A to Z",
+    "accessed": {"date-parts": [[2007,2,2]]},
+    "URL": "http://www.cdc.gov/"
+}
+]
+<<===== INPUT =====<<

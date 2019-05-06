@@ -1,0 +1,66 @@
+>>===== MODE =====>>
+bibliography
+<<===== MODE =====<<
+
+>>===== RESULT =====>>
+???
+<<===== RESULT =====<<
+
+
+>>===== CITATIONS =====>>
+[
+    [
+        {
+            "citationID": "CITATION-1", 
+            "citationItems": [
+                {
+                    "id": "ITEM-1"
+                }
+            ], 
+            "properties": {
+                "noteIndex": 1
+            }
+        }, 
+        [], 
+        []
+    ]
+]
+<<===== CITATIONS =====<<
+
+
+>>===== CSL =====>>
+jm-japan-tourism-review.csl
+<<===== CSL =====<<
+
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "ITEM-1",
+    "type": "article-journal",
+    "author": [
+      {
+        "family": "Tkaczynski",
+        "given": "Aaron"
+      },
+      {
+        "family": "Rundle-Thiele",
+        "given": "Sharyn"
+      },
+      {
+        "family": "Beaumont",
+        "given": "Narelle"
+      }
+    ],
+    "issued": {
+      "date-parts": [[2010]]
+    },
+    "title": "Destination segmentation: A recommended two-step approach",
+    "container-title": "Journal of Travel Research",
+    "volume": "49",
+    "issue": "2",
+    "page": "139-152",
+    "DOI": "10.1177/0047287509336470"
+  }
+]
+<<===== INPUT =====<<

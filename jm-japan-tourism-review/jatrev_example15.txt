@@ -1,0 +1,52 @@
+>>===== MODE =====>>
+bibliography
+<<===== MODE =====<<
+
+>>===== RESULT =====>>
+???
+<<===== RESULT =====<<
+
+
+>>===== CITATIONS =====>>
+[
+    [
+        {
+            "citationID": "CITATION-1", 
+            "citationItems": [
+                {
+                    "id": "ITEM-1"
+                }
+            ], 
+            "properties": {
+                "noteIndex": 1
+            }
+        }, 
+        [], 
+        []
+    ]
+]
+<<===== CITATIONS =====<<
+
+
+>>===== CSL =====>>
+jm-japan-tourism-review.csl
+<<===== CSL =====<<
+
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "ITEM-1",
+    "type": "website",
+    "authority": "Department of Immigration and Border Protection",
+    "issued": {
+      "date-parts": [[2015]]
+    },
+    "title": "Working Holiday Maker visa programme report 30 June 2015",
+    "accessed": {
+      "date-parts": [[2017,10,20]]
+    },
+    "URL": "http://www.border.gov.au/ReportsandPublications/Documents/statistics/working-holidayreport-june15.pdf"
+  }
+]
+<<===== INPUT =====<<

@@ -1,0 +1,62 @@
+>>===== MODE =====>>
+bibliography
+<<===== MODE =====<<
+
+>>===== RESULT =====>>
+???
+<<===== RESULT =====<<
+
+
+>>===== CITATIONS =====>>
+[
+    [
+        {
+            "citationID": "CITATION-1", 
+            "citationItems": [
+                {
+                    "id": "ITEM-1"
+                }
+            ], 
+            "properties": {
+                "noteIndex": 1
+            }
+        }, 
+        [], 
+        []
+    ]
+]
+<<===== CITATIONS =====<<
+
+
+>>===== CSL =====>>
+jm-japan-tourism-review.csl
+<<===== CSL =====<<
+
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "ITEM-1",
+    "type": "chapter",
+    "author": [
+      {
+        "family": "安村",
+        "given": "克己"
+      }
+    ],
+    "issued": {
+      "date-parts": [[1996]]
+    },
+    "title": "観光の不均衡問題とエスニック･ツーリズム運営の“格率”",
+    "editor": [
+      {
+        "family": "前田",
+        "given": "勇"
+      }
+    ],
+    "container-title": "代観光学の展開―観光行動・文化観光・国際観光交流",
+    "page": "45-64",
+    "publisher": "学文社"
+  }
+]
+<<===== INPUT =====<<

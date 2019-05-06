@@ -1,0 +1,59 @@
+>>===== MODE =====>>
+bibliography
+<<===== MODE =====<<
+
+
+
+>>===== RESULT =====>>
+<div class="csl-bib-body">
+  <div class="csl-entry">吉田民人，1974，「社会システム論における情報――資源処理パラダイムの構想」『現代社会学』1(1): 7–27．（再録：1990，『情報と自己組織性の理論』東京大学出版会，153–72．）</div>
+</div>
+<<===== RESULT =====<<
+
+
+>>===== CITATIONS =====>>
+[
+    [
+        {
+            "citationID": "CITATION-1", 
+            "citationItems": [
+                {
+                    "id": "Item-1"
+                }
+            ], 
+            "properties": {
+                "noteIndex": 1
+            }
+        }, 
+        [], 
+        []
+    ]
+]
+<<===== CITATIONS =====<<
+
+
+>>===== CSL =====>>
+jm-japan-sociological-society.csl
+<<===== CSL =====<<
+
+
+>>===== INPUT =====>>
+[
+    {
+        "id": "Item-1",
+        "type": "article-journal",
+        "language": "ja>ja",
+        "author": [
+            {"family": "吉田", "given": "民人"}
+        ],
+        "issued": {"date-parts": [[1974]]},
+        "title": "社会システム論における情報――資源処理パラダイムの構想",
+        "container-title": "現代社会学",
+        "volume": "1",
+        "issue": "1",
+        "page": "7-27",
+        "note": "alt-type: chapter\nalt-issued: 1990\nalt-container-title: 情報と自己組織性の理論\nalt-publisher: 東京大学出版会\nalt-page: 153-72"
+    }
+]
+
+<<===== INPUT =====<<

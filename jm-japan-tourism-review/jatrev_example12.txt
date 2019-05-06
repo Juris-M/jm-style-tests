@@ -1,0 +1,57 @@
+>>===== MODE =====>>
+bibliography
+<<===== MODE =====<<
+
+>>===== RESULT =====>>
+???
+<<===== RESULT =====<<
+
+
+>>===== CITATIONS =====>>
+[
+    [
+        {
+            "citationID": "CITATION-1", 
+            "citationItems": [
+                {
+                    "id": "ITEM-1"
+                }
+            ], 
+            "properties": {
+                "noteIndex": 1
+            }
+        }, 
+        [], 
+        []
+    ]
+]
+<<===== CITATIONS =====<<
+
+
+>>===== CSL =====>>
+jm-japan-tourism-review.csl
+<<===== CSL =====<<
+
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "ITEM-1",
+    "type": "article-journal",
+    "author": [
+      {
+        "family": "Wang",
+        "given": "Ning"
+      }
+    ],
+    "issued": {
+      "date-parts": [[1999]]
+    },
+    "title": "Rethinking authenticity in tourism experience",
+    "container-title": "Annals of Tourism Research",
+    "volume": "26",
+    "issue": "2",
+    "page": "349-370"
+  }
+]
+<<===== INPUT =====<<

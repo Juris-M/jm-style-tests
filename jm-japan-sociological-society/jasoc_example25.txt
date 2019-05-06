@@ -1,0 +1,58 @@
+>>===== MODE =====>>
+bibliography
+<<===== MODE =====<<
+
+
+
+>>===== RESULT =====>>
+<div class="csl-bib-body">
+  <div class="csl-entry">藤竹暁，2008，『図説 日本のマスメディア（上）新聞･放送･出版』（2005，日本放送出版協会刊），電子書店パピレス，(2009年1月10日取得，http://www.papy.co.jp/sc/list/genre/030-043-020-000)．</div>
+</div>
+<<===== RESULT =====<<
+
+
+>>===== CITATIONS =====>>
+[
+    [
+        {
+            "citationID": "CITATION-1", 
+            "citationItems": [
+                {
+                    "id": "Item-1"
+                }
+            ], 
+            "properties": {
+                "noteIndex": 1
+            }
+        }, 
+        [], 
+        []
+    ]
+]
+<<===== CITATIONS =====<<
+
+
+>>===== CSL =====>>
+jm-japan-sociological-society.csl
+<<===== CSL =====<<
+
+
+>>===== INPUT =====>>
+[
+    {
+        "id": "Item-1",
+        "type": "book",
+        "language": "ja>ja",
+        "author": [
+            {"family": "藤竹", "given": "暁"}
+         ],
+        "issued": {"date-parts": [[2008]]},
+        "title": "図説 日本のマスメディア（上）新聞･放送･出版",
+        "publisher": "電子書店パピレス",
+        "accessed": {"date-parts": [[2009,1,10]]},
+        "URL": "http://www.papy.co.jp/sc/list/genre/030-043-020-000",
+        "note": "alt-issued: 2005\nalt-publisher: 日本放送出版協会刊"
+    }
+]
+
+<<===== INPUT =====<<

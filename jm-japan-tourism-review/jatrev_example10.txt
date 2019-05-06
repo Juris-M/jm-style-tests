@@ -1,0 +1,55 @@
+>>===== MODE =====>>
+bibliography
+<<===== MODE =====<<
+
+>>===== RESULT =====>>
+???
+<<===== RESULT =====<<
+
+
+>>===== CITATIONS =====>>
+[
+    [
+        {
+            "citationID": "CITATION-1", 
+            "citationItems": [
+                {
+                    "id": "ITEM-1"
+                }
+            ], 
+            "properties": {
+                "noteIndex": 1
+            }
+        }, 
+        [], 
+        []
+    ]
+]
+<<===== CITATIONS =====<<
+
+
+>>===== CSL =====>>
+jm-japan-tourism-review.csl
+<<===== CSL =====<<
+
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "ITEM-1",
+    "type": "book",
+    "editor": [
+      {
+        "family": "Selwyn",
+        "given": "Tom"
+      }
+    ],
+    "issued": {
+      "date-parts": [[1996]]
+    },
+    "title": "The tourist image: Myths and myth making in tourism",
+    "publisher-place": "Chichester, UK",
+    "publisher": "John Wiley & Sons"
+  }
+]
+<<===== INPUT =====<<

@@ -1,0 +1,79 @@
+>>===== MODE =====>>
+bibliography
+<<===== MODE =====<<
+
+>>===== RESULT =====>>
+<div class="csl-bib-body">
+  <div class="csl-entry">Chai, S.-K. (1997). Entrenching the Yoshida Defense Doctrine: Three Techniques for Institutionalization. International Organization <i>51</i>, 389–412.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== CITATIONS =====>>
+[
+    [
+        {
+            "citationID": "CITATION-1", 
+            "citationItems": [
+                {
+                    "id": "ITEM-1"
+                }
+            ], 
+            "properties": {
+                "noteIndex": 1
+            }
+        }, 
+        [], 
+        []
+    ]
+]
+<<===== CITATIONS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "article-journal",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "title": "Entrenching the Yoshida Defense Doctrine: Three Techniques for Institutionalization",
+    "container-title": "International Organization",
+    "page": "389-412",
+    "volume": "51",
+    "issue": "3",
+    "source": "JSTOR",
+    "abstract": "Japan's low level of defense expenditure relative to the size of its economy has long been viewed as an important anomaly among major industrialized countries, yet there has been little effort to subject it to a theoretically informed explanation. The most obvious factors, those linked to theories of the international system, provide an incomplete explanation for the phenomenon. Domestic factors need to be examined but in ways that are grounded in theory rather than ad hoc. This article focuses on the process through which postwar Prime Minister Yoshida Shigeru and like-minded successors entrenched a minimalist defense policy, making it resistant to significant changes over time. In doing so, the article discusses the theoretical basis of three different techniques for institutionalization: the creation of formal rules and organizations, the promulgation of informal boundaries that serve as \"focal points\" for bargaining and conflict, and the shaping of public ideology through dissonance resolution. The article also examines the implications of this analysis for theories of institutions and for future Japanese defense policies.",
+    "URL": "http://www.jstor.org.ejgw.nul.nagoya-u.ac.jp/stable/2703609",
+    "ISSN": "00208183",
+    "note": "ArticleType: research-article / Full publication date: Summer, 1997 / Copyright © 1997 The MIT Press",
+    "shortTitle": "Entrenching the Yoshida Defense Doctrine",
+    "author": [
+      {
+        "family": "Chai",
+        "given": "Sun-Ki",
+        "multi": {
+          "_key": {}
+        }
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "1997",
+          14
+        ]
+      ]
+    },
+    "accessed": {
+      "date-parts": [
+        [
+          "2010",
+          10,
+          10
+        ]
+      ]
+    },
+    "id": "ITEM-1"
+  }
+]
+<<===== INPUT =====<<

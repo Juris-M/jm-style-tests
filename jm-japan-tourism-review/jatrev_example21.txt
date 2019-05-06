@@ -1,0 +1,58 @@
+>>===== MODE =====>>
+bibliography
+<<===== MODE =====<<
+
+>>===== RESULT =====>>
+???
+<<===== RESULT =====<<
+
+
+>>===== CITATIONS =====>>
+[
+    [
+        {
+            "citationID": "CITATION-1", 
+            "citationItems": [
+                {
+                    "id": "ITEM-1"
+                }
+            ], 
+            "properties": {
+                "noteIndex": 1
+            }
+        }, 
+        [], 
+        []
+    ]
+]
+<<===== CITATIONS =====<<
+
+
+>>===== CSL =====>>
+jm-japan-tourism-review.csl
+<<===== CSL =====<<
+
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "ITEM-1",
+    "type": "article-newspaper",
+    "author": [
+      {
+        "family": "McKay",
+        "given": "Jack"
+      }
+    ],
+    "issued": {
+      "date-parts": [[2017,12,15]]
+    },
+    "title": "Brisbane gets 24-hour trading for 2018 Commonwealth Games",
+    "container-title": "The Courier Mail",
+    "accessed": {
+      "date-parts": [[2017,12,15]]
+    },
+    "URL": "http://www.couriermail.com.au/"
+  }
+]
+<<===== INPUT =====<<

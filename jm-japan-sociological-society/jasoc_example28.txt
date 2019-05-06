@@ -1,0 +1,60 @@
+>>===== MODE =====>>
+bibliography
+<<===== MODE =====<<
+
+
+
+>>===== RESULT =====>>
+<div class="csl-bib-body">
+  <div class="csl-entry">渡邊勉・竹ノ下弘久，2008，「特集 階層移動研究の最前線」『理論と方法』23(2): 1–3，(2009年1月10日取得，http://www.jstage.jst.go.jp/article/ojjams/23/2/23_2_1/_article/-char/ja/)．</div>
+</div>
+<<===== RESULT =====<<
+
+
+>>===== CITATIONS =====>>
+[
+    [
+        {
+            "citationID": "CITATION-1", 
+            "citationItems": [
+                {
+                    "id": "Item-1"
+                }
+            ], 
+            "properties": {
+                "noteIndex": 1
+            }
+        }, 
+        [], 
+        []
+    ]
+]
+<<===== CITATIONS =====<<
+
+
+>>===== CSL =====>>
+jm-japan-sociological-society.csl
+<<===== CSL =====<<
+
+
+>>===== INPUT =====>>
+[
+    {
+        "id": "Item-1",
+        "type": "article-journal",
+        "language": "ja",
+        "author": [
+            {"family": "渡邊", "given": "勉"},
+            {"family": "竹ノ下", "given": "弘久"}
+        ],
+        "issued": {"date-parts": [[2008]]},
+        "title": "特集 階層移動研究の最前線",
+        "container-title": "理論と方法",
+        "volume": "23",
+        "issue": "2",
+        "page": "1-3",
+        "accessed": {"date-parts": [[2009,1,10]]},
+        "URL": "http://www.jstage.jst.go.jp/article/ojjams/23/2/23_2_1/_article/-char/ja/"
+     }   
+]
+<<===== INPUT =====<<

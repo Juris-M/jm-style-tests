@@ -1,0 +1,57 @@
+>>===== MODE =====>>
+bibliography
+<<===== MODE =====<<
+
+
+
+>>===== RESULT =====>>
+<div class="csl-bib-body">
+  <div class="csl-entry">桜井厚，1993，「ライフヒストリー調査雑感」『三色旗』慶應通信，549: 11–14．</div>
+</div>
+<<===== RESULT =====<<
+
+
+>>===== CITATIONS =====>>
+[
+    [
+        {
+            "citationID": "CITATION-1", 
+            "citationItems": [
+                {
+                    "id": "Item-1"
+                }
+            ], 
+            "properties": {
+                "noteIndex": 1
+            }
+        }, 
+        [], 
+        []
+    ]
+]
+<<===== CITATIONS =====<<
+
+
+>>===== CSL =====>>
+jm-japan-sociological-society.csl
+<<===== CSL =====<<
+
+
+>>===== INPUT =====>>
+[
+    {
+        "id": "Item-1",
+        "type": "article-journal",
+        "language": "ja",
+        "author": [
+            {"family": "桜井", "given": "厚"}
+        ],
+        "issued": {"date-parts": [[1993]]},
+        "title": "ライフヒストリー調査雑感",
+        "container-title": "三色旗",
+        "publisher": "慶應通信",
+        "volume": "549",
+        "page": "11-4"
+    }
+]
+<<===== INPUT =====<<

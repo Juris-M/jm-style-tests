@@ -1,0 +1,63 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "NKZBJ3UT"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+only name terms should be localized to English
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (Pople, 2004)
+FIRST w/LOCATOR
+  (Pople, 2004, S. 123)
+FIRST w/LABEL
+  (Pople, 2004, Abs. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Pople, Anthony (2004). Modeling Musical Structure. In: Clarke, Eric &#38; Cook, Nicolas (Eds.), <i>Empirical Musicology. Aims, Methods, Prospects</i> (S. 127–156). Oxford u. New York: Oxford University Press.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "chapter",
+    "title": "Modeling Musical Structure",
+    "author": [
+      {
+        "given": "Anthony",
+        "family": "Pople"
+      }
+    ],
+    "editor": [
+      {
+        "given": "Eric",
+        "family": "Clarke"
+      },
+      {
+        "given": "Nicolas",
+        "family": "Cook"
+      }
+    ],
+    "container-title": "Empirical Musicology. Aims, Methods, Prospects",
+    "publisher-place": "Oxford u. New York",
+    "publisher": "Oxford University Press",
+    "issued": {
+      "raw": "2004"
+    },
+    "page": "127-156",
+    "language": "en",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<

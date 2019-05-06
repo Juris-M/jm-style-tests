@@ -1,0 +1,52 @@
+>>===== MODE =====>>
+bibliography
+<<===== MODE =====<<
+
+>>===== RESULT =====>>
+???
+<<===== RESULT =====<<
+
+
+>>===== CITATIONS =====>>
+[
+    [
+        {
+            "citationID": "CITATION-1", 
+            "citationItems": [
+                {
+                    "id": "ITEM-1"
+                }
+            ], 
+            "properties": {
+                "noteIndex": 1
+            }
+        }, 
+        [], 
+        []
+    ]
+]
+<<===== CITATIONS =====<<
+
+
+>>===== CSL =====>>
+jm-japan-tourism-review.csl
+<<===== CSL =====<<
+
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "ITEM-1",
+    "type": "website",
+    "authority": "厚生労働省",
+    "issued": {
+      "date-parts": [[2002]]
+    },
+    "title": "サービス供給における契約について",
+    "accessed": {
+      "date-parts": [[2002,5,12]]
+    },
+    "URL": "http://www.mhlw.go.jp/general/seido/syakai/sienhi/jimu05.html"
+  }
+]
+<<===== INPUT =====<<

@@ -1,0 +1,59 @@
+>>===== MODE =====>>
+bibliography
+<<===== MODE =====<<
+
+
+
+>>===== RESULT =====>>
+<div class="csl-bib-body">
+  <div class="csl-entry">McCarthy, John M. and Mayer N. Zald, 1977, “Resource Mobilization and Social Movements: A Partial Theory,” <i>American Journal of Sociology</i>, 82(6): 1212–41. (片桐新自訳，1989，「社会運動の合理的理論」塩原勉編『資源動員と組織戦略――運動論の新パラダイム』新曜社，21–58．)</div>
+</div>
+<<===== RESULT =====<<
+
+
+>>===== CITATIONS =====>>
+[
+    [
+        {
+            "citationID": "CITATION-1", 
+            "citationItems": [
+                {
+                    "id": "Item-1"
+                }
+            ], 
+            "properties": {
+                "noteIndex": 1
+            }
+        }, 
+        [], 
+        []
+    ]
+]
+<<===== CITATIONS =====<<
+
+
+>>===== CSL =====>>
+jm-japan-sociological-society.csl
+<<===== CSL =====<<
+
+
+>>===== INPUT =====>>
+[
+{
+    "id": "Item-1",
+    "type": "article-journal",
+    "language": "en>ja",
+    "author": [
+      { "family": "McCarthy", "given": "John M." },
+      { "family": "Zald", "given": "Mayer N." }
+     ],
+    "issued": { "date-parts": [[1977]]},
+    "title": "Resource Mobilization and Social Movements: A Partial Theory",
+    "container-title": "American Journal of Sociology",
+    "volume": "82",
+    "issue": "6",
+    "page": "1212-41",
+    "note": "alt-type: chapter\nalt-translator: 片桐||新自\nalt-issued: 1989\nalt-title: 社会運動の合理的理論\nalt-editor: 塩原||勉\nalt-container-title: 資源動員と組織戦略――運動論の新パラダイム\nalt-publisher: 新曜社\nalt-page: 21-58"
+}
+]
+<<===== INPUT =====<<

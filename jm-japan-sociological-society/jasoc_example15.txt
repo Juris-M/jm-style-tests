@@ -1,0 +1,61 @@
+>>===== MODE =====>>
+bibliography
+<<===== MODE =====<<
+
+
+
+>>===== RESULT =====>>
+<div class="csl-bib-body">
+  <div class="csl-entry">高橋徹，1965，「日本における社会心理学の形成」高橋徹・富永健一と佐藤毅『今日の社会心理学 1 社会心理学の形成』培風館，317–505．</div>
+</div>
+<<===== RESULT =====<<
+
+
+>>===== CITATIONS =====>>
+[
+    [
+        {
+            "citationID": "CITATION-1", 
+            "citationItems": [
+                {
+                    "id": "Item-1"
+                }
+            ], 
+            "properties": {
+                "noteIndex": 1
+            }
+        }, 
+        [], 
+        []
+    ]
+]
+<<===== CITATIONS =====<<
+
+
+>>===== CSL =====>>
+jm-japan-sociological-society.csl
+<<===== CSL =====<<
+
+
+>>===== INPUT =====>>
+[
+    {
+        "id": "Item-1",
+        "type": "chapter",
+        "language": "ja",
+        "author": [
+            {"family": "高橋", "given": "徹"}
+        ],
+        "issued": {"date-parts": [[1965]]},
+        "title": "日本における社会心理学の形成",
+        "container-author": [
+            {"family": "高橋", "given": "徹"},
+            {"family": "富永", "given": "健一"},
+            {"family": "佐藤", "given": "毅"}
+        ],
+        "container-title": "今日の社会心理学 1 社会心理学の形成",
+        "publisher": "培風館",
+        "page": "317-505"
+    }
+]
+<<===== INPUT =====<<

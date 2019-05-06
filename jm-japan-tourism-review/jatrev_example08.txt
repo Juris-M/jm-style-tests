@@ -1,0 +1,55 @@
+>>===== MODE =====>>
+bibliography
+<<===== MODE =====<<
+
+>>===== RESULT =====>>
+???
+<<===== RESULT =====<<
+
+
+>>===== CITATIONS =====>>
+[
+    [
+        {
+            "citationID": "CITATION-1", 
+            "citationItems": [
+                {
+                    "id": "ITEM-1"
+                }
+            ], 
+            "properties": {
+                "noteIndex": 1
+            }
+        }, 
+        [], 
+        []
+    ]
+]
+<<===== CITATIONS =====<<
+
+
+>>===== CSL =====>>
+jm-japan-tourism-review.csl
+<<===== CSL =====<<
+
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "ITEM-1",
+    "type": "book",
+    "author": [
+      {
+        "family": "Ritchie",
+        "given": "Brent W."
+      }
+    ],
+    "issued": {
+      "date-parts": [[2003]]
+    },
+    "title": "Managing educational tourism",
+    "publisher-place": "Clevedon, UK",
+    "publisher": "Channel View Publications"
+  }
+]
+<<===== INPUT =====<<

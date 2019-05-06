@@ -1,0 +1,56 @@
+>>===== MODE =====>>
+bibliography
+<<===== MODE =====<<
+
+
+
+>>===== RESULT =====>>
+<div class="csl-bib-body">
+  <div class="csl-entry">神原文子，1999，『同和地区における子育ての現状と課題に関する実証研究』1996-1998年度科学研究費補助金研究成果報告書（08451041），相愛大学．</div>
+</div>
+<<===== RESULT =====<<
+
+
+>>===== CITATIONS =====>>
+[
+    [
+        {
+            "citationID": "CITATION-1", 
+            "citationItems": [
+                {
+                    "id": "Item-1"
+                }
+            ], 
+            "properties": {
+                "noteIndex": 1
+            }
+        }, 
+        [], 
+        []
+    ]
+]
+<<===== CITATIONS =====<<
+
+
+>>===== CSL =====>>
+jm-japan-sociological-society.csl
+<<===== CSL =====<<
+
+
+>>===== INPUT =====>>
+[
+    {
+        "id": "Item-1",
+        "type": "report",
+        "language": "ja",
+        "author": [
+            {"family": "神原", "given": "文子"}
+        ],
+        "issued": {"date-parts": [[1999]]},
+        "title": "同和地区における子育ての現状と課題に関する実証研究",
+        "genre": "1996-1998年度科学研究費補助金研究成果報告書",
+        "number": "08451041",
+        "publisher": "相愛大学"
+    }
+]
+<<===== INPUT =====<<

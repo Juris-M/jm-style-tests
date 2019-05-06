@@ -1,0 +1,56 @@
+>>===== MODE =====>>
+bibliography
+<<===== MODE =====<<
+
+
+
+>>===== RESULT =====>>
+<div class="csl-bib-body">
+  <div class="csl-entry">高坂健次・厚東洋輔編，1998，『講座社会学 1 理論と方法』東京大学出版会．</div>
+</div>
+<<===== RESULT =====<<
+
+
+>>===== CITATIONS =====>>
+[
+    [
+        {
+            "citationID": "CITATION-1", 
+            "citationItems": [
+                {
+                    "id": "Item-1"
+                }
+            ], 
+            "properties": {
+                "noteIndex": 1
+            }
+        }, 
+        [], 
+        []
+    ]
+]
+<<===== CITATIONS =====<<
+
+
+>>===== CSL =====>>
+jm-japan-sociological-society.csl
+<<===== CSL =====<<
+
+
+>>===== INPUT =====>>
+[
+    {
+        "id": "Item-1",
+        "type": "book",
+        "language": "ja",
+        "author": [
+            {"family": "高坂", "given": "健次"},
+            {"family": "厚東", "given": "洋輔編"}
+        ],
+        "issued": {"date-parts": [[1998]]},
+        "title": "講座社会学 1 理論と方法",
+        "publisher": "東京大学出版会"
+    }
+]
+
+<<===== INPUT =====<<

@@ -1,0 +1,64 @@
+>>===== MODE =====>>
+bibliography
+<<===== MODE =====<<
+
+
+
+>>===== RESULT =====>>
+<div class="csl-bib-body">
+  <div class="csl-entry">Bourdieu, Pierre, 1983, “Vous avez dit ‘populaire’?,” <i>Actes de la recherche en sciences sociales</i>, 46: 98–105. (Gino Raymond and Matthew Adamson, trans., 1991, “Did You Say ‘Popular’?,” John Thompson ed., <i>Language and Symbolic Power</i>, Cambridge: Harvard University Press, 90–102.)</div>
+</div>
+<<===== RESULT =====<<
+
+
+>>===== CITATIONS =====>>
+[
+    [
+        {
+            "citationID": "CITATION-1", 
+            "citationItems": [
+                {
+                    "id": "Item-1"
+                }
+            ], 
+            "properties": {
+                "noteIndex": 1
+            }
+        }, 
+        [], 
+        []
+    ]
+]
+<<===== CITATIONS =====<<
+
+
+>>===== CSL =====>>
+jm-japan-sociological-society.csl
+<<===== CSL =====<<
+
+
+>>===== INPUT =====>>
+[
+{
+    "id": "Item-1",
+    "type": "article-journal",
+    "language": "fr>en",
+    "author": [
+      { "family": "Bourdieu", "given": "Pierre" }
+     ],
+    "issued": { "date-parts": [[1983]]},
+    "title": "Vous avez dit 'populaire'?",
+    "container-title": "Actes de la recherche en sciences sociales",
+    "volume": "46",
+    "page": "98-105",
+    "multi": {
+      "_keys": {
+        "title": {
+          "en": "Did You Say ‘Popular’?"
+        }
+      }
+    },
+    "note": "alt-type: chapter\nalt-translator: Raymond||Gino\nalt-translator: Adamson||Matthew\nalt-issued: 1991\nalt-editor: Thompson||John\nalt-container-title: Language and Symbolic Power\nalt-publisher-place: Cambridge\nalt-publisher: Harvard University Press\nalt-page: 90-102"
+}
+]
+<<===== INPUT =====<<

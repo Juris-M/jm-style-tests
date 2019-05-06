@@ -1,0 +1,62 @@
+>>===== MODE =====>>
+bibliography
+<<===== MODE =====<<
+
+>>===== RESULT =====>>
+???
+<<===== RESULT =====<<
+
+
+>>===== CITATIONS =====>>
+[
+    [
+        {
+            "citationID": "CITATION-1", 
+            "citationItems": [
+                {
+                    "id": "ITEM-1"
+                }
+            ], 
+            "properties": {
+                "noteIndex": 1
+            }
+        }, 
+        [], 
+        []
+    ]
+]
+<<===== CITATIONS =====<<
+
+
+>>===== CSL =====>>
+jm-japan-tourism-review.csl
+<<===== CSL =====<<
+
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "ITEM-1",
+    "type": "book",
+    "author": [
+      {
+        "family": "Piaget",
+        "given": "Jean"
+      }
+    ],
+    "issued": {
+      "date-parts": [[1966]]
+    },
+    "title": "La psychologie de l'enfant",
+    "multi": {
+        "_keys": {
+          "title": {
+            "en": "The psychology of the child"
+          }
+        }
+    },
+    "publisher-place": "Paris, France",
+    "publisher": "Presses Universitaires de France"
+  }
+]
+<<===== INPUT =====<<

@@ -1,0 +1,73 @@
+>>===== MODE =====>>
+bibliography
+<<===== MODE =====<<
+
+
+
+>>===== RESULT =====>>
+<div class="csl-bib-body">
+  <div class="csl-entry">宮島喬・梶田孝道・伊藤るり，1985，『先進社会のジレンマ』有斐閣．</div>
+  <div class="csl-entry">杉本良夫・ロスマオア，1995，『日本人論の方程式』筑摩書房．</div>
+</div>
+<<===== RESULT =====<<
+
+
+>>===== CITATIONS =====>>
+[
+    [
+        {
+            "citationID": "CITATION-1", 
+            "citationItems": [
+                {
+                    "id": "Item-1"
+                }, 
+                {
+                    "id": "Item-2"
+                }
+            ], 
+            "properties": {
+                "noteIndex": 1
+            }
+        }, 
+        [], 
+        []
+    ]
+]
+<<===== CITATIONS =====<<
+
+
+>>===== CSL =====>>
+jm-japan-sociological-society.csl
+<<===== CSL =====<<
+
+
+>>===== INPUT =====>>
+[
+    {
+        "id": "Item-1",
+        "type": "book",
+        "language": "ja",
+        "author": [
+            {"family": "宮島", "given": "喬"},
+            {"family": "梶田", "given": "孝道"},
+            {"family": "伊藤", "given": "るり"}
+        ],
+        "issued": {"date-parts": [[1985]]},
+        "title": "先進社会のジレンマ",
+        "publisher": "有斐閣"
+    },
+    {
+        "id": "Item-2",
+        "type": "book",
+        "language": "ja",
+        "author": [
+            {"family": "杉本", "given": "良夫"},
+            {"family": "ロス", "given": "マオア"}
+        ],
+        "issued": {"date-parts": [[1995]]},
+        "title": "日本人論の方程式",
+        "publisher": "筑摩書房"
+    }
+]
+    
+<<===== INPUT =====<<

@@ -1,0 +1,63 @@
+>>===== MODE =====>>
+bibliography
+<<===== MODE =====<<
+
+
+
+>>===== RESULT =====>>
+<div class="csl-bib-body">
+  <div class="csl-entry">Bourdieu, Pierre, 1989, <i>La noblesse d’état: Grandes écoles et esprit de corps</i>, Paris: Les Editions de Minuit. (Lauretta Clough, trans., 1996, <i>The State Nobility: Elite Schools in the Field of Power</i>, Oxford: Polity Press.)</div>
+</div>
+<<===== RESULT =====<<
+
+
+>>===== CITATIONS =====>>
+[
+    [
+        {
+            "citationID": "CITATION-1", 
+            "citationItems": [
+                {
+                    "id": "Item-1"
+                }
+            ], 
+            "properties": {
+                "noteIndex": 1
+            }
+        }, 
+        [], 
+        []
+    ]
+]
+<<===== CITATIONS =====<<
+
+
+>>===== CSL =====>>
+jm-japan-sociological-society.csl
+<<===== CSL =====<<
+
+
+>>===== INPUT =====>>
+[
+{
+    "id": "Item-1",
+    "type": "book",
+    "language": "fr>en",
+    "author": [
+      { "family": "Bourdieu", "given": "Pierre" }
+     ],
+    "issued": { "date-parts": [[1989]]},
+    "title": "La noblesse d’état: Grandes écoles et esprit de corps",
+    "publisher-place": "Paris",
+    "publisher": "Les Editions de Minuit",
+    "multi": {
+      "_keys": {
+        "title": {
+          "en": "The State Nobility: Elite Schools in the Field of Power"
+        }
+      }
+    },
+    "note": "alt-translator: Clough||Lauretta\nalt-issued: 1996\nalt-publisher-place: Oxford\nalt-publisher: Polity Press"
+}
+]
+<<===== INPUT =====<<

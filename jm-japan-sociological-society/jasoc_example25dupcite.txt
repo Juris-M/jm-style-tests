@@ -1,0 +1,96 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+This illustrates the application of year-suffix to a citation
+in which the second year shown in the cite is to an alternative
+resource. In this case, year-suffix should be applied to the
+first year, since that is the identifying year in the bibliography
+entry.
+
+
+>>===== RESULT =====>>
+>>[0] （藤竹 2008a=2005）
+>>[1] （藤竹 2008b=2005）
+<<===== RESULT =====<<
+
+
+>>===== CITATIONS =====>>
+[
+    [
+        {
+            "citationID": "CITATION-1", 
+            "citationItems": [
+                {
+                    "id": "Item-1"
+                }
+            ], 
+            "properties": {
+                "noteIndex": 1
+            }
+        }, 
+        [], 
+        []
+    ], 
+    [
+        {
+            "citationID": "CITATION-2", 
+            "citationItems": [
+                {
+                    "id": "Item-2"
+                }
+            ], 
+            "properties": {
+                "noteIndex": 2
+            }
+        }, 
+        [
+            [
+                "CITATION-1", 
+                1
+            ]
+        ], 
+        []
+    ]
+]
+<<===== CITATIONS =====<<
+
+
+>>===== CSL =====>>
+jm-japan-sociological-society.csl
+<<===== CSL =====<<
+
+
+>>===== INPUT =====>>
+[
+    {
+        "id": "Item-1",
+        "type": "book",
+        "language": "ja>ja",
+        "author": [
+            {"family": "藤竹", "given": "暁"}
+         ],
+        "issued": {"date-parts": [[2008]]},
+        "title": "図説 日本のマスメディア（上）新聞･放送･出版",
+        "publisher": "電子書店パピレス",
+        "accessed": {"date-parts": [[2009,1,10]]},
+        "URL": "http://www.papy.co.jp/sc/list/genre/030-043-020-000",
+        "note": "alt-issued: 2005\nalt-publisher: 日本放送出版協会刊"
+    },
+    {
+        "id": "Item-2",
+        "type": "book",
+        "language": "ja>ja",
+        "author": [
+            {"family": "藤竹", "given": "暁"}
+         ],
+        "issued": {"date-parts": [[2008]]},
+        "title": "図説 日本のマスメディア（上）新聞･放送･出版",
+        "publisher": "電子書店パピレス",
+        "accessed": {"date-parts": [[2009,1,10]]},
+        "URL": "http://www.papy.co.jp/sc/list/genre/030-043-020-000",
+        "note": "alt-issued: 2005\nalt-publisher: 日本放送出版協会刊"
+    }
+]
+
+<<===== INPUT =====<<

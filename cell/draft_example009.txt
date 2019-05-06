@@ -1,0 +1,89 @@
+>>===== MODE =====>>
+bibliography
+<<===== MODE =====<<
+
+>>===== RESULT =====>>
+<div class="csl-bib-body">
+  <div class="csl-entry">Colignon, R., and Usui, C. (2001). The Resilience of Japan’s Iron Triangle: Amakudari. Asian Survey <i>41</i>, 865–895.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== CITATIONS =====>>
+[
+    [
+        {
+            "citationID": "CITATION-1", 
+            "citationItems": [
+                {
+                    "id": "ITEM-1"
+                }
+            ], 
+            "properties": {
+                "noteIndex": 1
+            }
+        }, 
+        [], 
+        []
+    ]
+]
+<<===== CITATIONS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "article-journal",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "title": "The Resilience of Japan's Iron Triangle: Amakudari",
+    "container-title": "Asian Survey",
+    "page": "865-895",
+    "volume": "41",
+    "issue": "5",
+    "source": "JSTOR",
+    "URL": "http://www.jstor.org.ejgw.nul.nagoya-u.ac.jp/stable/2691613",
+    "ISSN": "00044687",
+    "note": "ArticleType: research-article / Full publication date: Sep. - Oct., 2001 / Copyright © 2001 University of California Press",
+    "shortTitle": "The Resilience of Japan's Iron Triangle",
+    "author": [
+      {
+        "family": "Colignon",
+        "given": "Richard",
+        "multi": {
+          "_key": {}
+        }
+      },
+      {
+        "family": "Usui",
+        "given": "Chikako",
+        "multi": {
+          "_key": {}
+        }
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2001",
+          9
+        ],
+        [
+          2001,
+          10
+        ]
+      ]
+    },
+    "accessed": {
+      "date-parts": [
+        [
+          "2010",
+          10,
+          10
+        ]
+      ]
+    },
+    "id": "ITEM-1"
+  }
+]
+<<===== INPUT =====<<

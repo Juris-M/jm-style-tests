@@ -1,0 +1,57 @@
+>>===== MODE =====>>
+bibliography
+<<===== MODE =====<<
+
+
+
+>>===== RESULT =====>>
+<div class="csl-bib-body">
+  <div class="csl-entry">佐藤嘉倫，1998，「合理的選択理論批判の論理構造とその問題点」『社会学評論』49(2): 188–205．</div>
+</div>
+<<===== RESULT =====<<
+
+
+>>===== CITATIONS =====>>
+[
+    [
+        {
+            "citationID": "CITATION-1", 
+            "citationItems": [
+                {
+                    "id": "Item-1"
+                }
+            ], 
+            "properties": {
+                "noteIndex": 1
+            }
+        }, 
+        [], 
+        []
+    ]
+]
+<<===== CITATIONS =====<<
+
+
+>>===== CSL =====>>
+jm-japan-sociological-society.csl
+<<===== CSL =====<<
+
+
+>>===== INPUT =====>>
+[
+    {
+        "id": "Item-1",
+        "type": "article-journal",
+        "language": "ja",
+        "author": [
+            {"family": "佐藤", "given": "嘉倫"}
+        ],
+        "issued": {"date-parts": [[1998]]},
+        "title": "合理的選択理論批判の論理構造とその問題点",
+        "container-title": "社会学評論",
+        "volume": "49",
+        "issue": "2",
+        "page": "188-205"
+    }
+]
+<<===== INPUT =====<<

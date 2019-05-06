@@ -1,0 +1,77 @@
+>>===== MODE =====>>
+bibliography
+<<===== MODE =====<<
+
+
+
+>>===== RESULT =====>>
+<div class="csl-bib-body">
+  <div class="csl-entry">Edelman, Peter, Harry J. Holzer, and Paul Offner, 2006, “An Introduction,” <i>Reconnecting Disadvantaged Young Men</i>, (Retrieved December 12, 2006, http://www.urban.org/expert).</div>
+  <div class="csl-entry">Spalter-Roth, Roberta, Norman Fortenberry, and Barbara Lovitts, 2007, <i>The Acceptance and Diffusion of Innovation: A Cross-Disciplinary Approach to Instructional and Curricular Change in Engineering</i>, Washington, DC: American Sociological Association, (Available on CD-ROM only).</div>
+</div>
+<<===== RESULT =====<<
+
+
+>>===== CITATIONS =====>>
+[
+    [
+        {
+            "citationID": "CITATION-1", 
+            "citationItems": [
+                {
+                    "id": "Item-1"
+                }, 
+                {
+                    "id": "Item-2"
+                }
+            ], 
+            "properties": {
+                "noteIndex": 1
+            }
+        }, 
+        [], 
+        []
+    ]
+]
+<<===== CITATIONS =====<<
+
+
+>>===== CSL =====>>
+jm-japan-sociological-society.csl
+<<===== CSL =====<<
+
+
+>>===== INPUT =====>>
+[
+{
+    "id": "Item-1",
+    "type": "report",
+    "language": "en",
+    "author": [
+      { "family": "Spalter-Roth", "given": "Roberta" },
+      { "family": "Fortenberry", "given": "Norman" },
+      { "family": "Lovitts", "given": "Barbara" }
+     ],
+    "issued": { "date-parts": [[2007]]},
+    "title": "The Acceptance and Diffusion of Innovation: A Cross-Disciplinary Approach to Instructional and Curricular Change in Engineering",
+    "publisher-place": "Washington, DC",
+    "publisher": "American Sociological Association",
+    "URL": "Available on CD-ROM only"
+},
+{
+    "id": "Item-2",
+    "type": "report",
+    "language": "en",
+    "author": [
+      { "family": "Edelman", "given": "Peter" },
+      { "family": "Holzer", "given": "Harry J." },
+      { "family": "Offner", "given": "Paul" }
+     ],
+    "issued": { "date-parts": [[2006]]},
+    "title": "An Introduction",
+    "container-title": "Reconnecting Disadvantaged Young Men",
+    "accessed": {"date-parts": [[2006,12,12]]},
+    "URL": "http://www.urban.org/expert"
+}
+]
+<<===== INPUT =====<<

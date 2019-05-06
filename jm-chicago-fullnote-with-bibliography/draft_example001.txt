@@ -1,0 +1,51 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== RESULT =====>>
+%%RESULT%%
+<<===== RESULT =====<<
+
+>>===== CITATIONS =====>>
+[
+    [
+        {
+            "citationID": "CITATION-1", 
+            "citationItems": [
+                {
+                    "id": "ITEM-1"
+                }
+            ], 
+            "properties": {
+                "noteIndex": 1
+            }
+        }, 
+        [], 
+        []
+    ]
+]
+<<===== CITATIONS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "webpage",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "title": "Recent Legislation in Japan No.3 “On the Agreement System [under Plea Bargaining]” （Professor Takuichi KAWAKAMI, Waseda Law School) – Institute of Comparative Law, Waseda University",
+    "URL": "https://www.waseda.jp/folaw/icl/news-en/2016/10/03/5584/",
+    "accessed": {
+      "date-parts": [
+        [
+          "2018",
+          2,
+          24
+        ]
+      ]
+    },
+    "id": "ITEM-1"
+  }
+]
+<<===== INPUT =====<<

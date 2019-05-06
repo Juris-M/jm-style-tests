@@ -1,0 +1,57 @@
+>>===== MODE =====>>
+bibliography
+<<===== MODE =====<<
+
+
+
+>>===== RESULT =====>>
+<div class="csl-bib-body">
+  <div class="csl-entry">鈴木二郎，1999，「社会学と社会の比較研究」丸々大学大学院一々学研究科1998年度修士論文．</div>
+</div>
+<<===== RESULT =====<<
+
+
+>>===== CITATIONS =====>>
+[
+    [
+        {
+            "citationID": "CITATION-1", 
+            "citationItems": [
+                {
+                    "id": "Item-1"
+                }
+            ], 
+            "properties": {
+                "noteIndex": 1
+            }
+        }, 
+        [], 
+        []
+    ]
+]
+<<===== CITATIONS =====<<
+
+
+>>===== CSL =====>>
+jm-japan-sociological-society.csl
+<<===== CSL =====<<
+
+
+>>===== INPUT =====>>
+[
+    {
+        "id": "Item-1",
+        "type": "thesis",
+        "language": "ja",
+        "author": [
+            {"family": "鈴木", "given": "二郎"}
+        ],
+        "issued": {"date-parts": [[1999]]},
+        "title": "社会学と社会の比較研究",
+        "publisher": "丸々大学大学院一々学研究科",
+        "note": "event-date: 1998",
+        "genre": "修士論文"
+    }
+]
+
+<<===== INPUT =====<<

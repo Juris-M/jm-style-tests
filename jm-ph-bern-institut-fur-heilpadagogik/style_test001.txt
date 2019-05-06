@@ -1,0 +1,59 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "392P7QZT"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+everything should be localized to German
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (Schroedter, 2017)
+FIRST w/LOCATOR
+  (Schroedter, 2017, S. 123)
+FIRST w/LABEL
+  (Schroedter, 2017, Abs. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Schroedter, Thomas (2017). Antiautoritäre Pädagogik: Der Reiz eines Kampfbegriffs liegt in der Deutung des Betrachtenden. In: Hans-Ulrich Grunder (Hrsg.), <i>Mythen – Irrtümer – Unwahrheiten: Essays über das „Valsche“ in der Pädagogik</i> (S. 176–181). Bad Heilbrunn: Julius Klinkhardt.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "chapter",
+    "title": "Antiautoritäre Pädagogik: Der Reiz eines Kampfbegriffs liegt in der Deutung des Betrachtenden",
+    "author": [
+      {
+        "given": "Thomas",
+        "family": "Schroedter"
+      }
+    ],
+    "editor": [
+      {
+        "literal": "Hans-Ulrich Grunder"
+      }
+    ],
+    "container-title": "Mythen – Irrtümer – Unwahrheiten: Essays über das \"Valsche\" in der Pädagogik",
+    "publisher-place": "Bad Heilbrunn",
+    "publisher": "Julius Klinkhardt",
+    "issued": {
+      "raw": "2017"
+    },
+    "page": "176-181",
+    "language": "de",
+    "note": "Citation Key: schroedterAntiautoritaerePaedagogikReiz2017",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<

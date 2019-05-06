@@ -1,0 +1,58 @@
+>>===== MODE =====>>
+bibliography
+<<===== MODE =====<<
+
+
+
+>>===== RESULT =====>>
+<div class="csl-bib-body">
+  <div class="csl-entry">Simpson, George Eaton and J. Milton Yinger, [1953] 1972, <i>Racial and Cultural Minorities: An Analysis of Prejudice and Discrimination</i>, 4th ed., New York: Harper &#38; Row.</div>
+</div>
+<<===== RESULT =====<<
+
+
+>>===== CITATIONS =====>>
+[
+    [
+        {
+            "citationID": "CITATION-1", 
+            "citationItems": [
+                {
+                    "id": "Item-1"
+                }
+            ], 
+            "properties": {
+                "noteIndex": 1
+            }
+        }, 
+        [], 
+        []
+    ]
+]
+<<===== CITATIONS =====<<
+
+
+>>===== CSL =====>>
+jm-japan-sociological-society.csl
+<<===== CSL =====<<
+
+
+>>===== INPUT =====>>
+[
+{
+    "id": "Item-1",
+    "type": "book",
+    "language": "en",
+    "author": [
+      { "family": "Simpson", "given": "George Eaton" },
+      { "family": "Yinger", "given": "J. Milton" }
+     ],
+    "issued": { "date-parts": [[1972]]},
+    "title": "Racial and Cultural Minorities: An Analysis of Prejudice and Discrimination",
+    "edition": "4",
+    "publisher-place": "New York",
+    "publisher": "Harper & Row",
+    "note": "original-date: 1953"
+}
+]
+<<===== INPUT =====<<

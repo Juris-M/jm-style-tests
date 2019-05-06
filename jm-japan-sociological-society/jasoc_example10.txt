@@ -1,0 +1,59 @@
+>>===== MODE =====>>
+bibliography
+<<===== MODE =====<<
+
+
+
+>>===== RESULT =====>>
+<div class="csl-bib-body">
+  <div class="csl-entry">McCarthy, John D. and Mayer N. Zald, 1977, “Resource Mobilization and Social Movements: A Partial Theory,” <i>American Journal of Sociology</i>, 82(6): 1212–41. Reprinted in: Mayer N. Zald and John D. McCarthy eds., 1987, <i>Social Movements in an Organizational Society: Collected Essays</i>, New Brunswick: Transaction Publishers, 15–42.</div>
+</div>
+<<===== RESULT =====<<
+
+
+>>===== CITATIONS =====>>
+[
+    [
+        {
+            "citationID": "CITATION-1", 
+            "citationItems": [
+                {
+                    "id": "Item-1"
+                }
+            ], 
+            "properties": {
+                "noteIndex": 1
+            }
+        }, 
+        [], 
+        []
+    ]
+]
+<<===== CITATIONS =====<<
+
+
+>>===== CSL =====>>
+jm-japan-sociological-society.csl
+<<===== CSL =====<<
+
+
+>>===== INPUT =====>>
+[
+{
+    "id": "Item-1",
+    "type": "article-journal",
+    "language": "en>en",
+    "author": [
+      { "family": "McCarthy", "given": "John D." },
+      { "family": "Zald", "given": "Mayer N." }
+     ],
+    "issued": { "date-parts": [[1977]]},
+    "title": "Resource Mobilization and Social Movements: A Partial Theory",
+    "container-title": "American Journal of Sociology",
+    "volume": "82",
+    "issue": "6",
+    "page": "1212-1241",
+    "note": "alt-type: chapter\nalt-editor: Zald||Mayer N.\nalt-editor: McCarthy||John D.\nalt-issued: 1987\nalt-container-title: Social Movements in an Organizational Society: Collected Essays\nalt-publisher-place: New Brunswick\nalt-publisher: Transaction Publishers\nalt-page: 15-42"
+}
+]
+<<===== INPUT =====<<

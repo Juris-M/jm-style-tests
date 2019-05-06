@@ -1,0 +1,58 @@
+>>===== MODE =====>>
+bibliography
+<<===== MODE =====<<
+
+>>===== RESULT =====>>
+???
+<<===== RESULT =====<<
+
+
+>>===== CITATIONS =====>>
+[
+    [
+        {
+            "citationID": "CITATION-1", 
+            "citationItems": [
+                {
+                    "id": "ITEM-1"
+                }
+            ], 
+            "properties": {
+                "noteIndex": 1
+            }
+        }, 
+        [], 
+        []
+    ]
+]
+<<===== CITATIONS =====<<
+
+
+>>===== CSL =====>>
+jm-japan-tourism-review.csl
+<<===== CSL =====<<
+
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "ITEM-1",
+    "type": "book",
+    "author": [
+      {
+        "family": "須藤",
+        "given": "廣"
+      },
+      {
+        "family": "遠藤",
+        "given": "英樹"
+      }
+    ],
+    "issued": {
+      "date-parts": [[2005]]
+    },
+    "title": "観光社会学",
+    "publisher": "明石書店"
+  }
+]
+<<===== INPUT =====<<
