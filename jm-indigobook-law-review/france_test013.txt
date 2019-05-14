@@ -1,0 +1,85 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "4ZKJDB8E"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+French Court of Cassation, social chamber
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  Cass. soc., Nov. 22, 2017, n° 13–19855.
+FIRST w/LOCATOR
+  Cass. soc., Nov. 22, 2017, n° 13–19855, p. 123.
+FIRST w/LABEL
+  Cass. soc., Nov. 22, 2017, n° 13–19855 ¶ 123.
+IBID
+  <i>Id.</i>
+IBID w/LOCATOR
+  <i>Id.</i> at 123.
+SUBSEQUENT
+  Cass. soc., Nov. 22, 2017, n° 13–19855.
+SUBSEQUENT w/LOCATOR
+  Cass. soc., Nov. 22, 2017, n° 13–19855, p. 123.
+SUBSEQUENT w/BACKREF
+  Cass. soc., Nov. 22, 2017, n° 13–19855.
+SUBSEQUENT w/BACKREF+LOCATOR
+  Cass. soc., Nov. 22, 2017, n° 13–19855, p. 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Cass. soc., Nov. 22, 2017, n° 13–19855.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_case",
+    "authority": "cass~soc",
+    "number": "13-19855",
+    "issued": {
+      "raw": "November 22, 2017"
+    },
+    "language": "fr",
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "call-number": "FR001",
+    "jurisdiction": "fr"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== ABBREVIATIONS =====>>
+{
+  "fr": {
+    "institution-part": {
+      "cass~plen": "Cass. ass. plén.",
+      "cass~crim": "Cass. crim.",
+      "cass~soc": "Cass. soc."
+    },
+    "place": {
+      "fr": "FR"
+    }
+  },
+  "fr:paris": {
+    "institution-part": {
+      "ca": "CA Paris"
+    }
+  },
+  "fr:versailles": {
+    "institution-part": {
+      "ca": "CA Versailles"
+    }
+  }
+}
+<<===== ABBREVIATIONS =====<<

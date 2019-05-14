@@ -1,0 +1,37 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "WEMKGYYI"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test019
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+%%RESULT%%
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_case",
+    "title": "Florida Bar v. Went For It, Inc.",
+    "container-title": "U.S.",
+    "volume": "515",
+    "authority": "supreme.court",
+    "page": "618",
+    "issued": "6/21/1995",
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "jurisdiction": "002usUnited States|US"
+  }
+]
+<<===== INPUT =====<<

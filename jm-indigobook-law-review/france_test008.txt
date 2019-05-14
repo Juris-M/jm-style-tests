@@ -1,0 +1,72 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "Y34ENMQR"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+French Conseil d'Etat, combined subsections
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+%%RESULT%%
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_case",
+    "authority": "ce",
+    "number": "367429",
+    "issued": {
+      "raw": "December 30, 2014"
+    },
+    "language": "fr",
+    "note": "division: 10-9\ndivision-name: ss-sect. réunies",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "call-number": "FR197",
+    "jurisdiction": "fr"
+  }
+]
+<<===== INPUT =====<<
+
+
+
+
+>>===== ABBREVIATIONS =====>>
+{
+  "fr": {
+    "institution-part": {
+      "cass~plen": "Cass. ass. plén.",
+      "cass~crim": "Cass. crim.",
+      "cass~soc": "Cass. soc.",
+      "cass~civ1": "Cass. 1<sup>re</sup> civ.",
+      "cass~civ2": "Cass. 2<sup>e</sup> civ.",
+      "cass~civ3": "Cass. 3<sup>e</sup> civ.",
+      "cc": "Cons. const.",
+      "cnda": "CNDA",
+      "ce": "CE"
+    },
+    "place": {
+      "fr": "FR"
+    }
+  },
+  "fr:paris": {
+    "institution-part": {
+      "ca": "CA Paris"
+    }
+  },
+  "fr:versailles": {
+    "institution-part": {
+      "ca": "CA Versailles"
+    }
+  }
+}
+<<===== ABBREVIATIONS =====<<

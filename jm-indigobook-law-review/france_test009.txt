@@ -1,0 +1,91 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "Y2QYDFYS"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+French Conseil d'Etat, litigation section
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  CE, sect., Apr. 28, 2003, n° 245405.
+FIRST w/LOCATOR
+  CE, sect., Apr. 28, 2003, n° 245405, p. 123.
+FIRST w/LABEL
+  CE, sect., Apr. 28, 2003, n° 245405 ¶ 123.
+IBID
+  <i>Id.</i>
+IBID w/LOCATOR
+  <i>Id.</i> at 123.
+SUBSEQUENT
+  CE, sect., Apr. 28, 2003, n° 245405.
+SUBSEQUENT w/LOCATOR
+  CE, sect., Apr. 28, 2003, n° 245405, p. 123.
+SUBSEQUENT w/BACKREF
+  CE, sect., Apr. 28, 2003, n° 245405.
+SUBSEQUENT w/BACKREF+LOCATOR
+  CE, sect., Apr. 28, 2003, n° 245405, p. 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">CE, sect., Apr. 28, 2003, n° 245405.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_case",
+    "authority": "ce",
+    "number": "245405",
+    "issued": {
+      "raw": "April 28, 2003"
+    },
+    "language": "fr",
+    "note": "division: sect.",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "call-number": "FR193",
+    "jurisdiction": "fr"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== ABBREVIATIONS =====>>
+{
+  "fr": {
+    "institution-part": {
+      "cass~plen": "Cass. ass. plén.",
+      "cass~crim": "Cass. crim.",
+      "cass~soc": "Cass. soc.",
+      "cass~civ1": "Cass. 1<sup>re</sup> civ.",
+      "cass~civ2": "Cass. 2<sup>e</sup> civ.",
+      "cass~civ3": "Cass. 3<sup>e</sup> civ.",
+      "cc": "Cons. const.",
+      "cnda": "CNDA",
+      "ce": "CE"
+    },
+    "place": {
+      "fr": "FR"
+    }
+  },
+  "fr:paris": {
+    "institution-part": {
+      "ca": "CA Paris"
+    }
+  },
+  "fr:versailles": {
+    "institution-part": {
+      "ca": "CA Versailles"
+    }
+  }
+}
+<<===== ABBREVIATIONS =====<<

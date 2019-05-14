@@ -1,0 +1,73 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "62TRGIRD"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+French Court of Cassation, plenary panel
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  CE, ass. plén., Jun. 25, 2014, n° 13-28369.
+FIRST w/LOCATOR
+  CE, ass. plén., Jun. 25, 2014, n° 13-28369, p. 123.
+FIRST w/LABEL
+  CE, ass. plén., Jun. 25, 2014, n° 13-28369 ¶ 123.
+IBID
+  <i>Id.</i>
+IBID w/LOCATOR
+  <i>Id.</i> at 123.
+SUBSEQUENT
+  CE, ass. plén., Jun. 25, 2014, n° 13-28369.
+SUBSEQUENT w/LOCATOR
+  CE, ass. plén., Jun. 25, 2014, n° 13-28369, p. 123.
+SUBSEQUENT w/BACKREF
+  CE, ass. plén., Jun. 25, 2014, n° 13-28369.
+SUBSEQUENT w/BACKREF+LOCATOR
+  CE, ass. plén., Jun. 25, 2014, n° 13-28369, p. 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">CE, ass. plén., Jun. 25, 2014, n° 13-28369.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_case",
+    "authority": "cass~plen",
+    "number": "13\\-28369",
+    "issued": {
+      "raw": "June 25, 2014"
+    },
+    "language": "fr",
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "call-number": "FR002",
+    "jurisdiction": "fr"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== ABBREVIATIONS =====>>
+{
+  "fr": {
+    "institution-part": {
+      "cass~plen": "Cass. ass. plén."
+    },
+    "place": {
+      "fr": "FR"
+    }
+  }
+}
+<<===== ABBREVIATIONS =====<<

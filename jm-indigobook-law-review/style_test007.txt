@@ -1,0 +1,38 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "9MWIYDW8"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test007
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+%%RESULT%%
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_case",
+    "title": "Tietig v. Southeast Regional Const. Corp.",
+    "container-title": "So.2d",
+    "volume": "520",
+    "authority": "district.court.appeal",
+    "page": "633",
+    "issued": "February 10, 1988",
+    "language": "en",
+    "note": "Division: 4",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "jurisdiction": "005us:flUnited States|US|Florida"
+  }
+]
+<<===== INPUT =====<<

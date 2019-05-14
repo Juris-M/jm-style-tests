@@ -1,0 +1,88 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "83PXNKM5"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+French Court of Cassation, first civil chamber
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  Cass. 1<sup>re</sup> civ., Jan. 18, 2017, n° 16–11630.
+FIRST w/LOCATOR
+  Cass. 1<sup>re</sup> civ., Jan. 18, 2017, n° 16–11630, p. 123.
+FIRST w/LABEL
+  Cass. 1<sup>re</sup> civ., Jan. 18, 2017, n° 16–11630 ¶ 123.
+IBID
+  <i>Id.</i>
+IBID w/LOCATOR
+  <i>Id.</i> at 123.
+SUBSEQUENT
+  Cass. 1<sup>re</sup> civ., Jan. 18, 2017, n° 16–11630.
+SUBSEQUENT w/LOCATOR
+  Cass. 1<sup>re</sup> civ., Jan. 18, 2017, n° 16–11630, p. 123.
+SUBSEQUENT w/BACKREF
+  Cass. 1<sup>re</sup> civ., Jan. 18, 2017, n° 16–11630.
+SUBSEQUENT w/BACKREF+LOCATOR
+  Cass. 1<sup>re</sup> civ., Jan. 18, 2017, n° 16–11630, p. 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Cass. 1<sup>re</sup> civ., Jan. 18, 2017, n° 16–11630.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_case",
+    "authority": "cass~civ1",
+    "number": "16-11630",
+    "issued": {
+      "raw": "January 18, 2017"
+    },
+    "language": "fr",
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "call-number": "FR011",
+    "jurisdiction": "fr"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== ABBREVIATIONS =====>>
+{
+  "fr": {
+    "institution-part": {
+      "cass~plen": "Cass. ass. plén.",
+      "cass~crim": "Cass. crim.",
+      "cass~soc": "Cass. soc.",
+      "cass~civ1": "Cass. 1<sup>re</sup> civ.",
+      "cass~civ2": "Cass. 2<sup>e</sup> civ.",
+      "cass~civ3": "Cass. 3<sup>e</sup> civ."
+    },
+    "place": {
+      "fr": "FR"
+    }
+  },
+  "fr:paris": {
+    "institution-part": {
+      "ca": "CA Paris"
+    }
+  },
+  "fr:versailles": {
+    "institution-part": {
+      "ca": "CA Versailles"
+    }
+  }
+}
+<<===== ABBREVIATIONS =====<<
