@@ -1,0 +1,71 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "2KBPEXTL"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+NGO report
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  ‘Opinia dotycząca oceny prawnej zdarzeń odnotowanych w formie incydentów na portalu zglosnienawisc.otwarta.org jako spełniających znamiona przestępstwa z art. 256 § 1 Kodeksu karnego w postaci publicznego propagowania faszystowskiego lub innego totalitarnego ustroju państwa’ (Otwarta Rzeczpospolita Stowarzyszenie przeciw Antysemityzmowi i Ksenofobii 17 December 2015).
+FIRST w/LOCATOR
+  ‘Opinia dotycząca oceny prawnej zdarzeń odnotowanych w formie incydentów na portalu zglosnienawisc.otwarta.org jako spełniających znamiona przestępstwa z art. 256 § 1 Kodeksu karnego w postaci publicznego propagowania faszystowskiego lub innego totalitarnego ustroju państwa’ (Otwarta Rzeczpospolita Stowarzyszenie przeciw Antysemityzmowi i Ksenofobii 17 December 2015) 123.
+FIRST w/LABEL
+  ‘Opinia dotycząca oceny prawnej zdarzeń odnotowanych w formie incydentów na portalu zglosnienawisc.otwarta.org jako spełniających znamiona przestępstwa z art. 256 § 1 Kodeksu karnego w postaci publicznego propagowania faszystowskiego lub innego totalitarnego ustroju państwa’ (Otwarta Rzeczpospolita Stowarzyszenie przeciw Antysemityzmowi i Ksenofobii 17 December 2015) para 123.
+IBID
+  ibid.
+IBID w/LOCATOR
+  ibid 123.
+SUBSEQUENT
+  ‘Opinia dotycząca oceny prawnej zdarzeń odnotowanych w formie incydentów na portalu zglosnienawisc.otwarta.org jako spełniających znamiona przestępstwa z art 256 § 1 Kodeksu karnego w postaci publicznego propagowania faszystowskiego lub innego totalitarnego ustroju państwa’.
+SUBSEQUENT w/LOCATOR
+  ‘Opinia dotycząca oceny prawnej zdarzeń odnotowanych w formie incydentów na portalu zglosnienawisc.otwarta.org jako spełniających znamiona przestępstwa z art 256 § 1 Kodeksu karnego w postaci publicznego propagowania faszystowskiego lub innego totalitarnego ustroju państwa’ 123.
+SUBSEQUENT w/BACKREF
+  ‘Opinia dotycząca oceny prawnej zdarzeń odnotowanych w formie incydentów na portalu zglosnienawisc.otwarta.org jako spełniających znamiona przestępstwa z art 256 § 1 Kodeksu karnego w postaci publicznego propagowania faszystowskiego lub innego totalitarnego ustroju państwa’ (n 1).
+SUBSEQUENT w/BACKREF+LOCATOR
+  ‘Opinia dotycząca oceny prawnej zdarzeń odnotowanych w formie incydentów na portalu zglosnienawisc.otwarta.org jako spełniających znamiona przestępstwa z art 256 § 1 Kodeksu karnego w postaci publicznego propagowania faszystowskiego lub innego totalitarnego ustroju państwa’ (n 1) 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">‘Opinia dotycząca oceny prawnej zdarzeń odnotowanych w formie incydentów na portalu zglosnienawisc.otwarta.org jako spełniających znamiona przestępstwa z art. 256 § 1 Kodeksu karnego w postaci publicznego propagowania faszystowskiego lub innego totalitarnego ustroju państwa’ (Otwarta Rzeczpospolita Stowarzyszenie przeciw Antysemityzmowi i Ksenofobii 17 December 2015).</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "report",
+    "title": "Opinia dotycząca oceny prawnej zdarzeń odnotowanych w formie incydentów na portalu zglosnienawisc.otwarta.org jako spełniających znamiona przestępstwa z art. 256 § 1 Kodeksu karnego w postaci publicznego propagowania faszystowskiego lub innego totalitarnego ustroju państwa",
+    "publisher": "Otwarta Rzeczpospolita Stowarzyszenie przeciw Antysemityzmowi i Ksenofobii",
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          12,
+          17
+        ]
+      ]
+    },
+    "language": "pl",
+    "call-number": "PL220a",
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {
+        "authority": {
+          "en": "Open Republic Association against Anti-Semitism and Xenophobia"
+        },
+        "title": {
+          "en": "Legal opinion on whether activity on the portal Zglosnienawisc.otwarta.org falls within art. 256 § 1 Penal Code as public promotion of fascism or a totalitarian state system"
+        }
+      }
+    }
+  }
+]
+<<===== INPUT =====<<

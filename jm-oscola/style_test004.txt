@@ -1,0 +1,91 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "SWNS522H"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Poland trial court judgment
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  Wyrok, Sąd Rejonowy w Olsztynie, 30 August 2017, II K 1234/16.
+FIRST w/LOCATOR
+  Wyrok, Sąd Rejonowy w Olsztynie, 30 August 2017, II K 1234/16 at 123.
+FIRST w/LABEL
+  Wyrok, Sąd Rejonowy w Olsztynie, 30 August 2017, II K 1234/16, para 123.
+IBID
+  ibid.
+IBID w/LOCATOR
+  ibid at 123.
+SUBSEQUENT
+  Wyrok, II K 1234/16.
+SUBSEQUENT w/LOCATOR
+  Wyrok, II K 1234/16 at 123.
+SUBSEQUENT w/BACKREF
+  Wyrok, II K 1234/16 (n 1).
+SUBSEQUENT w/BACKREF+LOCATOR
+  Wyrok, II K 1234/16 (n 1) at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Wyrok, Sąd Rejonowy w Olsztynie, 30 August 2017, II K 1234/16.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_case",
+    "authority": "sr",
+    "number": "II K 1234/16",
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          8,
+          30
+        ]
+      ]
+    },
+    "language": "pl",
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "call-number": "PL022",
+    "jurisdiction": "pl:bialystok:olsztyn:olsztyn",
+    "genre": "Wyrok"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== ABBREVIATIONS =====>>
+{
+  "default": {
+    "place": {
+      "pl": "Poland"
+    }
+  },
+  "pl": {
+    "institution-part": {
+      "sa": "Sąd Apelacyjny",
+      "sn": "Sąd Najwyższy",
+      "nsa": "Najwyższy Sąd Administracyjny",
+      "sokik": "Sąd Ochrony Konkurencji i Konsumentów",
+      "tk": "Trybunał Konstytucyjny"
+    }
+  },
+  "pl:bialystok:olsztyn:olsztyn": {
+    "institution-part": {
+      "sr": "Sąd Rejonowy w Olsztynie"
+    }
+  }
+}
+<<===== ABBREVIATIONS =====<<

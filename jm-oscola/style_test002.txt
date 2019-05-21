@@ -1,0 +1,68 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "BZAFZS7G"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+prosecutor decision closing a case
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  Postanowienie o umorzeniu śledztwa, Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu w Białymstoku, S 1/00/Zn.
+FIRST w/LOCATOR
+  Postanowienie o umorzeniu śledztwa, Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu w Białymstoku, S 1/00/Zn at 123.
+FIRST w/LABEL
+  Postanowienie o umorzeniu śledztwa, Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu w Białymstoku, S 1/00/Zn, para 123.
+IBID
+  ibid.
+IBID w/LOCATOR
+  ibid at 123.
+SUBSEQUENT
+  Postanowienie, S 1/00/Zn.
+SUBSEQUENT w/LOCATOR
+  Postanowienie, S 1/00/Zn at 123.
+SUBSEQUENT w/BACKREF
+  Postanowienie, S 1/00/Zn (n 1).
+SUBSEQUENT w/BACKREF+LOCATOR
+  Postanowienie, S 1/00/Zn (n 1) at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Postanowienie o umorzeniu śledztwa, Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu w Białymstoku, S 1/00/Zn.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_case",
+    "authority": "Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu w Białymstoku",
+    "number": "S 1/00/Zn",
+    "issued": "2003/06/30",
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "jurisdiction": "pl:bialystok",
+    "genre": "Postanowienie",
+    "document-name": "o umorzeniu śledztwa"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== ABBREVIATIONS =====>>
+{
+  "default": {
+    "place": {
+      "pl": "Poland"
+    }
+  }
+}
+<<===== ABBREVIATIONS =====<<

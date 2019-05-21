@@ -1,0 +1,69 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "S7GPZ4PR"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Poland police ruling on criminal complaint
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  Postanowienie o umorzeniu dochodzenia, Wydział Dochodzeniowo-Śledczy Komendy stołecznej policji w Warszawie, 1 Ds. 611/15.
+FIRST w/LOCATOR
+  Postanowienie o umorzeniu dochodzenia, Wydział Dochodzeniowo-Śledczy Komendy stołecznej policji w Warszawie, 1 Ds. 611/15 at 123.
+FIRST w/LABEL
+  Postanowienie o umorzeniu dochodzenia, Wydział Dochodzeniowo-Śledczy Komendy stołecznej policji w Warszawie, 1 Ds. 611/15, para 123.
+IBID
+  ibid.
+IBID w/LOCATOR
+  ibid at 123.
+SUBSEQUENT
+  Postanowienie, 1 Ds. 611/15.
+SUBSEQUENT w/LOCATOR
+  Postanowienie, 1 Ds. 611/15 at 123.
+SUBSEQUENT w/BACKREF
+  Postanowienie, 1 Ds. 611/15 (n 1).
+SUBSEQUENT w/BACKREF+LOCATOR
+  Postanowienie, 1 Ds. 611/15 (n 1) at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Postanowienie o umorzeniu dochodzenia, Wydział Dochodzeniowo-Śledczy Komendy stołecznej policji w Warszawie, 1 Ds. 611/15.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_case",
+    "authority": "Wydział Dochodzeniowo-Śledczy Komendy stołecznej policji w Warszawie",
+    "issued": "2015/09/04",
+    "number": "1 Ds. 611/15",
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "call-number": "PL221",
+    "jurisdiction": "pl:warsaw:warsaw",
+    "genre": "Postanowienie",
+    "document-name": "o umorzeniu dochodzenia"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== ABBREVIATIONS =====>>
+{
+  "default": {
+    "place": {
+      "pl": "Poland"
+    }
+  }
+}
+<<===== ABBREVIATIONS =====<<
