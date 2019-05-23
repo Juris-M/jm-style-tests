@@ -1,0 +1,36 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "MJKDE7BW"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Japanese statute
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+%%RESULT%%
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legislation",
+    "title": "Code of Criminal Procedure",
+    "issued": { "date-parts": [[2018]]},
+    "URL": "https://wipolex.wipo.int/en/text/214811",
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "jurisdiction": "jp",
+    "original-date": { "date-parts": [[1948,7,10]]},
+    "event-date": { "date-parts": [[2016,6]]}
+  }
+]
+<<===== INPUT =====<<

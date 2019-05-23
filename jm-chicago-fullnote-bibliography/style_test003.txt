@@ -1,0 +1,44 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "2KBPEXTL"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+NGO Association Open Republic provided this piece 
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+%%RESULT%%
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "report",
+    "title": "Opinia dotycząca oceny prawnej zdarzeń odnotowanych w formie incydentów na portalu zglosnienawisc.otwarta.org jako spełniających znamiona przestępstwa z art. 256 § 1 Kodeksu karnego w postaci publicznego propagowania faszystowskiego lub innego totalitarnego ustroju państwa",
+    "publisher": "Otwarta Rzeczpospolita Stowarzyszenie przeciw Antysemityzmowi i Ksenofobii",
+    "issued": {
+      "raw": "17.12.2015"
+    },
+    "language": "pl",
+    "call-number": "PL220a",
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {
+        "authority": {
+          "en": "Open Republic Association against Anti-Semitism and Xenophobia"
+        },
+        "title": {
+          "en": "Legal opinion on whether activity on the portal Zglosnienawisc.otwarta.org falls within art. 256 § 1 Penal Code as public promotion of fascism or a totalitarian state system"
+        }
+      }
+    }
+  }
+]
+<<===== INPUT =====<<

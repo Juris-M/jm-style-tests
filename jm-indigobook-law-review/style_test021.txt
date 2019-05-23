@@ -1,0 +1,36 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "BZAFZS7G"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test021
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+%%RESULT%%
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_case",
+    "authority": "Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu",
+    "number": "S 1/00/Zn",
+    "issued": "2003/06/30",
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "jurisdiction": "012pl:bialystokPoland|PL|Białystok",
+    "genre": "Postanowienie",
+    "document-name": "o umorzeniu śledztwa"
+  }
+]
+<<===== INPUT =====<<
