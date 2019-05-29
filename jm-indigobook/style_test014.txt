@@ -1,0 +1,36 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "83PXNKM5"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+French Court of Cassation, first civil chamber
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+%%RESULT%%
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_case",
+    "authority": "cass~civ1",
+    "number": "16\\-11630",
+    "issued": "January 18, 2017",
+    "language": "fr",
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "call-number": "FR011",
+    "jurisdiction": "fr"
+  }
+]
+<<===== INPUT =====<<

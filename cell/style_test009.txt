@@ -1,0 +1,58 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "M4E77H53"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test009
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (Becker, 1915)
+FIRST w/LOCATOR
+  (Becker, 1915)
+FIRST w/LABEL
+  (Becker, 1915)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Becker, J.E. (1915). Divorce in Japan. Journal of the Society of Comparative Legislation <i>15</i>, 171–174.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "article-journal",
+    "title": "Divorce in Japan",
+    "author": [
+      {
+        "given": "J. E.",
+        "family": "Becker"
+      }
+    ],
+    "container-title": "Journal of the Society of Comparative Legislation",
+    "volume": "15",
+    "issue": "2",
+    "page": "171-174",
+    "issued": {
+      "raw": "1915"
+    },
+    "collection-title": "New Series",
+    "ISSN": "14795973",
+    "URL": "http://www.jstor.org/stable/752490",
+    "accessed": "2010-03-01",
+    "source": "JSTOR",
+    "note": "ArticleType: primary_article / Full publication date: 1915 / Copyright © 1915 British Institute of International and Comparative Law",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<

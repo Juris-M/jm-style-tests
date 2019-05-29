@@ -1,0 +1,75 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "DXHSJ5KD"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test004
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (Schöner <i>et al.</i> 2007)
+FIRST w/LOCATOR
+  (Schöner <i>et al.</i> 2007, p. 123)
+FIRST w/LABEL
+  (Schöner <i>et al.</i> 2007, para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry"><span style="font-variant:small-caps;">Schöner</span>, <span style="font-variant:small-caps;">R.</span>, <span style="font-variant:small-caps;">Viereck-Goette</span>, <span style="font-variant:small-caps;">L.</span>, <span style="font-variant:small-caps;">Schneider</span>, <span style="font-variant:small-caps;">J.</span> &#38; <span style="font-variant:small-caps;">Bomfleur</span>, <span style="font-variant:small-caps;">B.</span> 2007. Triassic-Jurassic sediments and multiple volcanic events in North Victoria Land, Antarctica: A revised stratigraphic model. <i>In</i> Cooper, A.K. &#38; Raymond, C.R., <i>eds.</i> <i>Antarctica: a keystone in a changing world</i> – Online Proceedings of the 10th ISAES. USGS Open-File Report 2007–1047, Short Research Paper 102, 5 pp, 10.3133/of2007-1047.srp102.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "paper-conference",
+    "title": "Triassic-Jurassic sediments and multiple volcanic events in North Victoria Land, Antarctica: A revised stratigraphic model",
+    "author": [
+      {
+        "given": "R.",
+        "family": "Schöner"
+      },
+      {
+        "given": "L.",
+        "family": "Viereck-Goette"
+      },
+      {
+        "given": "J.",
+        "family": "Schneider"
+      },
+      {
+        "given": "B.",
+        "family": "Bomfleur"
+      }
+    ],
+    "editor": [
+      {
+        "given": "A. K.",
+        "family": "Cooper"
+      },
+      {
+        "given": "C. R.",
+        "family": "Raymond"
+      }
+    ],
+    "issued": {
+      "raw": "2007"
+    },
+    "container-title": "Antarctica: a keystone in a changing world",
+    "event": "Online Proceedings of the 10th ISAES",
+    "DOI": "10.3133/of2007-1047.srp102",
+    "shortTitle": "Triassic-Jurassic sediments and multiple volcanic events in North Victoria Land, Antarctica",
+    "note": "100 xxx\n{:number-of-pages: 5} {:number: USGS Open-File Report 2007–1047, Short Research Paper 102}",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<

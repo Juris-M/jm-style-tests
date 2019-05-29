@@ -1,0 +1,83 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "YHRYIW9G"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test010
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (Thrush <i>et al.</i> n.d.)
+FIRST w/LOCATOR
+  (Thrush <i>et al.</i> n.d., p. 123)
+FIRST w/LABEL
+  (Thrush <i>et al.</i> n.d., para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry"><span style="font-variant:small-caps;">Thrush</span>, <span style="font-variant:small-caps;">S.</span>, <span style="font-variant:small-caps;">Dayton</span>, <span style="font-variant:small-caps;">P.</span>, <span style="font-variant:small-caps;">Cattaneo-Vietti</span>, <span style="font-variant:small-caps;">R.</span>, <span style="font-variant:small-caps;">Chiantore</span>, <span style="font-variant:small-caps;">M.</span>, <span style="font-variant:small-caps;">Cummings</span>, <span style="font-variant:small-caps;">V.</span>, <span style="font-variant:small-caps;">Andrew</span>, <span style="font-variant:small-caps;">N.</span>, <span style="font-variant:small-caps;">Hawes</span>, <span style="font-variant:small-caps;">I.</span>, <span style="font-variant:small-caps;">Kim</span>, <span style="font-variant:small-caps;">S.</span>, <span style="font-variant:small-caps;">Kvitek</span>, <span style="font-variant:small-caps;">R.</span> &#38; <span style="font-variant:small-caps;">Schwarz</span>, <span style="font-variant:small-caps;">A.M.</span> In press. Broad-scale factors influencing the biodiversity of coastal benthic communities of the Ross Sea. <i>Deep Sea Research Part II: Topical Studies in Oceanography</i>.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "article-journal",
+    "title": "Broad-scale factors influencing the biodiversity of coastal benthic communities of the Ross Sea",
+    "author": [
+      {
+        "given": "S.",
+        "family": "Thrush"
+      },
+      {
+        "given": "P.",
+        "family": "Dayton"
+      },
+      {
+        "given": "R.",
+        "family": "Cattaneo-Vietti"
+      },
+      {
+        "given": "M.",
+        "family": "Chiantore"
+      },
+      {
+        "given": "V.",
+        "family": "Cummings"
+      },
+      {
+        "given": "N.",
+        "family": "Andrew"
+      },
+      {
+        "given": "I.",
+        "family": "Hawes"
+      },
+      {
+        "given": "S.",
+        "family": "Kim"
+      },
+      {
+        "given": "R.",
+        "family": "Kvitek"
+      },
+      {
+        "given": "A. M",
+        "family": "Schwarz"
+      }
+    ],
+    "container-title": "Deep Sea Research Part II: Topical Studies in Oceanography",
+    "note": "{:status: in press}",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<

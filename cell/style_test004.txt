@@ -1,0 +1,54 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "XMBCA4KL"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test004
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (Clack, 2003)
+FIRST w/LOCATOR
+  (Clack, 2003)
+FIRST w/LABEL
+  (Clack, 2003)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Clack, M. (2003). Caught Between Hope and Despair: An Analysis of the Japanese Criminal Justice System. Denv. J. Int’l L. &#38; Pol’y <i>31</i>, 525.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "article-journal",
+    "title": "Caught Between Hope and Despair: An Analysis of the Japanese Criminal Justice System",
+    "author": [
+      {
+        "given": "Melissa",
+        "family": "Clack"
+      }
+    ],
+    "container-title": "Denv. J. Int'l L. & Pol'y",
+    "volume": "31",
+    "page": "525",
+    "issued": {
+      "raw": "2003"
+    },
+    "journalAbbreviation": "Denv. J. Int'l L. & Pol'y",
+    "shortTitle": "Caught Between Hope and Despair",
+    "source": "Lexis: US & Canadian Law Reviews, Combined",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<

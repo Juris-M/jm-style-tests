@@ -1,0 +1,44 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "IXN9LCRP"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+online article without identifier
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+%%RESULT%%
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "article-journal",
+    "title": "Topic Modeling and Digital Humanities",
+    "author": [
+      {
+        "given": "David M.",
+        "family": "Blei"
+      }
+    ],
+    "container-title": "Journal of Digital Humanities",
+    "volume": "2",
+    "issue": "1",
+    "issued": {
+      "raw": "2012"
+    },
+    "URL": "http://journalofdigitalhumanities.org/2-1/topic-modeling-and-digital-humanities-by-david-m-blei/",
+    "accessed": "2015-07-16T00:00:00Z",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<

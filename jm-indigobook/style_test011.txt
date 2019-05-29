@@ -1,0 +1,36 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "LK4FXYQJ"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+French Court of Appeal, simple cite
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+%%RESULT%%
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_case",
+    "authority": "ca",
+    "number": "13/03113",
+    "issued": "October 5, 2013",
+    "language": "fr",
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "call-number": "FR003",
+    "jurisdiction": "fr:paris"
+  }
+]
+<<===== INPUT =====<<

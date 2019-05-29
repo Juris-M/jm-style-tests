@@ -1,0 +1,59 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "X6KYRLHR"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test003
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (Van den Broeke <i>et al.</i> 2004)
+FIRST w/LOCATOR
+  (Van den Broeke <i>et al.</i> 2004, p. 123)
+FIRST w/LABEL
+  (Van den Broeke <i>et al.</i> 2004, para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry"><span style="font-variant:small-caps;">Van den Broeke</span>, <span style="font-variant:small-caps;">M.R.</span>, <span style="font-variant:small-caps;">Reijmer</span>, <span style="font-variant:small-caps;">C.H.</span> &#38; <span style="font-variant:small-caps;">Van der Wal</span>, <span style="font-variant:small-caps;">R.S.W.</span> 2004. Surface radiation balance in Antarctica as measured with automatic weather stations. <i>Journal of Geophysical Research</i>, <b>109</b>, 10.1029/2003JD004394.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "article-journal",
+    "title": "Surface radiation balance in Antarctica as measured with automatic weather stations",
+    "author": [
+      {
+        "given": "M. R.",
+        "family": "Van den Broeke"
+      },
+      {
+        "given": "C. H.",
+        "family": "Reijmer"
+      },
+      {
+        "given": "R. S. W.",
+        "family": "Van der Wal"
+      }
+    ],
+    "container-title": "Journal of Geophysical Research",
+    "volume": "109",
+    "issued": {
+      "raw": "2004"
+    },
+    "DOI": "10.1029/2003JD004394",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<

@@ -4,41 +4,54 @@ all
 
 >>===== KEYS =====>>
 [
-  "2KBPEXTL"
+  "UW5MBSHC"
 ]
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-NGO Association Open Republic provided this piece 
+Götzis  # Expert Presence Other (see comments) 
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-%%RESULT%%
+FIRST
+  ogh, 9Os95/82.
+FIRST w/LOCATOR
+  ogh, 9Os95/82 at 123.
+FIRST w/LABEL
+  ogh, 9Os95/82 ¶ 123.
+IBID
+  <i>Ibid.</i>
+IBID w/LOCATOR
+  <i>Ibid.</i> at 123.
+SUBSEQUENT
+  ogh, 9Os95/82.
+SUBSEQUENT w/LOCATOR
+  ogh, 9Os95/82 at 123.
+SUBSEQUENT w/BACKREF
+  ogh, 9Os95/82.
+SUBSEQUENT w/BACKREF+LOCATOR
+  ogh, 9Os95/82 at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">ogh, 9Os95/82.</div>
+</div>
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>
 [
   {
-    "type": "report",
-    "title": "Opinia dotycząca oceny prawnej zdarzeń odnotowanych w formie incydentów na portalu zglosnienawisc.otwarta.org jako spełniających znamiona przestępstwa z art. 256 § 1 Kodeksu karnego w postaci publicznego propagowania faszystowskiego lub innego totalitarnego ustroju państwa",
-    "publisher": "Otwarta Rzeczpospolita Stowarzyszenie przeciw Antysemityzmowi i Ksenofobii",
-    "issued": {
-      "raw": "17.12.2015"
-    },
-    "language": "pl",
-    "call-number": "PL220a",
+    "type": "legal_case",
+    "authority": "ogh",
+    "number": "9Os95/82",
+    "issued": "August 17, 1982",
+    "language": "de",
     "note": "",
     "multi": {
       "main": {},
-      "_keys": {
-        "authority": {
-          "en": "Open Republic Association against Anti-Semitism and Xenophobia"
-        },
-        "title": {
-          "en": "Legal opinion on whether activity on the portal Zglosnienawisc.otwarta.org falls within art. 256 § 1 Penal Code as public promotion of fascism or a totalitarian state system"
-        }
-      }
-    }
+      "_keys": {}
+    },
+    "call-number": "AT367",
+    "jurisdiction": "at"
   }
 ]
 <<===== INPUT =====<<

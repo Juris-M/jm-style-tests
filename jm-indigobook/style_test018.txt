@@ -1,0 +1,37 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "IBBI33W6"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+French Constitutional Council
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+%%RESULT%%
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_case",
+    "authority": "cc",
+    "number": "2018\\-741",
+    "issued": "October 19, 2018",
+    "language": "fr",
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "call-number": "FR019",
+    "jurisdiction": "fr",
+    "genre": "QPC"
+  }
+]
+<<===== INPUT =====<<

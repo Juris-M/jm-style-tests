@@ -1,0 +1,36 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "Y2QYDFYS"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+French Conseil d'Etat, litigation section
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+%%RESULT%%
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_case",
+    "authority": "ce",
+    "number": "245405",
+    "issued": "April 28, 2003",
+    "language": "fr",
+    "note": "Division: sect.",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "call-number": "FR193",
+    "jurisdiction": "fr"
+  }
+]
+<<===== INPUT =====<<

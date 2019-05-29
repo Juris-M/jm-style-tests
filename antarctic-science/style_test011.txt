@@ -1,0 +1,53 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "6I897BKZ"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test011
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (Cantrill 2000)
+FIRST w/LOCATOR
+  (Cantrill 2000, p. 123)
+FIRST w/LABEL
+  (Cantrill 2000, para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry"><span style="font-variant:small-caps;">Cantrill</span>, <span style="font-variant:small-caps;">D.J.</span> 2000. A new macroflora from the South Orkney Islands, Antarctica: evidence of an Early to Middle Jurassic age for the Powell Island Conglomerate. <i>Antarctic Science</i>, <b>12</b>:02, 185–195.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "article-journal",
+    "title": "A new macroflora from the South Orkney Islands, Antarctica: evidence of an Early to Middle Jurassic age for the Powell Island Conglomerate",
+    "author": [
+      {
+        "given": "D. J.",
+        "family": "Cantrill"
+      }
+    ],
+    "container-title": "Antarctic Science",
+    "volume": "12",
+    "issue": "02",
+    "page": "185-195",
+    "issued": {
+      "raw": "2000"
+    },
+    "shortTitle": "A new macroflora from the South Orkney Islands, Antarctica",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<

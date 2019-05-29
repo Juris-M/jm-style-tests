@@ -1,0 +1,36 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "Y34ENMQR"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+French Conseil d'Etat, combined subsections
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+%%RESULT%%
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_case",
+    "authority": "ce",
+    "number": "367429",
+    "issued": "December 30, 2014",
+    "language": "fr",
+    "note": "Division: 10-9\nDivision name: ss-sect. réunies",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "call-number": "FR197",
+    "jurisdiction": "fr"
+  }
+]
+<<===== INPUT =====<<

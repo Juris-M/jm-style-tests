@@ -1,0 +1,51 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "B5HCN242"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test006
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (Stanley 1979)
+FIRST w/LOCATOR
+  (Stanley 1979, p. 123)
+FIRST w/LABEL
+  (Stanley 1979, para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry"><span style="font-variant:small-caps;">Stanley</span>, <span style="font-variant:small-caps;">S.M.</span> 1979. <i>Macroevolution, pattern and process</i>. San Francisco, CA: Freeman, 573 pp.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "book",
+    "title": "Macroevolution, pattern and process",
+    "author": [
+      {
+        "given": "Steven M.",
+        "family": "Stanley"
+      }
+    ],
+    "publisher-place": "San Francisco, CA",
+    "publisher": "Freeman",
+    "issued": {
+      "raw": "1979"
+    },
+    "number-of-pages": "573",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<

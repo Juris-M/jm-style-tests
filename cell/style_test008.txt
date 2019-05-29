@@ -1,0 +1,57 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "BB74HQVB"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test008
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (Berry, 1998)
+FIRST w/LOCATOR
+  (Berry, 1998)
+FIRST w/LABEL
+  (Berry, 1998)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Berry, M.E. (1998). Public Life in Authoritarian Japan. Daedalus <i>127</i>, 133–165.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "article-journal",
+    "title": "Public Life in Authoritarian Japan",
+    "author": [
+      {
+        "given": "Mary Elizabeth",
+        "family": "Berry"
+      }
+    ],
+    "container-title": "Daedalus",
+    "volume": "127",
+    "issue": "3",
+    "page": "133-165",
+    "issued": {
+      "raw": "1998"
+    },
+    "ISSN": "00115266",
+    "URL": "http://www.jstor.org/stable/20027510",
+    "accessed": "2010-03-01",
+    "source": "JSTOR",
+    "note": "ArticleType: primary_article / Issue Title: Early Modernities / Full publication date: Summer, 1998 / Copyright © 1998 American Academy of Arts & Sciences",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<

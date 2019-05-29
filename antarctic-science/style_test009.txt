@@ -1,0 +1,49 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "B37M559F"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test009
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (Ashford 2002)
+FIRST w/LOCATOR
+  (Ashford 2002, p. 123)
+FIRST w/LABEL
+  (Ashford 2002, para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry"><span style="font-variant:small-caps;">Ashford</span>, <span style="font-variant:small-caps;">J.R.</span> 2002. First report of the CCAMLR Otolith Network (SC-CCAMLR-WG-FSA02.51).</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "report",
+    "title": "First report of the CCAMLR Otolith Network",
+    "author": [
+      {
+        "given": "J. R.",
+        "family": "Ashford"
+      }
+    ],
+    "number": "SC-CCAMLR-WG-FSA02.51",
+    "issued": {
+      "raw": "2002"
+    },
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<

@@ -4,33 +4,66 @@ all
 
 >>===== KEYS =====>>
 [
-  "MJKDE7BW"
+  "2KBPEXTL"
 ]
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-Japanese statute
+NGO Association Open Republic provided this piece 
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-%%RESULT%%
+FIRST
+  <i>Opinia dotycząca oceny prawnej zdarzeń odnotowanych w formie incydentów na portalu zglosnienawisc.otwarta.org jako spełniających znamiona przestępstwa z art. 256 § 1 Kodeksu karnego w postaci publicznego propagowania faszystowskiego lub innego totalitarnego ustroju państwa</i> (Otwarta Rzeczpospolita Stowarzyszenie przeciw Antysemityzmowi i Ksenofobii, 17.12.2015).
+FIRST w/LOCATOR
+  <i>Opinia dotycząca oceny prawnej zdarzeń odnotowanych w formie incydentów na portalu zglosnienawisc.otwarta.org jako spełniających znamiona przestępstwa z art. 256 § 1 Kodeksu karnego w postaci publicznego propagowania faszystowskiego lub innego totalitarnego ustroju państwa</i> (Otwarta Rzeczpospolita Stowarzyszenie przeciw Antysemityzmowi i Ksenofobii, 17.12.2015), 123.
+FIRST w/LABEL
+  <i>Opinia dotycząca oceny prawnej zdarzeń odnotowanych w formie incydentów na portalu zglosnienawisc.otwarta.org jako spełniających znamiona przestępstwa z art. 256 § 1 Kodeksu karnego w postaci publicznego propagowania faszystowskiego lub innego totalitarnego ustroju państwa</i> (Otwarta Rzeczpospolita Stowarzyszenie przeciw Antysemityzmowi i Ksenofobii, 17.12.2015), para. 123.
+IBID
+  Ibid.
+IBID w/LOCATOR
+  Ibid. at 123.
+SUBSEQUENT
+  “Opinia dotycząca oceny prawnej zdarzeń odnotowanych w formie incydentów na portalu zglosnienawisc.otwarta.org jako spełniających znamiona przestępstwa z art. 256 § 1 Kodeksu karnego w postaci publicznego propagowania faszystowskiego lub innego totalitarnego ustroju państwa.”
+SUBSEQUENT w/LOCATOR
+  “Opinia dotycząca oceny prawnej zdarzeń odnotowanych w formie incydentów na portalu zglosnienawisc.otwarta.org jako spełniających znamiona przestępstwa z art. 256 § 1 Kodeksu karnego w postaci publicznego propagowania faszystowskiego lub innego totalitarnego ustroju państwa,” 123.
+SUBSEQUENT w/BACKREF
+  “Opinia dotycząca oceny prawnej zdarzeń odnotowanych w formie incydentów na portalu zglosnienawisc.otwarta.org jako spełniających znamiona przestępstwa z art. 256 § 1 Kodeksu karnego w postaci publicznego propagowania faszystowskiego lub innego totalitarnego ustroju państwa.”
+SUBSEQUENT w/BACKREF+LOCATOR
+  “Opinia dotycząca oceny prawnej zdarzeń odnotowanych w formie incydentów na portalu zglosnienawisc.otwarta.org jako spełniających znamiona przestępstwa z art. 256 § 1 Kodeksu karnego w postaci publicznego propagowania faszystowskiego lub innego totalitarnego ustroju państwa,” 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry"><i>Opinia dotycząca oceny prawnej zdarzeń odnotowanych w formie incydentów na portalu zglosnienawisc.otwarta.org jako spełniających znamiona przestępstwa z art. 256 § 1 Kodeksu karnego w postaci publicznego propagowania faszystowskiego lub innego totalitarnego ustroju państwa</i>. Otwarta Rzeczpospolita Stowarzyszenie przeciw Antysemityzmowi i Ksenofobii. 17.12.2015.</div>
+</div>
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>
 [
   {
-    "type": "legislation",
-    "title": "Code of Criminal Procedure",
-    "issued": { "date-parts": [[2018]]},
-    "URL": "https://wipolex.wipo.int/en/text/214811",
+    "type": "report",
+    "title": "Opinia dotycząca oceny prawnej zdarzeń odnotowanych w formie incydentów na portalu zglosnienawisc.otwarta.org jako spełniających znamiona przestępstwa z art. 256 § 1 Kodeksu karnego w postaci publicznego propagowania faszystowskiego lub innego totalitarnego ustroju państwa",
+    "publisher": "Otwarta Rzeczpospolita Stowarzyszenie przeciw Antysemityzmowi i Ksenofobii",
+    "issued": {
+      "literal": "17.12.2015",
+      "date-parts": [
+        [],
+        []
+      ]
+    },
+    "language": "pl",
+    "call-number": "PL220a",
     "note": "",
     "multi": {
       "main": {},
-      "_keys": {}
-    },
-    "jurisdiction": "jp",
-    "original-date": { "date-parts": [[1948,7,10]]},
-    "event-date": { "date-parts": [[2016,6]]}
+      "_keys": {
+        "authority": {
+          "en": "Open Republic Association against Anti-Semitism and Xenophobia"
+        },
+        "title": {
+          "en": "Legal opinion on whether activity on the portal Zglosnienawisc.otwarta.org falls within art. 256 § 1 Penal Code as public promotion of fascism or a totalitarian state system"
+        }
+      }
+    }
   }
 ]
 <<===== INPUT =====<<

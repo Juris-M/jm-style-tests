@@ -1,0 +1,66 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "PBQ7KIWD"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+We argue that the incentive for a Japanese politic
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (Cox et al., 2000)
+FIRST w/LOCATOR
+  (Cox et al., 2000)
+FIRST w/LABEL
+  (Cox et al., 2000)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Cox, G.W., Rosenbluth, F.M., and Thies, M.F. (2000). Electoral Rules, Career Ambitions, and Party Structure: Comparing Factions in Japan’s Upper and Lower Houses. American Journal of Political Science <i>44</i>, 115–122.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "article-journal",
+    "title": "Electoral Rules, Career Ambitions, and Party Structure: Comparing Factions in Japan's Upper and Lower Houses",
+    "author": [
+      {
+        "given": "Gary W.",
+        "family": "Cox"
+      },
+      {
+        "given": "Frances M.",
+        "family": "Rosenbluth"
+      },
+      {
+        "given": "Michael F.",
+        "family": "Thies"
+      }
+    ],
+    "container-title": "American Journal of Political Science",
+    "volume": "44",
+    "issue": "1",
+    "page": "115-122",
+    "issued": {
+      "raw": "January 2000"
+    },
+    "ISSN": "00925853",
+    "shortTitle": "Electoral Rules, Career Ambitions, and Party Structure",
+    "URL": "http://www.jstor.org.ejgw.nul.nagoya-u.ac.jp/stable/2669297",
+    "accessed": "2010-10-10",
+    "source": "JSTOR",
+    "note": "ArticleType: research-article / Full publication date: Jan., 2000 / Copyright © 2000 Midwest Political Science Association",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<

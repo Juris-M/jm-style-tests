@@ -1,0 +1,57 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "LWV6PPXB"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test001
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (Davie, 1993)
+FIRST w/LOCATOR
+  (Davie, 1993)
+FIRST w/LABEL
+  (Davie, 1993)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Davie, M. (1993). Matrimonial Property in English and American Conflict of Laws. The International and Comparative Law Quarterly <i>42</i>, 855–881.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "article-journal",
+    "title": "Matrimonial Property in English and American Conflict of Laws",
+    "author": [
+      {
+        "given": "Michael",
+        "family": "Davie"
+      }
+    ],
+    "container-title": "The International and Comparative Law Quarterly",
+    "volume": "42",
+    "issue": "4",
+    "page": "855-881",
+    "issued": {
+      "raw": "October 1993"
+    },
+    "ISSN": "00205893",
+    "URL": "http://www.jstor.org/stable/761134",
+    "accessed": "2010-03-01",
+    "source": "JSTOR",
+    "note": "ArticleType: primary_article / Full publication date: Oct., 1993 / Copyright © 1993 Cambridge University Press",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<

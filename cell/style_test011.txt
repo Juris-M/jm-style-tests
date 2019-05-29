@@ -1,0 +1,53 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "BGIKV72H"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test011
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (Beer, 1998)
+FIRST w/LOCATOR
+  (Beer, 1998)
+FIRST w/LABEL
+  (Beer, 1998)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Beer, L.W. (1998). Peace in Theory and Practice Under Article 9 of Japan’s Constitution. Marq. L. Rev. <i>81</i>, 815.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "article-journal",
+    "title": "Peace in Theory and Practice Under Article 9 of Japan's Constitution",
+    "author": [
+      {
+        "given": "Lawrence W.",
+        "family": "Beer"
+      }
+    ],
+    "container-title": "Marq. L. Rev.",
+    "volume": "81",
+    "page": "815",
+    "issued": {
+      "raw": "1998"
+    },
+    "journalAbbreviation": "Marq. L. Rev.",
+    "source": "Lexis: US & Canadian Law Reviews, Combined",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<

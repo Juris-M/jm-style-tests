@@ -1,0 +1,52 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "7CZ23KBE"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test002
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (Smith 1983)
+FIRST w/LOCATOR
+  (Smith 1983, p. 123)
+FIRST w/LABEL
+  (Smith 1983, para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry"><span style="font-variant:small-caps;">Smith</span>, <span style="font-variant:small-caps;">M.J.</span> 1983. <i>The microbial ecology of sub-Antarctic tundra soils</i>. PhD thesis, University of Surrey, 256 pp. [Unpublished].</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "thesis",
+    "title": "The microbial ecology of sub-Antarctic tundra soils",
+    "author": [
+      {
+        "given": "M. J.",
+        "family": "Smith"
+      }
+    ],
+    "genre": "PhD thesis",
+    "publisher": "University of Surrey",
+    "issued": {
+      "raw": "1983"
+    },
+    "number-of-pages": "256",
+    "note": "{:status: Unpublished}",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<

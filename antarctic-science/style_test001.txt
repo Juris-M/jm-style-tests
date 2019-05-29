@@ -1,0 +1,56 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "INJWIUAA"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test001
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (CCAMLR 1995)
+FIRST w/LOCATOR
+  (CCAMLR 1995, p. 123)
+FIRST w/LABEL
+  (CCAMLR 1995, para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry"><span style="font-variant:small-caps;">CCAMLR</span>. 1995. <i>Report of the Fourteenth Meeting of the Commission</i> (CCAMLR-XIV). Hobart: CCAMLR, 153 pp.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "report",
+    "title": "Report of the Fourteenth Meeting of the Commission",
+    "author": [
+      {
+        "family": "CCAMLR"
+      }
+    ],
+    "number": "CCAMLR-XIV",
+    "publisher-place": "Hobart",
+    "issued": {
+      "date-parts": [
+        [
+          1995
+        ]
+      ]
+    },
+    "note": "{:number-of-pages: 153}",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "publisher": "CCAMLR",
+    "jurisdiction": "us:al"
+  }
+]
+<<===== INPUT =====<<

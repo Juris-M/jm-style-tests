@@ -1,0 +1,56 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "GZS45D4C"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+The article announces that, starting on January 1,
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (Cassar, 2009)
+FIRST w/LOCATOR
+  (Cassar, 2009)
+FIRST w/LABEL
+  (Cassar, 2009)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Cassar, M.M. (2009). Announcement: Chinese, Japanese, and Korean characters available for author names. Journal of Chemical Physics <i>130</i>, 030201.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "article-journal",
+    "title": "Announcement: Chinese, Japanese, and Korean characters available for author names.",
+    "author": [
+      {
+        "given": "Mark M.",
+        "family": "Cassar"
+      }
+    ],
+    "container-title": "Journal of Chemical Physics",
+    "volume": "130",
+    "issue": "3",
+    "page": "030201",
+    "issued": {
+      "raw": "January 21, 2009"
+    },
+    "DOI": "10.1063/1.3078207",
+    "ISSN": "00219606",
+    "shortTitle": "Announcement",
+    "source": "EBSCOhost",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<

@@ -1,0 +1,74 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "6NEVEYUZ"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test008
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (Barrett <i>et al.</i> 1983)
+FIRST w/LOCATOR
+  (Barrett <i>et al.</i> 1983, p. 123)
+FIRST w/LABEL
+  (Barrett <i>et al.</i> 1983, para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry"><span style="font-variant:small-caps;">Barrett</span>, <span style="font-variant:small-caps;">P.J.</span>, <span style="font-variant:small-caps;">Payne</span>, <span style="font-variant:small-caps;">A.R.</span> &#38; <span style="font-variant:small-caps;">Ward</span>, <span style="font-variant:small-caps;">B.L.</span> 1983. Modern sedimentation in McMurdo Sound, Antarctica. <i>In</i> Oliver, R.L., James, P.R. &#38; Jago, J.B., <i>eds.</i> <i>Antarctic earth science</i>. Cambridge: Cambridge University Press, 550–554.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "chapter",
+    "title": "Modern sedimentation in McMurdo Sound, Antarctica",
+    "author": [
+      {
+        "given": "P. J.",
+        "family": "Barrett"
+      },
+      {
+        "given": "A. R.",
+        "family": "Payne"
+      },
+      {
+        "given": "B. L.",
+        "family": "Ward"
+      }
+    ],
+    "editor": [
+      {
+        "given": "R. L.",
+        "family": "Oliver"
+      },
+      {
+        "given": "P. R.",
+        "family": "James"
+      },
+      {
+        "given": "J. B.",
+        "family": "Jago"
+      }
+    ],
+    "container-title": "Antarctic earth science",
+    "publisher-place": "Cambridge",
+    "publisher": "Cambridge University Press",
+    "issued": {
+      "raw": "1983"
+    },
+    "page": "550–554",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<

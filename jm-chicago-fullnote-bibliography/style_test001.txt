@@ -4,67 +4,54 @@ all
 
 >>===== KEYS =====>>
 [
-  "UW5MBSHC"
+  "MJKDE7BW"
 ]
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-Götzis  # Expert Presence Other (see comments) 
+should pass test style_test001
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
 FIRST
-  OGH 17.8.1982, 9Os95/82.
+  Code of Criminal Procedure, jp.
 FIRST w/LOCATOR
-  OGH 17.8.1982, 9Os95/82 at 123.
+  Code of Criminal Procedure, jp, p. 123.
 FIRST w/LABEL
-  OGH 17.8.1982, 9Os95/82 ¶ 123.
+  Code of Criminal Procedure, jp ¶ 123.
 IBID
   <i>Ibid.</i>
 IBID w/LOCATOR
-  <i>Ibid.</i> at 123.
+  <i>Ibid.</i> p. 123.
 SUBSEQUENT
-  OGH 17.8.1982, 9Os95/82.
+  Code of Criminal Procedure, jp.
 SUBSEQUENT w/LOCATOR
-  OGH 17.8.1982, 9Os95/82 at 123.
+  Code of Criminal Procedure, jp, p. 123.
 SUBSEQUENT w/BACKREF
-  OGH 17.8.1982, 9Os95/82.
+  Code of Criminal Procedure, jp.
 SUBSEQUENT w/BACKREF+LOCATOR
-  OGH 17.8.1982, 9Os95/82 at 123.
+  Code of Criminal Procedure, jp, p. 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">OGH 17.8.1982, 9Os95/82.</div>
+  <div class="csl-entry">Code of Criminal Procedure, jp.</div>
 </div>
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>
 [
   {
-    "type": "legal_case",
-    "authority": "ogh",
-    "number": "9Os95/82",
-    "issued": {
-      "raw": "17 August 1982"
-    },
-    "language": "de",
+    "type": "legislation",
+    "title": "Code of Criminal Procedure",
+    "issued": "2018",
+    "URL": "https://wipolex.wipo.int/en/text/214811",
     "note": "",
     "multi": {
       "main": {},
       "_keys": {}
     },
-    "call-number": "AT367",
-    "jurisdiction": "at"
+    "jurisdiction": "jp",
+    "original-date": "1948-07-10 July 10, 1948",
+    "event-date": "2016-06-00 June 2016"
   }
 ]
 <<===== INPUT =====<<
-
-
->>===== ABBREVIATIONS =====>>
-{
-  "at": {
-    "institution-part": {
-      "ogh": "OGH"
-    }
-  }
-}
-<<===== ABBREVIATIONS =====<<

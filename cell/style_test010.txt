@@ -1,0 +1,54 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "FRF3QUM3"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test010
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (Bryant, 1991)
+FIRST w/LOCATOR
+  (Bryant, 1991)
+FIRST w/LABEL
+  (Bryant, 1991)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Bryant, T.L. (1991). For the Sake of the Country, for the Sake of the Family: The Oppressive Impact of Family Registration on Women and Minorities in Japan. UCLA L. Rev. <i>39</i>, 109.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "article-journal",
+    "title": "For the Sake of the Country, for the Sake of the Family: The Oppressive Impact of Family Registration on Women and Minorities in Japan.",
+    "author": [
+      {
+        "given": "Taimie L.",
+        "family": "Bryant"
+      }
+    ],
+    "container-title": "UCLA L. Rev.",
+    "volume": "39",
+    "page": "109",
+    "issued": {
+      "raw": "October 1991"
+    },
+    "journalAbbreviation": "UCLA L. Rev.",
+    "shortTitle": "For the Sake of the Country, for the Sake of the Family",
+    "source": "Lexis: US & Canadian Law Reviews, Combined",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<

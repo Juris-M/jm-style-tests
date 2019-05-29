@@ -1,0 +1,58 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "PBLIMDLZ"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Japan's low level of defense expenditure relative 
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (Chai, 1997)
+FIRST w/LOCATOR
+  (Chai, 1997)
+FIRST w/LABEL
+  (Chai, 1997)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Chai, S.-K. (1997). Entrenching the Yoshida Defense Doctrine: Three Techniques for Institutionalization. International Organization <i>51</i>, 389–412.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "article-journal",
+    "title": "Entrenching the Yoshida Defense Doctrine: Three Techniques for Institutionalization",
+    "author": [
+      {
+        "given": "Sun-Ki",
+        "family": "Chai"
+      }
+    ],
+    "container-title": "International Organization",
+    "volume": "51",
+    "issue": "3",
+    "page": "389-412",
+    "issued": {
+      "raw": "1997"
+    },
+    "ISSN": "00208183",
+    "shortTitle": "Entrenching the Yoshida Defense Doctrine",
+    "URL": "http://www.jstor.org.ejgw.nul.nagoya-u.ac.jp/stable/2703609",
+    "accessed": "2010-10-10",
+    "source": "JSTOR",
+    "note": "ArticleType: research-article / Full publication date: Summer, 1997 / Copyright © 1997 The MIT Press",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<
