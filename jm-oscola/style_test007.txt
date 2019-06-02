@@ -4,36 +4,36 @@ all
 
 >>===== KEYS =====>>
 [
-  "4VWZ5BMV"
+  "5VCJM7N7"
 ]
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-should pass test style_test005
+should pass test style_test007
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
 FIRST
-  UNSC Res 396/231 (23 March 2018) UN Doc UN/Doc/234/1932.
+  UNSC Res 770 (1992) SCOR Resolutions and Decisions 24.
 FIRST w/LOCATOR
-  UNSC Res 396/231 (23 March 2018) UN Doc UN/Doc/234/1932, 123.
+  UNSC Res 770 (1992) SCOR Resolutions and Decisions 24, 123.
 FIRST w/LABEL
-  UNSC Res 396/231 (23 March 2018) UN Doc UN/Doc/234/1932, para 123.
+  UNSC Res 770 (1992) SCOR Resolutions and Decisions 24, para 123.
 IBID
   ibid.
 IBID w/LOCATOR
   ibid at 123.
 SUBSEQUENT
-  UNSC Res 396/231.
+  UNSC Res 770.
 SUBSEQUENT w/LOCATOR
-  UNSC Res 396/231 123.
+  UNSC Res 770 123.
 SUBSEQUENT w/BACKREF
-  UNSC Res 396/231 (n 1).
+  UNSC Res 770 (n 1).
 SUBSEQUENT w/BACKREF+LOCATOR
-  UNSC Res 396/231 (n 1) 123.
+  UNSC Res 770 (n 1) 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">UNSC Res 396/231 (23 March 2018) UN Doc UN/Doc/234/1932.</div>
+  <div class="csl-entry">UNSC Res 770 (1992) SCOR Resolutions and Decisions 24.</div>
 </div>
 <<===== RESULT =====<<
 
@@ -41,17 +41,18 @@ BIBLIOGRAPHY
 [
   {
     "type": "bill",
-    "number": "396/231",
+    "number": "770",
+    "container-title": "Security Council Official Record Resolutions and Decisions",
+    "page": "24",
     "authority": "Security Council",
     "issued": {
-      "raw": "2018-03-23"
+      "raw": "1992"
     },
     "note": "",
     "multi": {
       "main": {},
       "_keys": {}
     },
-    "archive_location": "UN/Doc/234/1932",
     "jurisdiction": "un.int",
     "event": "Resolution"
   }
@@ -68,6 +69,10 @@ BIBLIOGRAPHY
     },
     "title": {
       "Resolution": "Res."
+    },
+    "container-title": {
+      "General Assembly Official Record": "GAOR",
+      "Security Council Official Record Resolutions and Decisions": "SCOR Resolutions and Decisions"
     }
   }
 }

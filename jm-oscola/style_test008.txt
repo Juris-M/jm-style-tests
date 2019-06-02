@@ -4,36 +4,36 @@ all
 
 >>===== KEYS =====>>
 [
-  "4VWZ5BMV"
+  "FBZXG667"
 ]
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-should pass test style_test005
+should pass test style_test008
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
 FIRST
-  UNSC Res 396/231 (23 March 2018) UN Doc UN/Doc/234/1932.
+  UNGA Res 2621 (XXV) (1970) GAOR 25th Session Supp 16, 10.
 FIRST w/LOCATOR
-  UNSC Res 396/231 (23 March 2018) UN Doc UN/Doc/234/1932, 123.
+  UNGA Res 2621 (XXV) (1970) GAOR 25th Session Supp 16, 10, 123.
 FIRST w/LABEL
-  UNSC Res 396/231 (23 March 2018) UN Doc UN/Doc/234/1932, para 123.
+  UNGA Res 2621 (XXV) (1970) GAOR 25th Session Supp 16, 10, para 123.
 IBID
   ibid.
 IBID w/LOCATOR
   ibid at 123.
 SUBSEQUENT
-  UNSC Res 396/231.
+  UNGA Res 2621 (XXV).
 SUBSEQUENT w/LOCATOR
-  UNSC Res 396/231 123.
+  UNGA Res 2621 (XXV) 123.
 SUBSEQUENT w/BACKREF
-  UNSC Res 396/231 (n 1).
+  UNGA Res 2621 (XXV) (n 1).
 SUBSEQUENT w/BACKREF+LOCATOR
-  UNSC Res 396/231 (n 1) 123.
+  UNGA Res 2621 (XXV) (n 1) 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">UNSC Res 396/231 (23 March 2018) UN Doc UN/Doc/234/1932.</div>
+  <div class="csl-entry">UNGA Res 2621 (XXV) (1970) GAOR 25th Session Supp 16, 10.</div>
 </div>
 <<===== RESULT =====<<
 
@@ -41,17 +41,20 @@ BIBLIOGRAPHY
 [
   {
     "type": "bill",
-    "number": "396/231",
-    "authority": "Security Council",
+    "number": "2621 (XXV)",
+    "container-title": "General Assembly Official Record",
+    "page": "10",
+    "authority": "General Assembly",
+    "chapter-number": "25",
     "issued": {
-      "raw": "2018-03-23"
+      "raw": "1970"
     },
-    "note": "",
+    "note": "supplement: 16",
     "multi": {
       "main": {},
       "_keys": {}
     },
-    "archive_location": "UN/Doc/234/1932",
+    "archive_location": "A/8086",
     "jurisdiction": "un.int",
     "event": "Resolution"
   }
@@ -68,6 +71,9 @@ BIBLIOGRAPHY
     },
     "title": {
       "Resolution": "Res."
+    },
+    "container-title": {
+      "General Assembly Official Record": "GAOR"
     }
   }
 }

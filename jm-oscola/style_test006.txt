@@ -16,9 +16,9 @@ should pass test style_test006
 FIRST
   UNGA Res 832(IX) (21 October 1954) UN Doc A/2890.
 FIRST w/LOCATOR
-  UNGA Res 832(IX), 123 (21 October 1954) UN Doc A/2890.
+  UNGA Res 832(IX) (21 October 1954) UN Doc A/2890, 123.
 FIRST w/LABEL
-  UNGA Res 832(IX), para 123 (21 October 1954) UN Doc A/2890.
+  UNGA Res 832(IX) (21 October 1954) UN Doc A/2890, para 123.
 IBID
   ibid.
 IBID w/LOCATOR
@@ -42,13 +42,11 @@ BIBLIOGRAPHY
   {
     "type": "bill",
     "number": "832(IX)",
-    "container-title": "U.N. GAOR",
     "authority": "General Assembly",
-    "chapter-number": "9",
     "issued": {
       "raw": "21 October 1954"
     },
-    "note": "supplement: 21",
+    "note": "",
     "multi": {
       "main": {},
       "_keys": {}
@@ -65,7 +63,8 @@ BIBLIOGRAPHY
 {
   "un.int": {
     "institution-part": {
-      "General Assembly": "UNGA"
+      "General Assembly": "UNGA",
+      "Security Council": "UNSC"
     },
     "title": {
       "Resolution": "Res."
