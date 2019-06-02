@@ -1,0 +1,74 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "4VWZ5BMV"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test005
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  UNSC Res 396/231 (23 March 2018) UN Doc UN/Doc/234/1932.
+FIRST w/LOCATOR
+  UNSC Res 396/231, 123 (23 March 2018) UN Doc UN/Doc/234/1932.
+FIRST w/LABEL
+  UNSC Res 396/231, para 123 (23 March 2018) UN Doc UN/Doc/234/1932.
+IBID
+  ibid.
+IBID w/LOCATOR
+  ibid at 123.
+SUBSEQUENT
+  UNSC Res 396/231.
+SUBSEQUENT w/LOCATOR
+  UNSC Res 396/231 123.
+SUBSEQUENT w/BACKREF
+  UNSC Res 396/231 (n 1).
+SUBSEQUENT w/BACKREF+LOCATOR
+  UNSC Res 396/231 (n 1) 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">UNSC Res 396/231 (23 March 2018) UN Doc UN/Doc/234/1932.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "bill",
+    "number": "396/231",
+    "authority": "Security Council",
+    "issued": {
+      "raw": "2018-03-23"
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "archive_location": "UN/Doc/234/1932",
+    "jurisdiction": "un.int",
+    "event": "Resolution"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== ABBREVIATIONS =====>>
+{
+  "un.int": {
+    "institution-part": {
+      "General Assembly": "UNGA",
+      "Security Council": "UNSC"
+    },
+    "title": {
+      "Resolution": "Res."
+    }
+  }
+}
+<<===== ABBREVIATIONS =====<<

@@ -1,0 +1,75 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "5BZJHI95"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test006
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  UNGA Res 832(IX) (21 October 1954) UN Doc A/2890.
+FIRST w/LOCATOR
+  UNGA Res 832(IX), 123 (21 October 1954) UN Doc A/2890.
+FIRST w/LABEL
+  UNGA Res 832(IX), para 123 (21 October 1954) UN Doc A/2890.
+IBID
+  ibid.
+IBID w/LOCATOR
+  ibid at 123.
+SUBSEQUENT
+  UNGA Res 832(IX).
+SUBSEQUENT w/LOCATOR
+  UNGA Res 832(IX) 123.
+SUBSEQUENT w/BACKREF
+  UNGA Res 832(IX) (n 1).
+SUBSEQUENT w/BACKREF+LOCATOR
+  UNGA Res 832(IX) (n 1) 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">UNGA Res 832(IX) (21 October 1954) UN Doc A/2890.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "bill",
+    "number": "832(IX)",
+    "container-title": "U.N. GAOR",
+    "authority": "General Assembly",
+    "chapter-number": "9",
+    "issued": {
+      "raw": "21 October 1954"
+    },
+    "note": "supplement: 21",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "archive_location": "A/2890",
+    "jurisdiction": "un.int",
+    "event": "Resolution"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== ABBREVIATIONS =====>>
+{
+  "un.int": {
+    "institution-part": {
+      "General Assembly": "UNGA"
+    },
+    "title": {
+      "Resolution": "Res."
+    }
+  }
+}
+<<===== ABBREVIATIONS =====<<
