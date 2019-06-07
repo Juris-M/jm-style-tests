@@ -1,0 +1,107 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "8HK33TY6"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+reported Japanese Supreme Court judgment
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  Supreme Court Third Petty Bench, Judgment, March 10, 2015, 69 Keishū (2) 434 (access: http://www.courts.go.jp/app/hanrei_jp/detail2?id=84934) [JP].
+FIRST w/LOCATOR
+  Supreme Court Third Petty Bench, Judgment, March 10, 2015, 69 Keishū (2) 434, 123 (access: http://www.courts.go.jp/app/hanrei_jp/detail2?id=84934) [JP].
+FIRST w/LABEL
+  Supreme Court Third Petty Bench, Judgment, March 10, 2015, 69 Keishū (2) 434, 123 (access: http://www.courts.go.jp/app/hanrei_jp/detail2?id=84934) [JP].
+IBID
+  <i>Ibid.</i>
+IBID w/LOCATOR
+  <i>Ibid.</i> at 123.
+SUBSEQUENT
+  Supreme Court Third Petty Bench, Judgment, March 10, 2015.
+SUBSEQUENT w/LOCATOR
+  Supreme Court Third Petty Bench, Judgment, March 10, 2015 at 123.
+SUBSEQUENT w/BACKREF
+  Supreme Court Third Petty Bench, Judgment, March 10, 2015.
+SUBSEQUENT w/BACKREF+LOCATOR
+  Supreme Court Third Petty Bench, Judgment, March 10, 2015 at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Supreme Court Third Petty Bench, Judgment, March 10, 2015, 69 Keishū (2) 434 (access: http://www.courts.go.jp/app/hanrei_jp/detail2?id=84934) [JP].</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_case",
+    "container-title": "刑集",
+    "volume": "69",
+    "authority": "saiko.saibansho.san",
+    "number": "平成26(あ)948",
+    "page": "434",
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          3,
+          10
+        ]
+      ]
+    },
+    "URL": "http://www.courts.go.jp/app/hanrei_jp/detail2?id=84934",
+    "accessed": {
+      "date-parts": [
+        [
+          2019,
+          6,
+          4
+        ]
+      ]
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {
+        "container-title": {
+          "en": "Keishu"
+        },
+        "genre": {
+          "en": "Judgment"
+        }
+      }
+    },
+    "issue": "2",
+    "jurisdiction": "jp",
+    "genre": "判決"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== ABBREVIATIONS =====>>
+{
+  "default": {
+    "place": {
+      "jp": "JP"
+    }
+  },
+  "jp": {
+    "institution-part": {
+      "saiko.saibansho.san": "Supreme Court Third Petty Bench"
+    },
+    "title": {
+      "判決": "Judgment"
+    },
+    "container-title": {
+      "刑集": "Keishū"
+    }
+  }
+}
+<<===== ABBREVIATIONS =====<<

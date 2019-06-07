@@ -14,26 +14,26 @@ should pass test style_test001
 
 >>===== RESULT =====>>
 FIRST
-  Code of Criminal Procedure, jp.
+  Code of Criminal Procedure [JP].
 FIRST w/LOCATOR
-  Code of Criminal Procedure, jp, p. 123.
+  Code of Criminal Procedure, 123 [JP].
 FIRST w/LABEL
-  Code of Criminal Procedure, jp ¶ 123.
+  Code of Criminal Procedure ¶ 123 [JP].
 IBID
   <i>Ibid.</i>
 IBID w/LOCATOR
-  <i>Ibid.</i> p. 123.
+  <i>Ibid.</i> at 123.
 SUBSEQUENT
-  Code of Criminal Procedure, jp.
+  Code of Criminal Procedure.
 SUBSEQUENT w/LOCATOR
-  Code of Criminal Procedure, jp, p. 123.
+  Code of Criminal Procedure at 123.
 SUBSEQUENT w/BACKREF
-  Code of Criminal Procedure, jp.
+  Code of Criminal Procedure.
 SUBSEQUENT w/BACKREF+LOCATOR
-  Code of Criminal Procedure, jp, p. 123.
+  Code of Criminal Procedure at 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">Code of Criminal Procedure, jp.</div>
+  <div class="csl-entry">Code of Criminal Procedure [JP].</div>
 </div>
 <<===== RESULT =====<<
 
@@ -55,3 +55,14 @@ BIBLIOGRAPHY
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== ABBREVIATIONS =====>>
+{
+  "default": {
+    "place": {
+      "jp": "JP"
+    }
+  }
+}
+<<===== ABBREVIATIONS =====<<

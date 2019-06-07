@@ -1,0 +1,109 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "YAYDMCEJ"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+reported Japanese Supreme Court ruling
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  Supreme Court Third Petty Bench, Ruling, April 17, 2018, 72 Minshū (2) 59 (access: http://www.courts.go.jp/app/hanrei_jp/detail2?id=87683) [JP].
+FIRST w/LOCATOR
+  Supreme Court Third Petty Bench, Ruling, April 17, 2018, 72 Minshū (2) 59, 123 (access: http://www.courts.go.jp/app/hanrei_jp/detail2?id=87683) [JP].
+FIRST w/LABEL
+  Supreme Court Third Petty Bench, Ruling, April 17, 2018, 72 Minshū (2) 59, 123 (access: http://www.courts.go.jp/app/hanrei_jp/detail2?id=87683) [JP].
+IBID
+  <i>Ibid.</i>
+IBID w/LOCATOR
+  <i>Ibid.</i> at 123.
+SUBSEQUENT
+  Supreme Court Third Petty Bench, Ruling, April 17, 2018.
+SUBSEQUENT w/LOCATOR
+  Supreme Court Third Petty Bench, Ruling, April 17, 2018 at 123.
+SUBSEQUENT w/BACKREF
+  Supreme Court Third Petty Bench, Ruling, April 17, 2018.
+SUBSEQUENT w/BACKREF+LOCATOR
+  Supreme Court Third Petty Bench, Ruling, April 17, 2018 at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Supreme Court Third Petty Bench, Ruling, April 17, 2018, 72 Minshū (2) 59 (access: http://www.courts.go.jp/app/hanrei_jp/detail2?id=87683) [JP].</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_case",
+    "container-title": "民集",
+    "volume": "72",
+    "authority": "saiko.saibansho.san",
+    "number": "平成30(許)3",
+    "page": "59",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          4,
+          17
+        ]
+      ]
+    },
+    "URL": "http://www.courts.go.jp/app/hanrei_jp/detail2?id=87683",
+    "accessed": {
+      "date-parts": [
+        [
+          2019,
+          6,
+          4
+        ]
+      ]
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {
+        "container-title": {
+          "en": "Minshu"
+        },
+        "genre": {
+          "en": "Ruling"
+        }
+      }
+    },
+    "issue": "2",
+    "jurisdiction": "jp",
+    "genre": "決定"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== ABBREVIATIONS =====>>
+{
+  "default": {
+    "place": {
+      "jp": "JP"
+    }
+  },
+  "jp": {
+    "institution-part": {
+      "saiko.saibansho.san": "Supreme Court Third Petty Bench"
+    },
+    "title": {
+      "判決": "Judgment",
+      "決定": "Ruling"
+    },
+    "container-title": {
+      "刑集": "Keishū",
+      "民集": "Minshū"
+    }
+  }
+}
+<<===== ABBREVIATIONS =====<<

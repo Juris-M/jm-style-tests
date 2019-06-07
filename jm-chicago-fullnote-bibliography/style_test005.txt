@@ -1,0 +1,112 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "SPE2QWHP"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+reported Japanese High Court judgment
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  Osaka High Court, Judgment, May 11, 2009, 62 Kōsai hanreishū (2) 1 (access: http://www.courts.go.jp/app/hanrei_jp/detail3?id=38292) [JP].
+FIRST w/LOCATOR
+  Osaka High Court, Judgment, May 11, 2009, 62 Kōsai hanreishū (2) 1, 123 (access: http://www.courts.go.jp/app/hanrei_jp/detail3?id=38292) [JP].
+FIRST w/LABEL
+  Osaka High Court, Judgment, May 11, 2009, 62 Kōsai hanreishū (2) 1, 123 (access: http://www.courts.go.jp/app/hanrei_jp/detail3?id=38292) [JP].
+IBID
+  <i>Ibid.</i>
+IBID w/LOCATOR
+  <i>Ibid.</i> at 123.
+SUBSEQUENT
+  Osaka High Court, Judgment, May 11, 2009.
+SUBSEQUENT w/LOCATOR
+  Osaka High Court, Judgment, May 11, 2009 at 123.
+SUBSEQUENT w/BACKREF
+  Osaka High Court, Judgment, May 11, 2009.
+SUBSEQUENT w/BACKREF+LOCATOR
+  Osaka High Court, Judgment, May 11, 2009 at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Osaka High Court, Judgment, May 11, 2009, 62 Kōsai hanreishū (2) 1 (access: http://www.courts.go.jp/app/hanrei_jp/detail3?id=38292) [JP].</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_case",
+    "container-title": "高裁判例集",
+    "volume": "62",
+    "authority": "koto.saibansho",
+    "number": "平成21(ラ)194",
+    "page": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2009,
+          5,
+          11
+        ]
+      ]
+    },
+    "URL": "http://www.courts.go.jp/app/hanrei_jp/detail3?id=38292",
+    "accessed": {
+      "date-parts": [
+        [
+          2019,
+          6,
+          4
+        ]
+      ]
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {
+        "genre": {
+          "en": "Judgment"
+        }
+      }
+    },
+    "issue": "2",
+    "jurisdiction": "jp:osaka",
+    "genre": "判決"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== ABBREVIATIONS =====>>
+{
+  "default": {
+    "place": {
+      "jp": "JP"
+    }
+  },
+  "jp": {
+    "institution-part": {
+      "saiko.saibansho.san": "Supreme Court Third Petty Bench"
+    },
+    "title": {
+      "決定": "Ruling",
+      "判決": "Judgment"
+    },
+    "container-title": {
+      "刑集": "Keishū",
+      "民集": "Minshū",
+      "高裁判例集": "Kōsai hanreishū"
+    }
+  },
+  "jp:osaka": {
+    "institution-part": {
+      "koto.saibansho": "Osaka High Court"
+    }
+  }
+}
+<<===== ABBREVIATIONS =====<<

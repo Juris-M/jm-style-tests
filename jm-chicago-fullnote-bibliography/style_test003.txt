@@ -14,26 +14,26 @@ Götzis  # Expert Presence Other (see comments)
 
 >>===== RESULT =====>>
 FIRST
-  ogh, 9Os95/82.
+  OGH, 17.08.1982, 9Os95/82.
 FIRST w/LOCATOR
-  ogh, 9Os95/82 at 123.
+  OGH, 17.08.1982, 9Os95/82 at 123.
 FIRST w/LABEL
-  ogh, 9Os95/82 ¶ 123.
+  OGH, 17.08.1982, 9Os95/82 ¶ 123.
 IBID
   <i>Ibid.</i>
 IBID w/LOCATOR
   <i>Ibid.</i> at 123.
 SUBSEQUENT
-  ogh, 9Os95/82.
+  OGH, 17.08.1982.
 SUBSEQUENT w/LOCATOR
-  ogh, 9Os95/82 at 123.
+  OGH, 17.08.1982 at 123.
 SUBSEQUENT w/BACKREF
-  ogh, 9Os95/82.
+  OGH, 17.08.1982.
 SUBSEQUENT w/BACKREF+LOCATOR
-  ogh, 9Os95/82 at 123.
+  OGH, 17.08.1982 at 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">ogh, 9Os95/82.</div>
+  <div class="csl-entry">OGH, 17.08.1982, 9Os95/82.</div>
 </div>
 <<===== RESULT =====<<
 
@@ -43,7 +43,15 @@ BIBLIOGRAPHY
     "type": "legal_case",
     "authority": "ogh",
     "number": "9Os95/82",
-    "issued": "August 17, 1982",
+    "issued": {
+      "date-parts": [
+        [
+          1982,
+          8,
+          17
+        ]
+      ]
+    },
     "language": "de",
     "note": "",
     "multi": {
@@ -55,3 +63,36 @@ BIBLIOGRAPHY
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== ABBREVIATIONS =====>>
+{
+  "at": {
+    "classic": {},
+    "collection-title": {},
+    "container-title": {},
+    "hereinafter": {},
+    "institution-entire": {},
+    "institution-part": {
+      "ogh": "OGH",
+      "olg": "OLG",
+      "lg": "LG",
+      "bg": "BG",
+      "vfgh": "VfGH",
+      "vwgh": "VwGH",
+      "bfg": "BFG",
+      "bvwg": "BVwG",
+      "lvwgg": "LVwG",
+      "vgwg": "VwG",
+      "lgzrs": "LGZ",
+      "lgs": "LGS",
+      "hg": "HG",
+      "asg": "ASG"
+    },
+    "nickname": {},
+    "number": {},
+    "place": {},
+    "title": {}
+  }
+}
+<<===== ABBREVIATIONS =====<<

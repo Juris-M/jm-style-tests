@@ -1,0 +1,113 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "I867UU3U"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+unreported Japanese trial court judgment
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  Yokohama District Court, Judgment, April 19, 2019, 平成27(ワ)3844 (access: http://www.courts.go.jp/app/hanrei_jp/detail4?id=88679) [JP].
+FIRST w/LOCATOR
+  Yokohama District Court, Judgment, April 19, 2019, 平成27(ワ)3844, 123 (access: http://www.courts.go.jp/app/hanrei_jp/detail4?id=88679) [JP].
+FIRST w/LABEL
+  Yokohama District Court, Judgment, April 19, 2019, 平成27(ワ)3844, 123 (access: http://www.courts.go.jp/app/hanrei_jp/detail4?id=88679) [JP].
+IBID
+  <i>Ibid.</i>
+IBID w/LOCATOR
+  <i>Ibid.</i> at 123.
+SUBSEQUENT
+  Yokohama District Court, Judgment, April 19, 2019.
+SUBSEQUENT w/LOCATOR
+  Yokohama District Court, Judgment, April 19, 2019 at 123.
+SUBSEQUENT w/BACKREF
+  Yokohama District Court, Judgment, April 19, 2019.
+SUBSEQUENT w/BACKREF+LOCATOR
+  Yokohama District Court, Judgment, April 19, 2019 at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Yokohama District Court, Judgment, April 19, 2019, 平成27(ワ)3844 (access: http://www.courts.go.jp/app/hanrei_jp/detail4?id=88679) [JP].</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_case",
+    "authority": "chiho.saibansho",
+    "number": "平成27(ワ)3844",
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          4,
+          19
+        ]
+      ]
+    },
+    "URL": "http://www.courts.go.jp/app/hanrei_jp/detail4?id=88679",
+    "accessed": {
+      "date-parts": [
+        [
+          2019,
+          6,
+          4
+        ]
+      ]
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {
+        "genre": {
+          "en": "Judgment"
+        }
+      }
+    },
+    "jurisdiction": "jp:tokyo:yokohama",
+    "genre": "判決"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== ABBREVIATIONS =====>>
+{
+  "default": {
+    "place": {
+      "jp": "JP"
+    }
+  },
+  "jp": {
+    "institution-part": {
+      "saiko.saibansho.san": "Supreme Court Third Petty Bench"
+    },
+    "title": {
+      "決定": "Ruling",
+      "判決": "Judgment"
+    },
+    "container-title": {
+      "刑集": "Keishū",
+      "民集": "Minshū",
+      "高裁判例集": "Kōsai hanreishū"
+    }
+  },
+  "jp:osaka": {
+    "institution-part": {
+      "koto.saibansho": "Osaka High Court"
+    }
+  },
+  "jp:tokyo:yokohama": {
+    "institution-part": {
+      "chiho.saibansho": "Yokohama District Court"
+    }
+  }
+}
+<<===== ABBREVIATIONS =====<<
