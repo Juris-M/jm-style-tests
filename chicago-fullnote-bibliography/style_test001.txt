@@ -1,0 +1,87 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "QANIJJS2"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test001
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  Zhilong Liang, Intelligent traffic light control system, United States US20090167561A1, filed May 13, 2008, and issued July 2, 2009, https://patents.google.com/patent/US20090167561A1/en?oq=US20090167561A1.
+FIRST w/LOCATOR
+  Zhilong Liang, Intelligent traffic light control system, United States US20090167561A1, filed May 13, 2008, and issued July 2, 2009, 123, https://patents.google.com/patent/US20090167561A1/en?oq=US20090167561A1.
+FIRST w/LABEL
+  Zhilong Liang, Intelligent traffic light control system, United States US20090167561A1, filed May 13, 2008, and issued July 2, 2009, para. 123, https://patents.google.com/patent/US20090167561A1/en?oq=US20090167561A1.
+IBID
+  Liang.
+IBID w/LOCATOR
+  Liang, 123.
+SUBSEQUENT
+  Liang, Intelligent traffic light control system.
+SUBSEQUENT w/LOCATOR
+  Liang, Intelligent traffic light control system, 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Liang, Zhilong. Intelligent traffic light control system. United States US20090167561A1, filed May 13, 2008, and issued July 2, 2009. https://patents.google.com/patent/US20090167561A1/en?oq=US20090167561A1.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "patent",
+    "title": "Intelligent traffic light control system",
+    "author": [
+      {
+        "given": "Zhilong",
+        "family": "Liang"
+      }
+    ],
+    "authority": "United States",
+    "number": "US20090167561A1",
+    "submitted": {
+      "date-parts": [
+        [
+          2008,
+          5,
+          13
+        ]
+      ]
+    },
+    "call-number": "US12/119,737",
+    "issued": {
+      "date-parts": [
+        [
+          2009,
+          7,
+          2
+        ]
+      ]
+    },
+    "status": "Abandoned",
+    "URL": "https://patents.google.com/patent/US20090167561A1/en?oq=US20090167561A1",
+    "accessed": {
+      "date-parts": [
+        [
+          2019,
+          5,
+          8
+        ]
+      ]
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "jurisdiction": "us"
+  }
+]
+<<===== INPUT =====<<

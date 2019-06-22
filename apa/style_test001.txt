@@ -1,0 +1,79 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "QANIJJS2"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test001
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (United States Patent No. US20090167561A1, 2009)
+FIRST w/LOCATOR
+  (United States Patent No. US20090167561A1, 2009, p. 123)
+FIRST w/LABEL
+  (United States Patent No. US20090167561A1, 2009, para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Liang, Z. (2009). <i>United States Patent No. US20090167561A1</i>. Retrieved from https://patents.google.com/patent/US20090167561A1/en?oq=US20090167561A1</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "patent",
+    "title": "Intelligent traffic light control system",
+    "author": [
+      {
+        "given": "Zhilong",
+        "family": "Liang"
+      }
+    ],
+    "authority": "United States",
+    "number": "US20090167561A1",
+    "submitted": {
+      "date-parts": [
+        [
+          2008,
+          5,
+          13
+        ]
+      ]
+    },
+    "call-number": "US12/119,737",
+    "issued": {
+      "date-parts": [
+        [
+          2009,
+          7,
+          2
+        ]
+      ]
+    },
+    "status": "Abandoned",
+    "URL": "https://patents.google.com/patent/US20090167561A1/en?oq=US20090167561A1",
+    "accessed": {
+      "date-parts": [
+        [
+          2019,
+          5,
+          8
+        ]
+      ]
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "jurisdiction": "us"
+  }
+]
+<<===== INPUT =====<<

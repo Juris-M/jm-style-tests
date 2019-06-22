@@ -27,7 +27,6 @@ should pass test style_test020
         "family": "Liang"
       }
     ],
-    "authority": "United States",
     "number": "US20090167561A1",
     "submitted": "2008-05-13 2008-05-13",
     "call-number": "US12/119,737",

@@ -1,0 +1,53 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "2HWANVAB"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should set a space after de' when used as a dropping name particle
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  Lorenzo de’ Medici, <i>A Book</i>, n.d.
+FIRST w/LOCATOR
+  Lorenzo de’ Medici, <i>A Book</i>, n.d., 123.
+FIRST w/LABEL
+  Lorenzo de’ Medici, <i>A Book</i>, n.d., para. 123.
+IBID
+  Medici.
+IBID w/LOCATOR
+  Medici, 123.
+SUBSEQUENT
+  Medici, <i>A Book</i>.
+SUBSEQUENT w/LOCATOR
+  Medici, <i>A Book</i>, 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Medici, Lorenzo de’. <i>A Book</i>, n.d.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "book",
+    "title": "A book",
+    "author": [
+      {
+        "given": "Lorenzo de'",
+        "family": "Medici"
+      }
+    ],
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<
