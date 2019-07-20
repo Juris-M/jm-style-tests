@@ -1,0 +1,85 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "386P6CGN"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+An examination of the machinations behind the scen
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  <i>Glengarry Glen Ross</i> (James Foley (dir), 1992).
+FIRST w/LOCATOR
+  <i>Glengarry Glen Ross</i> (James Foley (dir), 1992) at 123.
+FIRST w/LABEL
+  <i>Glengarry Glen Ross</i> (James Foley (dir), 1992) at [123].
+IBID
+  <i>Glengarry Glen Ross</i>.
+IBID w/LOCATOR
+  At 123.
+SUBSEQUENT
+  <i>Glengarry Glen Ross</i>.
+SUBSEQUENT w/LOCATOR
+  <i>Glengarry Glen Ross</i>, at 123.
+SUBSEQUENT w/BACKREF
+  <i>Glengarry Glen Ross</i>, above n 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  <i>Glengarry Glen Ross</i>, above n 1, at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry"><i>Glengarry Glen Ross</i> (James Foley (dir), 1992).</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "motion_picture",
+    "title": "Glengarry Glen Ross",
+    "director": [
+      {
+        "given": "James",
+        "family": "Foley"
+      }
+    ],
+    "null": [
+      {
+        "given": "David",
+        "family": "Mamet"
+      },
+      {
+        "given": "Al",
+        "family": "Pacino"
+      },
+      {
+        "given": "Jack",
+        "family": "Lemmon"
+      },
+      {
+        "given": "Alec",
+        "family": "Baldwin"
+      },
+      {
+        "given": "Alan",
+        "family": "Arkin"
+      }
+    ],
+    "issued": {
+      "raw": "02 Oct 1992"
+    },
+    "dimensions": "100 min",
+    "source": "IMDb",
+    "note": "IMDB ID: tt0104348\nIMDB Rating: 7.8 (78,871 votes)",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<

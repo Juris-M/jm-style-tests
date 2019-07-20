@@ -1,0 +1,70 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C8NFD7C4"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test015
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  Ryunosuke Akutagawa “In a Grove” in <i>Rashomon: and other stories</i> (Takashi Kojima (translator), C E Tuttle Co, 1952).
+FIRST w/LOCATOR
+  Ryunosuke Akutagawa “In a Grove” in <i>Rashomon: and other stories</i> (Takashi Kojima (translator), C E Tuttle Co, 1952) at 123.
+FIRST w/LABEL
+  Ryunosuke Akutagawa “In a Grove” in <i>Rashomon: and other stories</i> (Takashi Kojima (translator), C E Tuttle Co, 1952) at [123].
+IBID
+  Akutagawa.
+IBID w/LOCATOR
+  At 123.
+SUBSEQUENT
+  Akutagawa.
+SUBSEQUENT w/LOCATOR
+  Akutagawa, at 123.
+SUBSEQUENT w/BACKREF
+  Akutagawa, above n 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  Akutagawa, above n 1, at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Ryunosuke Akutagawa “In a Grove” in <i>Rashomon: and other stories</i> (Takashi Kojima (translator), C. E. Tuttle Co, 1952).</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "chapter",
+    "title": "In a Grove",
+    "author": [
+      {
+        "given": "Ryunosuke",
+        "family": "Akutagawa"
+      }
+    ],
+    "translator": [
+      {
+        "given": "Takashi",
+        "family": "Kojima"
+      }
+    ],
+    "container-title": "Rashomon: and other stories",
+    "publisher": "C. E. Tuttle Co",
+    "issued": {
+      "raw": "1952"
+    },
+    "language": "en",
+    "URL": "https://fullreads.com/crime/in-a-grove-by-ryunosuke-akutagawa/",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<

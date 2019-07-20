@@ -1,0 +1,83 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "5YTLXKB2"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Burden of Poverty Lacking money or time can lead o
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  Anandi Mani and others “Poverty Impedes Cognitive Function” (2013) 341 Science 976.
+FIRST w/LOCATOR
+  Anandi Mani and others “Poverty Impedes Cognitive Function” (2013) 341 Science 976 at 123.
+FIRST w/LABEL
+  Anandi Mani and others “Poverty Impedes Cognitive Function” (2013) 341 Science 976 at [123].
+IBID
+  Mani and others.
+IBID w/LOCATOR
+  At 123.
+SUBSEQUENT
+  Mani and others.
+SUBSEQUENT w/LOCATOR
+  Mani and others, at 123.
+SUBSEQUENT w/BACKREF
+  Mani and others, above n 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  Mani and others, above n 1, at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Anandi Mani, Sendhil Mullainathan, Eldar Shafir and Jiaying Zhao “Poverty Impedes Cognitive Function” (2013) 341 Science 976.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "article-journal",
+    "title": "Poverty Impedes Cognitive Function",
+    "author": [
+      {
+        "given": "Anandi",
+        "family": "Mani"
+      },
+      {
+        "given": "Sendhil",
+        "family": "Mullainathan"
+      },
+      {
+        "given": "Eldar",
+        "family": "Shafir"
+      },
+      {
+        "given": "Jiaying",
+        "family": "Zhao"
+      }
+    ],
+    "container-title": "Science",
+    "volume": "341",
+    "issue": "6149",
+    "page": "976-980",
+    "issued": {
+      "raw": "2013/08/30"
+    },
+    "language": "en",
+    "DOI": "10.1126/science.1238041",
+    "ISSN": "0036-8075, 1095-9203",
+    "URL": "http://science.sciencemag.org/content/341/6149/976",
+    "accessed": "2016-02-21T01:05:15Z",
+    "source": "science.sciencemag.org",
+    "note": "PMID: 23990553",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<

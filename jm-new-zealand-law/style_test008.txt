@@ -1,0 +1,68 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "VT7F6RPC"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test008
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  James AA Stockwin <i>Dictionary of the modern politics of Japan</i> (RoutledgeCurzon, 2003) Tanaka Kakuei.
+FIRST w/LOCATOR
+  James AA Stockwin <i>Dictionary of the modern politics of Japan</i> (RoutledgeCurzon, 2003) Tanaka Kakuei at 123.
+FIRST w/LABEL
+  James AA Stockwin <i>Dictionary of the modern politics of Japan</i> (RoutledgeCurzon, 2003) Tanaka Kakuei at [123].
+IBID
+  Stockwin.
+IBID w/LOCATOR
+  At 123.
+SUBSEQUENT
+  Stockwin.
+SUBSEQUENT w/LOCATOR
+  Stockwin, at 123.
+SUBSEQUENT w/BACKREF
+  Stockwin, above n 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  Stockwin, above n 1, at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">James AA Stockwin <i>Dictionary of the modern politics of Japan</i> (RoutledgeCurzon, 2003) Tanaka Kakuei.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "entry-encyclopedia",
+    "title": "Tanaka Kakuei",
+    "author": [
+      {
+        "given": "James A. A.",
+        "family": "Stockwin"
+      }
+    ],
+    "container-title": "Dictionary of the modern politics of Japan",
+    "publisher-place": "London",
+    "publisher": "RoutledgeCurzon",
+    "issued": {
+      "raw": "2003"
+    },
+    "page": "238-239",
+    "ISBN": "978-0-415-15170-2",
+    "language": "en",
+    "source": "Open WorldCat",
+    "note": "OCLC: 834302762",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<

@@ -1,0 +1,56 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "SZL8TUP7"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test011
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  <i>Security Interests Handbook</i> (Aoyama Law Offices 1990).
+FIRST w/LOCATOR
+  <i>Security Interests Handbook</i> (Aoyama Law Offices 1990) at 123.
+FIRST w/LABEL
+  <i>Security Interests Handbook</i> (Aoyama Law Offices 1990) at [123].
+IBID
+  “Security Interests Handbook”.
+IBID w/LOCATOR
+  At 123.
+SUBSEQUENT
+  “Security Interests Handbook”.
+SUBSEQUENT w/LOCATOR
+  “Security Interests Handbook”, at 123.
+SUBSEQUENT w/BACKREF
+  “Security Interests Handbook”, above n 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  “Security Interests Handbook”, above n 1, at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry"><i>Security Interests Handbook</i> (Aoyama Law Offices 1990).</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "report",
+    "title": "Security Interests Handbook",
+    "publisher-place": "Tokyo",
+    "publisher": "Aoyama Law Offices",
+    "issued": {
+      "raw": "1990"
+    },
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<

@@ -1,0 +1,62 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "HPU8S8FT"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test006
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  McInformation Network “The McLibel Trial” (16 February 1996) McSpotlight &#60;www.mcspotlight.org&#62;.
+FIRST w/LOCATOR
+  McInformation Network “The McLibel Trial” (16 February 1996) McSpotlight &#60;www.mcspotlight.org&#62; at 123.
+FIRST w/LABEL
+  McInformation Network “The McLibel Trial” (16 February 1996) McSpotlight &#60;www.mcspotlight.org&#62; at [123].
+IBID
+  McInformation Network.
+IBID w/LOCATOR
+  At 123.
+SUBSEQUENT
+  McInformation Network.
+SUBSEQUENT w/LOCATOR
+  McInformation Network, at 123.
+SUBSEQUENT w/BACKREF
+  McInformation Network, above n 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  McInformation Network, above n 1, at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">McInformation Network “The McLibel Trial” (16 February 1996) McSpotlight &#60;www.mcspotlight.org&#62;.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "webpage",
+    "title": "The McLibel Trial",
+    "author": [
+      {
+        "literal": "McInformation Network"
+      }
+    ],
+    "container-title": "McSpotlight",
+    "issued": {
+      "raw": "1996-02-16"
+    },
+    "URL": "http://www.mcspotlight.org/case/index.html",
+    "accessed": "2014-06-22T10:12:16Z",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<

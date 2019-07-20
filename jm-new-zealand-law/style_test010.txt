@@ -1,0 +1,84 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "4GBT9VM7"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Wherein Negroponte expresses the idea that only on
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  Nicholas Negroponte “Beyond Digital” (Podcast, April 2013) Seminar About Long-Term Thinking &#60;http://blog.longnow.org&#62;.
+FIRST w/LOCATOR
+  Nicholas Negroponte “Beyond Digital” (Podcast, April 2013) Seminar About Long-Term Thinking &#60;http://blog.longnow.org&#62; at 123.
+FIRST w/LABEL
+  Nicholas Negroponte “Beyond Digital” (Podcast, April 2013) Seminar About Long-Term Thinking &#60;http://blog.longnow.org&#62; at [123].
+IBID
+  Negroponte.
+IBID w/LOCATOR
+  At 123.
+SUBSEQUENT
+  Negroponte.
+SUBSEQUENT w/LOCATOR
+  Negroponte, at 123.
+SUBSEQUENT w/BACKREF
+  Negroponte, above n 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  Negroponte, above n 1, at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Nicholas Negroponte “Beyond Digital” (Podcast, April 2013) Seminar About Long-Term Thinking &#60;http://blog.longnow.org&#62;.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "song",
+    "title": "Beyond Digital",
+    "null": [
+      {
+        "given": "Stewart",
+        "family": "Brand"
+      }
+    ],
+    "author": [
+      {
+        "given": "Nicholas",
+        "family": "Negroponte"
+      }
+    ],
+    "collection-title": "Seminar About Long-Term Thinking",
+    "URL": "http://blog.longnow.org/02014/05/07/nicholas-negroponte-beyond-digital-a-seminar-flashback/",
+    "accessed": {
+      "date-parts": [
+        [
+          2015,
+          1,
+          15
+        ]
+      ]
+    },
+    "note": "English as the sole language on the planet: \n39:58 to 41:23",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "publisher": "Long Now",
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          4
+        ]
+      ]
+    }
+  }
+]
+<<===== INPUT =====<<

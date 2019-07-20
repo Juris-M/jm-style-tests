@@ -1,0 +1,64 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "ASDP38NN"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test014
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  Ed Dante “The Shadow Scholar” <i>Chronicle of Higher Education</i> (12 October 2010) &#60;http://chronicle.com&#62;.
+FIRST w/LOCATOR
+  Ed Dante “The Shadow Scholar” <i>Chronicle of Higher Education</i> (12 October 2010) &#60;http://chronicle.com&#62; at 123.
+FIRST w/LABEL
+  Ed Dante “The Shadow Scholar” <i>Chronicle of Higher Education</i> (12 October 2010) &#60;http://chronicle.com&#62; at [123].
+IBID
+  Dante.
+IBID w/LOCATOR
+  At 123.
+SUBSEQUENT
+  Dante.
+SUBSEQUENT w/LOCATOR
+  Dante, at 123.
+SUBSEQUENT w/BACKREF
+  Dante, above n 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  Dante, above n 1, at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Ed Dante “The Shadow Scholar” <i>Chronicle of Higher Education</i> (12 October 2010) &#60;http://chronicle.com&#62;.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "article-newspaper",
+    "title": "The Shadow Scholar",
+    "author": [
+      {
+        "given": "Ed",
+        "family": "Dante"
+      }
+    ],
+    "container-title": "Chronicle of Higher Education",
+    "issued": {
+      "raw": "2010-10-12"
+    },
+    "section": "Chronicle Review",
+    "URL": "http://chronicle.com/article/The-Shadow-Scholar/125329/",
+    "accessed": "2013-08-07T22:03:48Z",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<

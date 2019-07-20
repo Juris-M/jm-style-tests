@@ -1,0 +1,79 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "4BK9JWHH"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test002
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  RJ Hoekstra and others “Ontology Representation: design patterns and ontologies that make sense” (PhD Thesis, University of Amsterdam, Faculty of Law, 2009).
+FIRST w/LOCATOR
+  RJ Hoekstra and others “Ontology Representation: design patterns and ontologies that make sense” (PhD Thesis, University of Amsterdam, Faculty of Law, 2009) at 123.
+FIRST w/LABEL
+  RJ Hoekstra and others “Ontology Representation: design patterns and ontologies that make sense” (PhD Thesis, University of Amsterdam, Faculty of Law, 2009) at [123].
+IBID
+  Hoekstra and others.
+IBID w/LOCATOR
+  At 123.
+SUBSEQUENT
+  Hoekstra and others.
+SUBSEQUENT w/LOCATOR
+  Hoekstra and others, at 123.
+SUBSEQUENT w/BACKREF
+  Hoekstra and others, above n 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  Hoekstra and others, above n 1, at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">RJ Hoekstra, JAPJ Breuker, TM van Engers and RGF Winkels “Ontology Representation: design patterns and ontologies that make sense” (PhD Thesis, University of Amsterdam, Faculty of Law, 2009).</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "thesis",
+    "title": "Ontology Representation : design patterns and ontologies that make sense",
+    "author": [
+      {
+        "given": "R. J.",
+        "family": "Hoekstra"
+      },
+      {
+        "given": "J.A.P.J.",
+        "family": "Breuker"
+      },
+      {
+        "given": "T.M. van",
+        "family": "Engers"
+      },
+      {
+        "given": "R.G.F.",
+        "family": "Winkels"
+      }
+    ],
+    "genre": "PhD Thesis",
+    "publisher": "University of Amsterdam, Faculty of Law",
+    "issued": {
+      "raw": "2009-09-18"
+    },
+    "number-of-pages": "241",
+    "language": "en",
+    "URL": "http://dare.uva.nl/record/314297",
+    "accessed": "2013-08-21T23:15:56Z",
+    "source": "dare.uva.nl",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<

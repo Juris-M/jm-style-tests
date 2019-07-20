@@ -1,0 +1,77 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "4B8F7IJI"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test004
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  Carson McKee and Josh Turner “1952 Vincent Black Lightning” (musical performance, 25 July 2011) &#60;www.youtube.com&#62;.
+FIRST w/LOCATOR
+  Carson McKee and Josh Turner “1952 Vincent Black Lightning” (musical performance, 25 July 2011) &#60;www.youtube.com&#62; at 123.
+FIRST w/LABEL
+  Carson McKee and Josh Turner “1952 Vincent Black Lightning” (musical performance, 25 July 2011) &#60;www.youtube.com&#62; at [123].
+IBID
+  “1952 Vincent Black Lightning”.
+IBID w/LOCATOR
+  At 123.
+SUBSEQUENT
+  “1952 Vincent Black Lightning”.
+SUBSEQUENT w/LOCATOR
+  “1952 Vincent Black Lightning”, at 123.
+SUBSEQUENT w/BACKREF
+  “1952 Vincent Black Lightning”, above n 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  “1952 Vincent Black Lightning”, above n 1, at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Carson McKee and Josh Turner “1952 Vincent Black Lightning” (musical performance, 25 July 2011) &#60;www.youtube.com&#62;.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "video",
+    "title": "1952 Vincent Black Lightning",
+    "contributor": [
+      {
+        "given": "Carson",
+        "family": "McKee"
+      },
+      {
+        "given": "Josh",
+        "family": "Turner"
+      }
+    ],
+    "issued": {
+      "raw": "2011-07-25"
+    },
+    "dimensions": "246 seconds",
+    "URL": "https://www.youtube.com/watch?v=fQK2xFOAxrI",
+    "accessed": {
+      "date-parts": [
+        [
+          2016,
+          3,
+          8
+        ]
+      ]
+    },
+    "note": "genre: musical performance",
+    "source": "YouTube",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<

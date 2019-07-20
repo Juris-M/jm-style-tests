@@ -1,0 +1,108 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "WMDTW3RN"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test001
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  Jonathan Chang and others “Reading tea leaves: How humans interpret topic models” (2009) 22 Advances in neural information processing systems 288.
+FIRST w/LOCATOR
+  Jonathan Chang and others “Reading tea leaves: How humans interpret topic models” (2009) 22 Advances in neural information processing systems 288 at 123.
+FIRST w/LABEL
+  Jonathan Chang and others “Reading tea leaves: How humans interpret topic models” (2009) 22 Advances in neural information processing systems 288 at [123].
+IBID
+  Chang and others.
+IBID w/LOCATOR
+  At 123.
+SUBSEQUENT
+  Chang and others.
+SUBSEQUENT w/LOCATOR
+  Chang and others, at 123.
+SUBSEQUENT w/BACKREF
+  Chang and others, above n 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  Chang and others, above n 1, at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Jonathan Chang, Sean Gerrish, Chong Wang, Jordan L Boyd-Graber and David M Blei “Reading tea leaves: How humans interpret topic models” (2009) 22 Advances in neural information processing systems 288.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "paper-conference",
+    "title": "Reading tea leaves: How humans interpret topic models",
+    "author": [
+      {
+        "given": "Jonathan",
+        "family": "Chang"
+      },
+      {
+        "given": "Sean",
+        "family": "Gerrish"
+      },
+      {
+        "given": "Chong",
+        "family": "Wang"
+      },
+      {
+        "given": "Jordan L.",
+        "family": "Boyd-Graber"
+      },
+      {
+        "given": "David M.",
+        "family": "Blei"
+      }
+    ],
+    "issued": {
+      "raw": "2009"
+    },
+    "container-title": "Advances in neural information processing systems",
+    "event": "NIPS",
+    "publisher-place": "Vancouver",
+    "volume": "22",
+    "page": "288–296",
+    "shortTitle": "Reading tea leaves",
+    "URL": "https://papers.nips.cc/paper/3700-reading-tea-leaves-how-humans-interpret-topic-models",
+    "accessed": {
+      "date-parts": [
+        [
+          2015,
+          7,
+          15
+        ]
+      ]
+    },
+    "source": "Google Scholar",
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "event-date": {
+      "date-parts": [
+        [
+          2009,
+          12,
+          10
+        ],
+        [
+          2009,
+          12,
+          11
+        ]
+      ]
+    }
+  }
+]
+<<===== INPUT =====<<

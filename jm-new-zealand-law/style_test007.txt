@@ -1,0 +1,89 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "L28KV43H"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test007
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  吉野幸徳 法律辞典 (高山堂, 1878) 借地.
+FIRST w/LOCATOR
+  吉野幸徳 法律辞典 (高山堂, 1878) 借地 at 123.
+FIRST w/LABEL
+  吉野幸徳 法律辞典 (高山堂, 1878) 借地 at [123].
+IBID
+  吉野.
+IBID w/LOCATOR
+  At 123.
+SUBSEQUENT
+  吉野.
+SUBSEQUENT w/LOCATOR
+  吉野, at 123.
+SUBSEQUENT w/BACKREF
+  吉野, above n 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  吉野, above n 1, at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">吉野幸徳 借地(高山堂, 1878).</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "entry-dictionary",
+    "title": "借地",
+    "author": [
+      {
+        "given": "幸徳",
+        "family": "吉野",
+        "multi": {
+          "_key": {
+            "en": {
+              "given": "Yukinori",
+              "family": "Yoshino"
+            },
+            "ja-alalc97": {
+              "given": "Yukinori",
+              "family": "Yoshino"
+            }
+          },
+          "main": "ja"
+        }
+      }
+    ],
+    "container-title": "法律辞典",
+    "publisher": "高山堂",
+    "issued": {
+      "raw": "1878-07"
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {
+        "publisher": {
+          "en": "Takayamadō",
+          "ja-alalc97": "Takayamadō"
+        },
+        "container-title": {
+          "ja-alalc97": "Hōritsu jiten",
+          "en": "Law Dictionary"
+        },
+        "title": {
+          "en": "Land Lease",
+          "ja-alalc97": "Shakuchi"
+        }
+      }
+    }
+  }
+]
+<<===== INPUT =====<<

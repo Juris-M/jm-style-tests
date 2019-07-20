@@ -1,0 +1,64 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "CRWC4QDS"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test012
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  Joshua Tauberer “Observing the unobservables in the United States Congress” (Law via the Internet 2012, Cornell, 8 October 2012).
+FIRST w/LOCATOR
+  Joshua Tauberer “Observing the unobservables in the United States Congress” (Law via the Internet 2012, Cornell, 8 October 2012) at 123.
+FIRST w/LABEL
+  Joshua Tauberer “Observing the unobservables in the United States Congress” (Law via the Internet 2012, Cornell, 8 October 2012) at [123].
+IBID
+  Tauberer.
+IBID w/LOCATOR
+  At 123.
+SUBSEQUENT
+  Tauberer.
+SUBSEQUENT w/LOCATOR
+  Tauberer, at 123.
+SUBSEQUENT w/BACKREF
+  Tauberer, above n 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  Tauberer, above n 1, at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Joshua Tauberer “Observing the unobservables in the United States Congress” (Law via the Internet 2012, Cornell, 8 October 2012).</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "speech",
+    "title": "Observing the unobservables in the United States Congress",
+    "author": [
+      {
+        "given": "Joshua",
+        "family": "Tauberer"
+      }
+    ],
+    "issued": {
+      "raw": "2012-10-08"
+    },
+    "publisher-place": "Cornell",
+    "event": "Law via the Internet 2012",
+    "URL": "http://blog.law.cornell.edu/lvi2012/presentation/track-4-headliner-joshua-tauberer/",
+    "accessed": "2013-02-14T07:35:49Z",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<

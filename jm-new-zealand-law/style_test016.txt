@@ -1,0 +1,64 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "THPYS6DH"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test016
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  Barbara Ringer “The Demonology of Copyright” (1974) 200 Publisher’s Weekly 26.
+FIRST w/LOCATOR
+  Barbara Ringer “The Demonology of Copyright” (1974) 200 Publisher’s Weekly 26 at 123.
+FIRST w/LABEL
+  Barbara Ringer “The Demonology of Copyright” (1974) 200 Publisher’s Weekly 26 at [123].
+IBID
+  Ringer.
+IBID w/LOCATOR
+  At 123.
+SUBSEQUENT
+  Ringer.
+SUBSEQUENT w/LOCATOR
+  Ringer, at 123.
+SUBSEQUENT w/BACKREF
+  Ringer, above n 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  Ringer, above n 1, at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Barbara Ringer “The Demonology of Copyright” (1974) 200 Publisher’s Weekly 26.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "article-magazine",
+    "title": "The Demonology of Copyright",
+    "author": [
+      {
+        "given": "Barbara",
+        "family": "Ringer"
+      }
+    ],
+    "container-title": "Publisher's Weekly",
+    "issue": "200",
+    "issued": {
+      "raw": "November 18, 1974"
+    },
+    "page": "26",
+    "note": "1974 Bowker Memorial Lecture, reprinted here",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<

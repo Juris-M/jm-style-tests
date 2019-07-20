@@ -1,0 +1,63 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "24ZXQHCJ"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test013
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  Nathanael West <i>A Cool Million</i> (Covici Friede Publishers, 1934).
+FIRST w/LOCATOR
+  Nathanael West <i>A Cool Million</i> (Covici Friede Publishers, 1934) at 123.
+FIRST w/LABEL
+  Nathanael West <i>A Cool Million</i> (Covici Friede Publishers, 1934) at [123].
+IBID
+  West.
+IBID w/LOCATOR
+  At 123.
+SUBSEQUENT
+  West.
+SUBSEQUENT w/LOCATOR
+  West, at 123.
+SUBSEQUENT w/BACKREF
+  West, above n 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  West, above n 1, at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Nathanael West <i>A Cool Million</i> (Covici Friede Publishers, 1934).</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "book",
+    "title": "A Cool Million: The Dismantling of Lemuel Pitkin",
+    "author": [
+      {
+        "given": "Nathanael",
+        "family": "West"
+      }
+    ],
+    "publisher": "Covici Friede Publishers",
+    "issued": {
+      "raw": "1934"
+    },
+    "shortTitle": "A Cool Million",
+    "source": "Amazon.com",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<

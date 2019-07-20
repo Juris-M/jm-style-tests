@@ -1,0 +1,63 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "Y2D2YMFW"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test005
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  <i>War of the worlds</i> (radio broadcast, Orson Welles (dir), Columbia Broadcasting System, 30 October 1938).
+FIRST w/LOCATOR
+  <i>War of the worlds</i> (radio broadcast, Orson Welles (dir), Columbia Broadcasting System, 30 October 1938) at 123.
+FIRST w/LABEL
+  <i>War of the worlds</i> (radio broadcast, Orson Welles (dir), Columbia Broadcasting System, 30 October 1938) at [123].
+IBID
+  <i>War of the worlds</i>.
+IBID w/LOCATOR
+  At 123.
+SUBSEQUENT
+  <i>War of the worlds</i>.
+SUBSEQUENT w/LOCATOR
+  <i>War of the worlds</i>, at 123.
+SUBSEQUENT w/BACKREF
+  <i>War of the worlds</i>, above n 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  <i>War of the worlds</i>, above n 1, at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry"><i>War of the worlds</i> (radio broadcast, Orson Welles (dir), Columbia Broadcasting System, 30 October 1938).</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "broadcast",
+    "title": "War of the worlds",
+    "director": [
+      {
+        "given": "Orson",
+        "family": "Welles"
+      }
+    ],
+    "publisher": "Columbia Broadcasting System",
+    "issued": {
+      "raw": "1938-10-30"
+    },
+    "language": "en",
+    "note": "genre: radio broadcast\nAvailable on youtube.com",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<
