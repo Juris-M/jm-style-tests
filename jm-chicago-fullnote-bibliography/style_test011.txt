@@ -1,0 +1,159 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "KJUA2MGN"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+SAMPLE CITATION
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  Anti-Monopoly Law [反垄断法] (promulgated by the Standing Committee of the National People’s Congress, August 30, 2007, effective August 1, 2008).
+FIRST w/LOCATOR
+  Anti-Monopoly Law [反垄断法] (promulgated by the Standing Committee of the National People’s Congress, August 30, 2007, effective August 1, 2008) at 123.
+FIRST w/LABEL
+  Anti-Monopoly Law [反垄断法] (promulgated by the Standing Committee of the National People’s Congress, August 30, 2007, effective August 1, 2008) ¶ 123.
+IBID
+  <i>Ibid.</i>
+IBID w/LOCATOR
+  <i>Ibid.</i> at 123.
+SUBSEQUENT
+  [CSL STYLE ERROR: reference with no printed form.].
+SUBSEQUENT w/LOCATOR
+  at 123.
+SUBSEQUENT w/BACKREF
+  [CSL STYLE ERROR: reference with no printed form.].
+SUBSEQUENT w/BACKREF+LOCATOR
+  at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Anti-Monopoly Law [反垄断法] (promulgated by the Standing Committee of the National People’s Congress, August 30, 2007, effective August 1, 2008).</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legislation",
+    "title": "反垄断法",
+    "author": [
+      {
+        "literal": "全国人大常委会",
+        "multi": {
+          "_key": {
+            "en": {
+              "literal": "Standing Committee of the National People's Congress"
+            }
+          }
+        }
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2007,
+          8,
+          30
+        ]
+      ]
+    },
+    "note": "available-date: 2008-08-01\nauthority: Standing Committee of the National People's Congress",
+    "multi": {
+      "main": {},
+      "_keys": {
+        "title": {
+          "en": "Anti-Monopoly Law"
+        }
+      }
+    },
+    "jurisdiction": "cn"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== LANGPARAMS =====>>
+{
+  "persons": [
+    "translat",
+    "orig"
+  ],
+  "institutions": [
+    "translat"
+  ],
+  "titles": [
+    "translat",
+    "orig"
+  ],
+  "journals": [
+    "translat",
+    "orig"
+  ],
+  "publishers": [
+    "translat"
+  ],
+  "places": [
+    "translat"
+  ]
+}
+<<===== LANGPARAMS =====<<
+
+
+>>===== MULTIAFFIX =====>>
+[
+  null,
+  null,
+  " (",
+  ")",
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  " [",
+  "]",
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  " [",
+  "]",
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null
+]
+<<===== MULTIAFFIX =====<<

@@ -1,0 +1,59 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "BKF5DTYF"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+government web page with unofficial translation, lacking full metadata
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  “Federal Law ‘On Protection of Competition’ (as Amended in 2016), Adopted by the State Duma on July 8, 2006, Approved by the Federation Council on July 14, 2006,” unofficial translation, <i>Federal Antimonopoly Service of the Russian Federation</i>, (July 22, 2016), http://en.fas.gov.ru.
+FIRST w/LOCATOR
+  “Federal Law ‘On Protection of Competition’ (as Amended in 2016), Adopted by the State Duma on July 8, 2006, Approved by the Federation Council on July 14, 2006,” unofficial translation, <i>Federal Antimonopoly Service of the Russian Federation</i>, (July 22, 2016), 123, http://en.fas.gov.ru.
+FIRST w/LABEL
+  “Federal Law ‘On Protection of Competition’ (as Amended in 2016), Adopted by the State Duma on July 8, 2006, Approved by the Federation Council on July 14, 2006,” unofficial translation, <i>Federal Antimonopoly Service of the Russian Federation</i>, (July 22, 2016), para. 123, http://en.fas.gov.ru.
+IBID
+  Ibid.
+IBID w/LOCATOR
+  Ibid. at 123.
+SUBSEQUENT
+  “Federal Law ‘On Protection of Competition.’”
+SUBSEQUENT w/LOCATOR
+  “Federal Law ‘On Protection of Competition,’” 123.
+SUBSEQUENT w/BACKREF
+  “Federal Law ‘On Protection of Competition.’”
+SUBSEQUENT w/BACKREF+LOCATOR
+  “Federal Law ‘On Protection of Competition,’” 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">“Federal Law ‘On Protection of Competition’ (as Amended in 2016), Adopted by the State Duma on July 8, 2006, Approved by the Federation Council on July 14, 2006.” Unofficial translation. <i>Federal Antimonopoly Service of the Russian Federation</i>, July 22, 2016. http://en.fas.gov.ru/documents/documentdetails.html?id=14737.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "webpage",
+    "title": "Federal Law \"On Protection of Competition\" (as amended in 2016), adopted by the State Duma on July 8, 2006, approved by the Federation Council on July 14, 2006",
+    "container-title": "Federal Antimonopoly Service of the Russian Federation",
+    "issued": {
+      "raw": "2016-07-22"
+    },
+    "genre": "unofficial translation",
+    "title-short": "Federal Law 'On Protection of Competition'",
+    "URL": "http://en.fas.gov.ru/documents/documentdetails.html?id=14737",
+    "accessed": "2019-07-18",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<

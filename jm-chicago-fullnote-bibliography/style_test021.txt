@@ -1,0 +1,56 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "5FUNIGC6"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Blog post
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  “Benefits of Competition,” <i>International Competition Network</i>, www.internationalcompetitionnetwork.org.
+FIRST w/LOCATOR
+  “Benefits of Competition,” <i>International Competition Network</i>, 123, www.internationalcompetitionnetwork.org.
+FIRST w/LABEL
+  “Benefits of Competition,” <i>International Competition Network</i>, para. 123, www.internationalcompetitionnetwork.org.
+IBID
+  Ibid.
+IBID w/LOCATOR
+  Ibid. at 123.
+SUBSEQUENT
+  “Benefits of Competition.”
+SUBSEQUENT w/LOCATOR
+  “Benefits of Competition,” 123.
+SUBSEQUENT w/BACKREF
+  “Benefits of Competition.”
+SUBSEQUENT w/BACKREF+LOCATOR
+  “Benefits of Competition,” 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">“Benefits of Competition.” <i>International Competition Network</i>. https://www.internationalcompetitionnetwork.org/working-groups/advocacy/benefits-of-competition/.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "post-weblog",
+    "title": "Benefits of Competition",
+    "container-title": "International Competition Network",
+    "URL": "https://www.internationalcompetitionnetwork.org/working-groups/advocacy/benefits-of-competition/",
+    "accessed": "2019-07-16T18:57:15Z",
+    "language": "en-US",
+    "note": "“Benefits of Competition,” International Competition Network，accessed July 19, 2019 https://www.internationalcompetitionnetwork.org/working-groups/advocacy/benefits-of-competition/.",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<

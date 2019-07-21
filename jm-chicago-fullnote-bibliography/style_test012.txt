@@ -1,0 +1,59 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "4BAIYB7Y"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+SAMPLE CITATION
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  <i>A Framework for the Design and Implementation of Competition Law and Policy</i> (Organisation for Economic Co-operation and Development; World Bank, 1998), www.oecd.org.
+FIRST w/LOCATOR
+  <i>A Framework for the Design and Implementation of Competition Law and Policy</i> (Organisation for Economic Co-operation and Development; World Bank, 1998), 123, www.oecd.org.
+FIRST w/LABEL
+  <i>A Framework for the Design and Implementation of Competition Law and Policy</i> (Organisation for Economic Co-operation and Development; World Bank, 1998), para. 123, www.oecd.org.
+IBID
+  Ibid.
+IBID w/LOCATOR
+  Ibid. at 123.
+SUBSEQUENT
+  “A Framework for the Design and Implementation of Competition Law and Policy.”
+SUBSEQUENT w/LOCATOR
+  “A Framework for the Design and Implementation of Competition Law and Policy,” 123.
+SUBSEQUENT w/BACKREF
+  “A Framework for the Design and Implementation of Competition Law and Policy.”
+SUBSEQUENT w/BACKREF+LOCATOR
+  “A Framework for the Design and Implementation of Competition Law and Policy,” 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry"><i>A Framework for the Design and Implementation of Competition Law and Policy</i>. Organisation for Economic Co-operation and Development; World Bank. 1998. https://www.oecd.org/daf/competition/sectors/aframeworkforthedesignandimplementationofcompetitionlawandpolicy.htm.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "report",
+    "title": "A framework for the design and implementation of competition law and policy",
+    "publisher": "Organisation for Economic Co-operation and Development; World Bank",
+    "issued": {
+      "raw": "1998"
+    },
+    "language": "English",
+    "URL": "https://www.oecd.org/daf/competition/sectors/aframeworkforthedesignandimplementationofcompetitionlawandpolicy.htm",
+    "source": "Open WorldCat",
+    "note": "Organisation for Economic Cooperation and Development, A Framework for the Design and Implementation of Competition Law and Policy, (Organisation for Economic Co-operation and Development; World Bank, 1998), accessed July 19, 2019 https://www.oecd.org/daf/competition/sectors/aframeworkforthedesignandimplementationofcompetitionlawandpolicy.htm.",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<

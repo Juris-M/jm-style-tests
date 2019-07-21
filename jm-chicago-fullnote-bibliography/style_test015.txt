@@ -1,0 +1,66 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "VUWAR88W"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test015
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  John Maynard Keynes, <i>The General Theory of Employment, Interest, and Money</i> (Springer, 2018).
+FIRST w/LOCATOR
+  John Maynard Keynes, <i>The General Theory of Employment, Interest, and Money</i> (Springer, 2018), 123.
+FIRST w/LABEL
+  John Maynard Keynes, <i>The General Theory of Employment, Interest, and Money</i> (Springer, 2018), para. 123.
+IBID
+  Ibid.
+IBID w/LOCATOR
+  Ibid. at 123.
+SUBSEQUENT
+  Keynes, <i>The General Theory of Employment, Interest, and Money</i>.
+SUBSEQUENT w/LOCATOR
+  Keynes, <i>The General Theory of Employment, Interest, and Money</i>, 123.
+SUBSEQUENT w/BACKREF
+  Keynes, <i>The General Theory of Employment, Interest, and Money</i>.
+SUBSEQUENT w/BACKREF+LOCATOR
+  Keynes, <i>The General Theory of Employment, Interest, and Money</i>, 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Keynes, John Maynard. <i>The General Theory of Employment, Interest, and Money</i>. Springer. 2018.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "book",
+    "title": "The General Theory of Employment, Interest, and Money",
+    "author": [
+      {
+        "given": "John Maynard",
+        "family": "Keynes"
+      }
+    ],
+    "publisher": "Springer",
+    "issued": {
+      "raw": "2018-07-20"
+    },
+    "number-of-pages": "430",
+    "language": "en",
+    "ISBN": "978-3-319-70344-2",
+    "source": "Google Books",
+    "note": "Google-Books-ID: Su1lDwAAQBAJ",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<

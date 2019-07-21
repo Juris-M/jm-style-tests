@@ -1,0 +1,157 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "LBP8XTV4"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+SAMPLE CITATION
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  Rules on the Procedure for Administration of Industry and Commerce to Stop Abuse of Administrative Power for the Purposes of Eliminating or Restricting Competition [工商行政管理机关制止滥用行政权力排除、限制竞争行为的程序规定] (promulgated by the State Administration of Industry and Commerce, May 26, 2009, effective July 1, 2009).
+FIRST w/LOCATOR
+  Rules on the Procedure for Administration of Industry and Commerce to Stop Abuse of Administrative Power for the Purposes of Eliminating or Restricting Competition [工商行政管理机关制止滥用行政权力排除、限制竞争行为的程序规定] (promulgated by the State Administration of Industry and Commerce, May 26, 2009, effective July 1, 2009) at 123.
+FIRST w/LABEL
+  Rules on the Procedure for Administration of Industry and Commerce to Stop Abuse of Administrative Power for the Purposes of Eliminating or Restricting Competition [工商行政管理机关制止滥用行政权力排除、限制竞争行为的程序规定] (promulgated by the State Administration of Industry and Commerce, May 26, 2009, effective July 1, 2009) ¶ 123.
+IBID
+  <i>Ibid.</i>
+IBID w/LOCATOR
+  <i>Ibid.</i> at 123.
+SUBSEQUENT
+  [CSL STYLE ERROR: reference with no printed form.].
+SUBSEQUENT w/LOCATOR
+  at 123.
+SUBSEQUENT w/BACKREF
+  [CSL STYLE ERROR: reference with no printed form.].
+SUBSEQUENT w/BACKREF+LOCATOR
+  at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Rules on the Procedure for Administration of Industry and Commerce to Stop Abuse of Administrative Power for the Purposes of Eliminating or Restricting Competition [工商行政管理机关制止滥用行政权力排除、限制竞争行为的程序规定] (promulgated by the State Administration of Industry and Commerce, May 26, 2009, effective July 1, 2009).</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "regulation",
+    "title": "工商行政管理机关制止滥用行政权力排除、限制竞争行为的程序规定",
+    "issued": {
+      "date-parts": [
+        [
+          2009,
+          5,
+          26
+        ]
+      ]
+    },
+    "language": "zh",
+    "note": "available-date: 2009-07-01",
+    "multi": {
+      "main": {},
+      "_keys": {
+        "title": {
+          "en": "Rules on the Procedure for Administration of Industry and Commerce to Stop Abuse of Administrative Power for the Purposes of Eliminating or Restricting Competition"
+        },
+        "genre": {
+          "en": "Administrative Rule"
+        },
+        "authority": {
+          "en": "State Administration of Industry and Commerce"
+        }
+      }
+    },
+    "publisher": "State Administration of Industry and Commerce",
+    "jurisdiction": "cn",
+    "genre": "行政规章",
+    "authority": "国家工商行政管理总局"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== LANGPARAMS =====>>
+{
+  "persons": [
+    "translat",
+    "orig"
+  ],
+  "institutions": [
+    "translat"
+  ],
+  "titles": [
+    "translat",
+    "orig"
+  ],
+  "journals": [
+    "translat",
+    "orig"
+  ],
+  "publishers": [
+    "translat"
+  ],
+  "places": [
+    "translat"
+  ]
+}
+<<===== LANGPARAMS =====<<
+
+
+>>===== MULTIAFFIX =====>>
+[
+  null,
+  null,
+  " (",
+  ")",
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  " [",
+  "]",
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  " [",
+  "]",
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null
+]
+<<===== MULTIAFFIX =====<<

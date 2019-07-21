@@ -1,0 +1,53 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== ABBREVIATIONS =====>>
+{
+  "nz": {
+    "institution-part": {
+      "sc": "SC"
+    }
+  }
+}
+<<===== ABBREVIATIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "WP69DLZW"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test018
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+%%RESULT%%
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_case",
+    "title": "Re Gunson (A Bankrupt), ex parte Official Assignee",
+    "container-title": "NZLR",
+    "authority": "sc",
+    "page": "187",
+    "collection-number": "1966",
+    "issued": {
+      "date-parts": [
+        [
+          1966
+        ]
+      ]
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "jurisdiction": "nz"
+  }
+]
+<<===== INPUT =====<<

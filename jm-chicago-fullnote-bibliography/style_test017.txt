@@ -1,0 +1,77 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "BP75DH3A"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test017
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  Nigar Hashimzade, Gareth Myles, and John Black, “Statutory Monopoly,” <i>A Dictionary of Economics</i> (London: Oxford University Press, 2017).
+FIRST w/LOCATOR
+  Nigar Hashimzade, Gareth Myles, and John Black, “Statutory Monopoly,” <i>A Dictionary of Economics</i> (London: Oxford University Press, 2017), 123.
+FIRST w/LABEL
+  Nigar Hashimzade, Gareth Myles, and John Black, “Statutory Monopoly,” <i>A Dictionary of Economics</i> (London: Oxford University Press, 2017), para. 123.
+IBID
+  Ibid.
+IBID w/LOCATOR
+  Ibid. at 123.
+SUBSEQUENT
+  Hashimzade, Myles, and Black, “Statutory Monopoly.”
+SUBSEQUENT w/LOCATOR
+  Hashimzade, Myles, and Black, “Statutory Monopoly,” 123.
+SUBSEQUENT w/BACKREF
+  Hashimzade, Myles, and Black, “Statutory Monopoly.”
+SUBSEQUENT w/BACKREF+LOCATOR
+  Hashimzade, Myles, and Black, “Statutory Monopoly,” 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Hashimzade, Nigar, Gareth Myles, and John Black. “Statutory Monopoly.” <i>A Dictionary of Economics</i>. London: Oxford University Press. 2017.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "entry-dictionary",
+    "title": "Statutory Monopoly",
+    "author": [
+      {
+        "given": "Nigar",
+        "family": "Hashimzade"
+      },
+      {
+        "given": "Gareth",
+        "family": "Myles"
+      },
+      {
+        "given": "John",
+        "family": "Black"
+      }
+    ],
+    "container-title": "A Dictionary of Economics",
+    "edition": "5",
+    "publisher-place": "London",
+    "publisher": "Oxford University Press",
+    "issued": {
+      "raw": "2017"
+    },
+    "page": "157",
+    "language": "en",
+    "ISBN": "978-0-19-875943-0",
+    "URL": "https://www.oxfordreference.com/view/10.1093/acref/9780198759430.001.0001/acref-9780198759430?btog=chap&hide=true&jumpTo=statutory&page=157&pageSize=20&skipEditions=true&sort=titlesort&source=%2F10.1093%2Facref%2F9780198759430.001.0001%2Facref-9780198759430",
+    "accessed": "2019-07-18",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<

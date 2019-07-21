@@ -1,0 +1,88 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "Z6423EYG"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+SAMPLE CITATION
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  汕尾市真诚公共汽车运输有限公司诉汕尾市人民政府案 ShanWei City’s ZhenCheng Bus Transportation Co., Ltd. v. ShanWei City’s Government (Gunagdong High People’s Court July 27, 2018).
+FIRST w/LOCATOR
+  汕尾市真诚公共汽车运输有限公司诉汕尾市人民政府案 ShanWei City’s ZhenCheng Bus Transportation Co., Ltd. v. ShanWei City’s Government at 123 (Gunagdong High People’s Court July 27, 2018).
+FIRST w/LABEL
+  汕尾市真诚公共汽车运输有限公司诉汕尾市人民政府案 ShanWei City’s ZhenCheng Bus Transportation Co., Ltd. v. ShanWei City’s Government ¶ 123 (Gunagdong High People’s Court July 27, 2018).
+IBID
+  <i>Ibid.</i>
+IBID w/LOCATOR
+  <i>Ibid.</i> at 123.
+SUBSEQUENT
+  [CSL STYLE ERROR: reference with no printed form.].
+SUBSEQUENT w/LOCATOR
+  at 123.
+SUBSEQUENT w/BACKREF
+  [CSL STYLE ERROR: reference with no printed form.].
+SUBSEQUENT w/BACKREF+LOCATOR
+  at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">汕尾市真诚公共汽车运输有限公司诉汕尾市人民政府案 ShanWei City’s ZhenCheng Bus Transportation Co., Ltd. v. ShanWei City’s Government (Gunagdong High People’s Court July 27, 2018).</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_case",
+    "title": "汕尾市真诚公共汽车运输有限公司诉汕尾市人民政府案",
+    "authority": "gao.yuan",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          7,
+          27
+        ]
+      ]
+    },
+    "URL": "http://wenshu.court.gov.cn/content/content?DocID=96c5e9da-0365-41b2-86b6-a950012ff00e&KeyWord=%EF%BC%882016%EF%BC%89%E7%B2%A4%E8%A1%8C%E7%BB%881455%E5%8F%B7",
+    "accessed": {
+      "date-parts": [
+        [
+          2019,
+          7,
+          17
+        ]
+      ]
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {
+        "title": {
+          "en": "ShanWei City's ZhenCheng Bus Transportation Co., Ltd. v. ShanWei City's Government"
+        }
+      }
+    },
+    "jurisdiction": "cn:guangdong"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== ABBREVIATIONS =====>>
+{
+  "cn:guangdong": {
+    "institution-part": {
+      "gao.yuan": "Gunagdong High People's Court"
+    }
+  }
+}
+<<===== ABBREVIATIONS =====<<

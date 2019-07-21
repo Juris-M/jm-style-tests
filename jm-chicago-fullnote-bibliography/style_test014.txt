@@ -1,0 +1,57 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "PZISQS5S"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+government web page with partial translation of law
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  “Extracts from the Code of the Administrative Offences,” <i>Federal Antimonopoly Service of the Russian Federation</i>, January 28, 2016, http://en.fas.gov.ru.
+FIRST w/LOCATOR
+  “Extracts from the Code of the Administrative Offences,” <i>Federal Antimonopoly Service of the Russian Federation</i>, January 28, 2016, 123, http://en.fas.gov.ru.
+FIRST w/LABEL
+  “Extracts from the Code of the Administrative Offences,” <i>Federal Antimonopoly Service of the Russian Federation</i>, January 28, 2016, para. 123, http://en.fas.gov.ru.
+IBID
+  Ibid.
+IBID w/LOCATOR
+  Ibid. at 123.
+SUBSEQUENT
+  “Extracts from the Code of the Administrative Offences.”
+SUBSEQUENT w/LOCATOR
+  “Extracts from the Code of the Administrative Offences,” 123.
+SUBSEQUENT w/BACKREF
+  “Extracts from the Code of the Administrative Offences.”
+SUBSEQUENT w/BACKREF+LOCATOR
+  “Extracts from the Code of the Administrative Offences,” 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">“Extracts from the Code of the Administrative Offences.” <i>Federal Antimonopoly Service of the Russian Federation</i>, January 28, 2016. http://en.fas.gov.ru/documents/documentdetails.html?id=14062.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "webpage",
+    "title": "Extracts from the Code of the Administrative Offences",
+    "container-title": "Federal Antimonopoly Service of the Russian Federation",
+    "issued": {
+      "raw": "2016-1-28"
+    },
+    "URL": "http://en.fas.gov.ru/documents/documentdetails.html?id=14062",
+    "accessed": "2019-07-18T13:09:28Z",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<

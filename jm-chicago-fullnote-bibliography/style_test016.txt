@@ -1,0 +1,67 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "KUNKQMMW"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+ordinary book
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  James Edward Meade, <i>The Theory of Economic Externalities: The Control of Environmental Pollution and Similar Social Costs</i> (Brill, 1973).
+FIRST w/LOCATOR
+  James Edward Meade, <i>The Theory of Economic Externalities: The Control of Environmental Pollution and Similar Social Costs</i> (Brill, 1973), 123.
+FIRST w/LABEL
+  James Edward Meade, <i>The Theory of Economic Externalities: The Control of Environmental Pollution and Similar Social Costs</i> (Brill, 1973), para. 123.
+IBID
+  Ibid.
+IBID w/LOCATOR
+  Ibid. at 123.
+SUBSEQUENT
+  Meade, <i>The Theory of Economic Externalities</i>.
+SUBSEQUENT w/LOCATOR
+  Meade, <i>The Theory of Economic Externalities</i>, 123.
+SUBSEQUENT w/BACKREF
+  Meade, <i>The Theory of Economic Externalities</i>.
+SUBSEQUENT w/BACKREF+LOCATOR
+  Meade, <i>The Theory of Economic Externalities</i>, 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Meade, James Edward. <i>The Theory of Economic Externalities: The Control of Environmental Pollution and Similar Social Costs</i>. Brill. 1973.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "book",
+    "title": "The Theory of Economic Externalities: The Control of Environmental Pollution and Similar Social Costs",
+    "author": [
+      {
+        "given": "James Edward",
+        "family": "Meade"
+      }
+    ],
+    "publisher": "Brill",
+    "issued": {
+      "raw": "1973"
+    },
+    "number-of-pages": "104",
+    "language": "en",
+    "ISBN": "978-90-286-0433-9",
+    "shortTitle": "The Theory of Economic Externalities",
+    "source": "Google Books",
+    "note": "Google-Books-ID: Kz9iUO5bQpAC",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<

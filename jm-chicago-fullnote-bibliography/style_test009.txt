@@ -1,0 +1,156 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "EEBV6U8K"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+SAMPLE CITATION
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  Opinions on Establishing A Fair Competition Review System in the Building of the Market System [国务院关于在市场体系建设中建立公平竞争审查制度的意见] (promulgated by the State Council, June 1, 2016, effective June 1, 2016).
+FIRST w/LOCATOR
+  Opinions on Establishing A Fair Competition Review System in the Building of the Market System [国务院关于在市场体系建设中建立公平竞争审查制度的意见] (promulgated by the State Council, June 1, 2016, effective June 1, 2016) at 123.
+FIRST w/LABEL
+  Opinions on Establishing A Fair Competition Review System in the Building of the Market System [国务院关于在市场体系建设中建立公平竞争审查制度的意见] (promulgated by the State Council, June 1, 2016, effective June 1, 2016) ¶ 123.
+IBID
+  <i>Ibid.</i>
+IBID w/LOCATOR
+  <i>Ibid.</i> at 123.
+SUBSEQUENT
+  [CSL STYLE ERROR: reference with no printed form.].
+SUBSEQUENT w/LOCATOR
+  at 123.
+SUBSEQUENT w/BACKREF
+  [CSL STYLE ERROR: reference with no printed form.].
+SUBSEQUENT w/BACKREF+LOCATOR
+  at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Opinions on Establishing A Fair Competition Review System in the Building of the Market System [国务院关于在市场体系建设中建立公平竞争审查制度的意见] (promulgated by the State Council, June 1, 2016, effective June 1, 2016).</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "regulation",
+    "title": "国务院关于在市场体系建设中建立公平竞争审查制度的意见",
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          6,
+          1
+        ]
+      ]
+    },
+    "language": "zh",
+    "note": "available-date: 2016-06-01",
+    "multi": {
+      "main": {},
+      "_keys": {
+        "title": {
+          "en": "Opinions on Establishing A Fair Competition Review System in the Building of the Market System"
+        },
+        "genre": {
+          "en": "Normative Document"
+        },
+        "authority": {
+          "en": "State Council"
+        }
+      }
+    },
+    "jurisdiction": "cn",
+    "genre": "规范性文件",
+    "authority": "国务院"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== LANGPARAMS =====>>
+{
+  "persons": [
+    "translat",
+    "orig"
+  ],
+  "institutions": [
+    "translat"
+  ],
+  "titles": [
+    "translat",
+    "orig"
+  ],
+  "journals": [
+    "translat",
+    "orig"
+  ],
+  "publishers": [
+    "translat"
+  ],
+  "places": [
+    "translat"
+  ]
+}
+<<===== LANGPARAMS =====<<
+
+
+>>===== MULTIAFFIX =====>>
+[
+  null,
+  null,
+  " (",
+  ")",
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  " [",
+  "]",
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  " [",
+  "]",
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null
+]
+<<===== MULTIAFFIX =====<<

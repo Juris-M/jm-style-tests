@@ -1,0 +1,58 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "9DPKIVRE"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+newspaper article
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  “China Unveils Cabinet Reshuffle Plan,” <i>Xinhua</i>, March 19, 2018, www.xinhuanet.com.
+FIRST w/LOCATOR
+  “China Unveils Cabinet Reshuffle Plan,” <i>Xinhua</i>, March 19, 2018, 123, www.xinhuanet.com.
+FIRST w/LABEL
+  “China Unveils Cabinet Reshuffle Plan,” <i>Xinhua</i>, March 19, 2018, para. 123, www.xinhuanet.com.
+IBID
+  Ibid.
+IBID w/LOCATOR
+  Ibid. at 123.
+SUBSEQUENT
+  “China Unveils Cabinet Reshuffle Plan.”
+SUBSEQUENT w/LOCATOR
+  “China Unveils Cabinet Reshuffle Plan,” 123.
+SUBSEQUENT w/BACKREF
+  “China Unveils Cabinet Reshuffle Plan.”
+SUBSEQUENT w/BACKREF+LOCATOR
+  “China Unveils Cabinet Reshuffle Plan,” 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">“China Unveils Cabinet Reshuffle Plan.” <i>Xinhua</i>, March 19, 2018. http://www.xinhuanet.com/english/2018-03/13/c_137035721.htm.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "article-newspaper",
+    "title": "China unveils cabinet reshuffle plan",
+    "container-title": "Xinhua",
+    "issued": {
+      "raw": "2018-03-19"
+    },
+    "URL": "http://www.xinhuanet.com/english/2018-03/13/c_137035721.htm",
+    "accessed": "2019-07-16",
+    "note": "“China Unveils Cabinet Reshuffle Plan,” Xinhua, March 19, 2018, accessed July 19, 2019 http://www.xinhuanet.com/english/2018-03/13/c_137035721.htm.",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<

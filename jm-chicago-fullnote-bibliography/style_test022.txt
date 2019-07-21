@@ -1,0 +1,64 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "Z8CQ6RUZ"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+OECD report without jurisdiction
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  Organisation for Economic Cooperation and Development, <i>Competition Law and Policy in Chile</i>, Competition Law and Policy Reviews (Organisation for Economic Co-operation and Development; World Bank, October 17, 2011), www.oecd-ilibrary.org.
+FIRST w/LOCATOR
+  Organisation for Economic Cooperation and Development, <i>Competition Law and Policy in Chile</i>, Competition Law and Policy Reviews (Organisation for Economic Co-operation and Development; World Bank, October 17, 2011), 123, www.oecd-ilibrary.org.
+FIRST w/LABEL
+  Organisation for Economic Cooperation and Development, <i>Competition Law and Policy in Chile</i>, Competition Law and Policy Reviews (Organisation for Economic Co-operation and Development; World Bank, October 17, 2011), para. 123, www.oecd-ilibrary.org.
+IBID
+  Ibid.
+IBID w/LOCATOR
+  Ibid. at 123.
+SUBSEQUENT
+  Organisation for Economic Cooperation and Development, “Competition Law and Policy in Chile.”
+SUBSEQUENT w/LOCATOR
+  Organisation for Economic Cooperation and Development, “Competition Law and Policy in Chile,” 123.
+SUBSEQUENT w/BACKREF
+  Organisation for Economic Cooperation and Development, “Competition Law and Policy in Chile.”
+SUBSEQUENT w/BACKREF+LOCATOR
+  Organisation for Economic Cooperation and Development, “Competition Law and Policy in Chile,” 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Organisation for Economic Cooperation and Development. <i>Competition Law and Policy in Chile</i>. Competition Law and Policy Reviews. Organisation for Economic Co-operation and Development; World Bank. October 17, 2011. https://www.oecd-ilibrary.org/governance/competition-law-and-policy-in-chile-2011_9789264097407-en.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "report",
+    "title": "Competition Law and Policy in Chile",
+    "author": [
+      {
+        "literal": "Organisation for Economic Cooperation and Development"
+      }
+    ],
+    "collection-title": "Competition Law and Policy Reviews",
+    "publisher": "Organisation for Economic Co-operation and Development; World Bank",
+    "issued": {
+      "raw": "2011-10-17"
+    },
+    "URL": "https://www.oecd-ilibrary.org/governance/competition-law-and-policy-in-chile-2011_9789264097407-en",
+    "accessed": "2019-07-17T19:19:53Z",
+    "note": "Organisation for Economic Cooperation and Development, Competition Law and Policy in Chile, Competition Law and Policy Reviews, (Organisation for Economic Co-operation and Development; World Bank, October 17, 2011)，accessed July 19, 2019 https://www.oecd-ilibrary.org/governance/competition-law-and-policy-in-chile-2011_9789264097407-en.",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<
