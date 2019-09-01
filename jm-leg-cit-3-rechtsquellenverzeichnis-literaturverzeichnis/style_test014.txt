@@ -1,0 +1,59 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "P3FMMUBT"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Legal commentary
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  <i>Oberhammer</i> in Schwimann/Kodek, ABGB II<sup>4</sup> §364a.
+FIRST w/LOCATOR
+  <i>Oberhammer</i> in Schwimann/Kodek, ABGB II<sup>4</sup> §364a 123.
+FIRST w/LABEL
+  <i>Oberhammer</i> in Schwimann/Kodek, ABGB II<sup>4</sup> §364a Abs 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Schwimann/Kodek (Hg), ABGB II<sup>4</sup> (2012).</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "chapter",
+    "title": "§364a ABGB",
+    "author": [
+      {
+        "family": "Oberhammer"
+      }
+    ],
+    "editor": [
+      {
+        "family": "Schwimann"
+      },
+      {
+        "family": "Kodek"
+      }
+    ],
+    "container-title": "ABGB",
+    "volume": "II",
+    "edition": "4",
+    "issued": {
+      "raw": "2012"
+    },
+    "shortTitle": "§364a",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<

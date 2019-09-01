@@ -4,24 +4,24 @@ all
 
 >>===== KEYS =====>>
 [
-  "S359ICNF"
+  "ZLGU2JBQ"
 ]
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-Austrian case with reporter and commenter wobl 201
+Court composition in Case Type
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
 FIRST
-  ogh 4 Ob 8/11x.
+  OGH (verst Senat) 6 Ob 24/11i.
 FIRST w/LOCATOR
-  wobl 2010, 55 (123).
+  OGH (verst Senat) 6 Ob 24/11i.
 FIRST w/LABEL
-  wobl 2010, 55 Abs 123.
+  OGH (verst Senat) 6 Ob 24/11i.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">ogh 12.04.2011, 4 Ob 8/11x = wobl 2010/35, 55 (<i>Guntter</i>).</div>
+  <div class="csl-entry">OGH (verst Senat) 11.09.2012, 6 Ob 24/11i.</div>
 </div>
 <<===== RESULT =====<<
 
@@ -29,30 +29,22 @@ BIBLIOGRAPHY
 [
   {
     "type": "legal_case",
-    "commenter": [
-      {
-        "family": "Guntter"
-      }
-    ],
-    "container-title": "wobl",
-    "volume": "2010",
-    "issue": "35",
     "authority": "ogh",
-    "number": "4 Ob 8/11x",
-    "page": "55",
+    "number": "6 Ob 24/11i",
     "issued": {
-      "literal": "12.04.2011",
+      "literal": "11.09.2012",
       "date-parts": [
         [],
         []
       ]
     },
-    "note": "EF-Z 2011/85, 138",
+    "note": "",
     "multi": {
       "main": {},
       "_keys": {}
     },
-    "jurisdiction": "at"
+    "jurisdiction": "at",
+    "genre": "verst Senat"
   }
 ]
 <<===== INPUT =====<<

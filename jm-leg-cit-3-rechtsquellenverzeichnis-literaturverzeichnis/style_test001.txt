@@ -18,7 +18,7 @@ FIRST
 FIRST w/LOCATOR
   <i>Segalla</i>, Versorgungsleistungen 123.
 FIRST w/LABEL
-  <i>Segalla</i>, Versorgungsleistungen 123.
+  <i>Segalla</i>, Versorgungsleistungen Abs 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry"><i>Segalla</i>, Kommunale Versorgungsleistungen (Diss Univ Wien 2005) [Versorgungsleistungen].</div>
