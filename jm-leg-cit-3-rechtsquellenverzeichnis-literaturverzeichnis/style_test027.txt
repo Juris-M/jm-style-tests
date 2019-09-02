@@ -20,6 +20,7 @@ SchUG 1986 idF BGBL I 117/2008.
 >>===== INPUT =====>>
 [
   {
+    "id": "ITEM-1",
     "type": "legislation",
     "title": "Schulunterrichtsgesetz 1986",
     "container-title": "BGBl",
@@ -40,6 +41,7 @@ SchUG 1986 idF BGBL I 117/2008.
     "jurisdiction": "at"
   },
   {
+    "id": "ITEM-2",
     "type": "legislation",
     "title": "Schulunterrichtsgesetz 1986",
     "container-title": "BGBl",
@@ -68,7 +70,12 @@ SchUG 1986 idF BGBL I 117/2008.
 [
   [
     {
-      "id": "undefined"
+      "id": "ITEM-1"
+    }
+  ],
+  [
+    {
+      "id": "ITEM-2"
     }
   ]
 ]
