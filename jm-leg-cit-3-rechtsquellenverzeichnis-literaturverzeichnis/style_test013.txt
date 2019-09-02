@@ -14,11 +14,11 @@ should pass test style_test013
 
 >>===== RESULT =====>>
 FIRST
-  EuGH Rs C-139/11 (Moré/KLM).
+  EuGH Rs Moré/KLM.
 FIRST w/LOCATOR
-  EuGH Rs C-139/11 (Moré/KLM).
+  EuGH Rs Moré/KLM.
 FIRST w/LABEL
-  EuGH Rs C-139/11 (Moré/KLM).
+  EuGH Rs Moré/KLM.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry">EuGH 22.11.2012 Rs C-139/11 (Moré/KLM).</div>
@@ -30,6 +30,7 @@ BIBLIOGRAPHY
   {
     "type": "legal_case",
     "title": "Moré/KLM",
+    "title-short": "Moré/KLM",
     "authority": "ecj",
     "number": "C-139/11",
     "issued": {
