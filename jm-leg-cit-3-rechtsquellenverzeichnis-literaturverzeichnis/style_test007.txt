@@ -16,9 +16,9 @@ Austrian case with reporter
 FIRST
   OGH 4 Ob 8/11x.
 FIRST w/LOCATOR
-  OGH 4 Ob 8/11x.
+  OGH 4 Ob 8/11x = EvBl 2011/96, 123.
 FIRST w/LABEL
-  OGH 4 Ob 8/11x.
+  OGH 4 Ob 8/11x = EvBl 2011/96 Abs 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry">OGH 12.04.2011, 4 Ob 8/11x = EvBl 2011/96.</div>
