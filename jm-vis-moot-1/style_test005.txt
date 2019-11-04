@@ -1,0 +1,70 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "69V97WRU"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test005
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  [Blair/Vidak Gojković]
+FIRST w/LOCATOR
+  [Blair/Vidak Gojković, p. 123]
+FIRST w/LABEL
+  [Blair/Vidak Gojković, para. 123]
+IBID
+  [Blair/Vidak Gojković]
+IBID w/LOCATOR
+  [Blair/Vidak Gojković, p. 123]
+SUBSEQUENT
+  [Blair/Vidak Gojković]
+SUBSEQUENT w/LOCATOR
+  [Blair/Vidak Gojković, p. 123]
+SUBSEQUENT w/BACKREF
+  [Blair/Vidak Gojković]
+SUBSEQUENT w/BACKREF+LOCATOR
+  [Blair/Vidak Gojković, p. 123]
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Blair, Cherie, and Ema Vidak Gojković///WikiLeaks and Beyond: Discerning an International Standard for the Admissibility of Illegally Obtained Evidence//33(1) ICSID Review-Foreign Investment Law Journal 235–259 (2018)//<b>Cited as:</b> <i>Blair/Vidak Gojković</i></div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "article-journal",
+    "title": "WikiLeaks and Beyond: Discerning an International Standard for the Admissibility of Illegally Obtained Evidence",
+    "author": [
+      {
+        "given": "Cherie",
+        "family": "Blair"
+      },
+      {
+        "given": "Ema",
+        "family": "Vidak Gojković"
+      }
+    ],
+    "container-title": "ICSID Review-Foreign Investment Law Journal",
+    "volume": "33",
+    "issue": "1",
+    "page": "235–259",
+    "issued": {
+      "raw": "2018"
+    },
+    "shortTitle": "WikiLeaks and Beyond",
+    "source": "Google Scholar",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<

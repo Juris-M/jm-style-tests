@@ -1,0 +1,73 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "YHTSJQ6C"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test014
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  [Schlechtriem/Schwenzer]
+FIRST w/LOCATOR
+  [Schlechtriem/Schwenzer, p. 123]
+FIRST w/LABEL
+  [Schlechtriem/Schwenzer, para. 123]
+IBID
+  [Schlechtriem/Schwenzer]
+IBID w/LOCATOR
+  [Schlechtriem/Schwenzer, p. 123]
+SUBSEQUENT
+  [Schlechtriem/Schwenzer]
+SUBSEQUENT w/LOCATOR
+  [Schlechtriem/Schwenzer, p. 123]
+SUBSEQUENT w/BACKREF
+  [Schlechtriem/Schwenzer]
+SUBSEQUENT w/BACKREF+LOCATOR
+  [Schlechtriem/Schwenzer, p. 123]
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Schlechtriem, Peter, and Ingeborg H. Schwenzer (eds.)///Commentary on the UN Convention on the International Sale of Goods (CISG), 2nd Ed.//Oxford University Press, Oxford 2005//<b>Cited as:</b> <i>Author in Schlechtriem/Schwenzer</i></div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "book",
+    "title": "Commentary on the UN Convention on the International Sale of Goods (CISG)",
+    "editor": [
+      {
+        "given": "Peter",
+        "family": "Schlechtriem"
+      },
+      {
+        "given": "Ingeborg H.",
+        "family": "Schwenzer"
+      }
+    ],
+    "edition": "2",
+    "publisher-place": "Oxford",
+    "publisher": "Oxford University Press",
+    "issued": {
+      "raw": "2005"
+    },
+    "number-of-pages": "1149",
+    "language": "eng",
+    "ISBN": "978-0-19-927518-2",
+    "source": "Library of Congress ISBN",
+    "call-number": "K1028.3198 K6613 2005",
+    "note": "OCLC: ocm57281086",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<

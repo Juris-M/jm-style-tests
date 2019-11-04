@@ -1,0 +1,70 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "8RKHETNG"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test009
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  [Havalic/Boykin]
+FIRST w/LOCATOR
+  [Havalic/Boykin, p. 123]
+FIRST w/LABEL
+  [Havalic/Boykin, para. 123]
+IBID
+  [Havalic/Boykin]
+IBID w/LOCATOR
+  [Havalic/Boykin, p. 123]
+SUBSEQUENT
+  [Havalic/Boykin]
+SUBSEQUENT w/LOCATOR
+  [Havalic/Boykin, p. 123]
+SUBSEQUENT w/BACKREF
+  [Havalic/Boykin]
+SUBSEQUENT w/BACKREF+LOCATOR
+  [Havalic/Boykin, p. 123]
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Havalic, M., and J. H. Boykin///Fruits of the Poisonous Tree: The Admissibility of Unlawfully Obtained Evidence in International Arbitration//12(5) Transnational Dispute Management (TDM) 1–38 (2015)//<b>Cited as:</b> <i>Havalic/Boykin</i></div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "article-journal",
+    "title": "Fruits of the Poisonous Tree: The Admissibility of Unlawfully Obtained Evidence in International Arbitration",
+    "author": [
+      {
+        "given": "M.",
+        "family": "Havalic"
+      },
+      {
+        "given": "J. H.",
+        "family": "Boykin"
+      }
+    ],
+    "container-title": "Transnational Dispute Management (TDM)",
+    "volume": "12",
+    "issue": "5",
+    "page": "1-38",
+    "issued": {
+      "raw": "2015"
+    },
+    "shortTitle": "Fruits of the Poisonous Tree",
+    "source": "Google Scholar",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<

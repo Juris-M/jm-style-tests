@@ -1,0 +1,84 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "BX3XFQ5F"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test006
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  [ICC Case No. 1512]
+FIRST w/LOCATOR
+  [ICC Case No. 1512, p. 123]
+FIRST w/LABEL
+  [ICC Case No. 1512, para. 123]
+IBID
+  [ICC Case No. 1512]
+IBID w/LOCATOR
+  [ICC Case No. 1512, p. 123]
+SUBSEQUENT
+  [ICC Case No. 1512]
+SUBSEQUENT w/LOCATOR
+  [ICC Case No. 1512, p. 123]
+SUBSEQUENT w/BACKREF
+  [ICC Case No. 1512]
+SUBSEQUENT w/BACKREF+LOCATOR
+  [ICC Case No. 1512, p. 123]
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Other///ICC Case No. 1512 (1971)//in: Pieter Sanders (ed.), Yearbook Commercial Arbitration 1980, Volume V, p. 170//<b>Cited as:</b> <i>ICC Case No. 1512</i></div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_case",
+    "title": "An Indian cement Company v. A Pakistani bank",
+    "container-title": "Yearbook Commercial Arbitration",
+    "volume": "V",
+    "authority": "ICC",
+    "number": "1512",
+    "page": "170",
+    "issued": {
+      "date-parts": [
+        [
+          1971
+        ]
+      ]
+    },
+    "note": "editor:Sanders||Pieter",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "jurisdiction": "arb.cls",
+    "publication-date": {
+      "month": 0,
+      "date-parts": [
+        [
+          1980
+        ]
+      ]
+    }
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== ABBREVIATIONS =====>>
+{
+  "default": {
+    "place": {
+      "arb.cls": "Other"
+    }
+  }
+}
+<<===== ABBREVIATIONS =====<<

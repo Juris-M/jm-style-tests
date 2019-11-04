@@ -1,0 +1,73 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "Y7A5QE3C"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test004
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  [Piero in Berg]
+FIRST w/LOCATOR
+  [Piero in Berg, p. 123]
+FIRST w/LABEL
+  [Piero in Berg, para. 123]
+IBID
+  [Piero in Berg]
+IBID w/LOCATOR
+  [Piero in Berg, p. 123]
+SUBSEQUENT
+  [Piero in Berg]
+SUBSEQUENT w/LOCATOR
+  [Piero in Berg, p. 123]
+SUBSEQUENT w/BACKREF
+  [Piero in Berg]
+SUBSEQUENT w/BACKREF+LOCATOR
+  [Piero in Berg, p. 123]
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "chapter",
+    "title": "Arbitration Clauses: Achieving Effectiveness in the Law Applicable to the Arbitration Clause",
+    "author": [
+      {
+        "given": "Bernadini",
+        "family": "Piero"
+      }
+    ],
+    "editor": [
+      {
+        "given": "A. J. van den",
+        "family": "Berg"
+      }
+    ],
+    "container-title": "Improving the efficiency of arbitration agreements and awards: 40 years of application of the New York Convention",
+    "collection-title": "ICCA congress series",
+    "collection-number": "9",
+    "publisher-place": "The Hague",
+    "publisher": "Kluwer Law International",
+    "issued": {
+      "raw": "1999"
+    },
+    "ISBN": "978-90-411-1274-3",
+    "source": "Library of Congress ISBN",
+    "call-number": "K2400 .A6 I63 1999",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<

@@ -1,0 +1,68 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "AJHRN8XQ"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test007
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  [Born]
+FIRST w/LOCATOR
+  [Born, p. 123]
+FIRST w/LABEL
+  [Born, para. 123]
+IBID
+  [Born]
+IBID w/LOCATOR
+  [Born, p. 123]
+SUBSEQUENT
+  [Born]
+SUBSEQUENT w/LOCATOR
+  [Born, p. 123]
+SUBSEQUENT w/BACKREF
+  [Born]
+SUBSEQUENT w/BACKREF+LOCATOR
+  [Born, p. 123]
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Born, Gary///International Arbitration and Forum Selection Agreements: Drafting and Enforcing, 5th Ed.//Kluwer Law International, Alphen ann den Rijn, The Netherlands 2016//<b>Cited as:</b> <i>Born</i></div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "book",
+    "title": "International arbitration and forum selection agreements: drafting and enforcing",
+    "author": [
+      {
+        "given": "Gary",
+        "family": "Born"
+      }
+    ],
+    "edition": "5",
+    "publisher-place": "Alphen ann den Rijn, The Netherlands",
+    "publisher": "Kluwer Law International",
+    "issued": {
+      "raw": "2016"
+    },
+    "number-of-pages": "326",
+    "ISBN": "978-90-411-8388-0",
+    "shortTitle": "International arbitration and forum selection agreements",
+    "source": "Library of Congress ISBN",
+    "call-number": "K2400 .B67 2016",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<

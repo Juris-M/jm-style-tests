@@ -1,0 +1,65 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "ECMVFLTG"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test008
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  [Smit]
+FIRST w/LOCATOR
+  [Smit, p. 123]
+FIRST w/LABEL
+  [Smit, para. 123]
+IBID
+  [Smit]
+IBID w/LOCATOR
+  [Smit, p. 123]
+SUBSEQUENT
+  [Smit]
+SUBSEQUENT w/LOCATOR
+  [Smit, p. 123]
+SUBSEQUENT w/BACKREF
+  [Smit]
+SUBSEQUENT w/BACKREF+LOCATOR
+  [Smit, p. 123]
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Smit, Hans///Case-Note on Esso/BHP v. Plowman (Supreme Court of Victoria)//11(3) Arbitration International 299 (1995)//<b>Cited as:</b> <i>Smit</i></div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "article-journal",
+    "title": "Case-Note on Esso/BHP v. Plowman (Supreme Court of Victoria)",
+    "author": [
+      {
+        "given": "Hans",
+        "family": "Smit"
+      }
+    ],
+    "container-title": "Arbitration International",
+    "volume": "11",
+    "issue": "3",
+    "page": "299",
+    "issued": {
+      "raw": "1995"
+    },
+    "shortTitle": "Case-Note",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<
