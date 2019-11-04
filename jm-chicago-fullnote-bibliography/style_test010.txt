@@ -86,3 +86,22 @@ BIBLIOGRAPHY
   }
 }
 <<===== ABBREVIATIONS =====<<
+
+>>===== LANGPARAMS =====>>
+{
+  "langs": {
+    "translat": ["en"]
+  },
+  "persons": [],
+  "institutions": [],
+  "titles": [
+    "orig",
+    "translat"
+  ],
+  "journals": [],
+  "publishers": [],
+  "places": []
+}
+<<===== LANGPARAMS =====<<
+
+

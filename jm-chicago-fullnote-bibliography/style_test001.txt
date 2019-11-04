@@ -16,7 +16,7 @@ should pass test style_test001
 FIRST
   Code of Criminal Procedure [JP].
 FIRST w/LOCATOR
-  Code of Criminal Procedure, 123 [JP].
+  Code of Criminal Procedure 123 [JP].
 FIRST w/LABEL
   Code of Criminal Procedure ¶ 123 [JP].
 IBID

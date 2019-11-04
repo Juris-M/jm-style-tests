@@ -80,6 +80,9 @@ BIBLIOGRAPHY
 
 >>===== LANGPARAMS =====>>
 {
+  "langs": {
+    "translat": ["en"]
+  },
   "persons": [
     "translat",
     "orig"

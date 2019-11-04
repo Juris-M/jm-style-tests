@@ -1,0 +1,77 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "A6EISLBY"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+The application was filed by the Dr. Alexander Jan
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  Human Rights Case no. 32642-P/2018, Supreme Court (2019).
+FIRST w/LOCATOR
+  Human Rights Case no. 32642-P/2018, Supreme Court at 123 (2019).
+FIRST w/LABEL
+  Human Rights Case no. 32642-P/2018, Supreme Court ¶ 123 (2019).
+IBID
+  <i>Ibid.</i>
+IBID w/LOCATOR
+  <i>Ibid.</i> at 123.
+SUBSEQUENT
+  <i>Human Rights Case no. 32642-P/2018</i>.
+SUBSEQUENT w/LOCATOR
+  <i>Human Rights Case no. 32642-P/2018</i> at 123.
+SUBSEQUENT w/BACKREF
+  <i>Human Rights Case no. 32642-P/2018</i>.
+SUBSEQUENT w/BACKREF+LOCATOR
+  <i>Human Rights Case no. 32642-P/2018</i> at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Human Rights Case no. 32642-P/2018, Supreme Court (2019).</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_case",
+    "authority": "sc",
+    "number": "32642-P/2018",
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          1,
+          16
+        ]
+      ]
+    },
+    "language": "en",
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "call-number": "PK001",
+    "jurisdiction": "pk",
+    "genre": "Human Rights Case"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== ABBREVIATIONS =====>>
+{
+  "pk": {
+    "institution-part": {
+      "sc": "Supreme Court"
+    }
+  }
+}
+<<===== ABBREVIATIONS =====<<
