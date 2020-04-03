@@ -1,0 +1,51 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test002
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  <i>This is a title: But this is a subtitle</i>.
+FIRST w/LOCATOR
+  <i>This is a title: But this is a subtitle</i>, , p. 123.
+FIRST w/LABEL
+  <i>This is a title: But this is a subtitle</i>, , para. 123.
+SUBSEQUENT
+  <i>This Is a Title</i>.
+SUBSEQUENT w/LOCATOR
+  <i>This Is a Title</i>, , p. 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry"><i>This is a title: But this is a subtitle</i> .</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "book",
+    "title": "This is a title: but this is a subtitle",
+    "shortTitle": "This is a Title",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": true
+}
+<<===== OPTIONS =====<<
