@@ -1,0 +1,98 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test004
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  T. FitzSimons, P. Laughren, and D. Williamson, <i>Australian Documentary: History, Practices and Genres</i>, 2nd edn., Port Melbourne, VIC, Cambridge University Press, 2011, p. 78.
+FIRST w/LOCATOR
+  T. FitzSimons, P. Laughren, and D. Williamson, <i>Australian Documentary: History, Practices and Genres</i>, 2nd edn., Port Melbourne, VIC, Cambridge University Press, 2011, p. 78 (p. 123).
+FIRST w/LABEL
+  T. FitzSimons, P. Laughren, and D. Williamson, <i>Australian Documentary: History, Practices and Genres</i>, 2nd edn., Port Melbourne, VIC, Cambridge University Press, 2011, p. 78 (para. 123).
+SUBSEQUENT
+  FitzSimons, Laughren and Williamson, p. 78.
+SUBSEQUENT w/LOCATOR
+  FitzSimons, Laughren and Williamson, p. 78 (p. 123).
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">FitzSimons, T., Laughren, P., and Williamson, D., <i>Australian Documentary: History, Practices and Genres</i>, 2nd edn., Port Melbourne, VIC, Cambridge University Press, 2011.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+      "document_id": 202,
+      "type": "chapter",
+      "container-title": "Australian Documentary: History, Practices and Genres",
+      "author": [
+        {
+          "family": "FitzSimons",
+          "given": "Trish",
+          "suffix": null,
+          "particle": null,
+          "dropping_particle": null,
+          "nick": null,
+          "appellation": null,
+          "title": null
+        },
+        {
+          "family": "Laughren",
+          "given": "Pat",
+          "suffix": null,
+          "particle": null,
+          "dropping_particle": null,
+          "nick": null,
+          "appellation": null,
+          "title": null
+        },
+        {
+          "family": "Williamson",
+          "given": "Dugald",
+          "suffix": null,
+          "particle": null,
+          "dropping_particle": null,
+          "nick": null,
+          "appellation": null,
+          "title": null
+        }
+      ],
+      "publisher": "Cambridge University Press",
+      "publisher-place": "Port Melbourne, VIC",
+      "edition": "2",
+      "issued": {
+        "date-parts": [
+          [
+            2011
+          ]
+        ]
+      },
+      "identifier_names": {
+        "issn": "ISSN",
+        "electronic_issn": "EISSN",
+        "isbn": "ISBN",
+        "electronic_isbn": "EISBN",
+        "document_object_identifier": "DOI"
+      },
+      "document_part_id": 226,
+      "page": "78"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": true
+}
+<<===== OPTIONS =====<<
