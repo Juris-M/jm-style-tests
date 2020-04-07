@@ -14,11 +14,11 @@ should pass test style_test002
 
 >>===== RESULT =====>>
 FIRST
-  P Clause, <i>History: An Introduction to Theory, Method and Practice</i>, 2nd edn., Florence, Routledge, 2017, p. 22.
+  P. Clause, <i>History: An Introduction to Theory, Method and Practice</i>, 2nd edn., Florence, Routledge, 2017, p. 22.
 FIRST w/LOCATOR
-  P Clause, <i>History: An Introduction to Theory, Method and Practice</i>, 2nd edn., Florence, Routledge, 2017, p. 22 (p. 123).
+  P. Clause, <i>History: An Introduction to Theory, Method and Practice</i>, 2nd edn., Florence, Routledge, 2017, p. 22 (p. 123).
 FIRST w/LABEL
-  P Clause, <i>History: An Introduction to Theory, Method and Practice</i>, 2nd edn., Florence, Routledge, 2017, p. 22 (para. 123).
+  P. Clause, <i>History: An Introduction to Theory, Method and Practice</i>, 2nd edn., Florence, Routledge, 2017, p. 22 (para. 123).
 SUBSEQUENT
   Clause, p. 22.
 SUBSEQUENT w/LOCATOR

@@ -1,0 +1,87 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test003
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  M. Lake and H. Reynolds, <i>What’s Wrong with ANZAC?: The Militarisation of Australian History</i>, Sydney, University of New South Wales Press, 2010, p. 38.
+FIRST w/LOCATOR
+  M. Lake and H. Reynolds, <i>What’s Wrong with ANZAC?: The Militarisation of Australian History</i>, Sydney, University of New South Wales Press, 2010, p. 38 (p. 123).
+FIRST w/LABEL
+  M. Lake and H. Reynolds, <i>What’s Wrong with ANZAC?: The Militarisation of Australian History</i>, Sydney, University of New South Wales Press, 2010, p. 38 (para. 123).
+SUBSEQUENT
+  Lake and Reynolds, p. 38.
+SUBSEQUENT w/LOCATOR
+  Lake and Reynolds, p. 38 (p. 123).
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Lake, M. and Reynolds, H., <i>What’s Wrong with ANZAC?: The Militarisation of Australian History</i>, Sydney, University of New South Wales Press, 2010.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+      "document_id": 209,
+      "type": "chapter",
+      "container-title": "What’s Wrong with ANZAC?: The Militarisation of Australian History",
+      "author": [
+        {
+          "family": "Lake",
+          "given": "Marilyn",
+          "suffix": null,
+          "particle": null,
+          "dropping_particle": null,
+          "nick": null,
+          "appellation": null,
+          "title": null
+        },
+        {
+          "family": "Reynolds",
+          "given": "Henry",
+          "suffix": null,
+          "particle": null,
+          "dropping_particle": null,
+          "nick": null,
+          "appellation": null,
+          "title": null
+        }
+      ],
+      "publisher": "University of New South Wales Press",
+      "publisher-place": "Sydney",
+      "issued": {
+        "date-parts": [
+          [
+            2010
+          ]
+        ]
+      },
+      "identifier_names": {
+        "issn": "ISSN",
+        "electronic_issn": "EISSN",
+        "isbn": "ISBN",
+        "electronic_isbn": "EISBN",
+        "document_object_identifier": "DOI"
+      },
+      "document_part_id": 233,
+      "page": "38"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": true
+}
+<<===== OPTIONS =====<<
