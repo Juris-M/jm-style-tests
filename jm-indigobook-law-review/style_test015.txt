@@ -4,12 +4,12 @@ all
 
 >>===== KEYS =====>>
 [
-  "YX98H5QC"
+  "N4ERETCP"
 ]
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-should pass test style_test021
+should pass test style_test015
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
@@ -20,7 +20,7 @@ should pass test style_test021
 [
   {
     "type": "regulation",
-    "container-title": "S.C. Reg.",
+    "container-title": "W. Va. Reg.",
     "volume": "23",
     "issued": {
       "date-parts": [
@@ -32,12 +32,12 @@ should pass test style_test021
       ]
     },
     "section": "45",
-    "note": "index: 643",
+    "note": "index: 711",
     "multi": {
       "main": {},
       "_keys": {}
     },
-    "jurisdiction": "us:sc"
+    "jurisdiction": "us:wv"
   }
 ]
 <<===== INPUT =====<<

@@ -4,7 +4,7 @@ all
 
 >>===== KEYS =====>>
 [
-  "857W9FGB"
+  "24X5WNSC"
 ]
 <<===== KEYS =====<<
 
@@ -19,19 +19,22 @@ should pass test style_test006
 >>===== INPUT =====>>
 [
   {
-    "type": "legal_case",
-    "title": "Southeast Regional Const. Corp. v. Leadership Housing Systems of Florida, Inc.",
-    "container-title": "So.2d",
-    "volume": "454",
-    "authority": "district.court.appeal",
-    "page": "613",
-    "issued": "7/5/1984",
-    "note": "Division: 4",
+    "type": "legislation",
+    "container-title": "P.R. Laws Ann.",
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "section": "tit. 123, § 123",
+    "note": "index: 744",
     "multi": {
       "main": {},
       "_keys": {}
     },
-    "jurisdiction": "005us:flUnited States|US|Florida"
+    "jurisdiction": "us:pr"
   }
 ]
 <<===== INPUT =====<<

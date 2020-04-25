@@ -4,7 +4,7 @@ all
 
 >>===== KEYS =====>>
 [
-  "JY9FN43U"
+  "GTJ6RCJE"
 ]
 <<===== KEYS =====<<
 
@@ -19,18 +19,22 @@ should pass test style_test018
 >>===== INPUT =====>>
 [
   {
-    "type": "legal_case",
-    "title": "Fisher v. University of Texas",
-    "container-title": "S.Ct.",
-    "volume": "133",
-    "page": "2411",
-    "issued": "6/24/2013",
-    "note": "",
+    "type": "legislation",
+    "container-title": "Utah Admin. Code",
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "section": "r. 12-34-56",
+    "note": "index: 680",
     "multi": {
       "main": {},
       "_keys": {}
     },
-    "jurisdiction": "002usUnited States|US"
+    "jurisdiction": "us:ut"
   }
 ]
 <<===== INPUT =====<<

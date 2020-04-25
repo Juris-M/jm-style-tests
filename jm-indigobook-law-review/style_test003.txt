@@ -4,7 +4,7 @@ all
 
 >>===== KEYS =====>>
 [
-  "6TUVZ5G2"
+  "MVE9LBMW"
 ]
 <<===== KEYS =====<<
 
@@ -20,14 +20,24 @@ should pass test style_test003
 [
   {
     "type": "legal_case",
-    "title": "Fla. Bar Ethics Op. 94-6",
-    "issued": "April 30, 1995",
+    "title": "Toolson v. N.Y. Yankees, Inc.",
+    "volume": "346",
+    "authority": "supreme.court",
+    "page": "356",
+    "issued": {
+      "date-parts": [
+        [
+          1953
+        ]
+      ]
+    },
     "note": "",
     "multi": {
       "main": {},
       "_keys": {}
     },
-    "jurisdiction": "005us:flUnited States|US|Florida"
+    "container-title": "U.S.",
+    "jurisdiction": "us"
   }
 ]
 <<===== INPUT =====<<

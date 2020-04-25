@@ -4,12 +4,12 @@ all
 
 >>===== KEYS =====>>
 [
-  "YX98H5QC"
+  "KPQD9EKQ"
 ]
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-should pass test style_test021
+should pass test style_test024
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
@@ -19,25 +19,23 @@ should pass test style_test021
 >>===== INPUT =====>>
 [
   {
-    "type": "regulation",
-    "container-title": "S.C. Reg.",
-    "volume": "23",
+    "type": "legislation",
+    "container-title": "Tex. Rev. Civ. Stat. Ann.",
     "issued": {
       "date-parts": [
         [
-          2000,
-          4,
-          1
+          2000
         ]
       ]
     },
-    "section": "45",
-    "note": "index: 643",
+    "section": "art. 123, § 123",
+    "note": "index: 659",
     "multi": {
       "main": {},
       "_keys": {}
     },
-    "jurisdiction": "us:sc"
+    "publisher": "West",
+    "jurisdiction": "us:tx"
   }
 ]
 <<===== INPUT =====<<

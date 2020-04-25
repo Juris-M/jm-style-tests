@@ -1,10 +1,13 @@
 >>===== MODE =====>>
-all
+citation
 <<===== MODE =====<<
+
+
+
 
 >>===== KEYS =====>>
 [
-  "QANIJJS2"
+  "CIL796UN"
 ]
 <<===== KEYS =====<<
 
@@ -13,34 +16,43 @@ should pass test style_test001
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-%%RESULT%%
+<i>see also</i> Gerald Lebovits, <i>Write the Cites Right—Part II</i>, 76 N.Y. St. B.J. 64 (Dec. 2004)
 <<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "CIL796UN",
+      "prefix": "<i>see also</i>"
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
 
 >>===== INPUT =====>>
 [
   {
-    "type": "patent",
-    "title": "Intelligent traffic light control system",
+    "id": "CIL796UN",
+    "type": "article-journal",
+    "title": "Write the Cites Right—Part II",
     "author": [
       {
-        "given": "Zhilong",
-        "family": "Liang"
+        "given": "Gerald",
+        "family": "Lebovits"
       }
     ],
-    "authority": "United States",
-    "number": "US20090167561A1",
-    "submitted": "2008-05-13 2008-05-13",
-    "call-number": "US12/119,737",
-    "issued": "2009-07-02",
-    "status": "Abandoned",
-    "URL": "https://patents.google.com/patent/US20090167561A1/en?oq=US20090167561A1",
-    "accessed": "2019-05-08T21:48:58Z",
-    "note": "",
+    "container-title": "N.Y. St. B.J.",
+    "volume": "76",
+    "page": "64",
+    "issued": {
+      "raw": "2004-12"
+    },
     "multi": {
       "main": {},
       "_keys": {}
-    },
-    "jurisdiction": "002usUnited States|US"
+    }
   }
 ]
 <<===== INPUT =====<<

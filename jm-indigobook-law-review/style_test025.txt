@@ -4,12 +4,12 @@ all
 
 >>===== KEYS =====>>
 [
-  "YX98H5QC"
+  "JPDQ298Q"
 ]
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-should pass test style_test021
+should pass test style_test025
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
@@ -20,24 +20,23 @@ should pass test style_test021
 [
   {
     "type": "regulation",
-    "container-title": "S.C. Reg.",
+    "container-title": "Tenn. Admin. Reg.",
     "volume": "23",
     "issued": {
       "date-parts": [
         [
           2000,
-          4,
-          1
+          4
         ]
       ]
     },
     "section": "45",
-    "note": "index: 643",
+    "note": "index: 657",
     "multi": {
       "main": {},
       "_keys": {}
     },
-    "jurisdiction": "us:sc"
+    "jurisdiction": "us:tn"
   }
 ]
 <<===== INPUT =====<<

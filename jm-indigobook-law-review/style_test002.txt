@@ -4,7 +4,7 @@ all
 
 >>===== KEYS =====>>
 [
-  "RS33NV62"
+  "28D39TF4"
 ]
 <<===== KEYS =====<<
 
@@ -20,19 +20,25 @@ should pass test style_test002
 [
   {
     "type": "legal_case",
-    "title": "Sanford v. Comm’r",
-    "container-title": "T.C.M.",
-    "authority": "tax.court",
-    "number": "20897-05, 1031-07",
-    "page": "2008-158",
-    "issued": "6/23/2008",
-    "language": "en",
+    "authority": "Bundesverwaltungsgericht|1. Revisionssenat",
+    "number": "02.48",
+    "issued": {
+      "date-parts": [
+        [
+          2002,
+          10,
+          7
+        ]
+      ]
+    },
     "note": "",
     "multi": {
       "main": {},
       "_keys": {}
     },
-    "jurisdiction": "006us:fedUnited States|US|Federal"
+    "call-number": "DE397",
+    "jurisdiction": "de",
+    "genre": "B"
   }
 ]
 <<===== INPUT =====<<

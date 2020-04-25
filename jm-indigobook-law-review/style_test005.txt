@@ -4,7 +4,7 @@ all
 
 >>===== KEYS =====>>
 [
-  "G5PTRBMG"
+  "DDYJIQHP"
 ]
 <<===== KEYS =====<<
 
@@ -19,19 +19,22 @@ should pass test style_test005
 >>===== INPUT =====>>
 [
   {
-    "type": "legal_case",
-    "title": "Rudd v. Rudd",
-    "container-title": "So.2d",
-    "volume": "960",
-    "authority": "district.court.appeal",
-    "page": "885",
-    "issued": "July 18, 2007",
-    "note": "Division: 4",
+    "type": "legislation",
+    "container-title": "P.R. Leyes An.tit.",
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "section": "123, § 123",
+    "note": "index: 745",
     "multi": {
       "main": {},
       "_keys": {}
     },
-    "jurisdiction": "005us:flUnited States|US|Florida"
+    "jurisdiction": "us:pr"
   }
 ]
 <<===== INPUT =====<<

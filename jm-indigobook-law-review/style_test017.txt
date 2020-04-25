@@ -4,12 +4,12 @@ all
 
 >>===== KEYS =====>>
 [
-  "YX98H5QC"
+  "NP7DUYPI"
 ]
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-should pass test style_test021
+should pass test style_test017
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
@@ -19,9 +19,9 @@ should pass test style_test021
 >>===== INPUT =====>>
 [
   {
-    "type": "regulation",
-    "container-title": "S.C. Reg.",
-    "volume": "23",
+    "type": "legislation",
+    "container-title": "Utah Bull.",
+    "volume": "15",
     "issued": {
       "date-parts": [
         [
@@ -32,12 +32,12 @@ should pass test style_test021
       ]
     },
     "section": "45",
-    "note": "index: 643",
+    "note": "index: 681",
     "multi": {
       "main": {},
       "_keys": {}
     },
-    "jurisdiction": "us:sc"
+    "jurisdiction": "us:ut"
   }
 ]
 <<===== INPUT =====<<

@@ -4,7 +4,7 @@ all
 
 >>===== KEYS =====>>
 [
-  "9MWIYDW8"
+  "7UQP2SNU"
 ]
 <<===== KEYS =====<<
 
@@ -19,20 +19,25 @@ should pass test style_test007
 >>===== INPUT =====>>
 [
   {
-    "type": "legal_case",
-    "title": "Tietig v. Southeast Regional Const. Corp.",
-    "container-title": "So.2d",
-    "volume": "520",
-    "authority": "district.court.appeal",
-    "page": "633",
-    "issued": "February 10, 1988",
-    "language": "en",
-    "note": "Division: 4",
+    "type": "regulation",
+    "container-title": "N. Mar. I. Reg.",
+    "volume": "23",
+    "issued": {
+      "date-parts": [
+        [
+          2000,
+          4,
+          1
+        ]
+      ]
+    },
+    "section": "45",
+    "note": "index: 742",
     "multi": {
       "main": {},
       "_keys": {}
     },
-    "jurisdiction": "005us:flUnited States|US|Florida"
+    "jurisdiction": "us"
   }
 ]
 <<===== INPUT =====<<

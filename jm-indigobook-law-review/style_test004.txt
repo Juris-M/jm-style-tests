@@ -4,7 +4,7 @@ all
 
 >>===== KEYS =====>>
 [
-  "IAC4LFSH"
+  "MN2WZJGK"
 ]
 <<===== KEYS =====<<
 
@@ -19,18 +19,38 @@ should pass test style_test004
 >>===== INPUT =====>>
 [
   {
-    "type": "entry-encyclopedia",
-    "title": "Jury Selection and Voir Dire in Criminal Cases",
-    "container-title": "Am. Jur. Trials",
-    "volume": "76",
+    "type": "legal_case",
+    "title": "Leonard v. Pepsico, Inc.",
+    "volume": "88",
+    "authority": "district.court",
+    "number": "96 Civ. 5320(KMW);96 Civ. 9069(KMW)",
+    "page": "116",
     "issued": {
-      "raw": "2016"
+      "date-parts": [
+        [
+          1999,
+          8,
+          5
+        ]
+      ]
     },
-    "page": "127",
+    "URL": "https://www.courtlistener.com/opinion/2579076/leonard-v-pepsico-inc/",
+    "accessed": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          22
+        ]
+      ]
+    },
+    "note": "",
     "multi": {
       "main": {},
       "_keys": {}
-    }
+    },
+    "container-title": "F. Supp. 2d",
+    "jurisdiction": "us:c2:ny.sd"
   }
 ]
 <<===== INPUT =====<<

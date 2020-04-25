@@ -4,12 +4,12 @@ all
 
 >>===== KEYS =====>>
 [
-  "YX98H5QC"
+  "6LSH8MBJ"
 ]
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-should pass test style_test021
+should pass test style_test011
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
@@ -20,8 +20,8 @@ should pass test style_test021
 [
   {
     "type": "regulation",
-    "container-title": "S.C. Reg.",
-    "volume": "23",
+    "container-title": "Wash. Reg.",
+    "volume": "15",
     "issued": {
       "date-parts": [
         [
@@ -32,12 +32,12 @@ should pass test style_test021
       ]
     },
     "section": "45",
-    "note": "index: 643",
+    "note": "index: 703",
     "multi": {
       "main": {},
       "_keys": {}
     },
-    "jurisdiction": "us:sc"
+    "jurisdiction": "us:wa"
   }
 ]
 <<===== INPUT =====<<
