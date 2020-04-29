@@ -1,0 +1,84 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test001
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (Puccio, Cabra &#38; Schwagler 2018)
+FIRST w/LOCATOR
+  (Puccio, Cabra &#38; Schwagler 2018, p. 123)
+FIRST w/LABEL
+  (Puccio, Cabra &#38; Schwagler 2018, para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Puccio, GJ, Cabra, JF &#38; Schwagler, N 2018, <i>Organizational creativity: a practical guide for innovators \u0026 entrepreneurs</i>, Sage, Thousand Oaks, CA.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+      "document_id": 220,
+      "type": "chapter",
+      "container-title": "Organizational creativity: a practical guide for innovators \\u0026 entrepreneurs",
+      "author": [
+        {
+          "family": "Puccio",
+          "given": "Gerard J.",
+          "suffix": null,
+          "particle": null,
+          "dropping_particle": null,
+          "nick": null,
+          "appellation": null,
+          "title": null
+        },
+        {
+          "family": "Cabra",
+          "given": "John Fitzgerald",
+          "suffix": null,
+          "particle": null,
+          "dropping_particle": null,
+          "nick": null,
+          "appellation": null,
+          "title": null
+        },
+        {
+          "family": "Schwagler",
+          "given": "Nathan",
+          "suffix": null,
+          "particle": null,
+          "dropping_particle": null,
+          "nick": null,
+          "appellation": null,
+          "title": null
+        }
+      ],
+      "publisher": "Sage",
+      "publisher-place": "Thousand Oaks, CA",
+      "issued": {
+        "date-parts": [
+          [
+            2018
+          ]
+        ]
+      }
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": true
+}
+<<===== OPTIONS =====<<
