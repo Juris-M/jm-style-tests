@@ -51,7 +51,6 @@ BIBLIOGRAPHY
 ]
 <<===== INPUT =====<<
 
-
 >>===== OPTIONS =====>>
 {
   "uppercase_subtitles": true
