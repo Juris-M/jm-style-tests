@@ -1,0 +1,75 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test003
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (Jablonka 2018)
+FIRST w/LOCATOR
+  (Jablonka 2018, p. 123)
+FIRST w/LABEL
+  (Jablonka 2018, para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Jablonka, I 2018, <i>History is a contemporary literature: manifesto for the social sciences</i>, trans. N Bracher, Cornell University Press, Ithaca, NY.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+    {
+      "type": "book",
+      "container-title": "History is a contemporary literature: manifesto for the social sciences",
+      "author": [
+        {
+          "family": "Jablonka",
+          "given": "Ivan",
+          "suffix": null,
+          "particle": null,
+          "dropping_particle": null,
+          "nick": null,
+          "appellation": null,
+          "title": null
+        }
+      ],
+      "translator": [
+        {
+          "family": "Bracher",
+          "given": "Nathan",
+          "suffix": null,
+          "particle": null,
+          "dropping_particle": null,
+          "nick": null,
+          "appellation": null,
+          "title": null
+        }
+      ],
+      "publisher": "Cornell University Press",
+      "publisher-place": "Ithaca, NY",
+      "issued": {
+        "date-parts": [
+          [
+            "2018"
+          ]
+        ]
+      }
+    }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": true
+}
+<<===== OPTIONS =====<<

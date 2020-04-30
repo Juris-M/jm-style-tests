@@ -1,0 +1,63 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test003
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (ed. Smith 2018)
+FIRST w/LOCATOR
+  (ed. Smith 2018, p. 123)
+FIRST w/LABEL
+  (ed. Smith 2018, para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Smith, KL (ed.) 2018, <i>Sociology of globalization: cultures, economies, and politics</i>, Routledge, Boulder, CO.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+    {
+      "type": "chapter",
+      "container-title": "Sociology of globalization: cultures, economies, and politics",
+      "editor": [
+        {
+          "family": "Smith",
+          "given": "Keri Lyall",
+          "suffix": null,
+          "particle": null,
+          "dropping_particle": null,
+          "nick": null,
+          "appellation": null,
+          "title": null
+        }
+      ],
+      "publisher": "Routledge",
+      "publisher-place": "Boulder, CO",
+      "issued": {
+        "date-parts": [
+          [
+            2018
+          ]
+        ]
+      }
+    }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": true
+}
+<<===== OPTIONS =====<<

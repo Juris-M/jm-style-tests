@@ -1,0 +1,88 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test003
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (Wang 2018, p. 137)
+FIRST w/LOCATOR
+  (Wang 2018, p. 123)
+FIRST w/LABEL
+  (Wang 2018, para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Wang, S 2018, ‘From special economic zones to special technological zones’, in C Hsieh &#38; M Lu (eds), <i>Changing China: a geographic appraisal</i>, Taylor \u00026 Francis, Boulder, CO, pp.137-155.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+    {
+      "type": "chapter",
+      "container-title": "Changing China: a geographic appraisal",
+      "author": [
+        {
+          "family": "Wang",
+          "given": "Shuguant",
+          "suffix": null,
+          "particle": null,
+          "dropping_particle": null,
+          "nick": null,
+          "appellation": null,
+          "title": null
+        }
+      ],
+      "editor": [
+        {
+          "given": "Chiao-min",
+          "family": "Hsieh",
+          "suffix": null,
+          "particle": null,
+          "dropping_particle": null,
+          "nick": null,
+          "appellation": null,
+          "title": null
+        },
+        {
+          "family": "Lu",
+          "given": "Max",
+          "suffix": null,
+          "particle": null,
+          "dropping_particle": null,
+          "nick": null,
+          "appellation": null,
+          "title": null
+        }
+      ],
+      "publisher": "Taylor \\u0026 Francis",
+      "publisher-place": "Boulder, CO",
+      "issued": {
+        "date-parts": [
+          [
+            2018
+          ]
+        ]
+      },
+      "title": "From special economic zones to special technological zones",
+      "page": "137-155"
+    }
+
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": true
+}
+<<===== OPTIONS =====<<

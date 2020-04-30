@@ -1,0 +1,102 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test003
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (Crauder et al. 2018)
+FIRST w/LOCATOR
+  (Crauder et al. 2018, p. 123)
+FIRST w/LABEL
+  (Crauder et al. 2018, para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Crauder, B, Evans, B, Johnson, J &#38; Noell, A 2018, <i>Quantitative literacy: thinking between the lines</i>, W.H. Freeman, New York, NY.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+      "document_request_id": 21,
+      "type": "chapter",
+      "container-title": "Quantitative literacy: thinking between the lines",
+      "author": [
+        {
+          "family": "Crauder",
+          "given": "Bruce",
+          "suffix": null,
+          "particle": null,
+          "dropping_particle": null,
+          "nick": null,
+          "appellation": null,
+          "title": null
+        },
+        {
+          "family": "Evans",
+          "given": "Benny",
+          "suffix": null,
+          "particle": null,
+          "dropping_particle": null,
+          "nick": null,
+          "appellation": null,
+          "title": null
+        },
+        {
+          "family": "Johnson",
+          "given": "Jerry",
+          "suffix": null,
+          "particle": null,
+          "dropping_particle": null,
+          "nick": null,
+          "appellation": null,
+          "title": null
+        },
+        {
+          "family": "Noell",
+          "given": "Alan",
+          "suffix": null,
+          "particle": null,
+          "dropping_particle": null,
+          "nick": null,
+          "appellation": null,
+          "title": null
+        }
+      ],
+      "publisher": "W.H. Freeman",
+      "publisher-place": "New York, NY",
+      "issued": {
+        "date-parts": [
+          [
+            "2018"
+          ]
+        ]
+      },
+      "identifier_names": {
+        "issn": "ISSN",
+        "electronic_issn": "EISSN",
+        "isbn": "ISBN",
+        "electronic_isbn": "EISBN",
+        "document_object_identifier": "DOI"
+      },
+      "page": "34"
+    } 
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": true
+}
+<<===== OPTIONS =====<<

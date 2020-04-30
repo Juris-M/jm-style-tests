@@ -1,0 +1,52 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test003
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (Style manual for authors, editors and printers 2002, p. 197)
+FIRST w/LOCATOR
+  (Style manual for authors, editors and printers 2002, p. 123)
+FIRST w/LABEL
+  (Style manual for authors, editors and printers 2002, para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry"><i>Style manual for authors, editors and printers</i> 2002, 6th edn, AGPS, Canberra, ACT.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+    {
+      "type": "chapter",
+      "container-title": "Style manual for authors, editors and printers",
+      "publisher": "AGPS",
+      "publisher-place": "Canberra, ACT",
+      "edition": "6th",
+      "issued": {
+        "date-parts": [
+          [
+            "2002"
+          ]
+        ]
+      }
+    }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": true
+}
+<<===== OPTIONS =====<<
