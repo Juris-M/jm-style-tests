@@ -1,0 +1,56 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test008
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (Britannica Educational Publishing 2018)
+FIRST w/LOCATOR
+  (Britannica Educational Publishing 2018, p. 123)
+FIRST w/LABEL
+  (Britannica Educational Publishing 2018, para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Britannica Educational Publishing 2018, <i>Statistics and probability</i>, Britannica Educational Publishing, Chicago, IL.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+    {
+      "type": "book",
+      "container-title": "Statistics and probability",
+      "author": [
+        {
+          "family": "Britannica Educational Publishing"
+        }
+      ],
+      "publisher": "Britannica Educational Publishing",
+      "publisher-place": "Chicago, IL",
+      "issued": {
+        "date-parts": [
+          [
+            "2018"
+          ]
+        ]
+      }
+    }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": true
+}
+<<===== OPTIONS =====<<
