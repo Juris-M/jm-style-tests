@@ -9,7 +9,7 @@ all
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-should pass test style_test003
+should pass test style_test006
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
