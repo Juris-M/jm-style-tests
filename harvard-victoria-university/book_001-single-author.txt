@@ -27,10 +27,10 @@ BIBLIOGRAPHY
 
 >>===== INPUT =====>>
 [
-  {
-      "document_id": 219,
-      "type": "chapter",
-      "container-title": "The built environment",
+    {
+      "document_id": 210,
+      "type": "book",
+      "container-title": "The Built Environment",
       "author": [
         {
           "family": "Hasler",
@@ -59,8 +59,9 @@ BIBLIOGRAPHY
         "electronic_isbn": "EISBN",
         "document_object_identifier": "DOI"
       },
-      "document_part_id": 243,
-      "page": "39"
+      "document_part_id": 229,
+      "page": "1-58",
+      "section": "p. 39"
     }
 ]
 <<===== INPUT =====<<

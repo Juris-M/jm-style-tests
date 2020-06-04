@@ -29,7 +29,7 @@ BIBLIOGRAPHY
 [
   {
       "document_id": 220,
-      "type": "chapter",
+      "type": "book",
       "container-title": "Organizational creativity: a practical guide for innovators \\u0026 entrepreneurs",
       "author": [
         {
