@@ -1,0 +1,49 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "TRSU8WWZ"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+The defendant - of Romanian nationality - convicte
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+%%RESULT%%
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_case",
+    "authority": "relacao",
+    "number": "6/08.1ZRPRT.P1",
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          5,
+          14
+        ]
+      ]
+    },
+    "language": "en",
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {
+        "genre": {
+          "en": "Judgment"
+        }
+      }
+    },
+    "call-number": "PT120",
+    "jurisdiction": "pt:porto",
+    "genre": "Acórdão"
+  }
+]
+<<===== INPUT =====<<
