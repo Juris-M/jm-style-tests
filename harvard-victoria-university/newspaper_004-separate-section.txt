@@ -1,0 +1,60 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (Sprague 2018)
+FIRST w/LOCATOR
+  (Sprague 2018, p. 123)
+FIRST w/LABEL
+  (Sprague 2018, para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Sprague, J 2018, ‘Make it count’, <i>The Australian Financial Review</i>, 27 April, The Australian Financial Review Magazine, p. 28.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+      "type": "article-newspaper",
+      "container-title": "The Australian Financial Review",
+      "issued": {
+        "date-parts": [
+          [
+            2018,
+            4,
+            27
+          ]
+        ]
+      },
+      "title": "Make it count",
+      "section": "The Australian Financial Review Magazine",
+      "page": "28",
+      "author": [
+        {
+          "family": "Sprague",
+          "given": "Julie-anne"
+        }
+      ]
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": true
+}
+<<===== OPTIONS =====<<
