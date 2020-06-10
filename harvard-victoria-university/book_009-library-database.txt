@@ -1,0 +1,69 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test008
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (Bowie et al. 2016)
+FIRST w/LOCATOR
+  (Bowie et al. 2016, p. 123)
+FIRST w/LABEL
+  (Bowie et al. 2016, para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Bowie, D, Buttle, F, Brookes, M &#38; Mariussen, A 2016, <i>Hospitality marketing</i>, Routledge, London.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+    {
+      "type": "book",
+      "container-title": "Hospitality Marketing",
+      "author": [
+        { 
+          "family": "Bowie",
+          "given": "David"
+        },
+        { 
+          "family": "Buttle",
+          "given": "Francis"
+        },
+        { 
+          "family": "Brookes",
+          "given": "Maureen"
+        },
+        { 
+          "family": "Mariussen",
+          "given": "Anastasia"
+        }
+      ],
+      "publisher": "Routledge",
+      "publisher-place": "London",
+      "issued": {
+        "date-parts": [
+          [ 
+            2016
+          ]
+        ]
+      }
+    }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": true
+}
+<<===== OPTIONS =====<<
