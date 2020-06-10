@@ -1,0 +1,60 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (Gray 2018)
+FIRST w/LOCATOR
+  (Gray 2018, p. 123)
+FIRST w/LABEL
+  (Gray 2018, para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Gray, L 2018, ‘Exploring how and why young people use social networking sites’, <i>Educational Psychology in Practice</i>, vol. 34, no. 2, pp. 175–194.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+    {
+      "type": "article-journal",
+      "container-title": "Educational Psychology in Practice",
+      "issued": {
+        "date-parts": [
+          [
+            2018
+          ]
+        ]
+      },
+      "volume": "34",
+      "issue": "2",
+      "title": "Exploring how and why young people use social networking sites",
+      "page": "175-194",
+      "author": [
+        {
+          "family": "Gray",
+          "given": "Laura"
+        }
+      ],
+      "section": "p. 175"
+    }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": true
+}
+<<===== OPTIONS =====<<
