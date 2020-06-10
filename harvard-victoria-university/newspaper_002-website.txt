@@ -1,0 +1,68 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (Smee 2018)
+FIRST w/LOCATOR
+  (Smee 2018, p. 123)
+FIRST w/LABEL
+  (Smee 2018, para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Smee, B 2018, ‘Deep in cattle country, graziers go against the flow to help the Great Barrier Reef’, <i>The Guardian</i>, 20 May, viewed 21 May, 2018, &#60;https://www.theguardian.com/environment/2018/may/21/deep-in-cattle-country-graziers-go-against-the-flow-to-help-the-great-barrier-reef&#62;.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+      "type": "article-newspaper",
+      "container-title": "The Guardian",
+      "issued": {
+        "date-parts": [
+          [
+            2018,
+            5,
+            20
+          ]
+        ]
+      },
+      "accessed": {
+        "date-parts": [
+          [
+            2018,
+            5,
+            21
+          ]
+        ]
+      },
+      "title": "Deep in cattle country, graziers go against the flow to help the Great Barrier Reef",
+      "author": [
+        {
+          "family": "Smee",
+          "given": "Ben"
+        }
+      ],
+      "URL": "https://www.theguardian.com/environment/2018/may/21/deep-in-cattle-country-graziers-go-against-the-flow-to-help-the-great-barrier-reef"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": true
+}
+<<===== OPTIONS =====<<
