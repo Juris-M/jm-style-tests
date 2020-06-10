@@ -14,14 +14,14 @@ should pass test
 
 >>===== RESULT =====>>
 FIRST
-  (Gray 2018)
+  (Celume, Besançon &#38; Zenasni 2019)
 FIRST w/LOCATOR
-  (Gray 2018, p. 123)
+  (Celume, Besançon &#38; Zenasni 2019, p. 123)
 FIRST w/LABEL
-  (Gray 2018, para. 123)
+  (Celume, Besançon &#38; Zenasni 2019, para. 123)
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">Gray, L 2018, ‘Exploring how and why young people use social networking sites’, <i>Educational Psychology in Practice</i>, vol. 34, no. 2, pp. 175–194.</div>
+  <div class="csl-entry">Celume, M-P, Besançon, M &#38; Zenasni, F 2019, ‘Fostering children and adolescents’ creative thinking in education: theoretical model of drama pedagogy training’, <i>Frontiers in Psychology</i>, vol. 9, viewed 11 February, 2019, &#60;https://www.frontiersin.org/article/10.3389/fpsyg.2018.02611&#62;.</div>
 </div>
 <<===== RESULT =====<<
 
