@@ -1,0 +1,66 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test008
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (Fetter 1904)
+FIRST w/LOCATOR
+  (Fetter 1904, p. 123)
+FIRST w/LABEL
+  (Fetter 1904, para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Fetter, FA 1904, <i>The principles of economics: with applications to practical problems</i>, Century, viewed 21 January 2019, <https://www.gutenberg.org/files/40077/40077-h/40077-h.htm>.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+    {
+      "type": "book",
+      "container-title": "The principles of economics: with applications to practical problems",
+      "author": [
+        {
+          "family": "Fetter",
+          "given": "Frank Albert"
+        }
+      ],
+      "publisher": "Century",
+      "issued": {
+        "date-parts": [
+          [
+            1904
+          ]
+        ]
+      },
+      "accessed": {
+        "date-parts": [
+          [
+            2019,
+            1,
+            21
+          ]
+        ]
+      },
+      "URL": "https://www.gutenberg.org/files/40077/40077-h/40077-h.htm"
+    }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": true
+}
+<<===== OPTIONS =====<<
