@@ -1,0 +1,63 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (Schultz &#38; Butt 2018)
+FIRST w/LOCATOR
+  (Schultz &#38; Butt 2018, p. 123)
+FIRST w/LABEL
+  (Schultz &#38; Butt 2018, para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Schultz, A &#38; Butt, C 2018, ‘The life cycle of Melburnians: How we age and move’, <i>The Age</i>, 7 April, p. 10.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+      "type": "article-newspaper",
+      "container-title": "The Age",
+      "issued": {
+        "date-parts": [
+          [
+            2018,
+            4,
+            7
+          ]
+        ]
+      },
+      "title": "The life cycle of Melburnians: how we age and move",
+      "page": "10",
+      "author": [
+        {
+          "family": "Schultz",
+          "given": "Amber"
+        },
+        {
+          "family": "Butt",
+          "given": "Craig"
+        }
+      ]
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": true
+}
+<<===== OPTIONS =====<<
