@@ -1,0 +1,63 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (Blocker &#38; Wahl-Alexander 2018)
+FIRST w/LOCATOR
+  (Blocker &#38; Wahl-Alexander 2018, p. 123)
+FIRST w/LABEL
+  (Blocker &#38; Wahl-Alexander 2018, para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Blocker, D &#38; Wahl-Alexander, Z 2018, ‘Using sport education in a university physical activity course’, <i>JOPERD: The Journal of Physical Education, Recreation &#38; Dance</i>, vol. 89, no. 2, pp. 56–61.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+    {
+      "type": "article-journal",
+      "container-title": "JOPERD: The Journal of Physical Education, Recreation & Dance",
+      "issued": {
+        "date-parts": [
+          [
+            2018
+          ]
+        ]
+      },
+      "volume": "89",
+      "issue": "2",
+      "title": "Using sport education in a university physical activity course",
+      "page": "56-61",
+      "author": [
+        {
+          "family": "Blocker",
+          "given": "Danielle"
+        },
+        {
+          "family": "Wahl-Alexander",
+          "given": "Zachary"
+        }
+      ]
+    }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": true
+}
+<<===== OPTIONS =====<<
