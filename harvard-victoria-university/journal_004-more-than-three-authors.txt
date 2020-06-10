@@ -1,0 +1,79 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (Battisti et al. 2018)
+FIRST w/LOCATOR
+  (Battisti et al. 2018, p. 123)
+FIRST w/LABEL
+  (Battisti et al. 2018, para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Battisti, C, Fanelli, G, Bertolino, S, Luiselli, L, Amori, G &#38; Gippoliti, S 2018, ‘Non-native invasive species as paradoxical ecosystem services in urban conservation education’, <i>Web Ecology</i>, vol. 18, no. 1, pp. 37–40.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+    {
+      "type": "article-journal",
+      "container-title": "Web Ecology",
+      "issued": {
+        "date-parts": [
+          [
+            2018
+          ]
+        ]
+      },
+      "volume": "18",
+      "issue": "1",
+      "title": "Non-native invasive species as paradoxical ecosystem services in urban conservation education",
+      "page": "37-40",
+      "author": [
+        {
+          "family": "Battisti",
+          "given": "Corrado"
+        },
+        {
+          "family": "Fanelli",
+          "given": "Giuliano"
+        },
+        {
+          "family": "Bertolino",
+          "given": "Sandro"
+        },
+        {
+          "family": "Luiselli",
+          "given": "Luca"
+        },
+        {
+          "family": "Amori",
+          "given": "Giovanni"
+        },
+        {
+          "family": "Gippoliti",
+          "given": "Spartaco"
+        }
+      ]
+    }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": true
+}
+<<===== OPTIONS =====<<

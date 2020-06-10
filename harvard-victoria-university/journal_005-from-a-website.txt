@@ -1,0 +1,76 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (Gray 2018)
+FIRST w/LOCATOR
+  (Gray 2018, p. 123)
+FIRST w/LABEL
+  (Gray 2018, para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Gray, L 2018, ‘Exploring how and why young people use social networking sites’, <i>Educational Psychology in Practice</i>, vol. 34, no. 2, pp. 175–194.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+    {
+      "type": "article-journal",
+      "container-title": "Frontiers in Psychology",
+      "issued": {
+        "date-parts": [
+          [
+            2019
+          ]
+        ]
+      },
+      "volume": "9",
+      "title": "Fostering children and adolescents’ creative thinking in education: theoretical model of drama pedagogy training",
+      "author": [
+        {
+          "family": "Celume",
+          "given": "Macarena-Paz"
+        },
+        {
+          "family": "Besançon",
+          "given": "Maud"
+        },
+        {
+          "family": "Zenasni",
+          "given": "Franck"
+        }
+      ],
+      "accessed": {
+        "date-parts": [
+          [
+            2019,
+            2,
+            11
+          ]
+        ]
+      },
+      "section": "Introduction section",
+      "URL": "https://www.frontiersin.org/article/10.3389/fpsyg.2018.02611"
+    }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": true
+}
+<<===== OPTIONS =====<<
