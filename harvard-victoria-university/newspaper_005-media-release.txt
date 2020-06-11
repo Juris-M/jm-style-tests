@@ -1,0 +1,65 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (Hutchins 2018)
+FIRST w/LOCATOR
+  (Hutchins 2018, p. 123)
+FIRST w/LABEL
+  (Hutchins 2018, para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Hutchins, N 2018, <i>Calling all outstanding Aboriginal Victorians</i>, viewed 21 May, 2018, &#60;https://www.premier.vic.gov.au/calling-all-outstanding-aboriginal-victorians/&#62;.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+      "type": "article-newspaper",
+      "container-title": "Calling all outstanding Aboriginal Victorians",
+      "issued": {
+        "date-parts": [
+          [
+            2018
+          ]
+        ]
+      },
+      "accessed": {
+        "date-parts": [
+          [
+            2018,
+            5,
+            21
+          ]
+        ]
+      },
+      "author": [
+        {
+          "family": "Hutchins",
+          "given": "Natalie"
+        }
+      ],
+      "URL": "https://www.premier.vic.gov.au/calling-all-outstanding-aboriginal-victorians/"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": true
+}
+<<===== OPTIONS =====<<
