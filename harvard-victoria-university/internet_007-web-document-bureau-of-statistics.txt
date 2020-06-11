@@ -1,0 +1,66 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (Australian Bureau of Statistics 2017)
+FIRST w/LOCATOR
+  (Australian Bureau of Statistics 2017, p. 123)
+FIRST w/LABEL
+  (Australian Bureau of Statistics 2017, para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Australian Bureau of Statistics 2017, <i>Household income and wealth, Australia, 2015-16, cat. No. 6523.0</i>, ABS, Canberra, viewed 16 March, 2018, &#60;http://www.abs.gov.au/ausstats/abs@.nsf//0/5F4BB49C975C64C9CA256D6B00827ADB?Opendocument&#62;.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+      "type": "webpage",
+      "container-title": "Household income and wealth, Australia, 2015-16, cat. no. 6523.0",
+      "issued": {
+        "date-parts": [
+          [
+            2017
+          ]
+        ]
+      },
+      "author": [
+        {
+          "family": "Australian Bureau of Statistics"
+        }
+      ],
+      "publisher": "ABS",
+      "publisher-place": "Canberra",
+      "accessed": {
+        "date-parts": [
+          [
+            2018,
+            3,
+            16
+          ]
+        ]
+      },
+      "URL": "http://www.abs.gov.au/ausstats/abs@.nsf//0/5F4BB49C975C64C9CA256D6B00827ADB?Opendocument"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": true
+}
+<<===== OPTIONS =====<<
