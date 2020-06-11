@@ -1,0 +1,65 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (Cancer Council 2017)
+FIRST w/LOCATOR
+  (Cancer Council 2017, p. 123)
+FIRST w/LABEL
+  (Cancer Council 2017, para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Cancer Council 2017, <i>Causes of cancer</i>, viewed 24 May, 2018, &#60;https://www.cancer.org.au/about-cancer/causes-of-cancer/&#62;.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+      "type": "webpage",
+      "container-title": "Causes of cancer",
+      "issued": {
+        "date-parts": [
+          [
+            2017
+          ]
+        ]
+      },
+      "author": [
+        {
+          "family": "Cancer Council"
+        }
+      ],
+      "publisher": "Cancer Council",
+      "accessed": {
+        "date-parts": [
+          [
+            2018,
+            5,
+            21
+          ]
+        ]
+      },
+      "URL": "https://www.cancer.org.au/about-cancer/causes-of-cancer/"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": true
+}
+<<===== OPTIONS =====<<
