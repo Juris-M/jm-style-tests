@@ -1,0 +1,66 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (Department of the Prime Minister and Cabinet 2018)
+FIRST w/LOCATOR
+  (Department of the Prime Minister and Cabinet 2018, p. 123)
+FIRST w/LABEL
+  (Department of the Prime Minister and Cabinet 2018, para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Department of the Prime Minister and Cabinet 2018, <i>Closing the gap—Prime Minister’s report 2018</i>, Department of the Prime Minister and Cabinet, viewed 13 February, 2018, &#60;https://www.pmc.gov.au/sites/default/files/reports/closing-the-gap-2018/sites/default/files/ctg-report-20183872.pdf?a=1&#62;.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+      "type": "webpage",
+      "container-title": "Closing the gap - Prime Minister's report 2018",
+      "issued": {
+        "date-parts": [
+          [
+            2018
+          ]
+        ]
+      },
+      "author": [
+        {
+          "family": "Department of the Prime Minister and Cabinet"
+        }
+      ],
+      "publisher": "Department of the Prime Minister and Cabinet",
+      "accessed": {
+        "date-parts": [
+          [
+            2018,
+            2,
+            13
+          ]
+        ]
+      },
+      "section": "p. 11",
+      "URL": "https://www.pmc.gov.au/sites/default/files/reports/closing-the-gap-2018/sites/default/files/ctg-report-20183872.pdf?a=1"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": true
+}
+<<===== OPTIONS =====<<
