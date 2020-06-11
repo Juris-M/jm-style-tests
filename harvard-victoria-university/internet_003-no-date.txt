@@ -1,0 +1,58 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (Brown n.d.)
+FIRST w/LOCATOR
+  (Brown n.d., p. 123)
+FIRST w/LABEL
+  (Brown n.d., para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Brown, S n.d., <i>12 ways to save money by using what you’ve got on hand</i>, viewed 29 May, 2018, &#60;https://www.stayathomemum.com.au/my-money/money-saving-tips/dozen-hidden-ways-youre-saving-money-didnt-even-realise/&#62;.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+      "type": "webpage",
+      "container-title": "12 ways to save money by using what you’ve got on hand",
+      "author": [
+        {
+          "family": "Brown",
+          "given": "Saskia"
+        }
+      ],
+      "accessed": {
+        "date-parts": [
+          [
+            2018,
+            5,
+            29
+          ]
+        ]
+      },
+      "URL": "https://www.stayathomemum.com.au/my-money/money-saving-tips/dozen-hidden-ways-youre-saving-money-didnt-even-realise/"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": true
+}
+<<===== OPTIONS =====<<
