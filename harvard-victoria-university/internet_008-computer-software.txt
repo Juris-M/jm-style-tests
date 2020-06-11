@@ -1,0 +1,63 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (OpenOffice.org 2017)
+FIRST w/LOCATOR
+  (OpenOffice.org 2017, p. 123)
+FIRST w/LABEL
+  (OpenOffice.org 2017, para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">OpenOffice.org 2017, viewed 17 May, 2018, &#60;http://www.openoffice.org&#62;.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+      "type": "webpage",
+      "issued": {
+        "date-parts": [
+          [
+            2017
+          ]
+        ]
+      },
+      "author": [
+        {
+          "family": "OpenOffice.org"
+        }
+      ],
+      "accessed": {
+        "date-parts": [
+          [
+            2018,
+            5,
+            17
+          ]
+        ]
+      },
+      "URL": "http://www.openoffice.org"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": true
+}
+<<===== OPTIONS =====<<
