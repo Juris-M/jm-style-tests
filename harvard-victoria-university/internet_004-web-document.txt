@@ -1,0 +1,82 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C445YN36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  (Dugdale et al. 2018)
+FIRST w/LOCATOR
+  (Dugdale et al. 2018, p. 123)
+FIRST w/LABEL
+  (Dugdale et al. 2018, para. 123)
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Dugdale, S, Holeton, R, Finkelstein, A, Johnston, J &#38; Smith, R 2018, <i>7 Things you should know about emerging classroom technologies</i>, Educause, viewed 29 June, 2018, &#60;https://library.educause.edu/resources/2018/4/7-things-you-should-know-about-emerging-classroom-technologies&#62;.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+      "type": "webpage",
+      "container-title": "7 Things you should know about emerging classroom technologies",
+      "issued": {
+        "date-parts": [
+          [
+            2018
+          ]
+        ]
+      },
+      "author": [
+        {
+          "family": "Dugdale",
+          "given": "Shirley"
+        },
+        {
+          "family": "Holeton",
+          "given": "Richard"
+        },
+        {
+          "family": "Finkelstein",
+          "given": "Adam"
+        },
+        {
+          "family": "Johnston",
+          "given": "Julie"
+        },
+        {
+          "family": "Smith",
+          "given": "Robert"
+        }
+      ],
+      "publisher": "Educause",
+      "accessed": {
+        "date-parts": [
+          [
+            2018,
+            6,
+            29
+          ]
+        ]
+      },
+      "URL": "https://library.educause.edu/resources/2018/4/7-things-you-should-know-about-emerging-classroom-technologies"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "uppercase_subtitles": true
+}
+<<===== OPTIONS =====<<
