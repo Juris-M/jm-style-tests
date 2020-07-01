@@ -1,0 +1,47 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "TQ479SYL"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of TQ479SYL z0059 z0031 z0035 z0035 z0068 z0031 z0035 z0035
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+89 Bevans
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "TQ479SYL",
+    "type": "treaty",
+    "volume": "89",
+    "container-title": "Bevans"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "TQ479SYL",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

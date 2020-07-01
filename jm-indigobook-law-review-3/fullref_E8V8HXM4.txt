@@ -1,0 +1,55 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "E8V8HXM4"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of E8V8HXM4 z0049 87 z4295 z4300 724 101 z4335 805 z4349 z4350 z4352 104 z0023 z0025 113 121 z4418 z4443 z4460
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Wis. Stat. Ann. (West 2000)
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "E8V8HXM4",
+    "type": "legislation",
+    "container-title": "Wis. Stat. Ann.",
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "publisher": "West",
+    "jurisdiction": "us:wi"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "E8V8HXM4",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

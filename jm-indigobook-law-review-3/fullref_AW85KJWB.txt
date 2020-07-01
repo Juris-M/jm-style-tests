@@ -1,0 +1,55 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "AW85KJWB"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of AW85KJWB z0049 z0015 71 z3147 z0016 82 z3165 267 101 z3217 z3218 104 z3366 109 z3366 118 z3366 121 z3266 z3267 z3268 z3292 z3293 z0030
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>Jones v. Smith</i>, 1999 PA Super 1
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "AW85KJWB",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "AW85KJWB",
+    "type": "legal_case",
+    "title": "Jones v. Smith",
+    "authority": "superior.court",
+    "page": "1",
+    "issued": {
+      "date-parts": [
+        [
+          1999
+        ]
+      ]
+    },
+    "jurisdiction": "us:pa",
+    "collection-number": "1999"
+  }
+]
+<<===== INPUT =====<<

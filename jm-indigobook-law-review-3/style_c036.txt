@@ -1,0 +1,57 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "NF4MNRV6"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>But see</i> <i>Schenck v. United States</i>, 249 U.S. 47 (1919)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "prefix": "<i>But see</i>",
+      "id": "NF4MNRV6",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "NF4MNRV6",
+    "type": "legal_case",
+    "title": "Schenck v. United States",
+    "container-title": "U.S.",
+    "volume": "249",
+    "authority": "supreme.court",
+    "page": "47",
+    "issued": {
+      "date-parts": [
+        [
+          1919
+        ]
+      ]
+    },
+    "jurisdiction": "us"
+  }
+]
+<<===== INPUT =====<<

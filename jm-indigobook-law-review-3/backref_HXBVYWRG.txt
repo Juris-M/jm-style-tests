@@ -1,0 +1,50 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "HXBVYWRG"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of HXBVYWRG z0049 z0015 71 z0016 82 z0339 101 z0340 104 109 118 121
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+2006 CEC (CCH) 45
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "HXBVYWRG",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "HXBVYWRG",
+    "type": "legal_case",
+    "container-title": "CEC",
+    "authority": "ecj",
+    "page": "45",
+    "publisher": "CCH",
+    "jurisdiction": "eu.int:cjeu",
+    "collection-number": "2006"
+  }
+]
+<<===== INPUT =====<<

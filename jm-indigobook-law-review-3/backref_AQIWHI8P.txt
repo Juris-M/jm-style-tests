@@ -1,0 +1,63 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "AQIWHI8P"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of AQIWHI8P z0049 z0015 71 z2923 z0016 82 z2941 267 101 z2993 z3004 104 109 118 121 z3042 z3043 z3051 z3068 z3074
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>Hunter v. State</i>, 264 P.2d 997
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "AQIWHI8P",
+    "type": "legal_case",
+    "title": "Hunter v. State",
+    "container-title": "P.2d",
+    "volume": "264",
+    "authority": "court.criminal.appeals",
+    "page": "997",
+    "issued": {
+      "date-parts": [
+        [
+          1953
+        ]
+      ]
+    },
+    "jurisdiction": "us:ok",
+    "seeAlso": [
+      "Q3ZJ2GL7",
+      "F6IXWE9L"
+    ]
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "AQIWHI8P",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

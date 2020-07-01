@@ -1,0 +1,62 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "8PJM64JN"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Vikas Bajaj, <i>Rules for the Marijuana Market</i>, N.Y. Times, Aug. 5, 2014, at A20
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "8PJM64JN",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "8PJM64JN",
+    "type": "article-newspaper",
+    "title": "Rules for the Marijuana Market",
+    "author": [
+      {
+        "given": "Vikas",
+        "family": "Bajaj"
+      }
+    ],
+    "container-title": "N.Y. Times",
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          8,
+          5
+        ]
+      ]
+    },
+    "page": "A20",
+    "jurisdiction": "us"
+  }
+]
+<<===== INPUT =====<<

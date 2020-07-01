@@ -1,0 +1,55 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "RLXR5H3V"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of RLXR5H3V z0049 87 z4288 249 101 z4317 308 z4331 z4332 z4333 104 z2696 z0023 z0025 113 z2696 121 z4417 z4444 z4449 z4450 z4460
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+N.Y. C.P.L.R. (Consol. 2000)
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "RLXR5H3V",
+    "type": "regulation",
+    "container-title": "N.Y. C.P.L.R.",
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "jurisdiction": "us:ny",
+    "genre": "Consol."
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "RLXR5H3V",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

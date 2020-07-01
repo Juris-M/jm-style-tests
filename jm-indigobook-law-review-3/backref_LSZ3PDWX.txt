@@ -1,0 +1,61 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "LSZ3PDWX"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of LSZ3PDWX z0049 z0015 71 z4057 z0016 82 z4075 267 101 z4127 z4128 104 109 118 121 z4176 z4177 z4178 z4202 z4203 z0030
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>Doe v. Roe</i>, 2001 WI App 15
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "LSZ3PDWX",
+    "type": "legal_case",
+    "title": "Doe v. Roe",
+    "authority": "court.appeals",
+    "page": "15",
+    "issued": {
+      "date-parts": [
+        [
+          2001
+        ]
+      ]
+    },
+    "jurisdiction": "us:wi",
+    "collection-number": "2001",
+    "seeAlso": [
+      "4ZHJC4FU"
+    ]
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "LSZ3PDWX",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

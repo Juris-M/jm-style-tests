@@ -1,0 +1,54 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "MLALJ25K"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of MLALJ25K z0049 87 z4288 709 101 z4317 768 z4331 z4332 z4333 104 z4502 z0023 z0025 113 z4502 121 z4417 z4444 z4449 z4450 z4460
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+S.D. Admin. R. (2000)
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "MLALJ25K",
+    "type": "regulation",
+    "container-title": "S.D. Admin. R.",
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "jurisdiction": "us:sd"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "MLALJ25K",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

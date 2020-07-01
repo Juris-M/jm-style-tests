@@ -1,0 +1,50 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "Z4LNG22U"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>Camp v. Superman</i>, 119 Vt. 62 (1955)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+[
+  {
+    "id": "Z4LNG22U",
+    "position": 0
+  }
+]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "Z4LNG22U",
+    "type": "legal_case",
+    "title": "Camp v. Superman",
+    "container-title": "Vt.",
+    "volume": "119",
+    "authority": "supreme.court",
+    "page": "62",
+    "issued": {
+      "date-parts": [
+        [
+          1955
+        ]
+      ]
+    },
+    "jurisdiction": "us:vt"
+  }
+]
+<<===== INPUT =====<<

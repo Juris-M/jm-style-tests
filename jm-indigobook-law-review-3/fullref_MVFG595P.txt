@@ -1,0 +1,48 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "MVFG595P"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of MVFG595P z0049 87 z4295 101 z4335 349 z4349 z4350 z4352 104 z0023 z0025 113 121 z4418 z4419 z4443 z4460
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+2006 Mich. Legis. Serv. 45 (West)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "MVFG595P",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "MVFG595P",
+    "type": "legislation",
+    "container-title": "Mich. Legis. Serv.",
+    "page": "45",
+    "publisher": "West",
+    "jurisdiction": "us:mi",
+    "collection-number": "2006"
+  }
+]
+<<===== INPUT =====<<

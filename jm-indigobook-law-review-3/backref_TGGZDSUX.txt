@@ -1,0 +1,63 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "TGGZDSUX"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of TGGZDSUX z0049 87 z4295 z4300 262 101 z4335 343 z4349 z4350 z4352 104 z0023 z0025 113 121 z4418 z4420 z4443 z4460
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+P.R. Leyes An. tit. 52, § 15
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "TGGZDSUX",
+    "type": "legislation",
+    "container-title": "P.R. Leyes An.",
+    "issued": {
+      "date-parts": [
+        [
+          2006
+        ]
+      ]
+    },
+    "section": "tit. 52, sec. 15",
+    "jurisdiction": "us:pr",
+    "publication-date": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    }
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "TGGZDSUX",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

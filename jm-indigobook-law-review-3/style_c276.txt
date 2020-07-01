@@ -1,0 +1,56 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "IFBZT7RK"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Budnik v. Chertoff, EEOC DOC 0520070154 (2006)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "IFBZT7RK",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "IFBZT7RK",
+    "type": "legal_case",
+    "title": "Budnik v. Chertoff",
+    "authority": "EEOC",
+    "number": "DOC 0520070154",
+    "issued": {
+      "date-parts": [
+        [
+          2006
+        ]
+      ]
+    },
+    "jurisdiction": "us",
+    "collection-number": "2007",
+    "admin-flag": "1"
+  }
+]
+<<===== INPUT =====<<

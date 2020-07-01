@@ -1,0 +1,48 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "26B74KYA"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of 26B74KYA z0049 z0015 71 z0016 82 z0339 z0021 96 z0343 104 109 118 121 z0347
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Eur. Parl. Deb. (82) 45
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "26B74KYA",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "26B74KYA",
+    "type": "hearing",
+    "number": "82",
+    "page": "45",
+    "container-title": "Eur. Parl. Deb.",
+    "jurisdiction": "eu.int"
+  }
+]
+<<===== INPUT =====<<

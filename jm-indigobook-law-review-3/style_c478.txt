@@ -1,0 +1,56 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "Y7437ZXL"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+23 Md. Reg. 45 (Dec. 31, 2000)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "Y7437ZXL",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "Y7437ZXL",
+    "type": "regulation",
+    "container-title": "Md. Reg.",
+    "volume": "23",
+    "issued": {
+      "date-parts": [
+        [
+          2000,
+          12,
+          31
+        ]
+      ]
+    },
+    "page": "45",
+    "jurisdiction": "us:md"
+  }
+]
+<<===== INPUT =====<<

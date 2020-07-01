@@ -1,0 +1,58 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "JGLQGZ3W"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of JGLQGZ3W z0049 87 z4288 241 z4293 z4294 101 z4317 300 z4331 104 z0023 z0025 113 121 z4417 z4444 z4449 z4460
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+SEC Staff Accounting Bulletin No. 99, 64 Fed. Reg. 45150 (Aug. 19, 1999)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "JGLQGZ3W",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "JGLQGZ3W",
+    "type": "regulation",
+    "title": "SEC Staff Accounting Bulletin",
+    "container-title": "Fed. Reg.",
+    "volume": "64",
+    "number": "99",
+    "issued": {
+      "date-parts": [
+        [
+          1999,
+          8,
+          19
+        ]
+      ]
+    },
+    "page": "45150",
+    "jurisdiction": "us"
+  }
+]
+<<===== INPUT =====<<

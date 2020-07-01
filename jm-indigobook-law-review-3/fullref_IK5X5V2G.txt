@@ -1,0 +1,56 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "IK5X5V2G"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of IK5X5V2G z0049 87 z1093 z1098 262 101 z1133 343 z1147 z1148 104 z0023 z0025 113 121 z1216 z1241
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+50 Guam Code Ann. § 15 (2000)
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "IK5X5V2G",
+    "type": "legislation",
+    "container-title": "Guam Code Ann.",
+    "volume": "50",
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "section": "sec. 15",
+    "jurisdiction": "us:gu"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "IK5X5V2G",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

@@ -1,0 +1,48 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "33JGAW6T"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+2006 Okla. Sess. Law Serv. 45 (West)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "33JGAW6T",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "33JGAW6T",
+    "type": "legislation",
+    "container-title": "Okla. Sess. Law Serv.",
+    "page": "45",
+    "publisher": "West",
+    "jurisdiction": "us:ok",
+    "collection-number": "2006"
+  }
+]
+<<===== INPUT =====<<

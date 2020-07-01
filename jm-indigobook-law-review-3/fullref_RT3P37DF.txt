@@ -1,0 +1,62 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "RT3P37DF"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of RT3P37DF z0043 z0031 z0068 z0031 z0071 z0074
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+nasch, Re: Costumes, IP, and Ownership Rights, Comment to <i>Left Shark Bites Back</i>, TechDirt (Feb. 14, 2015, 9:55 AM), <a href="https://www.techdirt.com/articles/20150209/11373729960/left-shark-bites-back-3d-printer-sculptor-hires-lawyer-to-respond-to-katy-perrys-bogus-takedown.shtml">https://www.techdirt.com/articles/20150209/11373729960/left-shark-bites-back-3d-printer-sculptor-hires-lawyer-to-respond-to-katy-perrys-bogus-takedown.shtml</a>
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "RT3P37DF",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "RT3P37DF",
+    "type": "post",
+    "title": "Re: Costumes, IP, and Ownership Rights, Comment to: Left Shark Bites Back",
+    "author": [
+      {
+        "family": "nasch"
+      }
+    ],
+    "container-title": "TechDirt",
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          2,
+          14
+        ]
+      ]
+    },
+    "shortTitle": "Re: Costumes, IP, and Ownership Rights, Comment to",
+    "URL": "https://www.techdirt.com/articles/20150209/11373729960/left-shark-bites-back-3d-printer-sculptor-hires-lawyer-to-respond-to-katy-perrys-bogus-takedown.shtml",
+    "note": "event-date: 9:55 AM"
+  }
+]
+<<===== INPUT =====<<

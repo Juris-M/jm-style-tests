@@ -1,0 +1,45 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "DBDVSJEP"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of DBDVSJEP z0059 z0031 z0068 z0031
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Hein’s No. KAV 26
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "DBDVSJEP",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "DBDVSJEP",
+    "type": "treaty",
+    "container-title": "Hein’s",
+    "number": "KAV 26"
+  }
+]
+<<===== INPUT =====<<

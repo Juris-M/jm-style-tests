@@ -1,0 +1,58 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "RMDSE7GL"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of RMDSE7GL z0049 z0015 71 z4283 z0016 82 z4301 273 101 z4353 z4363 104 z1074 109 z1074 118 z1074 121 z4401 z4402 z4409 z4426 z4431 z4460
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>Helton v. State</i>, 311 So. 2d 381 (Fla. Dist. Ct. App. 1975)
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "RMDSE7GL",
+    "type": "legal_case",
+    "title": "Helton v. State",
+    "container-title": "So. 2d",
+    "volume": "311",
+    "authority": "district.court.appeal",
+    "page": "381",
+    "issued": {
+      "date-parts": [
+        [
+          1975
+        ]
+      ]
+    },
+    "jurisdiction": "us:fl"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "RMDSE7GL",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

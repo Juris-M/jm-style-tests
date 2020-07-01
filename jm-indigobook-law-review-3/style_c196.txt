@@ -1,0 +1,65 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "VIZ9TPGP"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>See</i> <i>id.</i> § 14.02
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "prefix": "<i>See</i>",
+      "id": "VIZ9TPGP",
+      "position": 3,
+      "locator": "sec. 14.02"
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "VIZ9TPGP",
+    "type": "book",
+    "title": "Nimmer on Copyright",
+    "author": [
+      {
+        "given": "Melville",
+        "family": "Nimmer"
+      },
+      {
+        "given": "David",
+        "family": "Nimmer"
+      }
+    ],
+    "volume": "3",
+    "edition": "Rev.",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    }
+  }
+]
+<<===== INPUT =====<<

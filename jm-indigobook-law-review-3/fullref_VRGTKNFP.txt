@@ -1,0 +1,54 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "VRGTKNFP"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of VRGTKNFP z0049 87 z4295 z4300 724 101 z4335 805 z4349 z4350 104 z0023 z0025 113 121 z4418 z4443 z4460
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+50/78 Vt. Code R. § 321 (2000)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "VRGTKNFP",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "VRGTKNFP",
+    "type": "legislation",
+    "container-title": "Vt. Code R.",
+    "volume": "50/78",
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "section": "sec. 321",
+    "jurisdiction": "us:vt"
+  }
+]
+<<===== INPUT =====<<

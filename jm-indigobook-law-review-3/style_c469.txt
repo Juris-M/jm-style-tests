@@ -1,0 +1,48 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "FJ4IZACP"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+2006 Me. Legis. Serv. 45 (West)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "FJ4IZACP",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "FJ4IZACP",
+    "type": "legislation",
+    "container-title": "Me. Legis. Serv.",
+    "page": "45",
+    "publisher": "West",
+    "jurisdiction": "us:me",
+    "collection-number": "2006"
+  }
+]
+<<===== INPUT =====<<

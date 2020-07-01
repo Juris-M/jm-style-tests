@@ -1,0 +1,60 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "729D69VS"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of 729D69VS z0049 z0015 71 z1081 z0016 82 z1099 267 101 z1151 z1152 387 104 109 118 121 z1199 z1200 z1207 z1224 z1225 z0030
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>Santos v. Carney et al.</i>, 1997 Guam 4
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "729D69VS",
+    "type": "legal_case",
+    "title": "Santos v. Carney et al.",
+    "authority": "supreme.court",
+    "page": "4",
+    "issued": {
+      "date-parts": [
+        [
+          1997
+        ]
+      ]
+    },
+    "jurisdiction": "us:gu",
+    "collection-number": "1997",
+    "seeAlso": [
+      "T8JWEWN8"
+    ]
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "729D69VS",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

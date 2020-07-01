@@ -1,0 +1,62 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "9C85IYXL"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Amanda Levendowski, Note, <i>Using Copyright to Combat Revenge Porn</i>, 3 N.Y.U. J. Intell. Prop. &#38; Ent. L. 422 (2014)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "9C85IYXL",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "9C85IYXL",
+    "type": "article-journal",
+    "title": "Using Copyright to Combat Revenge Porn",
+    "author": [
+      {
+        "given": "Amanda",
+        "family": "Levendowski"
+      }
+    ],
+    "container-title": "N.Y.U. J. Intell. Prop. & Ent. L.",
+    "volume": "3",
+    "page": "422",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "note": "genre: Note",
+    "jurisdiction": "us"
+  }
+]
+<<===== INPUT =====<<

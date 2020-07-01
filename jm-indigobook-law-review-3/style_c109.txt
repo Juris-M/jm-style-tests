@@ -1,0 +1,57 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "IEUGQ7RY"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>A Book Named “John Cleveland’s Memoirs of a Woman of Pleasure” v. Attorney Gen. of Com. of Mass.</i>, 383 U.S. 413, 418 (1966)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "IEUGQ7RY",
+      "position": 0,
+      "locator": "p. 418"
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "IEUGQ7RY",
+    "type": "legal_case",
+    "title": "A Book Named \"John Cleveland’s Memoirs of a Woman of Pleasure\" v. Attorney Gen. of Com. of Mass.",
+    "container-title": "U.S.",
+    "volume": "383",
+    "authority": "supreme.court",
+    "page": "413",
+    "issued": {
+      "date-parts": [
+        [
+          1966
+        ]
+      ]
+    },
+    "jurisdiction": "us"
+  }
+]
+<<===== INPUT =====<<

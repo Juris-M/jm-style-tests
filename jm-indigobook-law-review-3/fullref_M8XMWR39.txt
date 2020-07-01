@@ -1,0 +1,55 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "M8XMWR39"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of M8XMWR39 z0049 z0015 71 z4283 z0016 82 z4301 267 101 z4353 z4354 387 104 109 118 121 z4401 z4402 z4409 z4426 z4427 z4460 z0030
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>Yumac Home Furniture v. Caguas Lumber Yard</i>, 2015 TSPR 148
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "M8XMWR39",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "M8XMWR39",
+    "type": "legal_case",
+    "title": "Yumac Home Furniture v. Caguas Lumber Yard",
+    "authority": "tribunal.supremo",
+    "page": "148",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "jurisdiction": "us:pr",
+    "collection-number": "2015"
+  }
+]
+<<===== INPUT =====<<

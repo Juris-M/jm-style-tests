@@ -1,0 +1,83 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "XQJ54YA8",
+  "H7ZGHIYV"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>Doe v. Roe</i>, 2001 WY 12, 989 P.2d 1312 (Wyo. 2001)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "XQJ54YA8",
+      "position": 0
+    },
+    {
+      "id": "H7ZGHIYV",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "XQJ54YA8",
+    "type": "legal_case",
+    "title": "Doe v. Roe",
+    "authority": "supreme.court",
+    "page": "12",
+    "issued": {
+      "date-parts": [
+        [
+          2001
+        ]
+      ]
+    },
+    "jurisdiction": "us:wy",
+    "collection-number": "2001",
+    "seeAlso": [
+      "H7ZGHIYV"
+    ]
+  },
+  {
+    "id": "H7ZGHIYV",
+    "type": "legal_case",
+    "title": "Doe v. Roe",
+    "container-title": "P.2d",
+    "volume": "989",
+    "authority": "supreme.court",
+    "page": "1312",
+    "issued": {
+      "date-parts": [
+        [
+          2001
+        ]
+      ]
+    },
+    "jurisdiction": "us:wy",
+    "seeAlso": [
+      "XQJ54YA8"
+    ]
+  }
+]
+<<===== INPUT =====<<

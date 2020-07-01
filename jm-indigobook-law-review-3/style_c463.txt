@@ -1,0 +1,83 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "XWI8N8SW",
+  "TXAB757I"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>Estate of Hoch v. Stifel</i>, 2011 ME 24, 16 A.3d 137
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "XWI8N8SW",
+      "position": 0
+    },
+    {
+      "id": "TXAB757I",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "XWI8N8SW",
+    "type": "legal_case",
+    "title": "Estate of Hoch v. Stifel",
+    "authority": "supreme.judicial.court",
+    "page": "24",
+    "issued": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "jurisdiction": "us:me",
+    "collection-number": "2011",
+    "seeAlso": [
+      "TXAB757I"
+    ]
+  },
+  {
+    "id": "TXAB757I",
+    "type": "legal_case",
+    "title": "Estate of Hoch v. Stifel",
+    "container-title": "A.3d",
+    "volume": "16",
+    "authority": "supreme.judicial.court",
+    "page": "137",
+    "issued": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "jurisdiction": "us:me",
+    "seeAlso": [
+      "XWI8N8SW"
+    ]
+  }
+]
+<<===== INPUT =====<<

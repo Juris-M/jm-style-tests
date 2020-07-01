@@ -1,0 +1,48 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "PNJCVDHX"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of PNJCVDHX z0049 87 z4295 101 z4335 813 z4349 z4350 z4352 104 z0023 z0025 113 121 z4418 z4419 z4443 z4460
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+2006 Ohio Legis. Serv. Ann. 45 (West)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "PNJCVDHX",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "PNJCVDHX",
+    "type": "legislation",
+    "container-title": "Ohio Legis. Serv. Ann.",
+    "page": "45",
+    "publisher": "West",
+    "jurisdiction": "us:oh",
+    "collection-number": "2006"
+  }
+]
+<<===== INPUT =====<<

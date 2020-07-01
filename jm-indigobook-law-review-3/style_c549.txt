@@ -1,0 +1,48 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "CMX5279F"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+2006 N.J. Sess. Law Serv. 45 (West)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "CMX5279F",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "CMX5279F",
+    "type": "legislation",
+    "container-title": "N.J. Sess. Law Serv.",
+    "page": "45",
+    "publisher": "West",
+    "jurisdiction": "us:nj",
+    "collection-number": "2006"
+  }
+]
+<<===== INPUT =====<<

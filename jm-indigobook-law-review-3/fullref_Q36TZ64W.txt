@@ -1,0 +1,59 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "Q36TZ64W"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of Q36TZ64W z0049 z0015 71 z4283 z0016 z0017 77 z4301 267 101 z4353 z4376 104 109 118 121 z4401 z4402 z4408 z4426 z4435 z4460 z0030
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Aerocomp, Inc., FAA Order No. 2006-1, Order Dismissing Appeal (Jan. 12, 2006)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "Q36TZ64W",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "Q36TZ64W",
+    "type": "legal_case",
+    "title": "Aerocomp, Inc.",
+    "authority": "F.A.A.",
+    "number": "2006\\-1",
+    "references": "Order Dismissing Appeal",
+    "issued": {
+      "date-parts": [
+        [
+          2006,
+          1,
+          12
+        ]
+      ]
+    },
+    "jurisdiction": "us",
+    "genre": "FAA Order",
+    "admin-flag": "1"
+  }
+]
+<<===== INPUT =====<<

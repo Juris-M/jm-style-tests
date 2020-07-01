@@ -1,0 +1,62 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "Y9QH9F68"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of Y9QH9F68 z0049 z0015 71 z1331 z0016 82 z1349 267 101 z1401 z1402 104 z1550 109 z1550 118 z1550 121 z1450 z1451 z1452 z1476 z1477 z0030
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>Smith v. Jones</i>, 94-2345
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "Y9QH9F68",
+    "type": "legal_case",
+    "title": "Smith v. Jones",
+    "authority": "supreme.court",
+    "number": "94\\-2345",
+    "issued": {
+      "date-parts": [
+        [
+          1994,
+          7,
+          15
+        ]
+      ]
+    },
+    "jurisdiction": "us:la",
+    "seeAlso": [
+      "Z2UT2AXV"
+    ]
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "Y9QH9F68",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

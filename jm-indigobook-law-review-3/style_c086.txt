@@ -1,0 +1,51 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "CDDYBPHD"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>Dep’t of Revenue v. James B. Beam Distilling Co.</i>, 377 U.S. 341, 349 (1964)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+[
+  {
+    "id": "CDDYBPHD",
+    "position": 0,
+    "locator": "p. 349"
+  }
+]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "CDDYBPHD",
+    "type": "legal_case",
+    "title": "Dep’t of Revenue v. James B. Beam Distilling Co.",
+    "container-title": "U.S.",
+    "volume": "377",
+    "authority": "supreme.court",
+    "page": "341",
+    "issued": {
+      "date-parts": [
+        [
+          1964
+        ]
+      ]
+    },
+    "jurisdiction": "us"
+  }
+]
+<<===== INPUT =====<<

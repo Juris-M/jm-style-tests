@@ -1,0 +1,60 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "V8BVDDG7"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of V8BVDDG7 z0049 z0015 71 z0016 82 z4305 z4306 z0021 96 z4383 z4386 z4388 104 z4501 109 z4501 118 z4501 121 z4410 z4416 z4454 z4455 z4460
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>Cell Tax Fairness Act of 2008</i>, <i>supra</i>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "V8BVDDG7",
+    "type": "hearing",
+    "title": "Cell Tax Fairness Act",
+    "section": "Subcomm. on Commercial and Administrative Law of the H. Comm. on the Judiciary",
+    "number": "H.R. 5793",
+    "page": "12",
+    "authority": "Cong.",
+    "issued": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    },
+    "jurisdiction": "us",
+    "collection-number": "110"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "V8BVDDG7",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

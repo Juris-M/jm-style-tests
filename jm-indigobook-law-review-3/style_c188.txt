@@ -1,0 +1,67 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "XX49LDXB"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Marc A. Franklin et al., <i>Mass Media Law Cases and Materials</i> 472 (8th ed. 2011)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "XX49LDXB",
+      "position": 0,
+      "locator": "p. 472"
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "XX49LDXB",
+    "type": "book",
+    "title": "Mass Media Law Cases and Materials",
+    "author": [
+      {
+        "given": "Marc A.",
+        "family": "Franklin"
+      },
+      {
+        "given": "David",
+        "family": "Anderson"
+      },
+      {
+        "given": "Lyrissa Barnett",
+        "family": "Lidsky"
+      }
+    ],
+    "edition": "8",
+    "issued": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    }
+  }
+]
+<<===== INPUT =====<<

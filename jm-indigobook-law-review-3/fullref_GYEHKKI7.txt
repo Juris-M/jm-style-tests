@@ -1,0 +1,57 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "GYEHKKI7"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of GYEHKKI7 z0049 87 z4316 296 101 z4395 104 z4498 109 z4498 118 z4498 121 z4417 z4452
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+U.S. Patent No. 8,112,504 B2 (filed Mar. 4, 2009)
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "GYEHKKI7",
+    "type": "patent",
+    "number": "8,112,504",
+    "submitted": {
+      "date-parts": [
+        [
+          2009,
+          3,
+          4
+        ]
+      ]
+    },
+    "status": "B2",
+    "jurisdiction": "us"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "GYEHKKI7",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

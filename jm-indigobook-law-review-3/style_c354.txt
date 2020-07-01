@@ -1,0 +1,48 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "AM8WAQGU"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+2006 Conn. Acts 45 (Reg. Sess.)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "AM8WAQGU",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "AM8WAQGU",
+    "type": "legislation",
+    "container-title": "Conn. Acts",
+    "page": "45",
+    "jurisdiction": "us:ct",
+    "genre": "Reg.",
+    "collection-number": "2006"
+  }
+]
+<<===== INPUT =====<<

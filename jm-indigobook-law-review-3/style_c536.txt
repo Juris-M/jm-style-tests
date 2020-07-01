@@ -1,0 +1,56 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "NI4GXMY5"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+23 Nev. Reg. Admin. Regs. 6578 (Dec. 31, 2000)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "NI4GXMY5",
+      "position": 0,
+      "locator": "r. 6578"
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "NI4GXMY5",
+    "type": "regulation",
+    "container-title": "Nev. Reg. Admin. Regs.",
+    "volume": "23",
+    "issued": {
+      "date-parts": [
+        [
+          2000,
+          12,
+          31
+        ]
+      ]
+    },
+    "jurisdiction": "us:nv"
+  }
+]
+<<===== INPUT =====<<

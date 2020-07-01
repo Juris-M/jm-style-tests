@@ -1,0 +1,46 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "WXJM4VQQ"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Ariz. Const. art. XVI, § 2
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "WXJM4VQQ",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "WXJM4VQQ",
+    "type": "legislation",
+    "title": "Ariz. Const.",
+    "section": "art. XVI, sec. 2",
+    "jurisdiction": "us:az"
+  }
+]
+<<===== INPUT =====<<

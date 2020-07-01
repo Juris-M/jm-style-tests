@@ -1,0 +1,56 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "26W7J54C"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+16 Wash. Reg. 45 (Dec. 31, 2000)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "26W7J54C",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "26W7J54C",
+    "type": "regulation",
+    "container-title": "Wash. Reg.",
+    "volume": "16",
+    "issued": {
+      "date-parts": [
+        [
+          2000,
+          12,
+          31
+        ]
+      ]
+    },
+    "page": "45",
+    "jurisdiction": "us:wa"
+  }
+]
+<<===== INPUT =====<<

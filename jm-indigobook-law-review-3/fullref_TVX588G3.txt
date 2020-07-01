@@ -1,0 +1,54 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "TVX588G3"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of TVX588G3 z0049 z0015 71 z4283 z0016 82 z4301 275 101 z4353 z4354 395 104 z1317 109 z1317 118 z1317 121 z4401 z4402 z4409 z4426 z4427 z4460 z0030
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+2006 IL App (3d) 456123
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "TVX588G3",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "TVX588G3",
+    "type": "legal_case",
+    "authority": "appellate.court",
+    "page": "456123",
+    "issued": {
+      "date-parts": [
+        [
+          2006
+        ]
+      ]
+    },
+    "jurisdiction": "us:il:d3",
+    "collection-number": "2006"
+  }
+]
+<<===== INPUT =====<<

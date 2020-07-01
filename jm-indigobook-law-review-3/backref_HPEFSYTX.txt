@@ -1,0 +1,62 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "HPEFSYTX"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of HPEFSYTX z0049 z0015 71 z4283 z0016 82 z4301 737 101 z4353 z4363 104 109 118 121 z4401 z4402 z4409 z4426 z4431 z4460
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>Bowling Green v. Godwin</i>, 850 N.E.2d 698
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "HPEFSYTX",
+    "type": "legal_case",
+    "title": "Bowling Green v. Godwin",
+    "container-title": "N.E.2d",
+    "volume": "850",
+    "page": "698",
+    "issued": {
+      "date-parts": [
+        [
+          2006
+        ]
+      ]
+    },
+    "jurisdiction": "us",
+    "seeAlso": [
+      "9CSEJF6C",
+      "7SNUTX49"
+    ]
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "HPEFSYTX",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

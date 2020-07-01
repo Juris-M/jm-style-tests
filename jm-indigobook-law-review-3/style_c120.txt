@@ -1,0 +1,50 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "DQ7WQRQH"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>Near v. Minnesota ex rel. Olson</i>, 283 U.S. 697 (1931)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+[
+  {
+    "id": "DQ7WQRQH",
+    "position": 0
+  }
+]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "DQ7WQRQH",
+    "type": "legal_case",
+    "title": "Near v. Minnesota ex rel. Olson",
+    "container-title": "U.S.",
+    "volume": "283",
+    "authority": "supreme.court",
+    "page": "697",
+    "issued": {
+      "date-parts": [
+        [
+          1931
+        ]
+      ]
+    },
+    "jurisdiction": "us"
+  }
+]
+<<===== INPUT =====<<

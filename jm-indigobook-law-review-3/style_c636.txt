@@ -1,0 +1,49 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "RTNU9MPN"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+2006-14 R.I. Adv. Legis. Serv. 45 (LexisNexis)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "RTNU9MPN",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "RTNU9MPN",
+    "type": "legislation",
+    "container-title": "R.I. Adv. Legis. Serv.",
+    "volume": "14",
+    "page": "45",
+    "publisher": "LexisNexis",
+    "jurisdiction": "us:ri",
+    "collection-number": "2006"
+  }
+]
+<<===== INPUT =====<<

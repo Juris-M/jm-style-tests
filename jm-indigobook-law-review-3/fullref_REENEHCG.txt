@@ -1,0 +1,59 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "REENEHCG"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of REENEHCG z0049 87 z4288 241 101 z4317 300 z4319 104 z0023 z0025 113 121 z4417 z4444 z4446 z4460
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Exec. Order 12,900, 59 FR 9061 (Feb. 22, 1994)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "REENEHCG",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "REENEHCG",
+    "type": "regulation",
+    "container-title": "FR",
+    "volume": "59",
+    "number": "12,900",
+    "issued": {
+      "date-parts": [
+        [
+          1994,
+          2,
+          22
+        ]
+      ]
+    },
+    "page": "9061",
+    "jurisdiction": "us",
+    "genre": "Exec. Order",
+    "gazette-flag": "1"
+  }
+]
+<<===== INPUT =====<<

@@ -1,0 +1,49 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "FXFY32GJ"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+2006-14 Ga. Code Ann. Adv. Legis. Serv. 45 (LexisNexis)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "FXFY32GJ",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "FXFY32GJ",
+    "type": "legislation",
+    "container-title": "Ga. Code Ann. Adv. Legis. Serv.",
+    "volume": "14",
+    "page": "45",
+    "publisher": "LexisNexis",
+    "jurisdiction": "us:ga",
+    "collection-number": "2006"
+  }
+]
+<<===== INPUT =====<<

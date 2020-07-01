@@ -1,0 +1,49 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "VSGCNUVB"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+2006-14 Cal. Adv. Legis. Serv. 45 (LexisNexis)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "VSGCNUVB",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "VSGCNUVB",
+    "type": "legislation",
+    "container-title": "Cal. Adv. Legis. Serv.",
+    "volume": "14",
+    "page": "45",
+    "publisher": "LexisNexis",
+    "jurisdiction": "us:ca",
+    "collection-number": "2006"
+  }
+]
+<<===== INPUT =====<<

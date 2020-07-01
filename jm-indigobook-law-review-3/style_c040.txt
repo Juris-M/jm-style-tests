@@ -1,0 +1,71 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "XZL3QSER"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>aff’d</i>, 210 F.3d 88 (2d Cir. 2000)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "prefix": "<i>aff'd</i>,",
+      "id": "XZL3QSER",
+      "position": 0,
+      "suppress-author": true
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "XZL3QSER",
+    "type": "legal_case",
+    "title": "John D.R. Leonard v. Pepsico, Inc.",
+    "container-title": "F.3d",
+    "volume": "210",
+    "authority": "court.appeals",
+    "number": "99\\-9032",
+    "page": "88",
+    "issued": {
+      "date-parts": [
+        [
+          2000,
+          4,
+          17
+        ]
+      ]
+    },
+    "URL": "https://www.courtlistener.com/opinion/768431/john-dr-leonard-v-pepsico-inc/",
+    "accessed": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          22
+        ]
+      ]
+    },
+    "jurisdiction": "us:c2"
+  }
+]
+<<===== INPUT =====<<

@@ -1,0 +1,55 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "X2QDQDB2"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of X2QDQDB2 z0049 87 z4288 711 101 z4317 770 z4331 z4332 z4333 104 z4502 z0023 z0025 113 z4502 121 z4417 z4444 z4449 z4450 z4460
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Ohio Admin. Code
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "X2QDQDB2",
+    "type": "regulation",
+    "container-title": "Ohio Admin. Code",
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "jurisdiction": "us:oh"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "X2QDQDB2",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

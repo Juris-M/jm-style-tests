@@ -1,0 +1,85 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "EIGG38NP",
+  "EQZ6RI89"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>Smith v. Jones</i>, 93-2345 (La. 7/15/94); 650 So.2d 500
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "EIGG38NP",
+      "position": 0
+    },
+    {
+      "prefix": "; ",
+      "id": "EQZ6RI89",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "EIGG38NP",
+    "type": "legal_case",
+    "title": "Smith v. Jones",
+    "authority": "supreme.court",
+    "number": "93\\-2345",
+    "issued": {
+      "date-parts": [
+        [
+          1994,
+          7,
+          15
+        ]
+      ]
+    },
+    "jurisdiction": "us:la",
+    "seeAlso": [
+      "EQZ6RI89"
+    ]
+  },
+  {
+    "id": "EQZ6RI89",
+    "type": "legal_case",
+    "title": "Smith v. Jones",
+    "container-title": "So.2d",
+    "volume": "650",
+    "authority": "supreme.court",
+    "page": "500",
+    "issued": {
+      "date-parts": [
+        [
+          1994
+        ]
+      ]
+    },
+    "jurisdiction": "us:la",
+    "seeAlso": [
+      "EIGG38NP"
+    ]
+  }
+]
+<<===== INPUT =====<<

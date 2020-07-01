@@ -1,0 +1,57 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "FBB5P6PL"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+U.S. Dep’t of State, Bureau of Democracy, H.R. and Lab., Internal Migration 123 (Apr. 1, 2000)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "FBB5P6PL",
+      "position": 0,
+      "locator": "123"
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "FBB5P6PL",
+    "type": "report",
+    "title": "Internal Migration",
+    "authority": "Bureau of Democracy, H.R. and Lab.|U.S. Dep’t of State",
+    "issued": {
+      "date-parts": [
+        [
+          2000,
+          4,
+          1
+        ]
+      ]
+    },
+    "page": "123",
+    "jurisdiction": "us"
+  }
+]
+<<===== INPUT =====<<

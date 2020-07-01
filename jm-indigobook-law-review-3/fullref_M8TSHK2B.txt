@@ -1,0 +1,52 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "M8TSHK2B"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of M8TSHK2B z0049 z0015 71 z4285 z4287 z0016 z0017 77 z4307 z4308 101 z4389 104 109 118 121 z4410 z4453 z4460
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Facebook, Inc., 2014 Annual Report (2014)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "M8TSHK2B",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "M8TSHK2B",
+    "type": "report",
+    "title": "Facebook, Inc., 2014 Annual Report",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "jurisdiction": "us"
+  }
+]
+<<===== INPUT =====<<

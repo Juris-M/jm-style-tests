@@ -1,0 +1,50 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "29N4C9JW"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>Batman v. Commissioner</i>, 189 F.2d 107 (5th Cir. 1951)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+[
+  {
+    "id": "29N4C9JW",
+    "position": 0
+  }
+]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "29N4C9JW",
+    "type": "legal_case",
+    "title": "Batman v. Commissioner",
+    "container-title": "F.2d",
+    "volume": "189",
+    "authority": "court.appeals",
+    "page": "107",
+    "issued": {
+      "date-parts": [
+        [
+          1951
+        ]
+      ]
+    },
+    "jurisdiction": "us:c5"
+  }
+]
+<<===== INPUT =====<<

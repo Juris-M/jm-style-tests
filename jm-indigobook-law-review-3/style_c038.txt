@@ -1,0 +1,58 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "8FQ8AXKL"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>See generally</i> Jeffrey Toobin, <i>The Nine: Inside the Secret World of the Supreme Court</i> (2007)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "prefix": "<i>See generally</i>",
+      "id": "8FQ8AXKL",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "8FQ8AXKL",
+    "type": "book",
+    "title": "The nine: inside the secret world of the Supreme Court",
+    "author": [
+      {
+        "given": "Jeffrey",
+        "family": "Toobin"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2007
+        ]
+      ]
+    }
+  }
+]
+<<===== INPUT =====<<

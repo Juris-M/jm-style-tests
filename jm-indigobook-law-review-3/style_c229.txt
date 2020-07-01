@@ -1,0 +1,51 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "ANQBGJ6M"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>Exxon Mobil Corp. v. Allapattah Servs., Inc.</i>, 545 U.S. 546, 571 (2005)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+[
+  {
+    "id": "ANQBGJ6M",
+    "position": 0,
+    "locator": "p. 571"
+  }
+]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "ANQBGJ6M",
+    "type": "legal_case",
+    "title": "Exxon Mobil Corp. v. Allapattah Servs., Inc.",
+    "container-title": "U.S.",
+    "volume": "545",
+    "authority": "supreme.court",
+    "page": "546",
+    "issued": {
+      "date-parts": [
+        [
+          2005
+        ]
+      ]
+    },
+    "jurisdiction": "us"
+  }
+]
+<<===== INPUT =====<<

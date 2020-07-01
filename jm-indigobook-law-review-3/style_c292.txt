@@ -1,0 +1,57 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "9TTM5LPV"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Trade and Investment Polices in India, 2014–2015, Inv. No. 332-550, USITC Pub. 4566 (Sep. 2015)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "9TTM5LPV",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "9TTM5LPV",
+    "type": "report",
+    "title": "Trade and Investment Polices in India, 2014–2015",
+    "number": "332\\-550",
+    "genre": "Inv.",
+    "authority": "USITC",
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          9
+        ]
+      ]
+    },
+    "call-number": "4566",
+    "jurisdiction": "us"
+  }
+]
+<<===== INPUT =====<<

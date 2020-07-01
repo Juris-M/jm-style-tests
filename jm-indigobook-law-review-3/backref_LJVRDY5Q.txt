@@ -1,0 +1,60 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "LJVRDY5Q"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of LJVRDY5Q z0049 z0015 71 z4283 z0016 82 z4301 275 101 z4353 z4370 z4371 104 z2694 109 z2694 118 z2694 121 z4401 z4402 z4409 z4426 z4438 z4460 z0030
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>Macy’s Inc. v. Martha Stewart Living Omnimedia, Inc.</i>, No. 1728
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "LJVRDY5Q",
+    "type": "legal_case",
+    "title": "Macy’s Inc. v. Martha Stewart Living Omnimedia, Inc.",
+    "authority": "appellate.division.supreme.court",
+    "number": "1728",
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          2,
+          26
+        ]
+      ]
+    },
+    "URL": "http://www.nycourts.gov/reporter/3dseries/2015/2015_01728.htm",
+    "jurisdiction": "us:ny"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "LJVRDY5Q",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

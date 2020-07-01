@@ -1,0 +1,49 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "KAEW3ZQY"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of KAEW3ZQY z0049 z0015 71 z4283 z0016 82 z4301 267 101 z4353 z4363 104 109 118 121 z4401 z4402 z4409 z4426 z4431 z4460
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+2006 Rep. Inter-Am. Ct. H.R. 45
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "KAEW3ZQY",
+    "type": "legal_case",
+    "container-title": "Rep. Inter-Am. Ct. H.R.",
+    "page": "45",
+    "jurisdiction": "us",
+    "collection-number": "2006"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "KAEW3ZQY",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

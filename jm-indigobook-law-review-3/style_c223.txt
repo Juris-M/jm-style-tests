@@ -1,0 +1,63 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "TTKDZGBP"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Cillizza, <i>supra</i>
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "TTKDZGBP",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "TTKDZGBP",
+    "type": "post-weblog",
+    "title": "Winners and Losers of the 2014 Midterm Elections",
+    "author": [
+      {
+        "given": "Chris",
+        "family": "Cillizza"
+      }
+    ],
+    "container-title": "Wash. Post Blogs",
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          11,
+          5
+        ]
+      ]
+    },
+    "URL": "http://www.washingtonpost.com/blogs/the-fix/wp/2014/11/04/winners-and-losers-of-the-2014-election-early-edition/",
+    "note": "event-date: 10:25 AM"
+  }
+]
+<<===== INPUT =====<<

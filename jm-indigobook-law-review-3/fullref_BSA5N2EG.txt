@@ -1,0 +1,56 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "BSA5N2EG"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of BSA5N2EG z0049 87 z4295 z4300 270 101 z4335 351 z4349 z4350 104 z1319 z0023 z0025 113 z1319 121 z4418 z4443 z4460
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+23 Ill. Code R. (LexisNexis 2000)
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "BSA5N2EG",
+    "type": "legislation",
+    "container-title": "Ill. Code R.",
+    "volume": "23",
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "publisher": "LexisNexis",
+    "jurisdiction": "us:il"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "BSA5N2EG",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

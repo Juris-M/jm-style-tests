@@ -1,0 +1,49 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "S78DRDMU"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+2006 Common Mkt. Rep. (CCH) 45
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "S78DRDMU",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "S78DRDMU",
+    "type": "legal_case",
+    "container-title": "Common Mkt. Rep.",
+    "authority": "ecj",
+    "page": "45",
+    "publisher": "CCH",
+    "jurisdiction": "eu.int:cjeu",
+    "collection-number": "2006"
+  }
+]
+<<===== INPUT =====<<

@@ -1,0 +1,49 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "K6LGVX5N"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+2006-14 Utah Adv. Legis. Serv. 45 (LexisNexis)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "K6LGVX5N",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "K6LGVX5N",
+    "type": "legislation",
+    "container-title": "Utah Adv. Legis. Serv.",
+    "volume": "14",
+    "page": "45",
+    "publisher": "LexisNexis",
+    "jurisdiction": "us:ut",
+    "collection-number": "2006"
+  }
+]
+<<===== INPUT =====<<

@@ -1,0 +1,61 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "3HQ8GW4S"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of 3HQ8GW4S z0049 z0015 71 z3836 z0016 82 z3854 267 101 z3906 z3907 104 109 118 121 z3955 z3956 z3957 z3981 z3982 z0030
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>Smith v. Jones</i>, 2001 VT 1
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "3HQ8GW4S",
+    "type": "legal_case",
+    "title": "Smith v. Jones",
+    "authority": "supreme.court",
+    "page": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2001
+        ]
+      ]
+    },
+    "jurisdiction": "us:vt",
+    "collection-number": "2001",
+    "seeAlso": [
+      "QAL4VKX3",
+      "FUUEH7ZD"
+    ]
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "3HQ8GW4S",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

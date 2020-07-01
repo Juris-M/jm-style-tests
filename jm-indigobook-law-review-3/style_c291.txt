@@ -1,0 +1,60 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "VR43Z9SJ"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Behavioral patterns of locusts, Inv. No. 13, USITC Pub. 15 (Apr. 1, 2000) (Review)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "VR43Z9SJ",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "VR43Z9SJ",
+    "type": "report",
+    "title": "Behavioral patterns of locusts",
+    "number": "13",
+    "genre": "Inv.",
+    "authority": "USITC",
+    "issued": {
+      "date-parts": [
+        [
+          2000,
+          4,
+          1
+        ]
+      ]
+    },
+    "call-number": "15",
+    "note": "Review",
+    "jurisdiction": "us",
+    "status": "Review"
+  }
+]
+<<===== INPUT =====<<

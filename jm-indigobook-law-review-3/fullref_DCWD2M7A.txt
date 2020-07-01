@@ -1,0 +1,55 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "DCWD2M7A"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of DCWD2M7A z0049 87 z4288 249 101 z4317 308 z4331 z4332 z4333 104 z2696 z0023 z0025 113 z2696 121 z4417 z4444 z4445 z4460
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+N.Y. C.P.L.R. (McKinney 2000)
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "DCWD2M7A",
+    "type": "regulation",
+    "container-title": "N.Y. C.P.L.R.",
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "publisher": "McKinney",
+    "jurisdiction": "us:ny"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "DCWD2M7A",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

@@ -1,0 +1,62 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "PIVQQTDU"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Jack Dickey, <i>The Power of Taylor Swift</i>, Time, Nov. 24, 2014, at 13, 17
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "PIVQQTDU",
+      "position": 0,
+      "locator": ", p. 17"
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "PIVQQTDU",
+    "type": "article-magazine",
+    "title": "The Power of Taylor Swift",
+    "author": [
+      {
+        "given": "Jack",
+        "family": "Dickey"
+      }
+    ],
+    "container-title": "Time",
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          11,
+          24
+        ]
+      ]
+    },
+    "page": "13"
+  }
+]
+<<===== INPUT =====<<

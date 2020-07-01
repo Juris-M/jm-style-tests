@@ -1,0 +1,47 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "GH4QEMAQ"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of GH4QEMAQ z0049 z0015 71 z4283 z0016 82 z4301 275 101 z4353 z4363 104 109 118 121 z4401 z4402 z4409 z4426 z4431 z4460
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+2006 Mass. App. Div. Adv. Sh. 45
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "GH4QEMAQ",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "GH4QEMAQ",
+    "type": "legal_case",
+    "container-title": "Mass. App. Div. Adv. Sh.",
+    "page": "45",
+    "jurisdiction": "us:ma",
+    "collection-number": "2006"
+  }
+]
+<<===== INPUT =====<<

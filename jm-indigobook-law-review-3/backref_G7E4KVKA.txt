@@ -1,0 +1,62 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "G7E4KVKA"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of G7E4KVKA z0049 z0015 71 z4283 z4284 217 z4499 z0016 82 z4301 267 101 z4353 z4363 104 z4499 109 z4499 118 z4499 121 z4401 z4402 z4409 z4426 z4431 z4457
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Decl. of Martha Woodmansee, <i>Salinger</i>, 641 F. Supp. 2d 250 (No. 09 Civ. 05095)
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "G7E4KVKA",
+    "type": "legal_case",
+    "title": "Salinger v. Colting",
+    "container-title": "F. Supp. 2d",
+    "volume": "641",
+    "authority": "district.court",
+    "number": "09 Civ. 05095",
+    "page": "250",
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "shortTitle": "Salinger",
+    "jurisdiction": "us:c2:ny.sd",
+    "document-name": "Decl. of Martha Woodmansee"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "G7E4KVKA",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

@@ -1,0 +1,60 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "5ZR67Y8L"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of 5ZR67Y8L z0049 z0015 71 z1565 z0016 82 z1583 267 101 z1635 z1636 104 109 118 121 z1684 z1685 z1686 z1710 z1711 z0030
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>Saucier v. State Tax Assessor</i>, 1998 ME 61
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "5ZR67Y8L",
+    "type": "legal_case",
+    "title": "Saucier v. State Tax Assessor",
+    "authority": "supreme.judicial.court",
+    "page": "61",
+    "issued": {
+      "date-parts": [
+        [
+          1998
+        ]
+      ]
+    },
+    "jurisdiction": "us:me",
+    "collection-number": "1998",
+    "seeAlso": [
+      "58RBQLAM"
+    ]
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "5ZR67Y8L",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

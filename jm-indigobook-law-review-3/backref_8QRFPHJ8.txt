@@ -1,0 +1,62 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "8QRFPHJ8"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of 8QRFPHJ8 z0049 z0015 71 z2698 z0016 82 z2716 267 101 z2768 z2769 104 z2918 109 z2918 118 z2918 121 z2817 z2818 z2819 z2843 z2844 z0030
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>Byer v. Wright</i>, 2005-Ohio-1797
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "8QRFPHJ8",
+    "type": "legal_case",
+    "title": "Byer v. Wright",
+    "authority": "court.appeals",
+    "page": "1797",
+    "issued": {
+      "date-parts": [
+        [
+          2005
+        ]
+      ]
+    },
+    "jurisdiction": "us:oh:d11",
+    "collection-number": "2005",
+    "seeAlso": [
+      "3W3F7YNR",
+      "MSTQ7IAJ"
+    ]
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "8QRFPHJ8",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

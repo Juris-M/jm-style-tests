@@ -1,0 +1,56 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "6DPJVSR2"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of 6DPJVSR2 z0049 87 z4295 z4297 252 101 z4335 343 z4338 z4343 z4346 104 z0023 z0025 113 121 z4418 z4419 z4422 z4443 z4460
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+2006 Or. Laws Adv. Sh. No. 41, 45
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "6DPJVSR2",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "6DPJVSR2",
+    "type": "legislation",
+    "container-title": "Or. Laws Adv. Sh.",
+    "volume": "41",
+    "issued": {
+      "date-parts": [
+        [
+          2006
+        ]
+      ]
+    },
+    "page": "45",
+    "jurisdiction": "us:or",
+    "collection-number": "2006",
+    "gazette-flag": "1"
+  }
+]
+<<===== INPUT =====<<

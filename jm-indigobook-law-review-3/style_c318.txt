@@ -1,0 +1,49 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "XVTKXI7Y"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+2006-14 Alaska Adv. Legis. Serv. 45 (LexisNexis)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "XVTKXI7Y",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "XVTKXI7Y",
+    "type": "legislation",
+    "container-title": "Alaska Adv. Legis. Serv.",
+    "volume": "14",
+    "page": "45",
+    "publisher": "LexisNexis",
+    "jurisdiction": "us:ak",
+    "collection-number": "2006"
+  }
+]
+<<===== INPUT =====<<

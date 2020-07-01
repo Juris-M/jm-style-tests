@@ -1,0 +1,50 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "HY4DYJIZ"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>United States v. $124,570 U.S. Currency</i>, 873 F.2d 1240 (9th Cir. 1989)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+[
+  {
+    "id": "HY4DYJIZ",
+    "position": 0
+  }
+]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "HY4DYJIZ",
+    "type": "legal_case",
+    "title": "United States v. $124,570 U.S. Currency",
+    "container-title": "F.2d",
+    "volume": "873",
+    "authority": "court.appeals",
+    "page": "1240",
+    "issued": {
+      "date-parts": [
+        [
+          1989
+        ]
+      ]
+    },
+    "jurisdiction": "us:c9"
+  }
+]
+<<===== INPUT =====<<

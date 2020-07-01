@@ -1,0 +1,50 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "9UW2LXLS"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of 9UW2LXLS z0049 87 z4316 296 101 z4395 z4396 104 109 118 121 z4417 z4452
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+THE BLUEBOOK A UNIFORM SYSTEM OF CITATION
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "9UW2LXLS",
+    "type": "patent",
+    "title": "THE BLUEBOOK A UNIFORM SYSTEM OF CITATION",
+    "number": "3,886,986",
+    "genre": "Trademark",
+    "jurisdiction": "us"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "9UW2LXLS",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

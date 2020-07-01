@@ -1,0 +1,55 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "WACPK3HA"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of WACPK3HA z0049 87 z4295 z4300 732 101 z4335 813 z4349 z4350 z4352 104 z0023 z0025 113 121 z4418 z4443 z4460
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Ohio Rev. Code Ann. (West 2000)
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "WACPK3HA",
+    "type": "legislation",
+    "container-title": "Ohio Rev. Code Ann.",
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "publisher": "West",
+    "jurisdiction": "us:oh"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "WACPK3HA",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

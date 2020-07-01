@@ -1,0 +1,56 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "NSPCG56G"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Digital Millennium Copyright Act of 1998 § 103, 17 U.S.C.A. § 1201 (West 2008)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "NSPCG56G",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "NSPCG56G",
+    "type": "legislation",
+    "title": "Digital Millennium Copyright Act of 1998 § 103",
+    "container-title": "U.S.C.A.",
+    "volume": "17",
+    "issued": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    },
+    "section": "1201",
+    "publisher": "West",
+    "jurisdiction": "us"
+  }
+]
+<<===== INPUT =====<<

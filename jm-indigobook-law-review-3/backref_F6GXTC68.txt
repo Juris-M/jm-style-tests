@@ -1,0 +1,63 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "F6GXTC68"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of F6GXTC68 z0049 z0015 71 z4283 z0016 z0017 77 z4301 267 101 z4353 z4364 z4365 z4366 413 z4367 104 109 118 121 z4401 z4402 z4409 z4426 z4436 z4460
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Smith v. Jones, CFPB No. 13, 2006 LEXIS 123654
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "F6GXTC68",
+    "type": "legal_case",
+    "title": "Smith v. Jones",
+    "authority": "CFPB",
+    "number": "13",
+    "issued": {
+      "date-parts": [
+        [
+          2000,
+          4,
+          1
+        ]
+      ]
+    },
+    "archive_location": "123654",
+    "archive": "LEXIS",
+    "jurisdiction": "us",
+    "collection-number": "2006",
+    "admin-flag": "1"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "F6GXTC68",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

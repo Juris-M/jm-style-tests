@@ -1,0 +1,47 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "NCJ77Z34"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>see also</i> <i>The Shawshank Redemption</i> (Castle Rock Entertainment 1994)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+[
+  {
+    "prefix": "<i>see also</i>",
+    "id": "NCJ77Z34",
+    "position": 0
+  }
+]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "NCJ77Z34",
+    "type": "motion_picture",
+    "title": "The Shawshank Redemption",
+    "publisher": "Castle Rock Entertainment",
+    "issued": {
+      "date-parts": [
+        [
+          1994
+        ]
+      ]
+    }
+  }
+]
+<<===== INPUT =====<<

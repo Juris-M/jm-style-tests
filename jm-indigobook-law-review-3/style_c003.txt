@@ -1,0 +1,67 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "L4TVSRGE"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>But cf.</i> <i>The Bluebook: A Uniform System of Citation</i> (Columbia Law Review Ass’n et al. eds., 20th ed. 2015)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "prefix": "<i>But cf.</i>",
+      "id": "L4TVSRGE",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "L4TVSRGE",
+    "type": "book",
+    "title": "The Bluebook: a uniform system of citation",
+    "editor": [
+      {
+        "family": "Columbia Law Review Ass'n"
+      },
+      {
+        "family": "Harvard Law Rev. Ass'n."
+      },
+      {
+        "family": "University of Pennsylvania Law Review Ass'n."
+      },
+      {
+        "family": "The Yale Law J. Ass'n."
+      }
+    ],
+    "edition": "20",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    }
+  }
+]
+<<===== INPUT =====<<

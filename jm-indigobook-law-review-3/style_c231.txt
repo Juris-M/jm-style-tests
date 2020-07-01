@@ -1,0 +1,62 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "APWM6ABV"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>Williamson v. United States</i>, 184 F.2d 280 (Jackson, Circuit Justice, 2d Cir. 1950)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "APWM6ABV",
+      "position": 0,
+      "locator": "|Jackson, Circuit Justice"
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "APWM6ABV",
+    "type": "legal_case",
+    "title": "Williamson v. United States",
+    "author": [
+      {
+        "family": "Jackson, Circuit Justice"
+      }
+    ],
+    "container-title": "F.2d",
+    "volume": "184",
+    "authority": "court.appeals",
+    "page": "280",
+    "issued": {
+      "date-parts": [
+        [
+          1950
+        ]
+      ]
+    },
+    "jurisdiction": "us:c2"
+  }
+]
+<<===== INPUT =====<<

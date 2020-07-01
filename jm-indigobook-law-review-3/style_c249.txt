@@ -1,0 +1,64 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "Q5MJXB5I"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+System for disseminating media content representing episodes in a serialized sequence, U.S. Patent No. 8,112,504 B2 (filed Mar. 4, 2009) (issued Feb. 7, 2012)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "Q5MJXB5I",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "Q5MJXB5I",
+    "type": "patent",
+    "title": "System for disseminating media content representing episodes in a serialized sequence",
+    "number": "8,112,504 B2",
+    "submitted": {
+      "date-parts": [
+        [
+          2009,
+          3,
+          4
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2012,
+          2,
+          7
+        ]
+      ]
+    },
+    "jurisdiction": "us"
+  }
+]
+<<===== INPUT =====<<

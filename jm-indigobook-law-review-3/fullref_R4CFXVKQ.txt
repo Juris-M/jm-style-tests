@@ -1,0 +1,58 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "R4CFXVKQ"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of R4CFXVKQ z0049 87 z4302 z4304 101 z4382 451 z4477 104 109 118 121 z4410 z4413 z4414 z4460
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+ABLE Act of 2014, H.R. 647, 113th Cong. (<i>as passed by</i> House, Dec. 3, 2014)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "R4CFXVKQ",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "R4CFXVKQ",
+    "type": "bill",
+    "title": "ABLE Act of 2014",
+    "number": "H.R. 647",
+    "authority": "Cong.",
+    "references": "<i>as passed by</i> House",
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          12,
+          3
+        ]
+      ]
+    },
+    "jurisdiction": "us",
+    "collection-number": "113"
+  }
+]
+<<===== INPUT =====<<

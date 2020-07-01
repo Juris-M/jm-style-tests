@@ -1,0 +1,48 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "PHTI8JNR"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of PHTI8JNR z0049 z0015 71 z0016 z0017 77 z0339 z0020 91 z0344 104 109 118 121 z0348
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Parl. Eur. Doc. (SEC 1234) 45
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "PHTI8JNR",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "PHTI8JNR",
+    "type": "report",
+    "number": "1234",
+    "genre": "SEC",
+    "page": "45",
+    "container-title": "Parl. Eur. Doc.",
+    "jurisdiction": "eu.int"
+  }
+]
+<<===== INPUT =====<<

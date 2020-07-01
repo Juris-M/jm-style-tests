@@ -1,0 +1,56 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "Y5PA9P8D"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Worthy Act, 52 U.S.C.A. § 15 (Lawyerly Press 2003)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "Y5PA9P8D",
+      "position": 0,
+      "locator": "sec. 15"
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "Y5PA9P8D",
+    "type": "legislation",
+    "title": "Worthy Act",
+    "container-title": "U.S.C.A.",
+    "volume": "52",
+    "publisher": "Lawyerly Press",
+    "jurisdiction": "us",
+    "publication-date": {
+      "date-parts": [
+        [
+          2003
+        ]
+      ]
+    }
+  }
+]
+<<===== INPUT =====<<

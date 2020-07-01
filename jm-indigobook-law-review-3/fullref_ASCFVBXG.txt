@@ -1,0 +1,62 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "ASCFVBXG"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of ASCFVBXG z0049 87 z4288 z4289 231 101 z4317 300 z4318 104 z0023 z0025 113 121 z4417 z4444 z4449 z4460
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+SEC Whistleblower Rules, Exchange Act Release No. 75592, 80 Fed. Reg. 47829 (Aug. 10, 2015)
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "ASCFVBXG",
+    "type": "regulation",
+    "title": "SEC Whistleblower Rules",
+    "container-title": "Fed. Reg.",
+    "volume": "80",
+    "number": "75592",
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          8,
+          10
+        ]
+      ]
+    },
+    "page": "47829",
+    "jurisdiction": "us",
+    "genre": "Exchange Act Release",
+    "authority": "SEC"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "ASCFVBXG",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

@@ -1,0 +1,62 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "M9UMHT7Y"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of M9UMHT7Y z0049 z0015 71 z4057 z0016 82 z4075 267 101 z4127 z4130 104 z4274 109 z4274 118 z4274 121 z4176 z4177 z4185 z4202 z4211
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>State v. Green</i>, No. 2012AP1475-CR, 2013 WL 5811261
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "M9UMHT7Y",
+    "type": "legal_case",
+    "title": "State v. Green",
+    "container-title": "WL",
+    "authority": "court.appeals",
+    "number": "2012AP1475\\-CR",
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          10,
+          30
+        ]
+      ]
+    },
+    "archive_location": "5811261",
+    "jurisdiction": "us:wi",
+    "collection-number": "2013"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "M9UMHT7Y",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

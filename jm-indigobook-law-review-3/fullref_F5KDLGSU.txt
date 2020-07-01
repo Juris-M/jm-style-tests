@@ -1,0 +1,62 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "F5KDLGSU"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of F5KDLGSU z0049 z0015 71 z2014 z0016 82 z2032 267 101 z2084 z2095 104 109 118 121 z2133 z2134 z2142 z2159 z2165
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>Doe v. Roe</i>, 989 P.2d 1312 (Mont. 1998)
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "F5KDLGSU",
+    "type": "legal_case",
+    "title": "Doe v. Roe",
+    "container-title": "P.2d",
+    "volume": "989",
+    "authority": "supreme.court",
+    "page": "1312",
+    "issued": {
+      "date-parts": [
+        [
+          1998
+        ]
+      ]
+    },
+    "jurisdiction": "us:mt",
+    "seeAlso": [
+      "CN33JYZH",
+      "RCPKPDHU"
+    ]
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "F5KDLGSU",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

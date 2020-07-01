@@ -1,0 +1,62 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "93HHXYFA"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Charlie Savage, <i>U.N. Commission Presses U.S. on Torture</i>, N.Y. Times, Nov. 14, 2014, at A6
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "93HHXYFA",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "93HHXYFA",
+    "type": "article-newspaper",
+    "title": "U.N. Commission Presses U.S. on Torture",
+    "author": [
+      {
+        "given": "Charlie",
+        "family": "Savage"
+      }
+    ],
+    "container-title": "N.Y. Times",
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          11,
+          14
+        ]
+      ]
+    },
+    "page": "A6",
+    "jurisdiction": "us"
+  }
+]
+<<===== INPUT =====<<

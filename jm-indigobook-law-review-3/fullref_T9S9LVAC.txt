@@ -1,0 +1,53 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "T9S9LVAC"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of T9S9LVAC z0049 87 z1093 z1098 262 101 z1133 343 z1136 z1137 z1145 104 z0023 z0025 113 121 z1216 z1221 z1241
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Guam Pub. L. 6587 (2000)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "T9S9LVAC",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "T9S9LVAC",
+    "type": "legislation",
+    "number": "6587",
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "jurisdiction": "us:gu",
+    "gazette-flag": "1"
+  }
+]
+<<===== INPUT =====<<

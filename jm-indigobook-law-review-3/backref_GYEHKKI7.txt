@@ -1,0 +1,56 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "GYEHKKI7"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of GYEHKKI7 z0049 87 z4316 296 101 z4395 104 z4498 109 z4498 118 z4498 121 z4417 z4452
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+’504 Patent
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "GYEHKKI7",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "GYEHKKI7",
+    "type": "patent",
+    "number": "8,112,504",
+    "submitted": {
+      "date-parts": [
+        [
+          2009,
+          3,
+          4
+        ]
+      ]
+    },
+    "status": "B2",
+    "jurisdiction": "us"
+  }
+]
+<<===== INPUT =====<<

@@ -1,0 +1,55 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "DLEBU843"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of DLEBU843 z0058 z0044 z0031 z0068 z0031 z0070 z0074 z0075
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Superfan Suits, <i>supra</i>
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "DLEBU843",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "DLEBU843",
+    "type": "webpage",
+    "container-title": "Superfan Suits",
+    "URL": "http://www.superfansuits.com/",
+    "accessed": {
+      "date-parts": [
+        [
+          2015,
+          2,
+          21
+        ]
+      ]
+    }
+  }
+]
+<<===== INPUT =====<<

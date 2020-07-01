@@ -1,0 +1,61 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "UBPKGB2T"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of UBPKGB2T z0031 z0068 z0031 z0071 z0074
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Kevin Underhill, <i>Gollum Experts to Testify, Says Court</i>, Lowering the Bar (Dec. 4, 2015), <a href="http://www.loweringthebar.net/2015/12/gollum-experts.html">http://www.loweringthebar.net/2015/12/gollum-experts.html</a>
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "UBPKGB2T",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "UBPKGB2T",
+    "type": "post-weblog",
+    "title": "Gollum Experts to Testify, Says Court",
+    "author": [
+      {
+        "given": "Kevin",
+        "family": "Underhill"
+      }
+    ],
+    "container-title": "Lowering the Bar",
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          12,
+          4
+        ]
+      ]
+    },
+    "URL": "http://www.loweringthebar.net/2015/12/gollum-experts.html"
+  }
+]
+<<===== INPUT =====<<

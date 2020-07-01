@@ -1,0 +1,57 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "URAAYIB9"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of URAAYIB9 z0049 87 z4295 z4300 730 101 z4335 811 z4349 z4350 104 z0023 z0025 113 121 z4418 z4443 z4460
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+50 N. Mar. I. Admin. Code § 321
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "URAAYIB9",
+    "type": "regulation",
+    "container-title": "N. Mar. I. Admin. Code",
+    "volume": "50",
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "section": "sec. 321",
+    "jurisdiction": "us:ms"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "URAAYIB9",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

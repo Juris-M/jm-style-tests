@@ -1,0 +1,84 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "M684PZFM",
+  "D4MF2V2Q"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>Smith v. Jones</i>, 2001 WI 1, ¶ 12, 214 Wis. 2d 408
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "M684PZFM",
+      "position": 0,
+      "locator": "para. 12"
+    },
+    {
+      "id": "D4MF2V2Q",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "M684PZFM",
+    "type": "legal_case",
+    "title": "Smith v. Jones",
+    "authority": "supreme.court",
+    "page": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2001
+        ]
+      ]
+    },
+    "jurisdiction": "us:wi",
+    "collection-number": "2001",
+    "seeAlso": [
+      "D4MF2V2Q"
+    ]
+  },
+  {
+    "id": "D4MF2V2Q",
+    "type": "legal_case",
+    "title": "Smith v. Jones",
+    "container-title": "Wis. 2d",
+    "volume": "214",
+    "authority": "supreme.court",
+    "page": "408",
+    "issued": {
+      "date-parts": [
+        [
+          2001
+        ]
+      ]
+    },
+    "jurisdiction": "us:wi",
+    "seeAlso": [
+      "M684PZFM"
+    ]
+  }
+]
+<<===== INPUT =====<<

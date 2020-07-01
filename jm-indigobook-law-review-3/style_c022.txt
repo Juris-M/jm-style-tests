@@ -1,0 +1,48 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "59S2P65P"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Ohio Rev. Code Ann. § 2921.22 (West 2014)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "59S2P65P",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "59S2P65P",
+    "type": "legislation",
+    "container-title": "Ohio Rev. Code Ann.",
+    "section": "sec. 2921.22",
+    "publisher": "West",
+    "jurisdiction": "us:oh",
+    "publication-date": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    }
+  }
+]
+<<===== INPUT =====<<

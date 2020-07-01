@@ -1,0 +1,60 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "ZL9I89K7"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of ZL9I89K7 z0049 z0015 71 z4283 z0016 z0017 77 z4301 267 101 z4353 z4378 z4379 104 109 118 121 z4401 z4402 z4406 z4426 z4460
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+US Pagoda, Inc., CCH OSHD ¶ 33123
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "ZL9I89K7",
+    "type": "legal_case",
+    "title": "US Pagoda, Inc.",
+    "container-title": "OSHD",
+    "number": "10\\-2035",
+    "page": "para. 33123",
+    "issued": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "publisher": "CCH",
+    "jurisdiction": "us",
+    "admin-flag": "1"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "ZL9I89K7",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

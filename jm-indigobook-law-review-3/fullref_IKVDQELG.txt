@@ -1,0 +1,65 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "IKVDQELG"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of IKVDQELG z0055 z0031 z0068 z0031 z0073
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Gabriel García Márquez, <i>One Hundred Years of Solitude</i> (Gregory Rabassa trans., Harper &#38; Row 2003) (1967)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "IKVDQELG",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "IKVDQELG",
+    "type": "book",
+    "title": "One Hundred Years of Solitude",
+    "author": [
+      {
+        "given": "Gabriel García",
+        "family": "Márquez"
+      }
+    ],
+    "translator": [
+      {
+        "given": "Gregory",
+        "family": "Rabassa"
+      }
+    ],
+    "publisher": "Harper & Row",
+    "issued": {
+      "date-parts": [
+        [
+          2003
+        ]
+      ]
+    },
+    "note": "original-date: 1967"
+  }
+]
+<<===== INPUT =====<<

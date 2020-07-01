@@ -1,0 +1,60 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "UU24MAXN"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of UU24MAXN z0049 z0015 71 z3376 z0016 82 z3394 267 101 z3446 z3447 104 z3595 109 z3595 118 z3595 121 z3495 z3496 z3497 z3521 z3522 z0030
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>Smith v. Jones</i>, 1996 S.D. 15
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "UU24MAXN",
+    "type": "legal_case",
+    "title": "Smith v. Jones",
+    "authority": "supreme.court",
+    "page": "15",
+    "issued": {
+      "date-parts": [
+        [
+          1996
+        ]
+      ]
+    },
+    "jurisdiction": "us:sd",
+    "collection-number": "1996",
+    "seeAlso": [
+      "C67RYA7P"
+    ]
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "UU24MAXN",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

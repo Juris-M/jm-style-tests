@@ -1,0 +1,63 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "TYQDX3MU"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Victoria Nemiah, Note, <i>License and Registration, Please: Using Copyright “Conditions” To Protect Free/Open Source Software</i>, 3 N.Y.U. J. Intell. Prop. &#38; Ent. L. 358, 361 (2014)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "TYQDX3MU",
+      "position": 0,
+      "locator": "p. 361"
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "TYQDX3MU",
+    "type": "article-journal",
+    "title": "License and Registration, Please: Using Copyright “Conditions” To Protect Free/Open Source Software",
+    "author": [
+      {
+        "given": "Victoria",
+        "family": "Nemiah"
+      }
+    ],
+    "container-title": "N.Y.U. J. Intell. Prop. & Ent. L.",
+    "volume": "3",
+    "page": "358",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "note": "genre: Note",
+    "jurisdiction": "us"
+  }
+]
+<<===== INPUT =====<<

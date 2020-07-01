@@ -1,0 +1,47 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "4RWXKZM4"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of 4RWXKZM4 z0049 87 z4295 101 z4335 343 z4349 z4350 z4352 104 z0023 z0025 113 121 z4418 z4419 z4443 z4460
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+2006 P.R. Laws 45
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "4RWXKZM4",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "4RWXKZM4",
+    "type": "legislation",
+    "container-title": "P.R. Laws",
+    "page": "45",
+    "jurisdiction": "us:pr",
+    "collection-number": "2006"
+  }
+]
+<<===== INPUT =====<<

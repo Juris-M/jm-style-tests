@@ -1,0 +1,51 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "SR2XRUKU"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>Fenton v. Quaboag Country Club</i>, 233 N.E.2d 216, 219 (Mass. 1968)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+[
+  {
+    "id": "SR2XRUKU",
+    "position": 0,
+    "locator": "p. 219"
+  }
+]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "SR2XRUKU",
+    "type": "legal_case",
+    "title": "Fenton v. Quaboag Country Club",
+    "container-title": "N.E.2d",
+    "volume": "233",
+    "authority": "supreme.judicial.court",
+    "page": "216",
+    "issued": {
+      "date-parts": [
+        [
+          1968
+        ]
+      ]
+    },
+    "jurisdiction": "us:ma"
+  }
+]
+<<===== INPUT =====<<

@@ -1,0 +1,55 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "CW97TKUA"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Mark P. Painter, <i>30 Tips to Improve Readability in Briefs and Legal Documents or, How to Write for Judges, Not like Judges</i>, 31 Mont. Law 6 (Apr. 2006)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "CW97TKUA",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "CW97TKUA",
+    "type": "article-journal",
+    "title": "30 tips to improve readability in briefs and legal documents or, how to write for judges, not like judges",
+    "author": [
+      {
+        "given": "Mark P.",
+        "family": "Painter"
+      }
+    ],
+    "container-title": "Mont. Law",
+    "volume": "31",
+    "page": "6",
+    "issued": {
+      "date-parts": [
+        [
+          2006,
+          4
+        ]
+      ]
+    }
+  }
+]
+<<===== INPUT =====<<

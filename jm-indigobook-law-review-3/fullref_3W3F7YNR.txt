@@ -1,0 +1,62 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "3W3F7YNR"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of 3W3F7YNR z0049 z0015 71 z2698 z0016 82 z2716 267 101 z2768 z2779 104 109 118 121 z2817 z2818 z2826 z2843 z2849 z2852
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>Byer v. Wright</i>, 827 N.E.2d 835 (Ohio Ct. App. 11th Dist. 2005)
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "3W3F7YNR",
+    "type": "legal_case",
+    "title": "Byer v. Wright",
+    "container-title": "N.E.2d",
+    "volume": "827",
+    "authority": "court.appeals",
+    "page": "835",
+    "issued": {
+      "date-parts": [
+        [
+          2005
+        ]
+      ]
+    },
+    "jurisdiction": "us:oh:d11",
+    "seeAlso": [
+      "8QRFPHJ8",
+      "MSTQ7IAJ"
+    ]
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "3W3F7YNR",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

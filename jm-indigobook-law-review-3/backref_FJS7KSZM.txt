@@ -1,0 +1,59 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "FJS7KSZM"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of FJS7KSZM z0049 z0015 71 z4283 z4284 217 z4499 z0016 z0017 77 z4301 267 101 z4353 z4374 104 z4499 109 z4499 118 z4499 121 z4401 z4402 z4409 z4426 z4429 z4460
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Written Agreement Between Allied First Bancorp, Inc. and Federal Reserve Bank of Chicago, Docket No. 14-006-WA/RB-HC
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "FJS7KSZM",
+    "type": "legal_case",
+    "number": "14\\-006\\-WA/RB\\-HC",
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          6,
+          6
+        ]
+      ]
+    },
+    "jurisdiction": "us",
+    "document-name": "Written Agreement Between Allied First Bancorp, Inc. and Federal Reserve Bank of Chicago",
+    "admin-flag": "1"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "FJS7KSZM",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

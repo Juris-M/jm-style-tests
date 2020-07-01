@@ -1,0 +1,84 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "TE2BWL36",
+  "LXRG3K6I"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>Smith v. Jones</i>, 1999 UT App 16, 998 P.2d 250
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "TE2BWL36",
+      "position": 0
+    },
+    {
+      "id": "LXRG3K6I",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "TE2BWL36",
+    "type": "legal_case",
+    "title": "Smith v. Jones",
+    "authority": "court.appeals",
+    "page": "16",
+    "issued": {
+      "date-parts": [
+        [
+          1999
+        ]
+      ]
+    },
+    "jurisdiction": "us:ut",
+    "collection-number": "1999",
+    "seeAlso": [
+      "EQKGTHUV",
+      "LXRG3K6I"
+    ]
+  },
+  {
+    "id": "LXRG3K6I",
+    "type": "legal_case",
+    "title": "Smith v. Jones",
+    "container-title": "P.2d",
+    "volume": "998",
+    "authority": "court.appeals",
+    "page": "250",
+    "issued": {
+      "date-parts": [
+        [
+          1999
+        ]
+      ]
+    },
+    "jurisdiction": "us:ut",
+    "seeAlso": [
+      "TE2BWL36"
+    ]
+  }
+]
+<<===== INPUT =====<<

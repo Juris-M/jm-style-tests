@@ -1,0 +1,59 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "QSY4B3NF"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of QSY4B3NF z0049 z0015 71 z4283 z0016 82 z4301 275 101 z4353 z4363 104 z1078 109 z1078 118 z1078 121 z4401 z4402 z4409 z4426 z4431 z4460
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>Brown v. State</i>, 216 S.E.2d 356
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "QSY4B3NF",
+    "type": "legal_case",
+    "title": "Brown v. State",
+    "container-title": "S.E.2d",
+    "volume": "216",
+    "authority": "court.appeals",
+    "page": "356",
+    "issued": {
+      "date-parts": [
+        [
+          1975
+        ]
+      ]
+    },
+    "jurisdiction": "us:ga"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "QSY4B3NF",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

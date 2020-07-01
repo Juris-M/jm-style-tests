@@ -1,0 +1,62 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "JKCJGDNH"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Liz Brown, <i>Bridging The Gap: Improving Intellectual Property Protection for the Look and Feel of Websites</i>, 3 N.Y.U. J. Intell. Prop. &#38; Ent. L. 310, 351 (2014)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "JKCJGDNH",
+      "position": 0,
+      "locator": "p. 351"
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "JKCJGDNH",
+    "type": "article-journal",
+    "title": "Bridging The Gap: Improving Intellectual Property Protection for the Look and Feel of Websites",
+    "author": [
+      {
+        "given": "Liz",
+        "family": "Brown"
+      }
+    ],
+    "container-title": "N.Y.U. J. Intell. Prop. & Ent. L.",
+    "volume": "3",
+    "page": "310",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "jurisdiction": "us"
+  }
+]
+<<===== INPUT =====<<

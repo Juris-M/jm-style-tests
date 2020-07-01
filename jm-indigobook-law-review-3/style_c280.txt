@@ -1,0 +1,61 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "88PJ7TLI"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Federal Express Corporation, FAA Order No. 2002-20, 2002 WL 31777976 (Jan. 1, 2002)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "88PJ7TLI",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "88PJ7TLI",
+    "type": "legal_case",
+    "title": "Federal Express Corporation",
+    "container-title": "WL",
+    "authority": "F.A.A.",
+    "number": "2002\\-20",
+    "page": "31777976",
+    "issued": {
+      "date-parts": [
+        [
+          2002,
+          1,
+          1
+        ]
+      ]
+    },
+    "jurisdiction": "us",
+    "collection-number": "2002",
+    "genre": "FAA Order",
+    "admin-flag": "1"
+  }
+]
+<<===== INPUT =====<<

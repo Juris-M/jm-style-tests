@@ -1,0 +1,60 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "RR8MAQTE"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+HP Enterprise Services, LLC, B-405692, 2012 CPD ¶ 13 (Comp. Gen. Dec. 14, 2011)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "RR8MAQTE",
+      "position": 0,
+      "locator": "para. 13"
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "RR8MAQTE",
+    "type": "legal_case",
+    "title": "HP Enterprise Services, LLC",
+    "container-title": "CPD",
+    "authority": "Comp. Gen.",
+    "number": "B\\-405692",
+    "issued": {
+      "date-parts": [
+        [
+          2011,
+          12,
+          14
+        ]
+      ]
+    },
+    "jurisdiction": "us",
+    "collection-number": "2012",
+    "admin-flag": "1"
+  }
+]
+<<===== INPUT =====<<

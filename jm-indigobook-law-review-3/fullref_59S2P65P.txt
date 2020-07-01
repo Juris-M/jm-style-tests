@@ -1,0 +1,55 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "59S2P65P"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of 59S2P65P z0049 87 z4295 101 z4335 813 z4349 z4350 z4352 104 z0023 z0025 113 121 z4418 z4420 z4443 z4460
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Ohio Rev. Code Ann. (West 2014)
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "59S2P65P",
+    "type": "legislation",
+    "container-title": "Ohio Rev. Code Ann.",
+    "publisher": "West",
+    "jurisdiction": "us:oh",
+    "publication-date": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    }
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "59S2P65P",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

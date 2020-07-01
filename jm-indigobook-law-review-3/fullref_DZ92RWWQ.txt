@@ -1,0 +1,54 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "DZ92RWWQ"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of DZ92RWWQ z0049 87 z4302 101 z4382 451 z4477 104 109 118 121 z4410 z4413 z4460
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+S. 2318, 112th Cong. (2013)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "DZ92RWWQ",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "DZ92RWWQ",
+    "type": "bill",
+    "number": "S. 2318",
+    "authority": "Cong.",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "jurisdiction": "us",
+    "collection-number": "112"
+  }
+]
+<<===== INPUT =====<<

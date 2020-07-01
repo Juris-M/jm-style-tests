@@ -1,0 +1,56 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "Z4LNG22U"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of Z4LNG22U z0049 z0015 71 z3836 z0016 82 z3854 267 101 z3906 z3917 104 109 118 121 z3955 z3956 z3964 z3981 z3987
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>Camp v. Superman</i>, 119 Vt. 62 (1955)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "Z4LNG22U",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "Z4LNG22U",
+    "type": "legal_case",
+    "title": "Camp v. Superman",
+    "container-title": "Vt.",
+    "volume": "119",
+    "authority": "supreme.court",
+    "page": "62",
+    "issued": {
+      "date-parts": [
+        [
+          1955
+        ]
+      ]
+    },
+    "jurisdiction": "us:vt"
+  }
+]
+<<===== INPUT =====<<

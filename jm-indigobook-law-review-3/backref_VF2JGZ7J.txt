@@ -1,0 +1,59 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "VF2JGZ7J"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of VF2JGZ7J z0049 87 z4288 703 101 z4317 762 z4331 z4332 104 z0023 z0025 113 121 z4417 z4444 z4445 z4460
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+16 Vt. Gov’t Reg. 45
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "VF2JGZ7J",
+    "type": "regulation",
+    "container-title": "Vt. Gov’t Reg.",
+    "volume": "16",
+    "issued": {
+      "date-parts": [
+        [
+          2000,
+          4
+        ]
+      ]
+    },
+    "page": "45",
+    "publisher": "LexisNexis",
+    "jurisdiction": "us:vt"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "VF2JGZ7J",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

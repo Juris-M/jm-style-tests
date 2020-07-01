@@ -1,0 +1,60 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "JK7H4IEK"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Windjammer Capital LLC v. Glob. Futures Exch. &#38; Trading Co., Inc., CFTC No. 14-R1, 2015 WL 9434227 (Dec. 22, 2015)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "JK7H4IEK",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "JK7H4IEK",
+    "type": "legal_case",
+    "title": "Windjammer Capital LLC v. Glob. Futures Exch. & Trading Co., Inc.",
+    "authority": "CFTC",
+    "number": "14\\-R1",
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          12,
+          22
+        ]
+      ]
+    },
+    "archive_location": "9434227",
+    "archive": "WL",
+    "jurisdiction": "us",
+    "collection-number": "2015",
+    "admin-flag": "1"
+  }
+]
+<<===== INPUT =====<<

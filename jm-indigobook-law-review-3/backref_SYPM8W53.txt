@@ -1,0 +1,64 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "SYPM8W53"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of SYPM8W53 z0049 87 z4295 z4300 270 101 z4335 351 z4349 z4352 104 z0023 z0025 113 121 z4418 z4420 z4443 z4460
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+N.Y. Lab. Law § 15
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "SYPM8W53",
+    "type": "legislation",
+    "title": "N.Y. Lab. Law",
+    "issued": {
+      "date-parts": [
+        [
+          1999
+        ]
+      ]
+    },
+    "section": "sec. 15",
+    "publisher": "McKinney",
+    "jurisdiction": "us:ny",
+    "publication-date": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    }
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "SYPM8W53",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

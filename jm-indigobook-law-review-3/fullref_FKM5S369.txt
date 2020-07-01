@@ -1,0 +1,48 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "FKM5S369"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of FKM5S369 z0049 z0015 71 z0016 82 z0956 101 z0961 104 109 118 121
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+2006 I.C.J. Pleadings 45
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "FKM5S369",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "FKM5S369",
+    "type": "legal_case",
+    "container-title": "I.C.J. Pleadings",
+    "authority": "icj",
+    "page": "45",
+    "jurisdiction": "un.int",
+    "collection-number": "2006"
+  }
+]
+<<===== INPUT =====<<

@@ -1,0 +1,62 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "58RBQLAM"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of 58RBQLAM z0049 z0015 71 z1565 z0016 82 z1583 267 101 z1635 z1646 104 109 118 121 z1684 z1685 z1693 z1710 z1716
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>Saucier v. State Tax Assessor</i>, 708 A.2d 28
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "58RBQLAM",
+    "type": "legal_case",
+    "title": "Saucier v. State Tax Assessor",
+    "container-title": "A.2d",
+    "volume": "708",
+    "authority": "supreme.judicial.court",
+    "page": "28",
+    "issued": {
+      "date-parts": [
+        [
+          1998
+        ]
+      ]
+    },
+    "jurisdiction": "us:me",
+    "seeAlso": [
+      "5ZR67Y8L"
+    ]
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "58RBQLAM",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

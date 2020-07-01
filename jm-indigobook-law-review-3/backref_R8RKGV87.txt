@@ -1,0 +1,55 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "R8RKGV87"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of R8RKGV87 z0049 87 z4288 241 z4293 z4294 101 z4317 300 z4331 z4333 104 z0023 z0025 113 121 z4417 z4444 z4449 z4460
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Filing of Privileged Materials and Answers to Motions, Order No. 769, 141 FERC ¶ 61,049
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "R8RKGV87",
+    "type": "regulation",
+    "title": "Filing of Privileged Materials and Answers to Motions, Order No. 769, 141 FERC ¶ 61,049",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "jurisdiction": "us"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "R8RKGV87",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

@@ -1,0 +1,58 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "DDQXJIHB"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of DDQXJIHB z0049 87 z4316 296 101 z4395 z4398 z4399 104 109 118 121 z4417 z4452
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+U.S. Trademark Application Serial No. 86,680,743
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "DDQXJIHB",
+    "type": "patent",
+    "submitted": {
+      "date-parts": [
+        [
+          2015,
+          7,
+          1
+        ]
+      ]
+    },
+    "call-number": "86,680,743",
+    "genre": "Trademark",
+    "jurisdiction": "us"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "DDQXJIHB",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

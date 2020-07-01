@@ -1,0 +1,62 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "FF25SDZE"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>see also</i> Gerald Lebovits, <i>Write the Cites Right—Part II</i>, 76 N.Y. St. B.J. 64 (Dec. 2004)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "prefix": "<i>see also</i>",
+      "id": "FF25SDZE",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "FF25SDZE",
+    "type": "article-journal",
+    "title": "Write the Cites Right—Part II",
+    "author": [
+      {
+        "given": "Gerald",
+        "family": "Lebovits"
+      }
+    ],
+    "container-title": "N.Y. St. B.J.",
+    "volume": "76",
+    "page": "64",
+    "issued": {
+      "date-parts": [
+        [
+          2004,
+          12
+        ]
+      ]
+    }
+  }
+]
+<<===== INPUT =====<<

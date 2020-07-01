@@ -1,0 +1,62 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "9CSEJF6C"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of 9CSEJF6C z0049 z0015 71 z2698 z0016 82 z2716 267 101 z2768 z2779 104 109 118 121 z2817 z2818 z2826 z2843 z2849
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>Bowling Green v. Godwin</i>, 110 Ohio St.3d 58 (2006)
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "9CSEJF6C",
+    "type": "legal_case",
+    "title": "Bowling Green v. Godwin",
+    "container-title": "Ohio St.3d",
+    "volume": "110",
+    "authority": "supreme.court",
+    "page": "58",
+    "issued": {
+      "date-parts": [
+        [
+          2006
+        ]
+      ]
+    },
+    "jurisdiction": "us:oh",
+    "seeAlso": [
+      "7SNUTX49",
+      "HPEFSYTX"
+    ]
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "9CSEJF6C",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

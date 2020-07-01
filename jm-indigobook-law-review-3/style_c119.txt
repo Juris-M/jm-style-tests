@@ -1,0 +1,66 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "UQBCXXMU"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Alex Kozinski &#38; Eugene Volokh, <i>Lawsuit Shmawsuit</i>, 103 Yale L.J. 463, 463 (1993)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "UQBCXXMU",
+      "position": 0,
+      "locator": "p. 463"
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "UQBCXXMU",
+    "type": "article-journal",
+    "title": "Lawsuit Shmawsuit",
+    "author": [
+      {
+        "given": "Alex",
+        "family": "Kozinski"
+      },
+      {
+        "given": "Eugene",
+        "family": "Volokh"
+      }
+    ],
+    "container-title": "Yale L.J.",
+    "volume": "103",
+    "page": "463",
+    "issued": {
+      "date-parts": [
+        [
+          1993
+        ]
+      ]
+    },
+    "DOI": "10/d378wj"
+  }
+]
+<<===== INPUT =====<<

@@ -1,0 +1,68 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "8Q789F83"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Lilly et al., <i>supra</i>, at 90
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "8Q789F83",
+      "position": 1,
+      "locator": "p. 90",
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "8Q789F83",
+    "type": "book",
+    "title": "Principles of Evidence",
+    "author": [
+      {
+        "given": "Graham C.",
+        "family": "Lilly"
+      },
+      {
+        "given": "Daniel J.",
+        "family": "Capra"
+      },
+      {
+        "given": "Stephen A.",
+        "family": "Saltzburg"
+      }
+    ],
+    "edition": "6",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    }
+  }
+]
+<<===== INPUT =====<<

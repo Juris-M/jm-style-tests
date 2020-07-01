@@ -1,0 +1,87 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "A8C4NXE5",
+  "TZ3M6I7R"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>United States v. Schmuck</i>, 840 F.2d 384 (7th Cir. 1988), <i>aff’d</i>, 489 U.S. 705 (1989)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "A8C4NXE5",
+      "position": 0
+    },
+    {
+      "prefix": "<i>aff'd</i>,",
+      "id": "TZ3M6I7R",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "A8C4NXE5",
+    "type": "legal_case",
+    "title": "United States v. Schmuck",
+    "container-title": "F.2d",
+    "volume": "840",
+    "authority": "court.appeals",
+    "page": "384",
+    "issued": {
+      "date-parts": [
+        [
+          1988
+        ]
+      ]
+    },
+    "shortTitle": "Schmuck",
+    "jurisdiction": "us:c7",
+    "seeAlso": [
+      "TZ3M6I7R"
+    ]
+  },
+  {
+    "id": "TZ3M6I7R",
+    "type": "legal_case",
+    "title": "Schmuck v. United States",
+    "container-title": "U.S.",
+    "volume": "489",
+    "authority": "supreme.court",
+    "page": "705",
+    "issued": {
+      "date-parts": [
+        [
+          1989
+        ]
+      ]
+    },
+    "shortTitle": "Schmuck",
+    "jurisdiction": "us",
+    "seeAlso": [
+      "A8C4NXE5"
+    ]
+  }
+]
+<<===== INPUT =====<<

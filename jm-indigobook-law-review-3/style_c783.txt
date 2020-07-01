@@ -1,0 +1,49 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "W7CW54XH"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+2006 J.O. (L 92) § 205
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "W7CW54XH",
+      "position": 0,
+      "locator": "sec. 205"
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "W7CW54XH",
+    "type": "legislation",
+    "container-title": "J.O.",
+    "number": "92",
+    "jurisdiction": "eu.int",
+    "genre": "L",
+    "collection-number": "2006"
+  }
+]
+<<===== INPUT =====<<

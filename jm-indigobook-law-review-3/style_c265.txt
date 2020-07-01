@@ -1,0 +1,57 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "RPGI8INZ"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Jones v. I.T.O. Corp. of Baltimore, 9 Ben. Rev. Bd. Serv. (MB) 583, 585 (1979)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "RPGI8INZ",
+      "position": 0,
+      "locator": "p. 585"
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "RPGI8INZ",
+    "type": "legal_case",
+    "title": "Jones v. I.T.O. Corp. of Baltimore",
+    "container-title": "Ben. Rev. Bd. Serv. (MB)",
+    "volume": "9",
+    "page": "583",
+    "issued": {
+      "date-parts": [
+        [
+          1979
+        ]
+      ]
+    },
+    "jurisdiction": "us",
+    "admin-flag": "1"
+  }
+]
+<<===== INPUT =====<<

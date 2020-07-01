@@ -1,0 +1,62 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "VAAH7RW5"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of VAAH7RW5 z0049 z0015 71 z4283 z0016 z0017 77 z4301 267 101 z4353 z4373 432 104 109 118 121 z4401 z4402 z4409 z4426 z4435 z4460 z0030
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Lincoln Univ., U.S. Dep’t of Educ., No. 13-68-SF (Mar. 16, 2015)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "VAAH7RW5",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "VAAH7RW5",
+    "type": "legal_case",
+    "title": "Lincoln Univ.",
+    "contributor": [
+      {
+        "family": "Labor"
+      }
+    ],
+    "authority": "U.S. Dep't of Educ.",
+    "number": "13\\-68\\-SF",
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          3,
+          16
+        ]
+      ]
+    },
+    "jurisdiction": "us",
+    "admin-flag": "1"
+  }
+]
+<<===== INPUT =====<<

@@ -1,0 +1,62 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "TE2BWL36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of TE2BWL36 z0049 z0015 71 z3605 z0016 82 z3623 267 101 z3675 z3676 104 z3823 109 z3823 118 z3823 121 z3724 z3725 z3726 z3750 z3751 z0030
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>Smith v. Jones</i>, 1999 UT App 16
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "TE2BWL36",
+    "type": "legal_case",
+    "title": "Smith v. Jones",
+    "authority": "court.appeals",
+    "page": "16",
+    "issued": {
+      "date-parts": [
+        [
+          1999
+        ]
+      ]
+    },
+    "jurisdiction": "us:ut",
+    "collection-number": "1999",
+    "seeAlso": [
+      "EQKGTHUV",
+      "LXRG3K6I"
+    ]
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "TE2BWL36",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

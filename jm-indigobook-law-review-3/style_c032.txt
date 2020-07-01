@@ -1,0 +1,51 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "3J5RCDP6"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>with</i> <i>McDonald v. Chicago</i>, 561 U.S. 742 (2010)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+[
+  {
+    "prefix": "<i>with</i>",
+    "id": "3J5RCDP6",
+    "position": 0
+  }
+]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "3J5RCDP6",
+    "type": "legal_case",
+    "title": "McDonald v. Chicago",
+    "container-title": "U.S.",
+    "volume": "561",
+    "authority": "supreme.court",
+    "page": "742",
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "jurisdiction": "us"
+  }
+]
+<<===== INPUT =====<<

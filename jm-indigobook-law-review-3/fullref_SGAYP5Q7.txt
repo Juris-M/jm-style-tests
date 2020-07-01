@@ -1,0 +1,61 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "SGAYP5Q7"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of SGAYP5Q7 z0049 z0015 71 z4283 z0016 z0017 77 z4301 267 101 z4353 z4357 104 109 118 121 z4401 z4402 z4405 z4426 z4440 z4460
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Envirosolve, LLC, FAA Order No. 2006-2, 2006 WL 465371 (Feb. 7, 2006)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "SGAYP5Q7",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "SGAYP5Q7",
+    "type": "legal_case",
+    "title": "Envirosolve, LLC",
+    "container-title": "WL",
+    "authority": "F.A.A.",
+    "number": "2006\\-2",
+    "page": "465371",
+    "issued": {
+      "date-parts": [
+        [
+          2006,
+          2,
+          7
+        ]
+      ]
+    },
+    "jurisdiction": "us",
+    "collection-number": "2006",
+    "genre": "FAA Order",
+    "admin-flag": "1"
+  }
+]
+<<===== INPUT =====<<

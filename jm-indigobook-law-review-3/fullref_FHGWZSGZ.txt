@@ -1,0 +1,60 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "FHGWZSGZ"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of FHGWZSGZ z0049 z0015 71 z4283 z0016 z0017 77 z4301 267 101 z4353 z4360 z4361 104 109 118 121 z4401 z4402 z4409 z4426 z4442 z4460
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+IAP-Hill, LLC, B-406289 et al, 2012 CPD ¶ 151 (Comp. Gen. Apr. 4, 2012)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "FHGWZSGZ",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "FHGWZSGZ",
+    "type": "legal_case",
+    "title": "IAP-Hill, LLC",
+    "container-title": "CPD",
+    "authority": "Comp. Gen.",
+    "number": "B\\-406289 et al",
+    "page": "para. 151",
+    "issued": {
+      "date-parts": [
+        [
+          2012,
+          4,
+          4
+        ]
+      ]
+    },
+    "jurisdiction": "us",
+    "collection-number": "2012",
+    "admin-flag": "1"
+  }
+]
+<<===== INPUT =====<<

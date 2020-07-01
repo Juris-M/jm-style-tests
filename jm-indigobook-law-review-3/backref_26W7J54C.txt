@@ -1,0 +1,59 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "26W7J54C"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of 26W7J54C z0049 87 z4288 241 101 z4317 300 z4331 z4332 104 z0023 z0025 113 121 z4417 z4444 z4449 z4450 z4460
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+16 Wash. Reg. 45
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "26W7J54C",
+    "type": "regulation",
+    "container-title": "Wash. Reg.",
+    "volume": "16",
+    "issued": {
+      "date-parts": [
+        [
+          2000,
+          12,
+          31
+        ]
+      ]
+    },
+    "page": "45",
+    "jurisdiction": "us:wa"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "26W7J54C",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

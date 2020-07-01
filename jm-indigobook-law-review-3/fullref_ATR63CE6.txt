@@ -1,0 +1,63 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "ATR63CE6"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of ATR63CE6 z0059 z0064 z0066 z0033 z0036 z0039 z0040 z0069 z0074
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Jack Dickey, <i>The Power of Taylor Swift</i>, Time, Nov. 24, 2014, at 13
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "ATR63CE6",
+    "type": "article-magazine",
+    "title": "The Power of Taylor Swift",
+    "author": [
+      {
+        "given": "Jack",
+        "family": "Dickey"
+      }
+    ],
+    "container-title": "Time",
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          11,
+          24
+        ]
+      ]
+    },
+    "page": "13"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "ATR63CE6",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

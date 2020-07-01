@@ -1,0 +1,67 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "8Q789F83"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Graham C. Lilly et al., <i>Principles of Evidence</i> 122 (6th ed. 2012)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "8Q789F83",
+      "position": 0,
+      "locator": "p. 122"
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "8Q789F83",
+    "type": "book",
+    "title": "Principles of Evidence",
+    "author": [
+      {
+        "given": "Graham C.",
+        "family": "Lilly"
+      },
+      {
+        "given": "Daniel J.",
+        "family": "Capra"
+      },
+      {
+        "given": "Stephen A.",
+        "family": "Saltzburg"
+      }
+    ],
+    "edition": "6",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    }
+  }
+]
+<<===== INPUT =====<<

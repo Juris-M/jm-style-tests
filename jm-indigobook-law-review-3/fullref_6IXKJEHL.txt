@@ -1,0 +1,56 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "6IXKJEHL"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of 6IXKJEHL z0049 z0015 71 z4285 z4287 z0016 z0017 77 z4307 z4308 101 z4389 z4394 104 z4501 109 z4501 118 z4501 121 z4410 z4453 z4460
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+U.S. Assistance to Countries That Shoot Down Civil Aircraft Involved in Drug Trafficking, 18 Op. O.L.C. 148 (1994)
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "6IXKJEHL",
+    "type": "report",
+    "title": "U.S. Assistance to Countries That Shoot Down Civil Aircraft Involved in Drug Trafficking",
+    "issued": {
+      "date-parts": [
+        [
+          1994
+        ]
+      ]
+    },
+    "note": "volume: 18\npage: 148",
+    "container-title": "Op. O.L.C.",
+    "jurisdiction": "us"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "6IXKJEHL",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

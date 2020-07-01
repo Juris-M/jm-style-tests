@@ -1,0 +1,58 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "Y5PA9P8D"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of Y5PA9P8D z0049 87 z4295 z4299 258 101 z4335 343 z4349 104 z0023 z0025 113 121 z4418 z4420 z4443 z4460
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Worthy Act
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "Y5PA9P8D",
+    "type": "legislation",
+    "title": "Worthy Act",
+    "container-title": "U.S.C.A.",
+    "volume": "52",
+    "publisher": "Lawyerly Press",
+    "jurisdiction": "us",
+    "publication-date": {
+      "date-parts": [
+        [
+          2003
+        ]
+      ]
+    }
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "Y5PA9P8D",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

@@ -1,0 +1,56 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "ZGGFW8YE"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of ZGGFW8YE z0049 z0015 71 z4283 z0016 z0017 77 z4301 267 101 z4353 z4363 104 109 118 121 z4401 z4402 z4407 z4426 z4460
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Space Communications Co., 66 Comp. Gen. 2 (1987)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "ZGGFW8YE",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "ZGGFW8YE",
+    "type": "legal_case",
+    "title": "Space Communications Co.",
+    "container-title": "Comp. Gen.",
+    "volume": "66",
+    "page": "2",
+    "issued": {
+      "date-parts": [
+        [
+          1987
+        ]
+      ]
+    },
+    "jurisdiction": "us",
+    "admin-flag": "1"
+  }
+]
+<<===== INPUT =====<<

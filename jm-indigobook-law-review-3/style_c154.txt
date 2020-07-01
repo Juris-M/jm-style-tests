@@ -1,0 +1,56 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "2GHDK9K8"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Clinical Social Work Medicare Equality Act of 2001, S. 1083, 107th Cong. § 2(b) (2001)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "2GHDK9K8",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "2GHDK9K8",
+    "type": "bill",
+    "title": "Clinical Social Work Medicare Equality Act of 2001",
+    "number": "S. 1083",
+    "section": "sec. 2(b)",
+    "authority": "Cong.",
+    "issued": {
+      "date-parts": [
+        [
+          2001
+        ]
+      ]
+    },
+    "jurisdiction": "us",
+    "collection-number": "107"
+  }
+]
+<<===== INPUT =====<<

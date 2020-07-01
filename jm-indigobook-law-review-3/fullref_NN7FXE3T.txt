@@ -1,0 +1,56 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "NN7FXE3T"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of NN7FXE3T z0049 87 z4288 249 101 z4317 308 z4331 z4332 104 z1324 z0023 z0025 113 z1324 121 z4417 z4444 z4445 z4460
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+50 Ind. Admin. Code (West 2000)
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "NN7FXE3T",
+    "type": "regulation",
+    "container-title": "Ind. Admin. Code",
+    "volume": "50",
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "publisher": "West",
+    "jurisdiction": "us:in"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "NN7FXE3T",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

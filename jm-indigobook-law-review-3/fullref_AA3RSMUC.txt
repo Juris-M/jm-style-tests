@@ -1,0 +1,56 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "AA3RSMUC"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of AA3RSMUC z0049 87 z4295 z4300 270 101 z4335 351 z4349 z4350 104 z0023 z0025 113 121 z4418 z4443 z4460
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+50/78 V.I. Code R. (LexisNexis 2000)
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "AA3RSMUC",
+    "type": "legislation",
+    "container-title": "V.I. Code R.",
+    "volume": "50/78",
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "publisher": "LexisNexis",
+    "jurisdiction": "us:vi"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "AA3RSMUC",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

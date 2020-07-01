@@ -1,0 +1,60 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "3CQIQYEF"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+William Jones, No. 1234-567-89, 2006 WL 123654 (Comp. Gen. Apr. 1, 2000)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "3CQIQYEF",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "3CQIQYEF",
+    "type": "legal_case",
+    "title": "William Jones",
+    "container-title": "WL",
+    "authority": "Comp. Gen.",
+    "number": "1234\\-567\\-89",
+    "issued": {
+      "date-parts": [
+        [
+          2000,
+          4,
+          1
+        ]
+      ]
+    },
+    "archive_location": "123654",
+    "jurisdiction": "us",
+    "collection-number": "2006",
+    "admin-flag": "1"
+  }
+]
+<<===== INPUT =====<<

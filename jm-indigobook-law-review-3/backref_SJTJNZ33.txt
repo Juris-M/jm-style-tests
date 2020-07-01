@@ -1,0 +1,50 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "SJTJNZ33"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of SJTJNZ33 z0049 87 z4295 z4297 720 101 z4335 811 z4338 z4343 z4346 104 z0023 z0025 113 121 z4418 z4419 z4422 z4443 z4460
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+2006 S.D. Sess. Laws
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "SJTJNZ33",
+    "type": "legislation",
+    "container-title": "S.D. Sess. Laws",
+    "jurisdiction": "us:sd",
+    "collection-number": "2006",
+    "gazette-flag": "1"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "SJTJNZ33",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

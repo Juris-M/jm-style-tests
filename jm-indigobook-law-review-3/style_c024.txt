@@ -1,0 +1,49 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "UQ337UWS"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Mass. Gen. Laws Ann. ch. 268, § 40 (West 2014)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "UQ337UWS",
+      "position": 0,
+      "locator": ", sec. 40"
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "UQ337UWS",
+    "type": "legislation",
+    "container-title": "Mass. Gen. Laws Ann.",
+    "section": "ch. 268",
+    "publisher": "West",
+    "jurisdiction": "us:ma",
+    "publication-date": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    }
+  }
+]
+<<===== INPUT =====<<

@@ -1,0 +1,60 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "JEWE47AY"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of JEWE47AY z0049 87 z4295 z4300 730 101 z4335 811 z4338 z4343 z4347 104 z0023 z0025 113 121 z4418 z4423 z4443 z4460
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+23 Okla. Gaz. 45
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "JEWE47AY",
+    "type": "legislation",
+    "container-title": "Okla. Gaz.",
+    "volume": "23",
+    "issued": {
+      "date-parts": [
+        [
+          2000,
+          12,
+          31
+        ]
+      ]
+    },
+    "page": "45",
+    "jurisdiction": "us:ok",
+    "gazette-flag": "1"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "JEWE47AY",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

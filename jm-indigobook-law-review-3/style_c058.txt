@@ -1,0 +1,50 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "ZW8YSKBH"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>Hamburger v. Fry</i>, 338 P.2d 1088 (Okla. 1958)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+[
+  {
+    "id": "ZW8YSKBH",
+    "position": 0
+  }
+]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "ZW8YSKBH",
+    "type": "legal_case",
+    "title": "Hamburger v. Fry",
+    "container-title": "P.2d",
+    "volume": "338",
+    "authority": "supreme.court",
+    "page": "1088",
+    "issued": {
+      "date-parts": [
+        [
+          1958
+        ]
+      ]
+    },
+    "jurisdiction": "us:ok"
+  }
+]
+<<===== INPUT =====<<

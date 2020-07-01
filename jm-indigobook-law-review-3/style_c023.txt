@@ -1,0 +1,49 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "4RCVP9HI"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>But see, e.g.</i>, Colo. Rev. Stat. Ann. § 18-8-115 (West 2014)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "prefix": "<i>But see, e.g.</i>,",
+      "id": "4RCVP9HI",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "4RCVP9HI",
+    "type": "legislation",
+    "container-title": "Colo. Rev. Stat. Ann.",
+    "section": "sec. 18\\-8\\-115",
+    "publisher": "West",
+    "jurisdiction": "us:co",
+    "publication-date": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    }
+  }
+]
+<<===== INPUT =====<<

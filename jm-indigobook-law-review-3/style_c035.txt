@@ -1,0 +1,61 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "6BT6G9JX"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>Contra</i> Richard A. Posner, <i>The Bluebook Blues</i>, 120 Yale L.J. 950 (2011)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "prefix": "<i>Contra</i>",
+      "id": "6BT6G9JX",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "6BT6G9JX",
+    "type": "article-journal",
+    "title": "The Bluebook blues",
+    "author": [
+      {
+        "given": "Richard A.",
+        "family": "Posner"
+      }
+    ],
+    "container-title": "Yale L.J.",
+    "volume": "120",
+    "page": "950",
+    "issued": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    }
+  }
+]
+<<===== INPUT =====<<

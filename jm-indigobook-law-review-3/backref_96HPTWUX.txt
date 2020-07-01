@@ -1,0 +1,59 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "96HPTWUX"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of 96HPTWUX z0049 z0015 71 z4283 z0016 82 z4301 267 101 z4353 z4363 104 z4501 109 z4501 118 z4501 121 z4401 z4402 z4409 z4426 z4431 z4460
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>Warner Bros. Entm’t Inc. v. RDR Books</i>, 575 F. Supp. 2d 513
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "96HPTWUX",
+    "type": "legal_case",
+    "title": "Warner Bros. Entm’t Inc. v. RDR Books",
+    "container-title": "F. Supp. 2d",
+    "volume": "575",
+    "authority": "district.court",
+    "page": "513",
+    "issued": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    },
+    "jurisdiction": "us:c2:ny.sd"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "96HPTWUX",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

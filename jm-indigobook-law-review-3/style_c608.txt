@@ -1,0 +1,111 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "Q3ZJ2GL7",
+  "F6IXWE9L",
+  "AQIWHI8P"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>Hunter v. State</i>, 1953 OK CR 155, 97 Okl.Cr. 402, 264 P.2d 997
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "Q3ZJ2GL7",
+      "position": 0
+    },
+    {
+      "id": "F6IXWE9L",
+      "position": 0
+    },
+    {
+      "id": "AQIWHI8P",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "Q3ZJ2GL7",
+    "type": "legal_case",
+    "title": "Hunter v. State",
+    "authority": "court.criminal.appeals",
+    "page": "155",
+    "issued": {
+      "date-parts": [
+        [
+          1953
+        ]
+      ]
+    },
+    "jurisdiction": "us:ok",
+    "collection-number": "1953",
+    "seeAlso": [
+      "AQIWHI8P",
+      "F6IXWE9L"
+    ]
+  },
+  {
+    "id": "F6IXWE9L",
+    "type": "legal_case",
+    "title": "Hunter v. State",
+    "container-title": "Okl.Cr.",
+    "volume": "97",
+    "authority": "court.criminal.appeals",
+    "page": "402",
+    "issued": {
+      "date-parts": [
+        [
+          1953
+        ]
+      ]
+    },
+    "jurisdiction": "us:ok",
+    "seeAlso": [
+      "AQIWHI8P",
+      "Q3ZJ2GL7"
+    ]
+  },
+  {
+    "id": "AQIWHI8P",
+    "type": "legal_case",
+    "title": "Hunter v. State",
+    "container-title": "P.2d",
+    "volume": "264",
+    "authority": "court.criminal.appeals",
+    "page": "997",
+    "issued": {
+      "date-parts": [
+        [
+          1953
+        ]
+      ]
+    },
+    "jurisdiction": "us:ok",
+    "seeAlso": [
+      "Q3ZJ2GL7",
+      "F6IXWE9L"
+    ]
+  }
+]
+<<===== INPUT =====<<

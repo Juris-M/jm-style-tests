@@ -1,0 +1,56 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "AADSJZCP"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of AADSJZCP z0049 87 z4288 249 101 z4317 308 z4331 z4332 104 z2241 z0023 z0025 113 z2241 121 z4417 z4444 z4449 z4450 z4460
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+50 N.C. Admin. Code
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "AADSJZCP",
+    "type": "regulation",
+    "container-title": "N.C. Admin. Code",
+    "volume": "50",
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "jurisdiction": "us:nc"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "AADSJZCP",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

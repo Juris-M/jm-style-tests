@@ -1,0 +1,51 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "GSXLALC2"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of GSXLALC2 z0049 z0015 71 z0016 82 z0838 101 z0839 104 109 118 121 z0840
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Inter-Am. Ct. H.R. (ser. F) No. 26
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "GSXLALC2",
+    "type": "legal_case",
+    "container-title": "Inter-Am. Ct. H.R.",
+    "authority": "iachr",
+    "number": "26",
+    "jurisdiction": "oas.int",
+    "genre": "F"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "GSXLALC2",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

@@ -1,0 +1,64 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "Z2UT2AXV"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of Z2UT2AXV z0049 z0015 71 z1331 z0016 82 z1349 267 101 z1401 z1412 104 z1552 109 z1552 118 z1552 121 z1450 z1451 z1459 z1476 z1482
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>Smith v. Jones</i>, 650 So.2d 500 (La. 1994)
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "Z2UT2AXV",
+    "type": "legal_case",
+    "title": "Smith v. Jones",
+    "container-title": "So.2d",
+    "volume": "650",
+    "authority": "supreme.court",
+    "number": "94\\-2345",
+    "page": "500",
+    "issued": {
+      "date-parts": [
+        [
+          1994,
+          7,
+          15
+        ]
+      ]
+    },
+    "jurisdiction": "us:la",
+    "seeAlso": [
+      "Y9QH9F68"
+    ]
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "Z2UT2AXV",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

@@ -1,0 +1,47 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "9UW2LXLS"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+THE BLUEBOOK A UNIFORM SYSTEM OF CITATION, Registration No. 3,886,986
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "9UW2LXLS",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "9UW2LXLS",
+    "type": "patent",
+    "title": "THE BLUEBOOK A UNIFORM SYSTEM OF CITATION",
+    "number": "3,886,986",
+    "genre": "Trademark",
+    "jurisdiction": "us"
+  }
+]
+<<===== INPUT =====<<

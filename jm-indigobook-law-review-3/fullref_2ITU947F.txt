@@ -1,0 +1,59 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "2ITU947F"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of 2ITU947F z0049 z0015 71 z4285 z0016 z0017 77 z4307 z4308 101 z4389 z4390 z4393 104 109 118 121 z4410 z4453 z4460
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+The Year in Trade 2014: Operation of the Trade Agreements Program, USITC Pub. 4543, 15 (Jul. 2015)
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "2ITU947F",
+    "type": "report",
+    "title": "The Year in Trade 2014: Operation of the Trade Agreements Program",
+    "authority": "USITC",
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          7
+        ]
+      ]
+    },
+    "title-short": "The Year in Trade 2014",
+    "call-number": "4543",
+    "jurisdiction": "us"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "2ITU947F",
+      "position": 0,
+      "locator": "15"
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

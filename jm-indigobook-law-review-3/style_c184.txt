@@ -1,0 +1,59 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "ZEV9UXK4"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Pl.’s Resp. to Defs.’ Mot. for Summ. J. at 14, <i>Martinez-Mendoza v. Champion Int’l Corp.</i>, 340 F.3d 1200 (11th Cir. 2003) (No. 06-19139)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "ZEV9UXK4",
+      "position": 0,
+      "locator": "p. 14"
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "ZEV9UXK4",
+    "type": "legal_case",
+    "title": "Martinez-Mendoza v. Champion Int’l Corp.",
+    "container-title": "F.3d",
+    "volume": "340",
+    "authority": "court.appeals",
+    "number": "06\\-19139",
+    "page": "1200",
+    "issued": {
+      "date-parts": [
+        [
+          2003
+        ]
+      ]
+    },
+    "jurisdiction": "us:c11",
+    "document-name": "Pl.’s Resp. to Defs.’ Mot. for Summ. J."
+  }
+]
+<<===== INPUT =====<<

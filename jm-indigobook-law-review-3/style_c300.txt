@@ -1,0 +1,60 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "558TEZRM"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+MP Environmental Funding LLC, SEC Interpretive Letter, 2007 WL 2838964 (Sep. 19, 2007)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "558TEZRM",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "558TEZRM",
+    "type": "legal_case",
+    "title": "MP Environmental Funding LLC",
+    "container-title": "WL",
+    "authority": "SEC",
+    "page": "2838964",
+    "issued": {
+      "date-parts": [
+        [
+          2007,
+          9,
+          19
+        ]
+      ]
+    },
+    "jurisdiction": "us",
+    "collection-number": "2007",
+    "genre": "Interpretive Letter",
+    "admin-flag": "1"
+  }
+]
+<<===== INPUT =====<<

@@ -1,0 +1,52 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "EAPT3NY9"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of EAPT3NY9 z0049 z0015 71 z4283 z0016 z0017 77 z4301 267 101 z4353 z4364 z4365 z4366 413 z4369 104 109 118 121 z4401 z4402 z4409 z4426 z4436 z4460
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+G2G, LLC v. Dept. of Commerce, CBCA No. 4845-R, 15-1 BCA ¶ 36,163
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "EAPT3NY9",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "EAPT3NY9",
+    "type": "legal_case",
+    "title": "G2G, LLC v. Dept. of Commerce",
+    "volume": "15\\-1",
+    "authority": "CBCA",
+    "number": "4845\\-R",
+    "page": "para. 36,163",
+    "archive": "BCA",
+    "jurisdiction": "us",
+    "admin-flag": "1"
+  }
+]
+<<===== INPUT =====<<

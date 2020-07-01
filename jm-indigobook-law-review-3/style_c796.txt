@@ -1,0 +1,50 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "BBYGFTWQ"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Inter-Am. Ct. H.R. (ser. E) No. 26, ¶ 19
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "BBYGFTWQ",
+      "position": 0,
+      "locator": "para. 19"
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "BBYGFTWQ",
+    "type": "legal_case",
+    "container-title": "Inter-Am. Ct. H.R.",
+    "authority": "iachr",
+    "number": "26",
+    "note": "newbie",
+    "jurisdiction": "oas.int",
+    "genre": "E"
+  }
+]
+<<===== INPUT =====<<

@@ -1,0 +1,57 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "24X6ZU9G"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>Id.</i> at 1401
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "24X6ZU9G",
+      "position": 3,
+      "locator": "p. 1401"
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "24X6ZU9G",
+    "type": "legal_case",
+    "title": "Washington v. Alaimo",
+    "container-title": "F. Supp.",
+    "volume": "934",
+    "authority": "district.court",
+    "page": "1395",
+    "issued": {
+      "date-parts": [
+        [
+          1996
+        ]
+      ]
+    },
+    "jurisdiction": "us:c11:ga.sd"
+  }
+]
+<<===== INPUT =====<<

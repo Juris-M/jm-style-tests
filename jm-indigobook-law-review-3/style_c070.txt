@@ -1,0 +1,51 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "KW7KHLKG"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>Nance v. United States</i>, 299 F.2d 122, 124 (D.C. Cir. 1962)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+[
+  {
+    "id": "KW7KHLKG",
+    "position": 0,
+    "locator": "p. 124"
+  }
+]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "KW7KHLKG",
+    "type": "legal_case",
+    "title": "Nance v. United States",
+    "container-title": "F.2d",
+    "volume": "299",
+    "authority": "court.appeals",
+    "page": "122",
+    "issued": {
+      "date-parts": [
+        [
+          1962
+        ]
+      ]
+    },
+    "jurisdiction": "us:c0"
+  }
+]
+<<===== INPUT =====<<

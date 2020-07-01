@@ -1,0 +1,46 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "2XW2C6JV"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of 2XW2C6JV z0059 z0031 z0036 z0036 z0068 z0031 z0036 z0036
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+2006 L.N.T.S. 45
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "2XW2C6JV",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "2XW2C6JV",
+    "type": "treaty",
+    "volume": "2006",
+    "page": "45",
+    "container-title": "L.N.T.S."
+  }
+]
+<<===== INPUT =====<<

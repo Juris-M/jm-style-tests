@@ -1,0 +1,56 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "DLZS6HBM"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of DLZS6HBM z0049 z0015 71 z2469 z0016 82 z2487 267 101 z2539 z2550 104 109 118 121 z2588 z2589 z2597 z2614 z2620
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>State v. Dickert</i>, 268 P.3d 515
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "DLZS6HBM",
+    "type": "legal_case",
+    "title": "State v. Dickert",
+    "container-title": "P.3d",
+    "volume": "268",
+    "authority": "court.appeals",
+    "page": "515",
+    "jurisdiction": "us:nm",
+    "seeAlso": [
+      "24N754JZ",
+      "3TSJWLUR"
+    ]
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "DLZS6HBM",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

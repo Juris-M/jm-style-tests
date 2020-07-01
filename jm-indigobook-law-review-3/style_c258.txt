@@ -1,0 +1,62 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "VAAH7RW5"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Lincoln Univ., U.S. Dep’t of Educ., No. 13-68-SF (Mar. 16, 2015)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "VAAH7RW5",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "VAAH7RW5",
+    "type": "legal_case",
+    "title": "Lincoln Univ.",
+    "contributor": [
+      {
+        "family": "Labor"
+      }
+    ],
+    "authority": "U.S. Dep't of Educ.",
+    "number": "13\\-68\\-SF",
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          3,
+          16
+        ]
+      ]
+    },
+    "jurisdiction": "us",
+    "admin-flag": "1"
+  }
+]
+<<===== INPUT =====<<

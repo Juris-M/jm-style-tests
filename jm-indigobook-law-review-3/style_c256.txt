@@ -1,0 +1,55 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "DDQXJIHB"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+U.S. Trademark Application Serial No. 86,680,743 (filed Jul. 1, 2015)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "DDQXJIHB",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "DDQXJIHB",
+    "type": "patent",
+    "submitted": {
+      "date-parts": [
+        [
+          2015,
+          7,
+          1
+        ]
+      ]
+    },
+    "call-number": "86,680,743",
+    "genre": "Trademark",
+    "jurisdiction": "us"
+  }
+]
+<<===== INPUT =====<<

@@ -1,0 +1,58 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "GQY43XIS"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+American Express Travel Related Servs., Inc., CFPB 2013-CFPB-0013 (Dec. 24, 2013)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "GQY43XIS",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "GQY43XIS",
+    "type": "legal_case",
+    "title": "American Express Travel Related Servs., Inc.",
+    "authority": "CFPB",
+    "number": "2013\\-CFPB\\-0013",
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          12,
+          24
+        ]
+      ]
+    },
+    "jurisdiction": "us",
+    "collection-number": "2013",
+    "admin-flag": "1"
+  }
+]
+<<===== INPUT =====<<

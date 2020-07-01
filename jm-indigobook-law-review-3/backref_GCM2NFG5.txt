@@ -1,0 +1,59 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "GCM2NFG5"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of GCM2NFG5 z0049 z0015 71 z0016 82 z4305 z0021 96 z4383 z4386 z4388 104 109 118 121 z4410 z4416 z4454 z4455 z4460
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>Hearing on L.D. 319 Before the Health and Human Servs. Comm.</i>, <i>supra</i>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "GCM2NFG5",
+    "type": "hearing",
+    "section": "Health and Human Servs. Comm.",
+    "number": "L.D. 319",
+    "authority": "Leg.",
+    "chapter-number": "Reg.",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "jurisdiction": "us:me",
+    "collection-number": "127"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "GCM2NFG5",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

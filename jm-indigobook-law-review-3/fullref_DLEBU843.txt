@@ -1,0 +1,56 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "DLEBU843"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of DLEBU843 z0058 z0044 z0031 z0068 z0031 z0070 z0074 z0075
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Superfan Suits, <a href="http://www.superfansuits.com/">http://www.superfansuits.com/</a> (last visited Feb. 21, 2015)
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "DLEBU843",
+    "type": "webpage",
+    "container-title": "Superfan Suits",
+    "URL": "http://www.superfansuits.com/",
+    "accessed": {
+      "date-parts": [
+        [
+          2015,
+          2,
+          21
+        ]
+      ]
+    }
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "DLEBU843",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

@@ -1,0 +1,55 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "Z6GNM5RJ"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of Z6GNM5RJ z0049 87 z4302 101 z4382 913 z4477 104 109 118 121 z4410 z4413 z4460
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+L.D. 3, 127th Leg., Reg. Sess. (Me. 2015)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "Z6GNM5RJ",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "Z6GNM5RJ",
+    "type": "bill",
+    "number": "L.D. 3",
+    "authority": "Leg.",
+    "chapter-number": "Reg.",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "jurisdiction": "us:me",
+    "collection-number": "127"
+  }
+]
+<<===== INPUT =====<<

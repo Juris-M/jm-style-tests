@@ -1,0 +1,60 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "3TSJWLUR"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of 3TSJWLUR z0049 z0015 71 z2469 z0016 82 z2487 267 101 z2539 z2540 104 z2688 109 z2688 118 z2688 121 z2588 z2589 z2590 z2614 z2615 z0030
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>State v. Dickert</i>, 2012-NMCA-004
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "3TSJWLUR",
+    "type": "legal_case",
+    "title": "State v. Dickert",
+    "authority": "court.appeals",
+    "page": "004",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "jurisdiction": "us:nm",
+    "collection-number": "2012",
+    "seeAlso": [
+      "DLZS6HBM"
+    ]
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "3TSJWLUR",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

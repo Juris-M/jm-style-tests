@@ -1,0 +1,59 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "RCYEIQTQ"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>Raich</i>, 545 U.S. at 8
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "RCYEIQTQ",
+      "position": 1,
+      "locator": "p. 8",
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "RCYEIQTQ",
+    "type": "legal_case",
+    "title": "Gonzalez v. Raich",
+    "container-title": "U.S.",
+    "volume": "545",
+    "authority": "supreme.court",
+    "page": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2005
+        ]
+      ]
+    },
+    "shortTitle": "Raich",
+    "jurisdiction": "us"
+  }
+]
+<<===== INPUT =====<<

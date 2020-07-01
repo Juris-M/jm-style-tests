@@ -1,0 +1,58 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "TDV3YJM8"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of TDV3YJM8 z0049 87 z4295 z4300 262 101 z4335 343 z4349 z4350 104 z0023 z0025 113 121 z4418 z4443 z4460
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+50/78 Wyo. Code R. § 321
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "TDV3YJM8",
+    "type": "legislation",
+    "container-title": "Wyo. Code R.",
+    "volume": "50/78",
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "section": "sec. 321",
+    "publisher": "LexisNexis",
+    "jurisdiction": "us:wy"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "TDV3YJM8",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

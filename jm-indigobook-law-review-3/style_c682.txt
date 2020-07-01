@@ -1,0 +1,110 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "3HQ8GW4S",
+  "FUUEH7ZD",
+  "QAL4VKX3"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>Smith v. Jones</i>, 2001 VT 1, ¶ 12, 169 Vt. 203, 850 A.2d 421
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "3HQ8GW4S",
+      "position": 0,
+      "locator": "para. 12"
+    },
+    {
+      "id": "FUUEH7ZD",
+      "position": 0
+    },
+    {
+      "id": "QAL4VKX3",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "3HQ8GW4S",
+    "type": "legal_case",
+    "title": "Smith v. Jones",
+    "authority": "supreme.court",
+    "page": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2001
+        ]
+      ]
+    },
+    "jurisdiction": "us:vt",
+    "collection-number": "2001",
+    "seeAlso": [
+      "QAL4VKX3",
+      "FUUEH7ZD"
+    ]
+  },
+  {
+    "id": "FUUEH7ZD",
+    "type": "legal_case",
+    "title": "Smith v. Jones",
+    "container-title": "Vt.",
+    "volume": "169",
+    "page": "203",
+    "issued": {
+      "date-parts": [
+        [
+          2001
+        ]
+      ]
+    },
+    "jurisdiction": "us",
+    "seeAlso": [
+      "3HQ8GW4S",
+      "QAL4VKX3"
+    ]
+  },
+  {
+    "id": "QAL4VKX3",
+    "type": "legal_case",
+    "title": "Smith v. Jones",
+    "container-title": "A.2d",
+    "volume": "850",
+    "page": "421",
+    "issued": {
+      "date-parts": [
+        [
+          2001
+        ]
+      ]
+    },
+    "jurisdiction": "us",
+    "seeAlso": [
+      "3HQ8GW4S",
+      "FUUEH7ZD"
+    ]
+  }
+]
+<<===== INPUT =====<<

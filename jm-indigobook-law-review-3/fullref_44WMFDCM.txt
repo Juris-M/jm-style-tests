@@ -1,0 +1,47 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "44WMFDCM"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of 44WMFDCM z0049 87 z4295 101 z4335 361 z4349 z4350 z4352 104 z0023 z0025 113 121 z4418 z4419 z4443 z4460
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+2006 I.C.J. Acts &#38; Docs 45
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "44WMFDCM",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "44WMFDCM",
+    "type": "legislation",
+    "container-title": "I.C.J. Acts & Docs",
+    "page": "45",
+    "jurisdiction": "un.int",
+    "collection-number": "2006"
+  }
+]
+<<===== INPUT =====<<

@@ -1,0 +1,56 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "URL2XT5Y"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>Google Books Ngram Viewer</i>, Google, <a href="https://books.google.com/ngrams">https://books.google.com/ngrams</a> (select corpus “English Fiction”; then search for “Arrakis”) (last visited Apr. 17, 2012)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "URL2XT5Y",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "URL2XT5Y",
+    "type": "webpage",
+    "title": "Google Books Ngram Viewer",
+    "container-title": "Google",
+    "URL": "https://books.google.com/ngrams",
+    "accessed": {
+      "date-parts": [
+        [
+          2012,
+          4,
+          17
+        ]
+      ]
+    },
+    "note": "references: select corpus “English Fiction”; then search for “Arrakis”"
+  }
+]
+<<===== INPUT =====<<

@@ -1,0 +1,61 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "RXQ5CMV7"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of RXQ5CMV7 z0049 z0015 71 z4283 z0016 z0017 77 z4301 267 101 z4353 z4372 428 104 109 118 121 z4401 z4402 z4404 z4426 z4428 z4460 z0030
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+OxyHeal Medical Systems, Inc., SBA SIZ-5707
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "RXQ5CMV7",
+    "type": "legal_case",
+    "title": "OxyHeal Medical Systems, Inc.",
+    "authority": "SBA",
+    "number": "SIZ\\-5707",
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          1,
+          19
+        ]
+      ]
+    },
+    "jurisdiction": "us",
+    "collection-number": "2016",
+    "admin-flag": "1"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "RXQ5CMV7",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

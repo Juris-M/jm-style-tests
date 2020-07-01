@@ -1,0 +1,48 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "NLR7SB55"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of NLR7SB55 z0049 87 z4295 101 z4335 343 z4338 z4339 z4340 z4347 104 z0023 z0025 113 121 z4418 z4419 z4422 z4443 z4460
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+2006 N. Mar. I. Pub. L. 6587
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "NLR7SB55",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "NLR7SB55",
+    "type": "legislation",
+    "number": "6587",
+    "jurisdiction": "us:mp",
+    "collection-number": "2006",
+    "gazette-flag": "1"
+  }
+]
+<<===== INPUT =====<<

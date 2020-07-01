@@ -1,0 +1,61 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "SGAYP5Q7"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Envirosolve, LLC, FAA Order No. 2006-2, 2006 WL 465371 (Feb. 7, 2006)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "SGAYP5Q7",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "SGAYP5Q7",
+    "type": "legal_case",
+    "title": "Envirosolve, LLC",
+    "container-title": "WL",
+    "authority": "F.A.A.",
+    "number": "2006\\-2",
+    "page": "465371",
+    "issued": {
+      "date-parts": [
+        [
+          2006,
+          2,
+          7
+        ]
+      ]
+    },
+    "jurisdiction": "us",
+    "collection-number": "2006",
+    "genre": "FAA Order",
+    "admin-flag": "1"
+  }
+]
+<<===== INPUT =====<<

@@ -1,0 +1,69 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "KCAXWZZ8"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of KCAXWZZ8 z0064 z0066 z0033 z0036 z0039 z0040 z0069
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Baker &#38; Davis, <i>supra</i>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "KCAXWZZ8",
+    "type": "article-newspaper",
+    "title": "Obama, Down But Not Out, Presses Ahead",
+    "author": [
+      {
+        "given": "Peter",
+        "family": "Baker"
+      },
+      {
+        "given": "Julie Hirschfeld",
+        "family": "Davis"
+      }
+    ],
+    "container-title": "N.Y. Times",
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          11,
+          14
+        ]
+      ]
+    },
+    "page": "A1",
+    "jurisdiction": "us"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "KCAXWZZ8",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

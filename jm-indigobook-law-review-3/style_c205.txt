@@ -1,0 +1,56 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "ZE7IJQWT"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Comment, <i>Law and Lawns: Mandatory Water Restrictions and Substantive Due Process</i>, 7 Calif. L. Rev. 138 (1972)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "ZE7IJQWT",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "ZE7IJQWT",
+    "type": "article-journal",
+    "title": "Law and Lawns: Mandatory Water Restrictions and Substantive Due Process",
+    "container-title": "Calif. L. Rev.",
+    "volume": "7",
+    "page": "138",
+    "issued": {
+      "date-parts": [
+        [
+          1972
+        ]
+      ]
+    },
+    "note": "genre: Comment",
+    "jurisdiction": "us"
+  }
+]
+<<===== INPUT =====<<

@@ -1,0 +1,57 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "JBQUFACY"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of JBQUFACY z0049 87 z4288 249 101 z4317 308 z4332 z4333 104 z2467 z0023 z0025 113 z2467 121 z4417 z4444 z4449 z4450 z4460
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+N.H. Code Admin. R. Ann. Med. 11
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "JBQUFACY",
+    "type": "regulation",
+    "container-title": "N.H. Code Admin. R. Ann.",
+    "volume": "Med.",
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "section": "r. 11",
+    "jurisdiction": "us:nh"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "JBQUFACY",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

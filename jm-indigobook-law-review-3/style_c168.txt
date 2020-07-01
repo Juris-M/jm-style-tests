@@ -1,0 +1,56 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "HTXFJYEV"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Paycheck Fairness Act, H.R. 11, 111th Cong. § 203 (2009)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "HTXFJYEV",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "HTXFJYEV",
+    "type": "bill",
+    "title": "Paycheck Fairness Act",
+    "number": "H.R. 11",
+    "section": "sec. 203",
+    "authority": "Cong.",
+    "issued": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    },
+    "jurisdiction": "us",
+    "collection-number": "111"
+  }
+]
+<<===== INPUT =====<<

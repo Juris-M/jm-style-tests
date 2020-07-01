@@ -1,0 +1,59 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "CCCFN83E"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Miller Construction Co., 24 BNA OSHC 1817 (No. 13-0323, 2013) (ALJ)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "CCCFN83E",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "CCCFN83E",
+    "type": "legal_case",
+    "title": "Miller Construction Co.",
+    "container-title": "OSHC",
+    "volume": "24",
+    "number": "13\\-0323",
+    "page": "1817",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "publisher": "BNA",
+    "jurisdiction": "us",
+    "genre": "ALJ",
+    "admin-flag": "1"
+  }
+]
+<<===== INPUT =====<<

@@ -1,0 +1,51 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "96HPTWUX"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>Warner Bros. Entm’t Inc. v. RDR Books</i>, 575 F. Supp. 2d 513, 518 (S.D.N.Y. 2008)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+[
+  {
+    "id": "96HPTWUX",
+    "position": 0,
+    "locator": "p. 518"
+  }
+]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "96HPTWUX",
+    "type": "legal_case",
+    "title": "Warner Bros. Entm’t Inc. v. RDR Books",
+    "container-title": "F. Supp. 2d",
+    "volume": "575",
+    "authority": "district.court",
+    "page": "513",
+    "issued": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    },
+    "jurisdiction": "us:c2:ny.sd"
+  }
+]
+<<===== INPUT =====<<

@@ -1,0 +1,52 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "A6YP7FGS"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>see also</i> <i>Maryland v. King</i>, 133 S. Ct. 1958, 1989 (2013)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "prefix": "<i>see also</i>",
+      "id": "A6YP7FGS",
+      "position": 0,
+      "locator": "p. 1989"
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "A6YP7FGS",
+    "type": "legal_case",
+    "title": "Maryland v. King",
+    "container-title": "S. Ct.",
+    "volume": "133",
+    "authority": "supreme.court",
+    "page": "1958",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "jurisdiction": "us"
+  }
+]
+<<===== INPUT =====<<

@@ -1,0 +1,49 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "4DMKXQ2Q"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of 4DMKXQ2Q z0049 z0015 71 z0016 82 z0838 101 z0839 104 109 118 121 z0840 z0030
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Inter-Am. Ct. H.R. (ser. C) No. 26
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "4DMKXQ2Q",
+    "type": "legal_case",
+    "authority": "iachr",
+    "number": "26",
+    "jurisdiction": "oas.int",
+    "genre": "C"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "4DMKXQ2Q",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

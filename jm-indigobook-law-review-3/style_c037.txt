@@ -1,0 +1,56 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "7Y9RGZND"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>But cf.</i> <i>5 Things to Know about McDonalds All Day Breakfast</i>, TIME (Oct. 6, 2015), <a href="http://time.com/money/4062667/mcdonalds-all-day-breakfast/">http://time.com/money/4062667/mcdonalds-all-day-breakfast/</a>
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "prefix": "<i>But cf.</i>",
+      "id": "7Y9RGZND",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "7Y9RGZND",
+    "type": "article-magazine",
+    "title": "5 things to know about McDonalds all day breakfast",
+    "container-title": "TIME",
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          10,
+          6
+        ]
+      ]
+    },
+    "URL": "http://time.com/money/4062667/mcdonalds-all-day-breakfast/"
+  }
+]
+<<===== INPUT =====<<

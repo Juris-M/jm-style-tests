@@ -1,0 +1,55 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "RVQTNW8H"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of RVQTNW8H z0049 87 z4288 249 101 z4317 308 z4332 z4333 104 z2467 z0023 z0025 113 z2467 121 z4417 z4444 z4445 z4460
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+N.H. Code R. Med. 11 (LexisNexis 2000)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "RVQTNW8H",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "RVQTNW8H",
+    "type": "regulation",
+    "container-title": "N.H. Code R.",
+    "volume": "Med.",
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "section": "r. 11",
+    "publisher": "LexisNexis",
+    "jurisdiction": "us:nh"
+  }
+]
+<<===== INPUT =====<<

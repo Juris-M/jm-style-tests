@@ -1,0 +1,56 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "DEKAMH7D"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of DEKAMH7D z0049 z0015 71 z4285 z4287 z0016 z0017 77 z4307 z4312 z4313 z0020 91 z4389 104 z4499 109 z4499 118 z4499 121 z4410 z4453 z4460
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+H.R. Rep. No. 110-803
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "DEKAMH7D",
+    "type": "report",
+    "number": "110\\-803",
+    "genre": "H.R. Rep.",
+    "issued": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    },
+    "jurisdiction": "us"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "DEKAMH7D",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

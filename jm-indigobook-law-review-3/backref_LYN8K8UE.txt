@@ -1,0 +1,52 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "LYN8K8UE"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of LYN8K8UE z0049 87 z4295 101 z4335 805 z4349 z4350 104 z0023 z0025 113 121 z4418 z4419 z4443 z4460
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+2006-14 Vt. Adv. Legis. Serv. 45
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "LYN8K8UE",
+    "type": "legislation",
+    "container-title": "Vt. Adv. Legis. Serv.",
+    "volume": "14",
+    "page": "45",
+    "publisher": "LexisNexis",
+    "jurisdiction": "us:vt",
+    "collection-number": "2006"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "LYN8K8UE",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

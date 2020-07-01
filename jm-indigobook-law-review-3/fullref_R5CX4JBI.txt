@@ -1,0 +1,47 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "R5CX4JBI"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of R5CX4JBI z0049 87 z4295 101 z4335 343 z4349 z4350 z4352 104 z0023 z0025 113 121 z4418 z4443 z4460
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Legis. Serv. 45 (LexisNexis)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "R5CX4JBI",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "R5CX4JBI",
+    "type": "legislation",
+    "container-title": "Legis. Serv.",
+    "page": "45",
+    "publisher": "LexisNexis",
+    "jurisdiction": "us"
+  }
+]
+<<===== INPUT =====<<

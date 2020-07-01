@@ -1,0 +1,83 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "UU24MAXN",
+  "C67RYA7P"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>Smith v. Jones</i>, 1996 S.D. 15, 600 N.W. 2d 900
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "UU24MAXN",
+      "position": 0
+    },
+    {
+      "id": "C67RYA7P",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "UU24MAXN",
+    "type": "legal_case",
+    "title": "Smith v. Jones",
+    "authority": "supreme.court",
+    "page": "15",
+    "issued": {
+      "date-parts": [
+        [
+          1996
+        ]
+      ]
+    },
+    "jurisdiction": "us:sd",
+    "collection-number": "1996",
+    "seeAlso": [
+      "C67RYA7P"
+    ]
+  },
+  {
+    "id": "C67RYA7P",
+    "type": "legal_case",
+    "title": "Smith v. Jones",
+    "container-title": "N.W. 2d",
+    "volume": "600",
+    "authority": "supreme.court",
+    "page": "900",
+    "issued": {
+      "date-parts": [
+        [
+          1996
+        ]
+      ]
+    },
+    "jurisdiction": "us:sd",
+    "seeAlso": [
+      "UU24MAXN"
+    ]
+  }
+]
+<<===== INPUT =====<<

@@ -1,0 +1,57 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "NI4GXMY5"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of NI4GXMY5 z0049 87 z4288 241 101 z4317 300 z4331 z4332 104 z4502 z0023 z0025 113 z4502 121 z4417 z4444 z4449 z4450 z4460
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+23 Nev. Reg. Admin. Regs. (Dec. 31, 2000)
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "NI4GXMY5",
+    "type": "regulation",
+    "container-title": "Nev. Reg. Admin. Regs.",
+    "volume": "23",
+    "issued": {
+      "date-parts": [
+        [
+          2000,
+          12,
+          31
+        ]
+      ]
+    },
+    "jurisdiction": "us:nv"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "NI4GXMY5",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

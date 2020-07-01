@@ -1,0 +1,51 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "UENGIS6P"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>Hormel Foods Corp. v. Jim Henson Prods., Inc.</i>, 73 F.3d 497, 504 (2d Cir. 1996)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+[
+  {
+    "id": "UENGIS6P",
+    "position": 0,
+    "locator": "p. 504"
+  }
+]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "UENGIS6P",
+    "type": "legal_case",
+    "title": "Hormel Foods Corp. v. Jim Henson Prods., Inc.",
+    "container-title": "F.3d",
+    "volume": "73",
+    "authority": "court.appeals",
+    "page": "497",
+    "issued": {
+      "date-parts": [
+        [
+          1996
+        ]
+      ]
+    },
+    "jurisdiction": "us:c2"
+  }
+]
+<<===== INPUT =====<<

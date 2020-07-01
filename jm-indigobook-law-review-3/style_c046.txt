@@ -1,0 +1,59 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "V7ESPKED"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>Liriano II</i>, 92 N.Y.2d at 236–37
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "V7ESPKED",
+      "position": 1,
+      "locator": "p. 236–37",
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "V7ESPKED",
+    "type": "legal_case",
+    "title": "Liriano v. Hobart Corp. <span class=\"nodecor\">(</span>Liriano II<span class=\"nodecor\">)</span>",
+    "container-title": "N.Y.2d",
+    "volume": "92",
+    "authority": "court.appeals",
+    "page": "232",
+    "issued": {
+      "date-parts": [
+        [
+          1998
+        ]
+      ]
+    },
+    "shortTitle": "Liriano II",
+    "jurisdiction": "us:ny"
+  }
+]
+<<===== INPUT =====<<

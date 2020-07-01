@@ -1,0 +1,56 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "JYIPQKYU"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Possibly Worthy Act of 2002, S. 12345, 61st Cong. § 5 (2002)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "JYIPQKYU",
+      "position": 0,
+      "locator": "sec. 5"
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "JYIPQKYU",
+    "type": "bill",
+    "title": "Possibly Worthy Act of 2002",
+    "number": "S. 12345",
+    "authority": "Cong.",
+    "issued": {
+      "date-parts": [
+        [
+          2002
+        ]
+      ]
+    },
+    "jurisdiction": "us",
+    "collection-number": "61"
+  }
+]
+<<===== INPUT =====<<

@@ -1,0 +1,50 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "W7CW54XH"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of W7CW54XH z0049 87 z0339 101 z0342 104 z0023 z0025 113 121
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+2006 J.O. (L 92)
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "W7CW54XH",
+    "type": "legislation",
+    "container-title": "J.O.",
+    "number": "92",
+    "jurisdiction": "eu.int",
+    "genre": "L",
+    "collection-number": "2006"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "W7CW54XH",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

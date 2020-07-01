@@ -1,0 +1,56 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "FXYWKLMD"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+16 Wyo. Gov’t Reg. 45 (LexisNexis Apr. 2000)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "FXYWKLMD",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "FXYWKLMD",
+    "type": "regulation",
+    "container-title": "Wyo. Gov’t Reg.",
+    "volume": "16",
+    "issued": {
+      "date-parts": [
+        [
+          2000,
+          4
+        ]
+      ]
+    },
+    "page": "45",
+    "publisher": "LexisNexis",
+    "jurisdiction": "us:wy"
+  }
+]
+<<===== INPUT =====<<

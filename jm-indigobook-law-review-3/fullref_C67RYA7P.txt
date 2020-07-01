@@ -1,0 +1,61 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C67RYA7P"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of C67RYA7P z0049 z0015 71 z3376 z0016 82 z3394 267 101 z3446 z3457 104 z3597 109 z3597 118 z3597 121 z3495 z3496 z3504 z3521 z3527
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>Smith v. Jones</i>, 600 N.W.2d 900 (S.D. 1996)
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "C67RYA7P",
+    "type": "legal_case",
+    "title": "Smith v. Jones",
+    "container-title": "N.W.2d",
+    "volume": "600",
+    "authority": "supreme.court",
+    "page": "900",
+    "issued": {
+      "date-parts": [
+        [
+          1996
+        ]
+      ]
+    },
+    "jurisdiction": "us:sd",
+    "seeAlso": [
+      "UU24MAXN"
+    ]
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "C67RYA7P",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

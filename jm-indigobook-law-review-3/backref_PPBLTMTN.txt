@@ -1,0 +1,56 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "PPBLTMTN"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of PPBLTMTN z0049 z0015 71 z4285 z4287 z0016 z0017 77 z4307 z4308 101 z4389 104 z4501 109 z4501 118 z4501 121 z4410 z4453 z4460
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+U.S. Dep’t of State, Bureau of Democracy, H.R. and Lab., International Religious Freedom Report, <i>supra</i>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "PPBLTMTN",
+    "type": "report",
+    "title": "International Religious Freedom Report",
+    "authority": "U.S. Dep't of State, Bureau of Democracy, H.R. and Lab.",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "jurisdiction": "us"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "PPBLTMTN",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

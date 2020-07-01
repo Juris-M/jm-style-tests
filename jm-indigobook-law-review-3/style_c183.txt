@@ -1,0 +1,58 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "CJB47F83"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Compl. at 2, <i>Jones v. Smith</i>, No. 09-230 (9th Cir. Apr. 17, 2015)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "CJB47F83",
+      "position": 0,
+      "locator": "p. 2"
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "CJB47F83",
+    "type": "legal_case",
+    "title": "Jones v. Smith",
+    "authority": "court.appeals",
+    "number": "09\\-230",
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          4,
+          17
+        ]
+      ]
+    },
+    "jurisdiction": "us:c9",
+    "document-name": "Compl."
+  }
+]
+<<===== INPUT =====<<

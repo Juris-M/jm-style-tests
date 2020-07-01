@@ -1,0 +1,60 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "YLXSAJRR"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Smith v. Jones, CFTC No. 1234-567-89, 2006 LEXIS 123654 (Apr. 1, 2000)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "YLXSAJRR",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "YLXSAJRR",
+    "type": "legal_case",
+    "title": "Smith v. Jones",
+    "authority": "cftc",
+    "number": "1234\\-567\\-89",
+    "issued": {
+      "date-parts": [
+        [
+          2000,
+          4,
+          1
+        ]
+      ]
+    },
+    "archive_location": "123654",
+    "archive": "LEXIS",
+    "jurisdiction": "us",
+    "collection-number": "2006",
+    "admin-flag": "1"
+  }
+]
+<<===== INPUT =====<<

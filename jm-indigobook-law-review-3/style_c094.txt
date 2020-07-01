@@ -1,0 +1,50 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "NHYVL5GD"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>Lerman v. Comm’r</i>, 939 F.2d 44 (3d Cir. 1991)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+[
+  {
+    "id": "NHYVL5GD",
+    "position": 0
+  }
+]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "NHYVL5GD",
+    "type": "legal_case",
+    "title": "Lerman v. Comm’r",
+    "container-title": "F.2d",
+    "volume": "939",
+    "authority": "court.appeals",
+    "page": "44",
+    "issued": {
+      "date-parts": [
+        [
+          1991
+        ]
+      ]
+    },
+    "jurisdiction": "us:c3"
+  }
+]
+<<===== INPUT =====<<

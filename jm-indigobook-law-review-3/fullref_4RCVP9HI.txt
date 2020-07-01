@@ -1,0 +1,55 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "4RCVP9HI"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of 4RCVP9HI z0049 87 z4295 101 z4335 343 z4349 z4350 z4352 104 z0023 z0025 113 121 z4418 z4420 z4443 z4460
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Colo. Rev. Stat. Ann. (West 2014)
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "4RCVP9HI",
+    "type": "legislation",
+    "container-title": "Colo. Rev. Stat. Ann.",
+    "publisher": "West",
+    "jurisdiction": "us:co",
+    "publication-date": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    }
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "4RCVP9HI",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

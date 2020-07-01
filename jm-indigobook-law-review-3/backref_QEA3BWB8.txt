@@ -1,0 +1,62 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "QEA3BWB8"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of QEA3BWB8 z0049 z0015 71 z2923 z0016 82 z2941 267 101 z2993 z3004 104 z3144 109 z3144 118 z3144 121 z3042 z3043 z3051 z3068 z3074
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>Robinson v. State</i>, 68 OBJ 1379
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "QEA3BWB8",
+    "type": "legal_case",
+    "title": "Robinson v. State",
+    "container-title": "OBJ",
+    "volume": "68",
+    "authority": "court.criminal.appeals",
+    "page": "1379",
+    "issued": {
+      "date-parts": [
+        [
+          1997
+        ]
+      ]
+    },
+    "jurisdiction": "us:ok",
+    "seeAlso": [
+      "UEKHI79P"
+    ]
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "QEA3BWB8",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

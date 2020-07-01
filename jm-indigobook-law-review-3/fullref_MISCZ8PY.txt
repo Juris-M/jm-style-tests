@@ -1,0 +1,54 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "MISCZ8PY"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of MISCZ8PY z0049 87 z4288 249 101 z4317 308 z4331 z4332 z4333 104 z1079 z0023 z0025 113 z1079 121 z4417 z4444 z4449 z4450 z4460
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Ga. Comp. R. &#38; Regs. (2000)
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "MISCZ8PY",
+    "type": "regulation",
+    "container-title": "Ga. Comp. R. & Regs.",
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "jurisdiction": "us:ga"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "MISCZ8PY",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

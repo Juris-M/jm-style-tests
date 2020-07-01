@@ -1,0 +1,51 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "TE2K6L7J"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>see, e.g.</i>, <i>Nix v. Heden</i>, 149 U.S. 304 (1893)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "prefix": "<i>see, e.g.</i>,",
+      "id": "TE2K6L7J",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "TE2K6L7J",
+    "type": "legal_case",
+    "title": "Nix v. Heden",
+    "container-title": "U.S.",
+    "volume": "149",
+    "authority": "supreme.court",
+    "page": "304",
+    "issued": {
+      "date-parts": [
+        [
+          1893
+        ]
+      ]
+    },
+    "jurisdiction": "us"
+  }
+]
+<<===== INPUT =====<<

@@ -1,0 +1,45 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "ASMFKCGA"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of ASMFKCGA z0031 z0068 z0031
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+C.E.T.S. No. 26
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "ASMFKCGA",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "ASMFKCGA",
+    "type": "treaty",
+    "container-title": "C.E.T.S.",
+    "number": "26"
+  }
+]
+<<===== INPUT =====<<

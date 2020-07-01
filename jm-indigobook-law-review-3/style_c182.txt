@@ -1,0 +1,58 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "YRKTRYNB"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Compl. at 5, <i>Parsell v. Shell Oil Co.</i>, 421 F. Supp. 1275 (D. Conn. 1976)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "YRKTRYNB",
+      "position": 0,
+      "locator": "p. 5"
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "YRKTRYNB",
+    "type": "legal_case",
+    "title": "Parsell v. Shell Oil Co.",
+    "container-title": "F. Supp.",
+    "volume": "421",
+    "authority": "district.court",
+    "page": "1275",
+    "issued": {
+      "date-parts": [
+        [
+          1976
+        ]
+      ]
+    },
+    "jurisdiction": "us:c2:ct.d",
+    "document-name": "Compl."
+  }
+]
+<<===== INPUT =====<<

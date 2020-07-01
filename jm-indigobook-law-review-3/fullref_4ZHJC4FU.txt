@@ -1,0 +1,61 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "4ZHJC4FU"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Short form of 4ZHJC4FU z0049 z0015 71 z4057 z0016 82 z4075 267 101 z4127 z4138 104 109 118 121 z4176 z4177 z4185 z4202 z4208
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>Doe v. Roe</i>, 595 N.W.2d 346 (Wis. Ct. App. 2001)
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "4ZHJC4FU",
+    "type": "legal_case",
+    "title": "Doe v. Roe",
+    "container-title": "N.W.2d",
+    "volume": "595",
+    "authority": "court.appeals",
+    "page": "346",
+    "issued": {
+      "date-parts": [
+        [
+          2001
+        ]
+      ]
+    },
+    "jurisdiction": "us:wi",
+    "seeAlso": [
+      "LSZ3PDWX"
+    ]
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "4ZHJC4FU",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

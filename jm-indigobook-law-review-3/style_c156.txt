@@ -1,0 +1,58 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "KTSJDMKU"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+H.R. 1746, 111th Cong. § 2(c)(4) (<i>as reported by</i> H. Comm. on Transp. and Infrastructure, Apr. 23, 2009)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "KTSJDMKU",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "KTSJDMKU",
+    "type": "bill",
+    "number": "H.R. 1746",
+    "section": "sec. 2(c)(4)",
+    "authority": "Cong.",
+    "references": "<i>as reported by</i> H. Comm. on Transp. and Infrastructure",
+    "issued": {
+      "date-parts": [
+        [
+          2009,
+          4,
+          23
+        ]
+      ]
+    },
+    "jurisdiction": "us",
+    "collection-number": "111"
+  }
+]
+<<===== INPUT =====<<

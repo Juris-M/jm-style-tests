@@ -1,0 +1,57 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[
+  "PFJA5J3B"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>Regulation of reverse composition workarounds of 2002: Hearing on L.D. 56 Before the Beehive Promotion Subcommittee</i>, 62d Leg. 21 (Mont. 2002)
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "PFJA5J3B",
+      "position": 0,
+      "locator": "21"
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "PFJA5J3B",
+    "type": "hearing",
+    "title": "Regulation of reverse composition workarounds",
+    "section": "Beehive Promotion Subcommittee",
+    "number": "L.D. 56",
+    "authority": "Leg.",
+    "issued": {
+      "date-parts": [
+        [
+          2002
+        ]
+      ]
+    },
+    "jurisdiction": "us:mt",
+    "collection-number": "62"
+  }
+]
+<<===== INPUT =====<<
