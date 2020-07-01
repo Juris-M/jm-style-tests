@@ -2,12 +2,6 @@
 citation
 <<===== MODE =====<<
 
->>===== OPTIONS =====>>
-{
-    "wrap_url_and_doi": true
-}
-<<===== OPTIONS =====<<
-
 >>===== KEYS =====>>
 [
   "IKVDQELG"
@@ -19,19 +13,8 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Gabriel García Márquez, <i>One Hundred Years of Solitude</i> (Gregory Rabassa trans., Harper &#38; Row 2003) (1967)
+<span style="font-variant:small-caps;">Gabriel García Márquez</span>, <span style="font-variant:small-caps;">One Hundred Years of Solitude</span> (Gregory Rabassa trans., Harper &#38; Row 2003) (1967)
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "id": "IKVDQELG",
-      "position": 0
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -63,3 +46,22 @@ Gabriel García Márquez, <i>One Hundred Years of Solitude</i> (Gregory Rabassa 
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "IKVDQELG",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

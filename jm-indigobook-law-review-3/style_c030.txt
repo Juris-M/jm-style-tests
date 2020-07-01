@@ -2,12 +2,6 @@
 citation
 <<===== MODE =====<<
 
->>===== OPTIONS =====>>
-{
-    "wrap_url_and_doi": true
-}
-<<===== OPTIONS =====<<
-
 >>===== KEYS =====>>
 [
   "L4TVSRGE"
@@ -19,20 +13,8 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Cf.</i> <i>The Bluebook: A Uniform System of Citation</i> (Columbia Law Review Ass’n et al. eds., 20th ed. 2015)
+<i>Cf.</i> <span style="font-variant:small-caps;">The Bluebook: A Uniform System of Citation</span> (Columbia Law Review Ass’n et al. eds., 20th ed. 2015)
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "prefix": "<i>Cf.</i>",
-      "id": "L4TVSRGE",
-      "position": 0
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -65,3 +47,23 @@ Initial test checkin
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "prefix": "<i>Cf.</i>",
+      "id": "L4TVSRGE",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

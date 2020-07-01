@@ -13,20 +13,8 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>See generally</i> Richard A. Posner, <i>Against Footnotes</i>, 38 Ct. Rev. 24 (2001)
+<i>See generally</i> Richard A. Posner, <i>Against Footnotes</i>, 38 <span style="font-variant:small-caps;">Ct. Rev.</span> 24 (2001)
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "prefix": "<i>See generally</i>",
-      "id": "TKZBTLHM",
-      "position": 0
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -53,3 +41,16 @@ Initial test checkin
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "prefix": "<i>See generally</i>",
+      "id": "TKZBTLHM",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

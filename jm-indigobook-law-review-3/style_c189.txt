@@ -2,12 +2,6 @@
 citation
 <<===== MODE =====<<
 
->>===== OPTIONS =====>>
-{
-    "wrap_url_and_doi": true
-}
-<<===== OPTIONS =====<<
-
 >>===== KEYS =====>>
 [
   "WN6L6K3Z"
@@ -19,20 +13,8 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-1 Melville B. Nimmer &#38; David Nimmer, <i>Nimmer on Copyright</i> § 1.01[B][1][a] at 1–14–15 (2011)
+1 <span style="font-variant:small-caps;">Melville B. Nimmer</span> &#38; <span style="font-variant:small-caps;">David Nimmer</span>, <span style="font-variant:small-caps;">Nimmer on Copyright</span> § 1.01[B][1][a] at 1–14–15 (2011)
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "id": "WN6L6K3Z",
-      "position": 0,
-      "locator": "sec. 1.01[B][1][a] at 1–14–15"
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -61,3 +43,23 @@ Initial test checkin
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "WN6L6K3Z",
+      "position": 0,
+      "locator": "sec. 1.01[B][1][a] at 1–14–15"
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

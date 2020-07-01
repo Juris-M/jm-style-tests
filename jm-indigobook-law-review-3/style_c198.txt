@@ -2,12 +2,6 @@
 citation
 <<===== MODE =====<<
 
->>===== OPTIONS =====>>
-{
-    "wrap_url_and_doi": true
-}
-<<===== OPTIONS =====<<
-
 >>===== KEYS =====>>
 [
   "8Q789F83"
@@ -19,20 +13,8 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Graham C. Lilly et al., <i>Principles of Evidence</i> 122 (6th ed. 2012)
+<span style="font-variant:small-caps;"><span style="font-variant:small-caps;">Graham C. Lilly</span> et al.</span>, <span style="font-variant:small-caps;">Principles of Evidence</span> 122 (6th ed. 2012)
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "id": "8Q789F83",
-      "position": 0,
-      "locator": "p. 122"
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -65,3 +47,23 @@ Graham C. Lilly et al., <i>Principles of Evidence</i> 122 (6th ed. 2012)
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "8Q789F83",
+      "position": 0,
+      "locator": "p. 122"
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

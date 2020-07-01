@@ -2,12 +2,6 @@
 citation
 <<===== MODE =====<<
 
->>===== OPTIONS =====>>
-{
-    "wrap_url_and_doi": true
-}
-<<===== OPTIONS =====<<
-
 >>===== KEYS =====>>
 [
   "MSTVNUM7"
@@ -19,20 +13,8 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-B.F. Skinner, <i>Beyond Freedom and Dignity</i> 32 (2002)
+<span style="font-variant:small-caps;">B.F. Skinner</span>, <span style="font-variant:small-caps;">Beyond Freedom and Dignity</span> 32 (2002)
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "id": "MSTVNUM7",
-      "position": 0,
-      "locator": "p. 32"
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -56,3 +38,23 @@ B.F. Skinner, <i>Beyond Freedom and Dignity</i> 32 (2002)
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "MSTVNUM7",
+      "position": 0,
+      "locator": "p. 32"
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

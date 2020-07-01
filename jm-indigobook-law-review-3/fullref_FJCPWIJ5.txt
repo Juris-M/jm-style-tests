@@ -2,12 +2,6 @@
 citation
 <<===== MODE =====<<
 
->>===== OPTIONS =====>>
-{
-    "wrap_url_and_doi": true
-}
-<<===== OPTIONS =====<<
-
 >>===== KEYS =====>>
 [
   "FJCPWIJ5"
@@ -19,19 +13,8 @@ Short form of FJCPWIJ5 z0063 z0031 z0068 z0031
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Roger Angell, <i>This Old Man</i>, <i>in</i> <i>The Best American Essays 2015</i> (Ariel Levy &#38; Robert Atwan eds., 2015)
+Roger Angell, <i>This Old Man</i>, <i>in</i> <span style="font-variant:small-caps;">The Best American Essays 2015</span> (Ariel Levy &#38; Robert Atwan eds., 2015)
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "id": "FJCPWIJ5",
-      "position": 0
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -66,3 +49,22 @@ Roger Angell, <i>This Old Man</i>, <i>in</i> <i>The Best American Essays 2015</i
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "FJCPWIJ5",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

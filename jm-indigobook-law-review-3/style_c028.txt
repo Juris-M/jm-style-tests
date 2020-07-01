@@ -2,12 +2,6 @@
 citation
 <<===== MODE =====<<
 
->>===== OPTIONS =====>>
-{
-    "wrap_url_and_doi": true
-}
-<<===== OPTIONS =====<<
-
 >>===== KEYS =====>>
 [
   "5NL78QHG"
@@ -19,21 +13,8 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>See</i> Don Daily, <i>The Classic Treasury of Aesop’s Fables</i> 43–46 (1999)
+<i>See</i> <span style="font-variant:small-caps;">Don Daily</span>, <span style="font-variant:small-caps;">The Classic Treasury of Aesop’s Fables</span> 43–46 (1999)
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "prefix": "<i>See</i>",
-      "id": "5NL78QHG",
-      "position": 0,
-      "locator": "p. 43-46"
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -57,3 +38,24 @@ Initial test checkin
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "prefix": "<i>See</i>",
+      "id": "5NL78QHG",
+      "position": 0,
+      "locator": "p. 43-46"
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

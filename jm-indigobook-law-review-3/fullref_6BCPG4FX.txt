@@ -13,7 +13,7 @@ Short form of 6BCPG4FX z0058 z0059 z0031 z0036 z0036 z0068 z0031 z0036 z0036 z00
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-James Huguenin-Love, <i>Song on Wire: A Technical Analysis of <span style="font-style:normal;">ReDigi</span> and the Pre-Owned Digital Media Marketplace</i>, 4 N.Y.U. J. Intell. Prop. &#38; Ent. L. 1, 15 (2014), <a href="http://jipel.law.nyu.edu/wp-content/uploads/2015/02/JIPEL-Winter-2014-Edition.pdf">http://jipel.law.nyu.edu/wp-content/uploads/2015/02/JIPEL-Winter-2014-Edition.pdf</a>
+James Huguenin-Love, <i>Song on Wire: A Technical Analysis of <span style="font-style:normal;">ReDigi</span> and the Pre-Owned Digital Media Marketplace</i>, 4 <span style="font-variant:small-caps;">N.Y.U. J. Intell. Prop. &#38; Ent. L.</span> 1, 15 (2014), <a href="http://jipel.law.nyu.edu/wp-content/uploads/2015/02/JIPEL-Winter-2014-Edition.pdf">http://jipel.law.nyu.edu/wp-content/uploads/2015/02/JIPEL-Winter-2014-Edition.pdf</a>
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

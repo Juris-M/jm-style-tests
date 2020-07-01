@@ -2,12 +2,6 @@
 citation
 <<===== MODE =====<<
 
->>===== OPTIONS =====>>
-{
-    "wrap_url_and_doi": true
-}
-<<===== OPTIONS =====<<
-
 >>===== KEYS =====>>
 [
   "FF25SDZE"
@@ -19,20 +13,8 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>see also</i> Gerald Lebovits, <i>Write the Cites Right—Part II</i>, 76 N.Y. St. B.J. 64 (Dec. 2004)
+<i>see also</i> Gerald Lebovits, <i>Write the Cites Right—Part II</i>, 76 <span style="font-variant:small-caps;">N.Y. St. B.J.</span> 64 (Dec. 2004)
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "prefix": "<i>see also</i>",
-      "id": "FF25SDZE",
-      "position": 0
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -60,3 +42,23 @@ Initial test checkin
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "prefix": "<i>see also</i>",
+      "id": "FF25SDZE",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
