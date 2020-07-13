@@ -11,8 +11,8 @@ citation
 >>===== KEYS =====>>
 [
   "N5JBHNML",
-  "ANMEK795",
-  "ZUASBD5R"
+  "EG56JUFC",
+  "IL5P5E3G"
 ]
 <<===== KEYS =====<<
 
@@ -33,12 +33,12 @@ Initial test checkin
     },
     {
       "prefix": "<i>aff'd</i>,",
-      "id": "ANMEK795",
+      "id": "EG56JUFC",
       "position": 0
     },
     {
       "prefix": "<i>cert. denied</i>,",
-      "id": "ZUASBD5R",
+      "id": "IL5P5E3G",
       "position": 0
     }
   ]
@@ -64,12 +64,12 @@ Initial test checkin
     },
     "jurisdiction": "us:c10:co.d",
     "seeAlso": [
-      "ANMEK795",
-      "ZUASBD5R"
+      "EG56JUFC",
+      "IL5P5E3G"
     ]
   },
   {
-    "id": "ANMEK795",
+    "id": "EG56JUFC",
     "type": "legal_case",
     "title": "Energy & Env't Legal Inst. v. Epel",
     "container-title": "F.3d",
@@ -85,12 +85,12 @@ Initial test checkin
     },
     "jurisdiction": "us:c10",
     "seeAlso": [
-      "ZUASBD5R",
+      "IL5P5E3G",
       "N5JBHNML"
     ]
   },
   {
-    "id": "ZUASBD5R",
+    "id": "IL5P5E3G",
     "type": "legal_case",
     "title": "Energy & Env't Legal Inst. v. Epel",
     "container-title": "S. Ct.",
@@ -107,7 +107,7 @@ Initial test checkin
     "jurisdiction": "us",
     "seeAlso": [
       "N5JBHNML",
-      "ANMEK795"
+      "EG56JUFC"
     ]
   }
 ]
