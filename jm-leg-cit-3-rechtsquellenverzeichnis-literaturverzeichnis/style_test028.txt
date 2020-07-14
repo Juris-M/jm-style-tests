@@ -1,5 +1,5 @@
 >>===== MODE =====>>
-all
+bibliography
 <<===== MODE =====<<
 
 >>===== KEYS =====>>
@@ -13,12 +13,6 @@ AT Case with parallel citations
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-FIRST
-  OGH 2 Ob 328/97t.
-FIRST w/LOCATOR
-  <i>Wilhelm</i>, ecolex 1998, 692 (123)
-FIRST w/LABEL
-  <i>Wilhelm</i>, ecolex 1998, 692 Abs 123
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry">OGH 12.02.1998, 2 Ob 328/97t = SZ 71/21 = JBl 1999, 54 (<i>Karollus</i>) = ecolex 1998, 692 (<i>Wilhelm</i>).</div>
