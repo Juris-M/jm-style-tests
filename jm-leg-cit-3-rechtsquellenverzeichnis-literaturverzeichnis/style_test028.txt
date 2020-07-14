@@ -4,7 +4,7 @@ all
 
 >>===== KEYS =====>>
 [
-  "U4PGJ8LG"
+  "ITEM-1", "ITEM-2", "ITEM-3"
 ]
 <<===== KEYS =====<<
 
@@ -46,7 +46,11 @@ BIBLIOGRAPHY
       "main": {},
       "_keys": {}
     },
-    "jurisdiction": "at"
+    "jurisdiction": "at",
+    "seeAlso": [
+      "ITEM-2",
+      "ITEM-3"
+    ]
   },
   {
     "ID": "ITEM-2",
@@ -80,7 +84,11 @@ BIBLIOGRAPHY
           1999
         ]
       ]
-    }
+    },
+    "seeAlso": [
+      "ITEM-1",
+      "ITEM-3"
+    ]
   },
   {
     "ID": "ITEM-3",
@@ -113,8 +121,12 @@ BIBLIOGRAPHY
         [
           1998
         ]
-      ]
-    }
+      ]   
+    },
+    "seeAlso": [
+      "ITEM-1",
+      "ITEM-2"
+    ]
   }
 ]
 <<===== INPUT =====<<
@@ -123,13 +135,18 @@ BIBLIOGRAPHY
 [
   [
     {
-      "id": "ITEM-1"
+      "id": "ITEM-1",
+      "position": 0
     },
     {
-      "id": "ITEM-2"
+      "id": "ITEM-2",
+      "position": 0
+
     },
     {
-      "id": "ITEM-3"
+      "id": "ITEM-3",
+      "position": 0
+
     }
   ]
 ]
