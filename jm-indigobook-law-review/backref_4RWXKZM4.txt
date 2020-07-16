@@ -2,12 +2,6 @@
 citation
 <<===== MODE =====<<
 
->>===== OPTIONS =====>>
-{
-    "wrap_url_and_doi": true
-}
-<<===== OPTIONS =====<<
-
 >>===== KEYS =====>>
 [
   "4RWXKZM4"
@@ -19,20 +13,8 @@ Short form of 4RWXKZM4 z0049 87 z4295 101 z4335 343 z4349 z4350 z4352 104 z0023 
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-2006 P.R. Laws 45
+2006 P.R. Laws 45.
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "id": "4RWXKZM4",
-      "position": 1,
-      "near-note": 1
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -46,3 +28,23 @@ Short form of 4RWXKZM4 z0049 87 z4295 101 z4335 343 z4349 z4350 z4352 104 z0023 
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "4RWXKZM4",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

@@ -13,7 +13,7 @@ Short form of 4ZHJC4FU z0049 z0015 71 z4057 z0016 82 z4075 267 101 z4127 z4138 1
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Doe v. Roe</i>, 595 N.W.2d 346
+<i>Doe v. Roe</i>, 595 N.W.2d 346.
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

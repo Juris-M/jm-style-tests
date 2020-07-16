@@ -13,7 +13,7 @@ Short form of 3W3F7YNR z0049 z0015 71 z2698 z0016 82 z2716 267 101 z2768 z2779 1
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Byer v. Wright</i>, 827 N.E.2d 835
+<i>Byer v. Wright</i>, 827 N.E.2d 835.
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

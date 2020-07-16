@@ -2,12 +2,6 @@
 citation
 <<===== MODE =====<<
 
->>===== OPTIONS =====>>
-{
-    "wrap_url_and_doi": true
-}
-<<===== OPTIONS =====<<
-
 >>===== KEYS =====>>
 [
   "6DPJVSR2"
@@ -19,20 +13,8 @@ Short form of 6DPJVSR2 z0049 87 z4295 z4297 252 101 z4335 343 z4338 z4343 z4346 
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-2006 Or. Laws Adv. Sh. No. 41, 45
+2006 Or. Laws Adv. Sh. No. 41, 45.
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "id": "6DPJVSR2",
-      "position": 1,
-      "near-note": 1
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -55,3 +37,23 @@ Short form of 6DPJVSR2 z0049 87 z4295 z4297 252 101 z4335 343 z4338 z4343 z4346 
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "6DPJVSR2",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

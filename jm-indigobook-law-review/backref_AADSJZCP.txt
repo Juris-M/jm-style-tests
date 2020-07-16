@@ -13,7 +13,7 @@ Short form of AADSJZCP z0049 87 z4288 249 101 z4317 308 z4331 z4332 104 z2241 z0
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-50 N.C. Admin. Code
+50 N.C. Admin. Code.
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

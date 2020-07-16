@@ -13,7 +13,7 @@ Short form of 5ZR67Y8L z0049 z0015 71 z1565 z0016 82 z1583 267 101 z1635 z1636 1
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Saucier v. State Tax Assessor</i>, 1998 ME 61
+<i>Saucier v. State Tax Assessor</i>, 1998 ME 61.
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>
