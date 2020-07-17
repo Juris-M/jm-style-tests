@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-C.E.T.S. No. 26
+C.E.T.S. No. 26.
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

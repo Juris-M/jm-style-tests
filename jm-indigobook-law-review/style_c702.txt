@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Wash. Admin. Code § 12-34-56 (2000)
+Wash. Admin. Code § 12-34-56 (2000).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

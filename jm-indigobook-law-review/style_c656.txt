@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Tenn. Comp. R. &#38; Regs. 11 (2000)
+Tenn. Comp. R. &#38; Regs. 11 (2000).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

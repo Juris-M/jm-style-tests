@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-26 U.S.C. § 312 (2014)
+26 U.S.C. § 312 (2014).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

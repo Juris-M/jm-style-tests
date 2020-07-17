@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>accord</i> Chrissy Makkas, <i>Justin Bieber Fronts V Magazine’s Music Issue (Forum Buzz)</i>, The Fashion Spot (Jan. 11, 2012), <a href="https://www.thefashionspot.com/buzz-news/forum-buzz/171203-justin-bieber-fronts-v-magazines-music-issue-forum-buzz/">https://www.thefashionspot.com/buzz-news/forum-buzz/171203-justin-bieber-fronts-v-magazines-music-issue-forum-buzz/</a>
+<i>accord</i> Chrissy Makkas, <i>Justin Bieber Fronts V Magazine’s Music Issue (Forum Buzz)</i>, The Fashion Spot (Jan. 11, 2012), <a href="https://www.thefashionspot.com/buzz-news/forum-buzz/171203-justin-bieber-fronts-v-magazines-music-issue-forum-buzz/">https://www.thefashionspot.com/buzz-news/forum-buzz/171203-justin-bieber-fronts-v-magazines-music-issue-forum-buzz/</a>.
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-T.I.A.S. No. 26
+T.I.A.S. No. 26.
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

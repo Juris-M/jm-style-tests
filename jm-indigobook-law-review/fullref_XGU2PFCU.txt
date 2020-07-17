@@ -13,7 +13,7 @@ Short form of XGU2PFCU z0049 z0015 71 z4283 z0016 82 z4301 267 101 z4353 z4355 1
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-John Smith, No. 1234-567-89, 2006 WL 123654 (B.P.A.I. Apr. 1, 2000)
+John Smith, No. 1234-567-89, 2006 WL 123654 (B.P.A.I. Apr. 1, 2000).
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

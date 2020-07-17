@@ -20,7 +20,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>United States v. Schmuck</i>, 840 F.2d 384 (7th Cir. 1988), <i>aff’d</i>, 489 U.S. 705 (1989)
+<i>United States v. Schmuck</i>, 840 F.2d 384 (7th Cir. 1988), <i>aff’d</i>, 489 U.S. 705 (1989).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

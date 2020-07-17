@@ -13,7 +13,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Ford v. Wainwright</i>, 477 U.S. 399, 410 (1986)
+<i>Ford v. Wainwright</i>, 477 U.S. 399, 410 (1986).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

@@ -13,7 +13,7 @@ Short form of 3CQIQYEF z0049 z0015 71 z4283 z0016 z0017 77 z4301 267 101 z4353 z
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-William Jones, No. 1234-567-89, 2006 WL 123654 (Comp. Gen. Apr. 1, 2000)
+William Jones, No. 1234-567-89, 2006 WL 123654 (Comp. Gen. Apr. 1, 2000).
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

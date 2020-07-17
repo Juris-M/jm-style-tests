@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-DOE Employee Privacy Standards, 10 C.F.R. § 1008.3 (2000)
+DOE Employee Privacy Standards, 10 C.F.R. § 1008.3 (2000).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

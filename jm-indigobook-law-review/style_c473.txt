@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Md. Code Ann., Ins. § 12-34 (West 2000)
+Md. Code Ann., Ins. § 12-34 (West 2000).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

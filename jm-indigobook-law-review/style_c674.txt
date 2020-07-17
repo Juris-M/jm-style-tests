@@ -20,7 +20,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Smith v. Jones</i>, 1999 UT App 16, 998 P.2d 250
+<i>Smith v. Jones</i>, 1999 UT App 16, 998 P.2d 250.
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

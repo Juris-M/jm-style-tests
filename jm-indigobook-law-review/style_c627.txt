@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-50 Pa. Stat. and Cons. Stat. Ann. § 15 (West 2000)
+50 Pa. Stat. and Cons. Stat. Ann. § 15 (West 2000).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

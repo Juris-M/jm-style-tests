@@ -20,7 +20,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Smith v. Jones</i>, 93-2345 (La. App. 1 Cir. 7/15/94); 660 So.2d 400
+<i>Smith v. Jones</i>, 93-2345 (La. App. 1 Cir. 7/15/94); 660 So.2d 400.
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
@@ -31,7 +31,6 @@ Initial test checkin
       "position": 0
     },
     {
-      "prefix": "; ",
       "id": "SAC2FCQD",
       "position": 0
     }

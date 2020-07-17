@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-89 Bevans 935S
+89 Bevans 935S.
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

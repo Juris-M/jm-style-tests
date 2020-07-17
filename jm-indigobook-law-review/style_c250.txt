@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-U.S. Patent No. 8,112,504 B2, at [75] (filed Mar. 4, 2009)
+U.S. Patent No. 8,112,504 B2, at [75] (filed Mar. 4, 2009).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

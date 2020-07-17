@@ -21,7 +21,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Byer v. Wright</i>, 160 Ohio App.3d 472, 2005-Ohio-1797, 827 N.E.2d 835 (11th Dist.)
+<i>Byer v. Wright</i>, 160 Ohio App.3d 472, 2005-Ohio-1797, 827 N.E.2d 835 (11th Dist.).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

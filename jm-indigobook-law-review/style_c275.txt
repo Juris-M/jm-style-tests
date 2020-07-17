@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Donald Cutler, 11 E.A.D. 622, 623 (EAB 2004)
+Donald Cutler, 11 E.A.D. 622, 623 (EAB 2004).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

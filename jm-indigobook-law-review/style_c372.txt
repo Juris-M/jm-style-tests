@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-23 Stat. 45 (2000)
+23 Stat. 45 (2000).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

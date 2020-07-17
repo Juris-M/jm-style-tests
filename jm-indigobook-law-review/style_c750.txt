@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Legis. Serv. 45 (LexisNexis)
+Legis. Serv. 45 (LexisNexis).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

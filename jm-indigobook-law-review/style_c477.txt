@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Md. Code Regs. 6578 (2000)
+Md. Code Regs. 6578 (2000).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

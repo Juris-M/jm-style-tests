@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-O.A.S.T.S. No. 26
+O.A.S.T.S. No. 26.
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

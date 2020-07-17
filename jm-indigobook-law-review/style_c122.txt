@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Federal Food, Drug, and Cosmetic Act, 21 U.S.C. § 387 (2012)
+Federal Food, Drug, and Cosmetic Act, 21 U.S.C. § 387 (2012).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

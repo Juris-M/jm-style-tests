@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>ABC Company vs. XYZ Company</i>, 2001 MP 1, ¶ 10
+<i>ABC Company vs. XYZ Company</i>, 2001 MP 1, ¶ 10.
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

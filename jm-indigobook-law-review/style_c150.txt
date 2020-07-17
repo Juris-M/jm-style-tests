@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Rev. Proc. 97-27, 1997-21 I.R.B. 11
+Rev. Proc. 97-27, 1997-21 I.R.B. 11.
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

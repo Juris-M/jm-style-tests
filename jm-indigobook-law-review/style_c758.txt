@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-S. Treaty Doc. No. 26
+S. Treaty Doc. No. 26.
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

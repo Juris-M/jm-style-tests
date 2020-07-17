@@ -13,7 +13,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Harris v. State</i>, 887 S.W.2d 514 (Ark. 1994)
+<i>Harris v. State</i>, 887 S.W.2d 514 (Ark. 1994).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

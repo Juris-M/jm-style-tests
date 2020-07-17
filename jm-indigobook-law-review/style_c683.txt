@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Vt. Stat. Ann. tit. 654, § 987 (2000)
+Vt. Stat. Ann. tit. 654, § 987 (2000).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

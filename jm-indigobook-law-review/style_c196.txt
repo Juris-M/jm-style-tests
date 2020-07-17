@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>See</i> <i>id.</i> § 14.02
+<i>See</i> <i>id.</i> § 14.02.
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

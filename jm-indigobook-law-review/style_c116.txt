@@ -16,17 +16,6 @@ Initial test checkin
 <i>Id.</i>
 <<===== RESULT =====<<
 
->>===== CITATION-ITEMS =====>>
-[
-[
-  {
-    "id": "IEUGQ7RY",
-    "position": 2
-  }
-]
-]
-<<===== CITATION-ITEMS =====<<
-
 >>===== INPUT =====>>
 [
   {
@@ -48,3 +37,15 @@ Initial test checkin
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "IEUGQ7RY",
+      "position": 2
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

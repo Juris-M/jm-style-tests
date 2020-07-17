@@ -13,7 +13,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>see</i> <i>Kyllo v. United States</i>, 389 U.S. 27 (2001)
+<i>see</i> <i>Kyllo v. United States</i>, 389 U.S. 27 (2001).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

@@ -2,12 +2,6 @@
 citation
 <<===== MODE =====<<
 
->>===== OPTIONS =====>>
-{
-    "wrap_url_and_doi": true
-}
-<<===== OPTIONS =====<<
-
 >>===== KEYS =====>>
 [
   "ATR63CE6"
@@ -21,17 +15,6 @@ Initial test checkin
 >>===== RESULT =====>>
 <i>Id.</i>
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "id": "ATR63CE6",
-      "position": 2
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -59,3 +42,22 @@ Initial test checkin
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "ATR63CE6",
+      "position": 2
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

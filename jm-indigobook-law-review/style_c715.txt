@@ -20,7 +20,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Doe v. Roe</i>, 2001 WI App 15, ¶ 27, 595 N.W.2d 346
+<i>Doe v. Roe</i>, 2001 WI App 15, ¶ 27, 595 N.W.2d 346.
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

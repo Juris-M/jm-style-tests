@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-N.Y. Lab. Law § 15 (Consol. 2000)
+N.Y. Lab. Law § 15 (Consol. 2000).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Idaho Code § 12-34 (2000)
+Idaho Code § 12-34 (2000).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

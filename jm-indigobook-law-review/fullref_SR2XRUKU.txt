@@ -13,7 +13,7 @@ Short form of SR2XRUKU z0049 z0015 71 z4283 z0016 82 z4301 275 101 z4353 z4363 1
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Fenton v. Quaboag Country Club</i>, 233 N.E.2d 216 (Mass. 1968)
+<i>Fenton v. Quaboag Country Club</i>, 233 N.E.2d 216 (Mass. 1968).
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

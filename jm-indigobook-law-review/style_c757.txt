@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-E.A.S. No. 26
+E.A.S. No. 26.
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

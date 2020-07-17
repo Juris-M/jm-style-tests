@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Wordler, Registration No. 1234567
+Wordler, Registration No. 1234567.
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

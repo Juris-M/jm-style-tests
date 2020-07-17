@@ -2,12 +2,6 @@
 citation
 <<===== MODE =====<<
 
->>===== OPTIONS =====>>
-{
-    "wrap_url_and_doi": true
-}
-<<===== OPTIONS =====<<
-
 >>===== KEYS =====>>
 [
   "93GX8PLX",
@@ -20,24 +14,8 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>In re Verizon Internet Servs., Inc.</i>, 257 F. Supp. 2d 244 (D.D.C. 2003), <i>rev’d on other grounds</i>, <i>Recording Indus. Ass’n of Am., Inc. v. Verizon Internet Servs., Inc.</i>, 351 F.3d 1229 (D.C. Cir. 2003)
+<i>In re Verizon Internet Servs., Inc.</i>, 257 F. Supp. 2d 244 (D.D.C.), <i>rev’d on other grounds</i>, <i>Recording Indus. Ass’n of Am., Inc. v. Verizon Internet Servs., Inc.</i>, 351 F.3d 1229 (D.C. Cir. 2003).
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "id": "93GX8PLX",
-      "position": 0
-    },
-    {
-      "prefix": "<i>rev'd on other grounds</i>,",
-      "id": "TWCKY829",
-      "position": 0
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -56,7 +34,10 @@ Initial test checkin
         ]
       ]
     },
-    "jurisdiction": "us:c0:dc.d"
+    "jurisdiction": "us:c0:dc.d",
+    "seeAlso": [
+      "TWCKY829"
+    ]
   },
   {
     "id": "TWCKY829",
@@ -73,7 +54,34 @@ Initial test checkin
         ]
       ]
     },
-    "jurisdiction": "us:c0"
+    "jurisdiction": "us:c0",
+    "seeAlso": [
+      "93GX8PLX"
+    ]
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "93GX8PLX",
+      "position": 0
+    },
+    {
+      "prefix": "<i>rev'd on other grounds</i>,",
+      "id": "TWCKY829",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

@@ -2,12 +2,6 @@
 citation
 <<===== MODE =====<<
 
->>===== OPTIONS =====>>
-{
-    "wrap_url_and_doi": true
-}
-<<===== OPTIONS =====<<
-
 >>===== KEYS =====>>
 [
   "M8GPMDQB"
@@ -21,17 +15,6 @@ Initial test checkin
 >>===== RESULT =====>>
 <i>Id.</i>
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "id": "M8GPMDQB",
-      "position": 2
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -51,3 +34,22 @@ Initial test checkin
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "M8GPMDQB",
+      "position": 2
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

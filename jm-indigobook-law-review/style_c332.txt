@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-12-34-56 Ark. Code R. § 321 (LexisNexis 2000)
+12-34-56 Ark. Code R. § 321 (LexisNexis 2000).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

@@ -13,7 +13,7 @@ Short form of UEKHI79P z0049 z0015 71 z2923 z0016 82 z2941 267 101 z2993 z2994 1
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Robinson v. State</i>, 1997 OK CR 24
+<i>Robinson v. State</i>, 1997 OK CR 24.
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

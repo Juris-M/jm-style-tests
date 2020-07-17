@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Inter-Am. Ct. H.R. (ser. D) No. 26, ¶ 19
+Inter-Am. Ct. H.R. (ser. D) No. 26, ¶ 19.
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

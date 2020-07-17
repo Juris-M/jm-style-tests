@@ -21,7 +21,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Bowling Green v. Godwin</i>, 110 Ohio St.3d 58, 2006-Ohio-3563, 850 N.E.2d 698, ¶ 13, fn. 1
+<i>Bowling Green v. Godwin</i>, 110 Ohio St.3d 58, 2006-Ohio-3563, 850 N.E.2d 698, ¶ 13, fn. 1.
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

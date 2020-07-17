@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-233 N.E.2d 216, 219 (Mass. 1968)
+233 N.E.2d 216, 219 (Mass. 1968).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

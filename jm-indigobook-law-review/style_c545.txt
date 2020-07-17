@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-16 N.H. Gov’t Reg. 45 (LexisNexis Apr. 2000)
+16 N.H. Gov’t Reg. 45 (LexisNexis Apr. 2000).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

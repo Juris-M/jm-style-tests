@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Nev. Rev. Stat. § 12.34 (2000)
+Nev. Rev. Stat. § 12.34 (2000).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

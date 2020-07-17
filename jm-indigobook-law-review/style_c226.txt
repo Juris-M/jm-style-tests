@@ -13,7 +13,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Dr. Seuss Enters., L.P. v. Penguin Books USA, Inc.</i>, 109 F.3d 1394 (9th Cir. 1997)
+<i>Dr. Seuss Enters., L.P. v. Penguin Books USA, Inc.</i>, 109 F.3d 1394 (9th Cir. 1997).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

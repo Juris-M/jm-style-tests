@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-2006 Ohio Legis. Serv. Ann. 45 (West)
+2006 Ohio Legis. Serv. Ann. 45 (West).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

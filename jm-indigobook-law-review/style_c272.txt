@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Treas. Reg. § 1.41-2 (as amended in 2001)
+Treas. Reg. § 1.41-2 (as amended in 2001).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>State v. Dickert</i>, 2012-NMCA-004, ¶ 28
+<i>State v. Dickert</i>, 2012-NMCA-004, ¶ 28.
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

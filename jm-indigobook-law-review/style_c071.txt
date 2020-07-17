@@ -13,7 +13,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Frigaliment Importing Co. v. B.N.S. International Sales Corp.</i>, 190 F. Supp. 116, 117 (S.D.N.Y. 1960)
+<i>Frigaliment Importing Co. v. B.N.S. International Sales Corp.</i>, 190 F. Supp. 116, 117 (S.D.N.Y. 1960).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

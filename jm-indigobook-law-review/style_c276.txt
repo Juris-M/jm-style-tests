@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Budnik v. Chertoff, EEOC DOC 0520070154 (2006)
+Budnik v. Chertoff, EEOC DOC 0520070154 (2006).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

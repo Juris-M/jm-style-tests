@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Brown v. Swindell</i>, 198 So. 2d 432, 434 (La. Ct. App. 1967)
+<i>Brown v. Swindell</i>, 198 So. 2d 432, 434 (La. Ct. App. 1967).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

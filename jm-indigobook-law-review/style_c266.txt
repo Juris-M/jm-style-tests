@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Shell Offshore, Inc., 94 Interior Dec. 69 (IBLA 1987)
+Shell Offshore, Inc., 94 Interior Dec. 69 (IBLA 1987).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

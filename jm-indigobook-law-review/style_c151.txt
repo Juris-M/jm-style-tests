@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-T.D. 2135, 17 Treas. Dec. Int. Rev. 39 (1915)
+T.D. 2135, 17 Treas. Dec. Int. Rev. 39 (1915).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

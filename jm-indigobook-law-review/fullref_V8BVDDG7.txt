@@ -13,7 +13,7 @@ Short form of V8BVDDG7 z0049 z0015 71 z0016 82 z4305 z4306 z0021 96 z4383 z4386 
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Cell Tax Fairness Act of 2008: Hearing on H.R. 5793 Before the Subcomm. on Commercial and Administrative Law of the H. Comm. on the Judiciary</i>, 110th Cong. (2008)
+<i>Cell Tax Fairness Act of 2008: Hearing on H.R. 5793 Before the Subcomm. on Commercial and Administrative Law of the H. Comm. on the Judiciary</i>, 110th Cong. (2008).
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

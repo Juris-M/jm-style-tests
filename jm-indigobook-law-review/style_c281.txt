@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Envirosolve, LLC, FAA Order No. 2006-2, 2006 WL 465371 (Feb. 7, 2006)
+Envirosolve, LLC, FAA Order No. 2006-2, 2006 WL 465371 (Feb. 7, 2006).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

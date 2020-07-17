@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Prime Roofing Corp., Docket No. 07-1409 (OSHRC Feb. 5, 2008)
+Prime Roofing Corp., Docket No. 07-1409 (OSHRC Feb. 5, 2008).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

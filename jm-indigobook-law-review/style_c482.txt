@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Mass. Ann. Laws ch. 21, § 15 (LexisNexis 2000)
+Mass. Ann. Laws ch. 21, § 15 (LexisNexis 2000).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

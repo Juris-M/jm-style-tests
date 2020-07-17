@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Lincoln Univ., U.S. Dep’t of Educ., No. 13-68-SF (Mar. 16, 2015)
+Lincoln Univ., U.S. Dep’t of Educ., No. 13-68-SF (Mar. 16, 2015).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

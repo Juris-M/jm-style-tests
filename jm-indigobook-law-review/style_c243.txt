@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-American Express Travel Related Servs., Inc., CFPB 2013-CFPB-0013 (Dec. 24, 2013)
+American Express Travel Related Servs., Inc., CFPB 2013-CFPB-0013 (Dec. 24, 2013).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

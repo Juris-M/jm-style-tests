@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Jones v. Smith</i>, 2012 COA 35
+<i>Jones v. Smith</i>, 2012 COA 35.
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

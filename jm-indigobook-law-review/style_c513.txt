@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Mo. Ann. Stat. § 12.34 (West 2000)
+Mo. Ann. Stat. § 12.34 (West 2000).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

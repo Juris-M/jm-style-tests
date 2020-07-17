@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Superfan Suits, <a href="http://www.superfansuits.com/">http://www.superfansuits.com/</a> (last visited Feb. 21, 2015)
+Superfan Suits, <a href="http://www.superfansuits.com/">http://www.superfansuits.com/</a> (last visited Feb. 21, 2015).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Macy’s Inc. v. Martha Stewart Living Omnimedia, Inc.</i>, No. 1728, slip op. at 1 (N.Y. App. Div. Feb. 26, 2015), <a href="http://www.nycourts.gov/reporter/3dseries/2015/2015_01728.htm">http://www.nycourts.gov/reporter/3dseries/2015/2015_01728.htm</a>
+<i>Macy’s Inc. v. Martha Stewart Living Omnimedia, Inc.</i>, No. 1728, slip op. at 1 (N.Y. App. Div. Feb. 26, 2015), <a href="http://www.nycourts.gov/reporter/3dseries/2015/2015_01728.htm">http://www.nycourts.gov/reporter/3dseries/2015/2015_01728.htm</a>.
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

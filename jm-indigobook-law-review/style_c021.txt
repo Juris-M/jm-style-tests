@@ -13,7 +13,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Mass. Gen. Laws Ann. ch. 268, § 40 (West 2014)
+Mass. Gen. Laws Ann. ch. 268, § 40 (West 2014).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

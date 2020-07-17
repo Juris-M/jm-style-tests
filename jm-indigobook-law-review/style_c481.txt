@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Mass. Gen. Laws Ann. ch. 21, § 15 (West 2000)
+Mass. Gen. Laws Ann. ch. 21, § 15 (West 2000).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Tex. Rev. Civ. Stat. Ann. art. 579, § 15 (West 2000)
+Tex. Rev. Civ. Stat. Ann. art. 579, § 15 (West 2000).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-W. Va. Code R. § 12-34-56 (2000)
+W. Va. Code R. § 12-34-56 (2000).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

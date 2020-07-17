@@ -20,7 +20,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Skinner v. Braum’s Ice Cream Store</i>, 1995 OK 11, 890 P.2d 922
+<i>Skinner v. Braum’s Ice Cream Store</i>, 1995 OK 11, 890 P.2d 922.
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

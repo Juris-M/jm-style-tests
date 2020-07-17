@@ -13,7 +13,7 @@ Short form of DLZS6HBM z0049 z0015 71 z2469 z0016 82 z2487 267 101 z2539 z2550 1
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>State v. Dickert</i>, 268 P.3d 515 (N.M. Ct. App.)
+<i>State v. Dickert</i>, 268 P.3d 515 (N.M. Ct. App.).
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

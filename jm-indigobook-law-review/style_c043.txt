@@ -13,7 +13,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Lessig v. State</i>, 109 P.3d 224 (Colo. 1997)
+<i>Lessig v. State</i>, 109 P.3d 224 (Colo. 1997).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

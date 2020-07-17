@@ -13,7 +13,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<span style="font-variant:small-caps;">B.F. Skinner</span>, <span style="font-variant:small-caps;">Beyond Freedom and Dignity</span> 32 (2002)
+<span style="font-variant:small-caps;">B.F. Skinner</span>, <span style="font-variant:small-caps;">Beyond Freedom and Dignity</span> 32 (2002).
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

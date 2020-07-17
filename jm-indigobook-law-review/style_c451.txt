@@ -20,7 +20,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Smith v. Jones</i>, 94-2345, p. 7 (La. 7/15/94); 650 So.2d 500, 504
+<i>Smith v. Jones</i>, 94-2345, p. 7 (La. 7/15/94); 650 So.2d 500, 504.
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
@@ -32,7 +32,6 @@ Initial test checkin
       "locator": "p. 7"
     },
     {
-      "prefix": "; ",
       "id": "Z2UT2AXV",
       "position": 0,
       "locator": "p. 504"

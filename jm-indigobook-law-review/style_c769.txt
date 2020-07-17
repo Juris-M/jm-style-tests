@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Hein’s No. KAV 26
+Hein’s No. KAV 26.
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

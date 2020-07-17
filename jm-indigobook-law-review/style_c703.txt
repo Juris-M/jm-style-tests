@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-16 Wash. Reg. 45 (Dec. 31, 2000)
+16 Wash. Reg. 45 (Dec. 31, 2000).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

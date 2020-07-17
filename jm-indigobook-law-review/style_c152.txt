@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Possibly Worthy Act of 2002, S. 12345, 61st Cong. § 5 (2002)
+Possibly Worthy Act of 2002, S. 12345, 61st Cong. § 5 (2002).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

@@ -13,7 +13,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Roper v. Simmons</i>, 543 U.S. 551, 575 (2005)
+<i>Roper v. Simmons</i>, 543 U.S. 551, 575 (2005).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

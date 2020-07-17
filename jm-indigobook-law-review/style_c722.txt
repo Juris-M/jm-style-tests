@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Doe v. Roe</i>, 2001 WY 12
+<i>Doe v. Roe</i>, 2001 WY 12.
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

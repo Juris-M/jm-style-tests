@@ -13,7 +13,7 @@ Short form of C67RYA7P z0049 z0015 71 z3376 z0016 82 z3394 267 101 z3446 z3457 1
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Smith v. Jones</i>, 600 N.W.2d 900 (S.D. 1996)
+<i>Smith v. Jones</i>, 600 N.W.2d 900 (S.D. 1996).
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

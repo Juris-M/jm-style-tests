@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Smith v. Jones</i>, 2012 CO 22, ¶¶ 13–14
+<i>Smith v. Jones</i>, 2012 CO 22, ¶¶ 13–14.
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

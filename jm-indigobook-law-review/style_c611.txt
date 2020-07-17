@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Okla. Stat. Ann. tit. 654, § 987 (West 2000)
+Okla. Stat. Ann. tit. 654, § 987 (West 2000).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

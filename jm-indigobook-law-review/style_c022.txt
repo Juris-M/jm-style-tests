@@ -13,7 +13,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Ohio Rev. Code Ann. § 2921.22 (West 2014)
+Ohio Rev. Code Ann. § 2921.22 (West 2014).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

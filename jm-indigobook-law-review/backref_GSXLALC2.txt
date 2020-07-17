@@ -13,7 +13,7 @@ Short form of GSXLALC2 z0049 z0015 71 z0016 82 z0838 101 z0839 104 109 118 121 z
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Inter-Am. Ct. H.R. (ser. F) No. 26
+Inter-Am. Ct. H.R. (ser. F) No. 26.
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

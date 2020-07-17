@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-2006 Me. Laws 45
+2006 Me. Laws 45.
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-S.C. Code Ann. Regs. 6578 (2000)
+S.C. Code Ann. Regs. 6578 (2000).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

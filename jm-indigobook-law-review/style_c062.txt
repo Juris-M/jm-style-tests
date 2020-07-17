@@ -13,7 +13,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Gordon v. Secretary of State of New Jersey</i>, 460 F. Supp. 1026, 1026, 1028 (D.N.J. 1978)
+<i>Gordon v. Secretary of State of New Jersey</i>, 460 F. Supp. 1026, 1026, 1028 (D.N.J. 1978).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

@@ -13,7 +13,7 @@ Short form of VF2JGZ7J z0049 87 z4288 703 101 z4317 762 z4331 z4332 104 z0023 z0
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-16 Vt. Gov’t Reg. 45
+16 Vt. Gov’t Reg. 45.
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

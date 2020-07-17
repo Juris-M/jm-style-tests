@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>State v. Stroud</i>, 30 Wash. App. 392 (1981)
+<i>State v. Stroud</i>, 30 Wash. App. 392 (1981).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

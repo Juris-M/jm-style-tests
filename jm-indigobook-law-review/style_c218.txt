@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Chris Cillizza, <i>Winners and Losers of the 2014 Midterm Elections</i>, Wash. Post Blogs (Nov. 5, 2014, 10:25 AM), <a href="http://www.washingtonpost.com/blogs/the-fix/wp/2014/11/04/winners-and-losers-of-the-2014-election-early-edition/">http://www.washingtonpost.com/blogs/the-fix/wp/2014/11/04/winners-and-losers-of-the-2014-election-early-edition/</a>
+Chris Cillizza, <i>Winners and Losers of the 2014 Midterm Elections</i>, Wash. Post Blogs (Nov. 5, 2014, 10:25 AM), <a href="http://www.washingtonpost.com/blogs/the-fix/wp/2014/11/04/winners-and-losers-of-the-2014-election-early-edition/">http://www.washingtonpost.com/blogs/the-fix/wp/2014/11/04/winners-and-losers-of-the-2014-election-early-edition/</a>.
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

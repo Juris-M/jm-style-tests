@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Unif. R. Evid. 601
+Unif. R. Evid. 601.
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

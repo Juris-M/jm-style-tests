@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Tex. Agric. Code Ann. § 15 (West 2000)
+Tex. Agric. Code Ann. § 15 (West 2000).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

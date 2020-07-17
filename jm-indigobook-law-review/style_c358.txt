@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Conn. Agencies Regs. § 12-34-56 (2000)
+Conn. Agencies Regs. § 12-34-56 (2000).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

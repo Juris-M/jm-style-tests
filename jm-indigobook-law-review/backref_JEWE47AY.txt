@@ -13,7 +13,7 @@ Short form of JEWE47AY z0049 87 z4295 z4300 730 101 z4335 811 z4338 z4343 z4347 
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-23 Okla. Gaz. 45
+23 Okla. Gaz. 45.
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

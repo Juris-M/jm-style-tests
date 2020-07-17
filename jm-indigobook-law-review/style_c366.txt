@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-12-34-56 Del. Admin. Code § 321 (2000)
+12-34-56 Del. Admin. Code § 321 (2000).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

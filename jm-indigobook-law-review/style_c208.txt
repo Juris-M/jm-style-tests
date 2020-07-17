@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Peter Baker &#38; Julie Hirschfeld Davis, <i>Obama, Down But Not Out, Presses Ahead</i>, N.Y. Times, Nov. 14, 2014, at A1
+Peter Baker &#38; Julie Hirschfeld Davis, <i>Obama, Down But Not Out, Presses Ahead</i>, N.Y. Times, Nov. 14, 2014, at A1.
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

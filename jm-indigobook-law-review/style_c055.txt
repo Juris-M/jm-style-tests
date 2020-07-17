@@ -13,7 +13,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Demosthenes v. Baal</i>, 495 U.S. 731 (1990)
+<i>Demosthenes v. Baal</i>, 495 U.S. 731 (1990).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

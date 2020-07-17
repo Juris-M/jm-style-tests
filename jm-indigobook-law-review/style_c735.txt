@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Guam Pub. L. 6587 (2000)
+Guam Pub. L. 6587 (2000).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

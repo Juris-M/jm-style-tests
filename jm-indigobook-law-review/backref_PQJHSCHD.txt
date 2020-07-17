@@ -19,7 +19,7 @@ Short form of PQJHSCHD z0049 87 z4295 101 z4335 351 z4349 z4350 z4352 104 z0023 
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-2006 V.I. Sess. Laws 45
+2006 V.I. Sess. Laws 45.
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

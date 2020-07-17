@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Wis. Admin. Code DOJ § 15 (2000)
+Wis. Admin. Code DOJ § 15 (2000).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

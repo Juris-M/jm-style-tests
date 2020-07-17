@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-2006 IL 456123
+2006 IL 456123.
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

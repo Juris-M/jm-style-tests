@@ -13,7 +13,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Helton v. State</i>, 311 So. 2d 381, 382–84 (Fla. Dist. Ct. App. 1975)
+<i>Helton v. State</i>, 311 So. 2d 381, 382–84 (Fla. Dist. Ct. App. 1975).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

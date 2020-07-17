@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Tex. Ins. Code Ann. art. 579 (West 2000)
+Tex. Ins. Code Ann. art. 579 (West 2000).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Institute of Education Sciences, National Board for Education Sciences Annual Report 12 (2014)
+Institute of Education Sciences, National Board for Education Sciences Annual Report 12 (2014).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

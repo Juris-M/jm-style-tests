@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Id.</i> at 88–103
+<i>Id.</i> at 88–103.
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

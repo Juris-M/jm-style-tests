@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Okla. Stat. tit. 654, § 987 (2000)
+Okla. Stat. tit. 654, § 987 (2000).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

@@ -13,7 +13,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Mark P. Painter, <i>30 Tips to Improve Readability in Briefs and Legal Documents or, How to Write for Judges, Not like Judges</i>, 31 <span style="font-variant:small-caps;">Mont. Law</span> 6 (Apr. 2006)
+Mark P. Painter, <i>30 Tips to Improve Readability in Briefs and Legal Documents or, How to Write for Judges, Not like Judges</i>, 31 <span style="font-variant:small-caps;">Mont. Law</span> 6 (Apr. 2006).
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

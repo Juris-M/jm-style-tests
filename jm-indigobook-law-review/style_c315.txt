@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Alaska Stat. § 12.34.56 (2000)
+Alaska Stat. § 12.34.56 (2000).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

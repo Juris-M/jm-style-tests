@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-9 C.F.R. § 54.1 (2014)
+9 C.F.R. § 54.1 (2014).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

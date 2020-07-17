@@ -13,7 +13,7 @@ Short form of TE2BWL36 z0049 z0015 71 z3605 z0016 82 z3623 267 101 z3675 z3676 1
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Smith v. Jones</i>, 1999 UT App 16
+<i>Smith v. Jones</i>, 1999 UT App 16.
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

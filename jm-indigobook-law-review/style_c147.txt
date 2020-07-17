@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Treas. Reg. § 1.414(r)-8 (1994)
+Treas. Reg. § 1.414(r)-8 (1994).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

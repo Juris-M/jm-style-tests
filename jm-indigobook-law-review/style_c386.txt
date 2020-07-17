@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-23 Fla. Admin. Weekly 45 (Dec. 31, 2000)
+23 Fla. Admin. Weekly 45 (Dec. 31, 2000).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Ohio Dep’t 45 (Dec. 31, 2000)
+Ohio Dep’t 45 (Dec. 31, 2000).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

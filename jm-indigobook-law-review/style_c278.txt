@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Exec. Order 12,900, 59 FR 9061 (Feb. 22, 1994)
+Exec. Order 12,900, 59 FR 9061 (Feb. 22, 1994).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

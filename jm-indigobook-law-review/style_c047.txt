@@ -13,7 +13,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Jones v. United States District Court (Smith)</i>, 89 U.S. 233 (2011)
+<i>Jones v. United States District Court (Smith)</i>, 89 U.S. 233 (2011).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

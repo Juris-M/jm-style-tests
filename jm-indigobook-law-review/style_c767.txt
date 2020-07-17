@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-89 I.L.M. 935S
+89 I.L.M. 935S.
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

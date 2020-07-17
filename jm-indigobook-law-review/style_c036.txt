@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>But see</i> <i>Schenck v. United States</i>, 249 U.S. 47 (1919)
+<i>But see</i> <i>Schenck v. United States</i>, 249 U.S. 47 (1919).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-SEC Whistleblower Rules, Exchange Act Release No. 75592, 80 Fed. Reg. 47829 (Aug. 10, 2015)
+SEC Whistleblower Rules, Exchange Act Release No. 75592, 80 Fed. Reg. 47829 (Aug. 10, 2015).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

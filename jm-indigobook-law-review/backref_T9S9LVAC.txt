@@ -13,7 +13,7 @@ Short form of T9S9LVAC z0049 87 z1093 z1098 262 101 z1133 343 z1136 z1137 z1145 
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Guam Pub. L. 6587
+Guam Pub. L. 6587.
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

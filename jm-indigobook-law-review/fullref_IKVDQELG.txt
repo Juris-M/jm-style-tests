@@ -13,7 +13,7 @@ Short form of IKVDQELG z0055 z0031 z0068 z0031 z0073
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<span style="font-variant:small-caps;">Gabriel García Márquez</span>, <span style="font-variant:small-caps;">One Hundred Years of Solitude</span> (Gregory Rabassa trans., Harper &#38; Row 2003) (1967)
+<span style="font-variant:small-caps;">Gabriel García Márquez</span>, <span style="font-variant:small-caps;">One Hundred Years of Solitude</span> (Gregory Rabassa trans., Harper &#38; Row 2003) (1967).
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

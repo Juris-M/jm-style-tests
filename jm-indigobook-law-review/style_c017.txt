@@ -13,7 +13,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Riley v. California</i>, 134 S. Ct. 2473 (2014)
+<i>Riley v. California</i>, 134 S. Ct. 2473 (2014).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

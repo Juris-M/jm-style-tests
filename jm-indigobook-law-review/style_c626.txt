@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-50 Pa. Cons. Stat. § 321 (2000)
+50 Pa. Cons. Stat. § 321 (2000).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

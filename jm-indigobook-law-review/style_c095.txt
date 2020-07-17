@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>rev’d sub nom.</i> <i>Horn v. Comm’r</i>, 968 F.2d 1229 (D.C. Cir. 1992)
+<i>rev’d sub nom.</i> <i>Horn v. Comm’r</i>, 968 F.2d 1229 (D.C. Cir. 1992).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

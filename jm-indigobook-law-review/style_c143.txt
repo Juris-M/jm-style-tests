@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-36 C.F.R. § 272.1 (2014)
+36 C.F.R. § 272.1 (2014).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-50 U.S.C. § 321 (2000)
+50 U.S.C. § 321 (2000).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

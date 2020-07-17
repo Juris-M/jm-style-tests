@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Mass. Gen. Laws ch. 21, § 15 (2000)
+Mass. Gen. Laws ch. 21, § 15 (2000).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

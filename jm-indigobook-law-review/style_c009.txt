@@ -13,7 +13,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>See</i> <i>Nix v. Heden</i>, 149 U.S. 304 (1893)
+<i>See</i> <i>Nix v. Heden</i>, 149 U.S. 304 (1893).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

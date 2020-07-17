@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Am. Samoa Admin. Code § 321 (2000)
+Am. Samoa Admin. Code § 321 (2000).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

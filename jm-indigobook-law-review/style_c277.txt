@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Exec. Order 13,136, 3 C.F.R. 216 (Sep. 3, 1999)
+Exec. Order 13,136, 3 C.F.R. 216 (Sep. 3, 1999).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

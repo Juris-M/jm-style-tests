@@ -13,7 +13,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Roger Angell, <i>This Old Man</i>, <i>in</i> <span style="font-variant:small-caps;">The Best American Essays 2015</span> (Ariel Levy &#38; Robert Atwan eds., 2015)
+Roger Angell, <i>This Old Man</i>, <i>in</i> <span style="font-variant:small-caps;">The Best American Essays 2015</span> (Ariel Levy &#38; Robert Atwan eds., 2015).
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

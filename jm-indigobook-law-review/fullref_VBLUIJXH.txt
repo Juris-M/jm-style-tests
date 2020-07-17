@@ -13,7 +13,7 @@ Short form of VBLUIJXH z0049 87 z4295 z4300 262 101 z4335 343 z4338 z4342 z4343 
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Patient Protection and Affordable Care Act, Pub. L. No. 111-148, 124 Stat. 119 (2010)
+Patient Protection and Affordable Care Act, Pub. L. No. 111-148, 124 Stat. 119 (2010).
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

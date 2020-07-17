@@ -13,7 +13,7 @@ Short form of GCM2NFG5 z0049 z0015 71 z0016 82 z4305 z0021 96 z4383 z4386 z4388 
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Hearing on L.D. 319 Before the Health and Human Servs. Comm.</i>, <i>supra</i>
+<i>Hearing on L.D. 319 Before the Health and Human Servs. Comm.</i>, <i>supra</i>.
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

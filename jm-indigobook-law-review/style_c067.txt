@@ -13,7 +13,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Two Pesos, Inc. v. Taco Cabana, Inc.</i>, 505 U.S. 763 (1992)
+<i>Two Pesos, Inc. v. Taco Cabana, Inc.</i>, 505 U.S. 763 (1992).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

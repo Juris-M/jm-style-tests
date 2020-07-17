@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Fed. R. App. P. 1
+Fed. R. App. P. 1.
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

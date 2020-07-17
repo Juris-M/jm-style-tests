@@ -13,7 +13,7 @@ Short form of UBPKGB2T z0031 z0068 z0031 z0071 z0074
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Underhill, <i>supra</i>
+Underhill, <i>supra</i>.
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

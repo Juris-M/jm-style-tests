@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-23 Nev. Reg. Admin. Regs. 6578 (Dec. 31, 2000)
+23 Nev. Reg. Admin. Regs. 6578 (Dec. 31, 2000).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

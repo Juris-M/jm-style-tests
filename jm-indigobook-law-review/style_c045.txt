@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Liriano v. Hobart Corp. <span style="font-style:normal;">(</span>Liriano III<span style="font-style:normal;">)</span></i>, 170 F.3d 264, 266 (2d Cir. 1999)
+<i>Liriano v. Hobart Corp. <span style="font-style:normal;">(</span>Liriano III<span style="font-style:normal;">)</span></i>, 170 F.3d 264, 266 (2d Cir. 1999).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

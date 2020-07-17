@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Colo. Rev. Stat. § 12-34-56 (2000)
+Colo. Rev. Stat. § 12-34-56 (2000).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

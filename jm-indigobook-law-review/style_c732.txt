@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-C.Z. Code tit. 654, § 987 (2000)
+C.Z. Code tit. 654, § 987 (2000).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

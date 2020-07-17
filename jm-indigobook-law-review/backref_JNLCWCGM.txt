@@ -13,7 +13,7 @@ Short form of JNLCWCGM z0049 87 z4316 296 101 z4395 104 109 118 121 z4417 z4452
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-’504 Patent
+’504 Patent.
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

@@ -13,7 +13,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>BMW of North America, Inc. v. Gore</i>, 517 U.S. 559 (1996)
+<i>BMW of North America, Inc. v. Gore</i>, 517 U.S. 559 (1996).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

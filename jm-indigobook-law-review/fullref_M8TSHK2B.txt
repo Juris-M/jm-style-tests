@@ -19,7 +19,7 @@ Short form of M8TSHK2B z0049 z0015 71 z4285 z4287 z0016 z0017 77 z4307 z4308 101
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Facebook, Inc., 2014 Annual Report (2014)
+Facebook, Inc., 2014 Annual Report (2014).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

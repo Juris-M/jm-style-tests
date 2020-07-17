@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Ala. Code § 12-34-56 (LexisNexis 2000)
+Ala. Code § 12-34-56 (LexisNexis 2000).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

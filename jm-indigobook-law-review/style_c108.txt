@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Raich</i>, 545 U.S. at 8
+<i>Raich</i>, 545 U.S. at 8.
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

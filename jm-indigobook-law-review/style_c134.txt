@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Fed. R. Civ. P. 12(b)(1)
+Fed. R. Civ. P. 12(b)(1).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

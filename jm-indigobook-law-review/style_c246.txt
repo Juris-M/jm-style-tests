@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>John Smith</i>, No. 1234-567-89, 2006 WL 123654 (B.P.A.I. Apr. 1, 2000)
+<i>John Smith</i>, No. 1234-567-89, 2006 WL 123654 (B.P.A.I. Apr. 1, 2000).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

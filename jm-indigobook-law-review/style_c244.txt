@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Arizona Livestock Auction, Inc., 55 Agric Dec. 1121 (U.S.D.A. 1996)
+Arizona Livestock Auction, Inc., 55 Agric Dec. 1121 (U.S.D.A. 1996).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-La. Admin. Code tit. 654, § 987 (2000)
+La. Admin. Code tit. 654, § 987 (2000).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

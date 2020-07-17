@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Family Sponsor Immigration Act of 2002, Pub. L. No. 107-150, 116 Stat. 74
+Family Sponsor Immigration Act of 2002, Pub. L. No. 107-150, 116 Stat. 74.
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

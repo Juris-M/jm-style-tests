@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-I.R.C. § 312 (2014)
+I.R.C. § 312 (2014).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

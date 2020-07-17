@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Mineral Leasing Act of 1920, 30 U.S.C.S. §§ 181–287 (LexisNexis 2015)
+Mineral Leasing Act of 1920, 30 U.S.C.S. §§ 181–287 (LexisNexis 2015).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

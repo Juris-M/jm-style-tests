@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-N.H. Code Admin. R. Ann. Med. 11 (2000)
+N.H. Code Admin. R. Ann. Med. 11 (2000).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-89 Consol. T.S. 935S
+89 Consol. T.S. 935S.
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Nev. Admin. Code § 12.34 (2000)
+Nev. Admin. Code § 12.34 (2000).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

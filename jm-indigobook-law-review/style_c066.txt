@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Davis v. City of New York</i>, 902 F. Supp. 2d 405, 412 n.22 (S.D.N.Y. 2012)
+<i>Davis v. City of New York</i>, 902 F. Supp. 2d 405, 412 n.22 (S.D.N.Y. 2012).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

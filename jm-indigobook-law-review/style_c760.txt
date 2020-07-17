@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-89 U.N.T.S. 9355
+89 U.N.T.S. 9355.
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

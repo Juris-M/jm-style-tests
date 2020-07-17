@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-ESPN, <a href="http://www.espn.go.com/">http://www.espn.go.com/</a> (last visited Apr. 8, 2015)
+ESPN, <a href="http://www.espn.go.com/">http://www.espn.go.com/</a> (last visited Apr. 8, 2015).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

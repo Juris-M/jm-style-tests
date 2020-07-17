@@ -20,7 +20,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Smith v. Jones</i>, 1996 S.D. 15, ¶ 21, 600 N.W.2d 900, 901
+<i>Smith v. Jones</i>, 1996 S.D. 15, ¶ 21, 600 N.W.2d 900, 901.
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

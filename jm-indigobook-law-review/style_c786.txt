@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Parl. Eur. Doc. (SEC 1234) 45
+Parl. Eur. Doc. (SEC 1234) 45.
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

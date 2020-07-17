@@ -19,7 +19,7 @@ Short form of JGLQGZ3W z0049 87 z4288 241 z4293 z4294 101 z4317 300 z4331 104 z0
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-SEC Staff Accounting Bulletin No. 99, 64 Fed. Reg. 45150 (Aug. 19, 1999)
+SEC Staff Accounting Bulletin No. 99, 64 Fed. Reg. 45150 (Aug. 19, 1999).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

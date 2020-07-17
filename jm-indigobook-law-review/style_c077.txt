@@ -20,7 +20,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Harden v. Playboy Enterprises, Inc.</i>, 261 Ill. App. 3d 443, 633 N.E.2d 764 (1993)
+<i>Harden v. Playboy Enterprises, Inc.</i>, 261 Ill. App. 3d 443, 633 N.E.2d 764 (1993).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

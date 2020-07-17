@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>People v. Doe</i>, 2011 IL 102345
+<i>People v. Doe</i>, 2011 IL 102345.
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Haw. Rev. Stat. § 12-34 (2000)
+Haw. Rev. Stat. § 12-34 (2000).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

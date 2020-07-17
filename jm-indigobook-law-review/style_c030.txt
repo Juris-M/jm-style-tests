@@ -13,7 +13,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Cf.</i> <span style="font-variant:small-caps;">The Bluebook: A Uniform System of Citation</span> (Columbia Law Review Ass’n et al. eds., 20th ed. 2015)
+<i>Cf.</i> <span style="font-variant:small-caps;">The Bluebook: A Uniform System of Citation</span> (Columbia Law Review Ass’n et al. eds., 20th ed. 2015).
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

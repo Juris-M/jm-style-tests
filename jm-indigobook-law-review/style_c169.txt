@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-American Clean Energy and Security Act, H.R. 2454, 111th Cong. (2009)
+American Clean Energy and Security Act, H.R. 2454, 111th Cong. (2009).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

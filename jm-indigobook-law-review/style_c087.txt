@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Stambovsky v. Ackley</i>, 572 N.Y.S.2d 672, 674 (App. Div. 1991)
+<i>Stambovsky v. Ackley</i>, 572 N.Y.S.2d 672, 674 (App. Div. 1991).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

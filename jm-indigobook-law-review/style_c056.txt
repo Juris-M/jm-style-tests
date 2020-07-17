@@ -13,7 +13,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>United States v. $124,570 U.S. Currency</i>, 873 F.2d 1240 (9th Cir. 1989)
+<i>United States v. $124,570 U.S. Currency</i>, 873 F.2d 1240 (9th Cir. 1989).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Id.</i> at 21
+<i>Id.</i> at 21.
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

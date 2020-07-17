@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Rev. Rul. 81-225, 1981-2 C.B. 12
+Rev. Rul. 81-225, 1981-2 C.B. 12.
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

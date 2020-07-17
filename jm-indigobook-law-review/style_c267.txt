@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-U.S. Dep’t of State, Bureau of Democracy, H.R. and Lab., Internal Migration 123 (Apr. 1, 2000)
+U.S. Dep’t of State, Bureau of Democracy, H.R. and Lab., Internal Migration 123 (Apr. 1, 2000).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

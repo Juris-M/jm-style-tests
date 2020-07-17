@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Paycheck Fairness Act, H.R. 11, 111th Cong. § 203 (2009)
+Paycheck Fairness Act, H.R. 11, 111th Cong. § 203 (2009).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

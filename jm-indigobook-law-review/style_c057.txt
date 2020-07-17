@@ -13,7 +13,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Gucci America, Inc. v. Guess?, Inc.</i>, 831 F. Supp. 2d 723 (S.D.N.Y. 2011)
+<i>Gucci America, Inc. v. Guess?, Inc.</i>, 831 F. Supp. 2d 723 (S.D.N.Y. 2011).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

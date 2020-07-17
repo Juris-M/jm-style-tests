@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Okla. Admin. Code § 12:34-56-78 (2000)
+Okla. Admin. Code § 12:34-56-78 (2000).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

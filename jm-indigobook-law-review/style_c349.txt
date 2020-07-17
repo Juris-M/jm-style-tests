@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Colo. Code Regs. § 12-34 (2000)
+Colo. Code Regs. § 12-34 (2000).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

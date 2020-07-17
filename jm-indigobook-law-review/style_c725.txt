@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Wyo. Stat. Ann. § 12-34-56 (West 2000)
+Wyo. Stat. Ann. § 12-34-56 (West 2000).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

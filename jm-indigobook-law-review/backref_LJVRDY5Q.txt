@@ -13,7 +13,7 @@ Short form of LJVRDY5Q z0049 z0015 71 z4283 z0016 82 z4301 275 101 z4353 z4370 z
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Macy’s Inc. v. Martha Stewart Living Omnimedia, Inc.</i>, No. 1728
+<i>Macy’s Inc. v. Martha Stewart Living Omnimedia, Inc.</i>, No. 1728.
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

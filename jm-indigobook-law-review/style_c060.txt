@@ -13,7 +13,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Mattel, Inc. v. MCA Records, Inc.</i>, 296 F.3d 894, 908 (9th Cir. 2002)
+<i>Mattel, Inc. v. MCA Records, Inc.</i>, 296 F.3d 894, 908 (9th Cir. 2002).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

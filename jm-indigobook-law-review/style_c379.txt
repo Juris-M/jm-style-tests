@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Fla. Stat. § 12.34 (2000)
+Fla. Stat. § 12.34 (2000).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

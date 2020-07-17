@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Iowa Code § 12.34 (2000)
+Iowa Code § 12.34 (2000).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

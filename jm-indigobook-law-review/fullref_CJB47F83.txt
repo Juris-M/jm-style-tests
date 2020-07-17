@@ -13,7 +13,7 @@ Short form of CJB47F83 z0049 z0015 71 z4283 z4284 217 z4499 z0016 82 z4301 267 1
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Compl., <i>Jones v. Smith</i>, No. 09-230 (9th Cir. Apr. 17, 2015)
+Compl., <i>Jones v. Smith</i>, No. 09-230 (9th Cir. Apr. 17, 2015).
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

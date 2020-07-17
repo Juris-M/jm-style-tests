@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Authority of Sec’y of Treasury to Compromise Final Judgments, 36 U.S. Op. Att’ Gen. 40 (1929)
+Authority of Sec’y of Treasury to Compromise Final Judgments, 36 U.S. Op. Att’ Gen. 40 (1929).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

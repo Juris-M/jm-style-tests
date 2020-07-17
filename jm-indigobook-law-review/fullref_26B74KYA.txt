@@ -13,7 +13,7 @@ Short form of 26B74KYA z0049 z0015 71 z0016 82 z0339 z0021 96 z0343 104 109 118 
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Eur. Parl. Deb. (82) 45
+Eur. Parl. Deb. (82) 45.
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

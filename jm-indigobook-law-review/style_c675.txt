@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Utah Code Ann. § 12-34-56 (LexisNexis 2000)
+Utah Code Ann. § 12-34-56 (LexisNexis 2000).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

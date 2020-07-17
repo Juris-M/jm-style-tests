@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>aff’d</i>, 210 F.3d 88 (2d Cir. 2000)
+<i>aff’d</i>, 210 F.3d 88 (2d Cir. 2000).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

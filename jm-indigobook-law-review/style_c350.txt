@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-23 Colo. Code Regs. § 12-34 (LexisNexis 2000)
+23 Colo. Code Regs. § 12-34 (LexisNexis 2000).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

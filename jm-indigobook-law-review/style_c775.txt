@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-2006 P.C.I.J. 45
+2006 P.C.I.J. 45.
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

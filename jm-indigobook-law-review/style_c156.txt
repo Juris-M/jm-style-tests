@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-H.R. 1746, 111th Cong. § 2(c)(4) (<i>as reported by</i> H. Comm. on Transp. and Infrastructure, Apr. 23, 2009)
+H.R. 1746, 111th Cong. § 2(c)(4) (<i>as reported by</i> H. Comm. on Transp. and Infrastructure, Apr. 23, 2009).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

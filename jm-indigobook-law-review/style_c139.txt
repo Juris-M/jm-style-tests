@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Restatement (Third) of Prop.: Servitudes § 7.1 (Am. Law Inst. 2000)
+Restatement (Third) of Prop.: Servitudes § 7.1 (Am. Law Inst. 2000).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

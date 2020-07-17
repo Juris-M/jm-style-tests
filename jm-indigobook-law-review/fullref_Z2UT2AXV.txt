@@ -13,7 +13,7 @@ Short form of Z2UT2AXV z0049 z0015 71 z1331 z0016 82 z1349 267 101 z1401 z1412 1
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Smith v. Jones</i>, 650 So.2d 500 (La. 1994)
+<i>Smith v. Jones</i>, 650 So.2d 500 (La. 1994).
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

@@ -13,7 +13,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Toolson v. N.Y. Yankees, Inc.</i>, 346 U.S. 356 (1953)
+<i>Toolson v. N.Y. Yankees, Inc.</i>, 346 U.S. 356 (1953).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

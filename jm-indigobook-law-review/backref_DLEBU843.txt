@@ -19,7 +19,7 @@ Short form of DLEBU843 z0058 z0044 z0031 z0068 z0031 z0070 z0074 z0075
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Superfan Suits, <i>supra</i>
+Superfan Suits, <i>supra</i>.
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-S.J. Res. 12, 109th Cong. (2005)
+S.J. Res. 12, 109th Cong. (2005).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

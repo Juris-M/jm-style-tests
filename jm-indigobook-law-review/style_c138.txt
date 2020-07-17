@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Restatement (Third) of The Law Governing Lawyers § 2 cmt. e (Am. Law Inst. 2000)
+Restatement (Third) of The Law Governing Lawyers § 2 cmt. e (Am. Law Inst. 2000).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

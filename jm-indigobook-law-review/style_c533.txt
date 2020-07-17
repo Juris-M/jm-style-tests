@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-2006 Nev. Stat. 45
+2006 Nev. Stat. 45.
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

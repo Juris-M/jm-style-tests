@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Apple Inc., Annual Report (Form 10-K) (Oct. 28, 2015)
+Apple Inc., Annual Report (Form 10-K) (Oct. 28, 2015).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>See, e.g.</i>, Colo. Rev. Stat. Ann. § 18-8-115 (West 2014)
+<i>See, e.g.</i>, Colo. Rev. Stat. Ann. § 18-8-115 (West 2014).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

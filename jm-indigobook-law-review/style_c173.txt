@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Id.</i> § 7102(26)
+<i>Id.</i> § 7102(26).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

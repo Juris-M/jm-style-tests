@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Doe v. Roe</i>, 2001 WI App 9, ¶ 17
+<i>Doe v. Roe</i>, 2001 WI App 9, ¶ 17.
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

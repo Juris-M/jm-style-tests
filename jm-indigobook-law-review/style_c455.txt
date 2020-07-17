@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-La. Code Civ. Proc. Ann. art. 579 (2000)
+La. Code Civ. Proc. Ann. art. 579 (2000).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

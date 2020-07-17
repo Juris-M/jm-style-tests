@@ -15,7 +15,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Liz Brown, <i>Bridging The Gap: Improving Intellectual Property Protection for the Look and Feel of Websites</i>, 3 <span style="font-variant:small-caps;">N.Y.U. J. Intell. Prop. &#38; Ent. L.</span> 310 (2014), Brown, <i>Remixing Transformative Use</i>, <i>supra</i>, Brown, <i>Bridging The Gap</i>, <i>supra</i>, at 320
+Liz Brown, <i>Bridging The Gap: Improving Intellectual Property Protection for the Look and Feel of Websites</i>, 3 <span style="font-variant:small-caps;">N.Y.U. J. Intell. Prop. &#38; Ent. L.</span> 310 (2014); Brown, <i>Remixing Transformative Use</i>, <i>supra</i>; Brown, <i>Bridging The Gap</i>, <i>supra</i>, at 320.
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Id.</i> § 151.9
+<i>Id.</i> § 151.9.
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

@@ -13,7 +13,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Ward v. Rock Against Racism</i>, 491 U.S. 781 (1989)
+<i>Ward v. Rock Against Racism</i>, 491 U.S. 781 (1989).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

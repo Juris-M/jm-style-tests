@@ -13,7 +13,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<span style="font-variant:small-caps;"><span style="font-variant:small-caps;">Marc A. Franklin</span> et al.</span>, <span style="font-variant:small-caps;">Mass Media Law Cases and Materials</span> 472 (8th ed. 2011)
+<span style="font-variant:small-caps;"><span style="font-variant:small-caps;">Marc A. Franklin</span> et al.</span>, <span style="font-variant:small-caps;">Mass Media Law Cases and Materials</span> 472 (8th ed. 2011).
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

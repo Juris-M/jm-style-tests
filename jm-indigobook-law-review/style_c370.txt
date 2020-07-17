@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-D.C. Code § 12-34 (2000)
+D.C. Code § 12-34 (2000).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

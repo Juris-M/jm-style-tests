@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Memoirs</i>, 383 U.S. at 418
+<i>Memoirs</i>, 383 U.S. at 418.
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

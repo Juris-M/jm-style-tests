@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Smith v. Jones, CFPB No. 13, 2006 LEXIS 123654 (Apr. 1, 2000)
+Smith v. Jones, CFPB No. 13, 2006 LEXIS 123654 (Apr. 1, 2000).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

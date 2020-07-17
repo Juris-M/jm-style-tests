@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Carmel</i>, 548 F.3d at 573
+<i>Carmel</i>, 548 F.3d at 573.
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

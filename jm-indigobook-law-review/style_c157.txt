@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-H.R. Res. 431, 114th Cong. (2015)
+H.R. Res. 431, 114th Cong. (2015).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

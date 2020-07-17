@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-89 Pan-Am. T.S. 935S
+89 Pan-Am. T.S. 935S.
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

@@ -13,7 +13,7 @@ Short form of 3HQ8GW4S z0049 z0015 71 z3836 z0016 82 z3854 267 101 z3906 z3907 1
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Smith v. Jones</i>, 2001 VT 1
+<i>Smith v. Jones</i>, 2001 VT 1.
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

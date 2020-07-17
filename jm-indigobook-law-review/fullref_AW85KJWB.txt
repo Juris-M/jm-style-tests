@@ -19,7 +19,7 @@ Short form of AW85KJWB z0049 z0015 71 z3147 z0016 82 z3165 267 101 z3217 z3218 1
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Jones v. Smith</i>, 1999 PA Super 1
+<i>Jones v. Smith</i>, 1999 PA Super 1.
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

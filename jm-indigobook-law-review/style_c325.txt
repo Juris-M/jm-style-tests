@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Ariz. Admin. Code § 12-34-56 (2000)
+Ariz. Admin. Code § 12-34-56 (2000).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

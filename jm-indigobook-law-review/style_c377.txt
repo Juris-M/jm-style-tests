@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-D.C. Code Mun. Regs. tit. 654, § 987 (LexisNexis 2000)
+D.C. Code Mun. Regs. tit. 654, § 987 (LexisNexis 2000).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Ga. Comp. R. &#38; Regs. 12-34-56.78 (2000)
+Ga. Comp. R. &#38; Regs. 12-34-56.78 (2000).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

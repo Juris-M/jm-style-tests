@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-2006 N. Mar. I. Pub. L. 6587
+2006 N. Mar. I. Pub. L. 6587.
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

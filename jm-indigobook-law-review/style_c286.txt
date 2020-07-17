@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Space Communications Co., 66 Comp. Gen. 2 (1987)
+Space Communications Co., 66 Comp. Gen. 2 (1987).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-RMTC Sys., Inc., ASBCA No. 43466, 93-1 BCA ¶ 25,508
+RMTC Sys., Inc., ASBCA No. 43466, 93-1 BCA ¶ 25,508.
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

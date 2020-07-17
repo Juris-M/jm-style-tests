@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Cillizza, <i>supra</i>
+Cillizza, <i>supra</i>.
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Description of content, Smith v. Jones, Docket No. 1234-567-89 (Dep’t of Labor Apr. 1, 2000)
+Description of content, Smith v. Jones, Docket No. 1234-567-89 (Dep’t of Labor Apr. 1, 2000).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

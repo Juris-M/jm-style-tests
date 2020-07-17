@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Or. Admin. R. 11 (2000)
+Or. Admin. R. 11 (2000).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

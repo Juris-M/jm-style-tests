@@ -13,7 +13,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>People v. Foranyic</i>, 74 Cal. Rptr. 2d 804, 807 (Ct. App. 1998)
+<i>People v. Foranyic</i>, 74 Cal. Rptr. 2d 804, 807 (Ct. App. 1998).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

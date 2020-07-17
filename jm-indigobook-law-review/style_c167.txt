@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-H.R. Rep. No. 110-803, at 105 (2008)
+H.R. Rep. No. 110-803, at 105 (2008).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

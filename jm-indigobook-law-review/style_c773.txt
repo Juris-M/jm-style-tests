@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-2006 I.C.J. Acts &#38; Docs 45
+2006 I.C.J. Acts &#38; Docs 45.
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

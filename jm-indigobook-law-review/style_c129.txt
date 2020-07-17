@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Digital Millennium Copyright Act of 1998 § 103, 17 U.S.C.A. § 1201 (West 2008)
+Digital Millennium Copyright Act of 1998 § 103, 17 U.S.C.A. § 1201 (West 2008).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

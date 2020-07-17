@@ -13,7 +13,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Amanda Levendowski, Note, <i>Using Copyright to Combat Revenge Porn</i>, 3 <span style="font-variant:small-caps;">N.Y.U. J. Intell. Prop. &#38; Ent. L.</span> 422 (2014)
+Amanda Levendowski, Note, <i>Using Copyright to Combat Revenge Porn</i>, 3 <span style="font-variant:small-caps;">N.Y.U. J. Intell. Prop. &#38; Ent. L.</span> 422 (2014).
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

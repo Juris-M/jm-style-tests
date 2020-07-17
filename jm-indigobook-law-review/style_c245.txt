@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-FSA 101, Avoidance of Error (U.S.D.A. 2000)
+FSA 101, Avoidance of Error (U.S.D.A. 2000).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

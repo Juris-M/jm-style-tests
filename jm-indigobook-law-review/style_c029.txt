@@ -13,7 +13,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>see also</i> <i>The Shawshank Redemption</i> (Castle Rock Entertainment 1994)
+<i>see also</i> <i>The Shawshank Redemption</i> (Castle Rock Entertainment 1994).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

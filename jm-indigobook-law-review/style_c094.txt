@@ -13,7 +13,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Lerman v. Comm’r</i>, 939 F.2d 44 (3d Cir. 1991)
+<i>Lerman v. Comm’r</i>, 939 F.2d 44 (3d Cir. 1991).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

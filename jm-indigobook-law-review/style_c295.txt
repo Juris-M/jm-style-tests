@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-John Smith, 32 CCH CGCH 43 (No. 1234-567-89, 2000)
+John Smith, 32 CCH CGCH 43 (No. 1234-567-89, 2000).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

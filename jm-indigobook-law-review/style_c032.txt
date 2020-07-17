@@ -13,7 +13,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>with</i> <i>McDonald v. Chicago</i>, 561 U.S. 742 (2010)
+<i>with</i> <i>McDonald v. Chicago</i>, 561 U.S. 742 (2010).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

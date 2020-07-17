@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-La. Const. Ann. art. 579 (2000)
+La. Const. Ann. art. 579 (2000).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

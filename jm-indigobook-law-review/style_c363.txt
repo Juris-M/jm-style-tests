@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-23 Del. Laws 45 (2000)
+23 Del. Laws 45 (2000).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

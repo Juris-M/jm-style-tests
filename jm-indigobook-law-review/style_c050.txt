@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-450 U.S. 248, 254 (1981)
+450 U.S. 248, 254 (1981).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-’504 Patent
+’504 Patent.
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

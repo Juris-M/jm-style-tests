@@ -13,7 +13,7 @@ Short form of X2QDQDB2 z0049 87 z4288 711 101 z4317 770 z4331 z4332 z4333 104 z4
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Ohio Admin. Code
+Ohio Admin. Code.
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

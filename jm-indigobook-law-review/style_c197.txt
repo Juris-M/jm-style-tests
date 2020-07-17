@@ -13,7 +13,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>See</i> <span style="font-variant:small-caps;">Nimmer</span> &#38; <span style="font-variant:small-caps;">Nimmer</span>, <i>supra</i>, § 14.02
+<i>See</i> <span style="font-variant:small-caps;">Nimmer</span> &#38; <span style="font-variant:small-caps;">Nimmer</span>, <i>supra</i>, § 14.02.
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

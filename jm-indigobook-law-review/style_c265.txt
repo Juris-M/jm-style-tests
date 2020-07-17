@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Jones v. I.T.O. Corp. of Baltimore, 9 Ben. Rev. Bd. Serv. (MB) 583, 585 (1979)
+Jones v. I.T.O. Corp. of Baltimore, 9 Ben. Rev. Bd. Serv. (MB) 583, 585 (1979).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

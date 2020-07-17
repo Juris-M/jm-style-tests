@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-LEXIS 935S
+LEXIS 935S.
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

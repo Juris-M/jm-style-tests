@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Office of Mgmt. &#38; Budget, Exec. Office of the President, Budget of the United States Government, Fiscal Year 2014 (2013)
+Office of Mgmt. &#38; Budget, Exec. Office of the President, Budget of the United States Government, Fiscal Year 2014 (2013).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

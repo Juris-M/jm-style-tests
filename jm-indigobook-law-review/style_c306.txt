@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-OxyHeal Medical Systems, Inc., SBA SIZ-5707 (Jan. 19, 2016)
+OxyHeal Medical Systems, Inc., SBA SIZ-5707 (Jan. 19, 2016).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

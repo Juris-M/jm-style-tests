@@ -13,7 +13,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-3 <span style="font-variant:small-caps;">Melville Nimmer</span> &#38; <span style="font-variant:small-caps;">David Nimmer</span>, <span style="font-variant:small-caps;">Nimmer on Copyright</span> § 12.01 (Rev. ed. 2015)
+3 <span style="font-variant:small-caps;">Melville Nimmer</span> &#38; <span style="font-variant:small-caps;">David Nimmer</span>, <span style="font-variant:small-caps;">Nimmer on Copyright</span> § 12.01 (Rev. ed. 2015).
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

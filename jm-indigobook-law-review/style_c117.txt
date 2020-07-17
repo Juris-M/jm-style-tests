@@ -13,7 +13,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Washington v. Alaimo</i>, 934 F. Supp. 1395, 1398 (S.D. Ga. 1996)
+<i>Washington v. Alaimo</i>, 934 F. Supp. 1395, 1398 (S.D. Ga. 1996).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

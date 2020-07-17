@@ -13,7 +13,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Exxon Mobil Corp. v. Allapattah Servs., Inc.</i>, 545 U.S. 546, 571 (2005)
+<i>Exxon Mobil Corp. v. Allapattah Servs., Inc.</i>, 545 U.S. 546, 571 (2005).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

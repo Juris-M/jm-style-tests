@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Smith v. Jones</i>, 95-KA-01234-SCT (Miss. 1997)
+<i>Smith v. Jones</i>, 95-KA-01234-SCT (Miss. 1997).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

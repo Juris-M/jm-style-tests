@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Jack Dickey, <i>The Power of Taylor Swift</i>, Time, Nov. 24, 2014, at 13
+Jack Dickey, <i>The Power of Taylor Swift</i>, Time, Nov. 24, 2014, at 13.
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

@@ -13,7 +13,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Indus. Union Dep’t, AFL-CIO v. Am. Petroleum Inst. (The Benzene Case)</i>, 448 U.S. 607, 645 (1980)
+<i>Indus. Union Dep’t, AFL-CIO v. Am. Petroleum Inst. (The Benzene Case)</i>, 448 U.S. 607, 645 (1980).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

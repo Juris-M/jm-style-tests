@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Superfan Suits, <i>supra</i>
+Superfan Suits, <i>supra</i>.
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

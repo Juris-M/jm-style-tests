@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Eur. Parl. Deb. (82) 45
+Eur. Parl. Deb. (82) 45.
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

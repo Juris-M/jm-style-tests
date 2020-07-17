@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Aerocomp, Inc., FAA Order No. 2006-1, Order Dismissing Appeal (Jan. 12, 2006)
+Aerocomp, Inc., FAA Order No. 2006-1, Order Dismissing Appeal (Jan. 12, 2006).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

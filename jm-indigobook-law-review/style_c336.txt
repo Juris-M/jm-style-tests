@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Cal. Civil Code § 321 (Deering 2000)
+Cal. Civil Code § 321 (Deering 2000).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

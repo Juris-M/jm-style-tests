@@ -19,7 +19,7 @@ Short form of SYPM8W53 z0049 87 z4295 z4300 270 101 z4335 351 z4349 z4352 104 z0
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-N.Y. Lab. Law § 15 (McKinney 2000)
+N.Y. Lab. Law § 15 (McKinney 2000).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

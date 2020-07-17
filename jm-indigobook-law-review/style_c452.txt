@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-La. Stat. Ann. § 123:456 (2000)
+La. Stat. Ann. § 123:456 (2000).
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
