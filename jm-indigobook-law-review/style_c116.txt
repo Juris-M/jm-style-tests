@@ -1,5 +1,5 @@
 >>===== MODE =====>>
-citation
+citation-suppress_trailing_punctuation
 <<===== MODE =====<<
 
 >>===== KEYS =====>>

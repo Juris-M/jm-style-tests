@@ -13,7 +13,7 @@ Short form of RT3P37DF z0043 z0031 z0068 z0031 z0071 z0074
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-nasch, <i>supra</i>.
+nasch, <i>supra</i>
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

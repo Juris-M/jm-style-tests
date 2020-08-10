@@ -1,5 +1,5 @@
 >>===== MODE =====>>
-citation
+citation-suppress_trailing_punctuation
 <<===== MODE =====<<
 
 >>===== OPTIONS =====>>
@@ -20,7 +20,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Bianco v. Horror One Prods.</i>, 2009-NMSC-006, ¶ 10, 145 N.M. 551.
+<i>Bianco v. Horror One Prods.</i>, 2009-NMSC-006, ¶ 10, 145 N.M. 551
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

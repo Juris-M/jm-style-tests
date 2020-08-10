@@ -13,7 +13,7 @@ Short form of 3A2SGMNI z0049 z0015 71 z4283 z0016 82 z4301 275 101 z4353 z4363 1
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>People v. Foranyic</i>, 74 Cal. Rptr. 2d 804 (Ct. App. 1998).
+<i>People v. Foranyic</i>, 74 Cal. Rptr. 2d 804 (Ct. App. 1998)
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

@@ -1,5 +1,5 @@
 >>===== MODE =====>>
-citation
+citation-suppress_trailing_punctuation
 <<===== MODE =====<<
 
 >>===== OPTIONS =====>>
@@ -20,7 +20,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Smith v. Jones</i>, 93-2345 (La. 7/15/94); 650 So.2d 500.
+<i>Smith v. Jones</i>, 93-2345 (La. 7/15/94); 650 So.2d 500
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

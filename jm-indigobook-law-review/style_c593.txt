@@ -1,5 +1,5 @@
 >>===== MODE =====>>
-citation
+citation-suppress_trailing_punctuation
 <<===== MODE =====<<
 
 >>===== OPTIONS =====>>
@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-2006 N.D. Legis. Serv. 45 (West).
+2006 N.D. Legis. Serv. 45 (West)
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

@@ -13,7 +13,7 @@ Short form of Y5PA9P8D z0049 87 z4295 z4299 258 101 z4335 343 z4349 104 z0023 z0
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Worthy Act.
+Worthy Act
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

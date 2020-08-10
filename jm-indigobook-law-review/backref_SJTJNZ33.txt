@@ -13,7 +13,7 @@ Short form of SJTJNZ33 z0049 87 z4295 z4297 720 101 z4335 811 z4338 z4343 z4346 
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-2006 S.D. Sess. Laws.
+2006 S.D. Sess. Laws
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

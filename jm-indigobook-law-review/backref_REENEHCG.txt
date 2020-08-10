@@ -13,7 +13,7 @@ Short form of REENEHCG z0049 87 z4288 241 101 z4317 300 z4319 104 z0023 z0025 11
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Exec. Order 12,900, 59 FR 9061.
+Exec. Order 12,900, 59 FR 9061
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

@@ -1,5 +1,5 @@
 >>===== MODE =====>>
-citation
+citation-suppress_trailing_punctuation
 <<===== MODE =====<<
 
 >>===== OPTIONS =====>>
@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Filing of Privileged Materials and Answers to Motions, Order No. 769, 141 FERC ¶ 61,049 (2012).
+Filing of Privileged Materials and Answers to Motions, Order No. 769, 141 FERC ¶ 61,049 (2012)
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

@@ -1,5 +1,5 @@
 >>===== MODE =====>>
-citation
+citation-suppress_trailing_punctuation
 <<===== MODE =====<<
 
 >>===== OPTIONS =====>>
@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Compl. at 2, <i>Jones v. Smith</i>, No. 09-230 (9th Cir. Apr. 17, 2015).
+Compl. at 2, <i>Jones v. Smith</i>, No. 09-230 (9th Cir. Apr. 17, 2015)
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

@@ -13,7 +13,7 @@ Short form of 3RCX9URX z0049 z0015 71 z2243 z0016 82 z2261 267 101 z2313 z2314 1
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Smith v. Jones</i>, 1997 ND 15.
+<i>Smith v. Jones</i>, 1997 ND 15
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

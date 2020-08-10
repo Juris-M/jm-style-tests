@@ -13,7 +13,7 @@ Short form of 3TSJWLUR z0049 z0015 71 z2469 z0016 82 z2487 267 101 z2539 z2540 1
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>State v. Dickert</i>, 2012-NMCA-004.
+<i>State v. Dickert</i>, 2012-NMCA-004
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

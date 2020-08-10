@@ -1,5 +1,5 @@
 >>===== MODE =====>>
-citation
+citation-suppress_trailing_punctuation
 <<===== MODE =====<<
 
 >>===== KEYS =====>>
@@ -13,20 +13,8 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Ford v. Wainwright</i>, 477 U.S. 399, 410 (1986).
+<i>Ford v. Wainwright</i>, 477 U.S. 399, 410 (1986)
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "id": "63JH7M2T",
-      "position": 0,
-      "locator": "p. 410"
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -49,3 +37,16 @@ Initial test checkin
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "63JH7M2T",
+      "position": 0,
+      "locator": "p. 410"
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

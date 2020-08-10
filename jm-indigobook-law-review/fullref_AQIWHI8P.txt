@@ -13,7 +13,7 @@ Short form of AQIWHI8P z0049 z0015 71 z2923 z0016 82 z2941 267 101 z2993 z3004 1
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Hunter v. State</i>, 264 P.2d 997 (Okla. Crim. App. 1953).
+<i>Hunter v. State</i>, 264 P.2d 997 (Okla. Crim. App. 1953)
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

@@ -13,7 +13,7 @@ Short form of TGGZDSUX z0049 87 z4295 z4300 262 101 z4335 343 z4349 z4350 z4352 
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-P.R. Leyes An. tit. 52, § 15.
+P.R. Leyes An. tit. 52, § 15
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

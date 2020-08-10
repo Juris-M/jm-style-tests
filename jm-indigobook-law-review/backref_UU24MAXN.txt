@@ -13,7 +13,7 @@ Short form of UU24MAXN z0049 z0015 71 z3376 z0016 82 z3394 267 101 z3446 z3447 1
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Smith v. Jones</i>, 1996 S.D. 15.
+<i>Smith v. Jones</i>, 1996 S.D. 15
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

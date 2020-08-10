@@ -13,7 +13,7 @@ Short form of QAL4VKX3 z0049 z0015 71 z4283 z0016 82 z4301 729 101 z4353 z4363 1
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Smith v. Jones</i>, 850 A.2d 421 (Vt. 2001).
+<i>Smith v. Jones</i>, 850 A.2d 421 (Vt. 2001)
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

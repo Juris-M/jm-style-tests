@@ -19,7 +19,7 @@ Short form of TVX588G3 z0049 z0015 71 z4283 z0016 82 z4301 275 101 z4353 z4354 3
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-2006 IL App (3d) 456123.
+2006 IL App (3d) 456123
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

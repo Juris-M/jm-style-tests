@@ -19,7 +19,7 @@ Short form of DBDVSJEP z0059 z0031 z0068 z0031
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Hein’s No. KAV 26.
+Hein’s No. KAV 26
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

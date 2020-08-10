@@ -1,5 +1,5 @@
 >>===== MODE =====>>
-citation
+citation-suppress_trailing_punctuation
 <<===== MODE =====<<
 
 >>===== KEYS =====>>
@@ -13,20 +13,8 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Atkins v. Virginia</i>, 536 U.S. 304, 321 (2002).
+<i>Atkins v. Virginia</i>, 536 U.S. 304, 321 (2002)
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "id": "9W9TBW34",
-      "position": 0,
-      "locator": "p. 321"
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -49,3 +37,16 @@ Initial test checkin
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "9W9TBW34",
+      "position": 0,
+      "locator": "p. 321"
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

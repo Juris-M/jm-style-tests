@@ -13,7 +13,7 @@ Short form of MISCZ8PY z0049 87 z4288 249 101 z4317 308 z4331 z4332 z4333 104 z1
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Ga. Comp. R. &#38; Regs. (2000).
+Ga. Comp. R. &#38; Regs. (2000)
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

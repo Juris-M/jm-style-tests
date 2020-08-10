@@ -19,7 +19,7 @@ Short form of JRWBT7LB z0049 87 z4288 z4290 234 101 z4317 300 z4331 z4333 104 z0
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-FSA 101, Avoidance of Error (U.S.D.A. 2000).
+FSA 101, Avoidance of Error (U.S.D.A. 2000)
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

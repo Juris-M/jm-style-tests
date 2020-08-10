@@ -1,5 +1,5 @@
 >>===== MODE =====>>
-citation
+citation-suppress_trailing_punctuation
 <<===== MODE =====<<
 
 >>===== OPTIONS =====>>
@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-US Pagoda, Inc., CCH OSHD ¶ 33123 (No. 10-2035, 2011).
+US Pagoda, Inc., CCH OSHD ¶ 33123 (No. 10-2035, 2011)
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

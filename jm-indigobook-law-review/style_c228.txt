@@ -1,5 +1,5 @@
 >>===== MODE =====>>
-citation
+citation-suppress_trailing_punctuation
 <<===== MODE =====<<
 
 >>===== KEYS =====>>
@@ -13,7 +13,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Viacom Int’l, Inc. v. YouTube, Inc.</i>, 676 F.3d 19, 31 (2d Cir. 2012).
+<i>Viacom Int’l, Inc. v. YouTube, Inc.</i>, 676 F.3d 19, 31 (2d Cir. 2012)
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

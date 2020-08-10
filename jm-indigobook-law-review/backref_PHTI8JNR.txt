@@ -19,7 +19,7 @@ Short form of PHTI8JNR z0049 z0015 71 z0016 z0017 77 z0339 z0020 91 z0344 104 10
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Parl. Eur. Doc. (SEC 1234) 45.
+Parl. Eur. Doc. (SEC 1234) 45
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

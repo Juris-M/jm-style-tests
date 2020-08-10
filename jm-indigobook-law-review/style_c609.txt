@@ -1,5 +1,5 @@
 >>===== MODE =====>>
-citation
+citation-suppress_trailing_punctuation
 <<===== MODE =====<<
 
 >>===== OPTIONS =====>>
@@ -20,7 +20,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Robinson v. State</i>, 1997 OK CR 24, ¶ 3, 68 OBJ 1379, 1381.
+<i>Robinson v. State</i>, 1997 OK CR 24, ¶ 3, 68 OBJ 1379, 1381
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

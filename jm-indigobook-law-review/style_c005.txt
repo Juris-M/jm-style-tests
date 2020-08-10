@@ -1,12 +1,6 @@
 >>===== MODE =====>>
-citation
+citation-suppress_trailing_punctuation
 <<===== MODE =====<<
-
->>===== OPTIONS =====>>
-{
-    "wrap_url_and_doi": true
-}
-<<===== OPTIONS =====<<
 
 >>===== KEYS =====>>
 [
@@ -19,20 +13,8 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Arizona v. Hicks</i>, 480 U.S. 321, 329 (1987).
+<i>Arizona v. Hicks</i>, 480 U.S. 321, 329 (1987)
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "id": "VMEQEIGF",
-      "position": 0,
-      "locator": "p. 329"
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -55,3 +37,23 @@ Initial test checkin
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "VMEQEIGF",
+      "position": 0,
+      "locator": "p. 329"
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

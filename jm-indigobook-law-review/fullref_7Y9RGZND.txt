@@ -13,7 +13,7 @@ Short form of 7Y9RGZND z0059 z0066 z0033 z0071 z0074
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>5 Things to Know about McDonalds All Day Breakfast</i>, TIME (Oct. 6, 2015), <a href="http://time.com/money/4062667/mcdonalds-all-day-breakfast/">http://time.com/money/4062667/mcdonalds-all-day-breakfast/</a>.
+<i>5 Things to Know about McDonalds All Day Breakfast</i>, TIME (Oct. 6, 2015), <a href="http://time.com/money/4062667/mcdonalds-all-day-breakfast/">http://time.com/money/4062667/mcdonalds-all-day-breakfast/</a>
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

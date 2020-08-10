@@ -13,7 +13,7 @@ Short form of YGRZJ7CP z0049 87 z4288 249 101 z4317 308 z4331 z4332 104 z1558 z0
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-50 Mass. Code Regs.
+50 Mass. Code Regs
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

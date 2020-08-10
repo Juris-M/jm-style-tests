@@ -13,7 +13,7 @@ Short form of TQJMPSH3 z0049 87 z4295 z4300 262 101 z4335 343 z4349 104 z0023 z0
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-DOE Employee Privacy Standards, 10 C.F.R. (2000).
+DOE Employee Privacy Standards, 10 C.F.R. (2000)
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

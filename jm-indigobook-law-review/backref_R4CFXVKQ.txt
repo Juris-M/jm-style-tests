@@ -13,7 +13,7 @@ Short form of R4CFXVKQ z0049 87 z4302 z4304 101 z4382 451 z4477 104 109 118 121 
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-H.R. 647.
+H.R. 647
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

@@ -13,7 +13,7 @@ Short form of IKVDQELG z0055 z0031 z0068 z0031 z0073
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<span style="font-variant:small-caps;">Márquez</span>, <i>supra</i>.
+<span style="font-variant:small-caps;">Márquez</span>, <i>supra</i>
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

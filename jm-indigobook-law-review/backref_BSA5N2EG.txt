@@ -13,7 +13,7 @@ Short form of BSA5N2EG z0049 87 z4295 z4300 270 101 z4335 351 z4349 z4350 104 z1
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-23 Ill. Code R.
+23 Ill. Code R
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

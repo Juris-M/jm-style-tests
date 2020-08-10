@@ -1,12 +1,6 @@
 >>===== MODE =====>>
-citation
+citation-suppress_trailing_punctuation
 <<===== MODE =====<<
-
->>===== OPTIONS =====>>
-{
-    "wrap_url_and_doi": true
-}
-<<===== OPTIONS =====<<
 
 >>===== KEYS =====>>
 [
@@ -22,17 +16,6 @@ Initial test checkin
 Y.B. Eur. Conv. on H.R.
 <<===== RESULT =====<<
 
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "id": "NVD9YVJP",
-      "position": 0
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
-
 >>===== INPUT =====>>
 [
   {
@@ -44,3 +27,22 @@ Y.B. Eur. Conv. on H.R.
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "NVD9YVJP",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

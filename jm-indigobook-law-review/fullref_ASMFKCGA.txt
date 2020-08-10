@@ -19,7 +19,7 @@ Short form of ASMFKCGA z0031 z0068 z0031
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-C.E.T.S. No. 26.
+C.E.T.S. No. 26
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

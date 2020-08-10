@@ -13,7 +13,7 @@ Short form of 6GGX29X5 z0049 z0015 71 z4283 z0016 82 z4301 267 101 z4353 z4364 z
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Yates v. United States</i>, No. 13-7451, 2015 U.S. LEXIS 1503.
+<i>Yates v. United States</i>, No. 13-7451, 2015 U.S. LEXIS 1503
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

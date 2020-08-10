@@ -13,7 +13,7 @@ Short form of Y9QH9F68 z0049 z0015 71 z1331 z0016 82 z1349 267 101 z1401 z1402 1
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Smith v. Jones</i>, 94-2345.
+<i>Smith v. Jones</i>, 94-2345
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

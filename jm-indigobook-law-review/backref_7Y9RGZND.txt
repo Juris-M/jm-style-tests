@@ -13,7 +13,7 @@ Short form of 7Y9RGZND z0059 z0066 z0033 z0071 z0074
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>5 Things to Know about McDonalds All Day Breakfast</i>, <i>supra</i>.
+<i>5 Things to Know about McDonalds All Day Breakfast</i>, <i>supra</i>
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

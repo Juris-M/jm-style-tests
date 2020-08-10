@@ -13,7 +13,7 @@ Short form of KUZA9BAK z0049 87 z4295 z4299 266 101 z4335 351 z4350 z4352 104 z0
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Md. Code Ann., Ins.
+Md. Code Ann., Ins
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

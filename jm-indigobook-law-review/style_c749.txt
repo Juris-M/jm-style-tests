@@ -1,12 +1,6 @@
 >>===== MODE =====>>
-citation
+citation-suppress_trailing_punctuation
 <<===== MODE =====<<
-
->>===== OPTIONS =====>>
-{
-    "wrap_url_and_doi": true
-}
-<<===== OPTIONS =====<<
 
 >>===== KEYS =====>>
 [
@@ -22,17 +16,6 @@ Initial test checkin
 2006-14 V.I. Code Ann. Adv.
 <<===== RESULT =====<<
 
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "id": "CA6ZYIEB",
-      "position": 0
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
-
 >>===== INPUT =====>>
 [
   {
@@ -45,3 +28,22 @@ Initial test checkin
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "CA6ZYIEB",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

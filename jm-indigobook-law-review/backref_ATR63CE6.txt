@@ -13,7 +13,7 @@ Short form of ATR63CE6 z0059 z0064 z0066 z0033 z0036 z0039 z0040 z0069 z0074
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Dickey, <i>supra</i>.
+Dickey, <i>supra</i>
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

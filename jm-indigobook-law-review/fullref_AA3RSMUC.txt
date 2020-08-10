@@ -13,7 +13,7 @@ Short form of AA3RSMUC z0049 87 z4295 z4300 270 101 z4335 351 z4349 z4350 104 z0
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-50/78 V.I. Code R. (LexisNexis 2000).
+50/78 V.I. Code R. (LexisNexis 2000)
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

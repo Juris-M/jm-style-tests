@@ -1,5 +1,5 @@
 >>===== MODE =====>>
-citation
+citation-suppress_trailing_punctuation
 <<===== MODE =====<<
 
 >>===== OPTIONS =====>>
@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Written Agreement Between Allied First Bancorp, Inc. and Federal Reserve Bank of Chicago, Docket No. 14-006-WA/RB-HC (Jun. 6, 2014).
+Written Agreement Between Allied First Bancorp, Inc. and Federal Reserve Bank of Chicago, Docket No. 14-006-WA/RB-HC (Jun. 6, 2014)
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

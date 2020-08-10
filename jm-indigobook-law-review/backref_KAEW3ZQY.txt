@@ -13,7 +13,7 @@ Short form of KAEW3ZQY z0049 z0015 71 z4283 z0016 82 z4301 267 101 z4353 z4363 1
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-2006 Rep. Inter-Am. Ct. H.R. 45.
+2006 Rep. Inter-Am. Ct. H.R. 45
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

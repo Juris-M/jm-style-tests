@@ -13,7 +13,7 @@ Short form of H93DA69V z0049 z0015 71 z4283 z0016 82 z4301 267 101 z4353 z4363 1
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-89 Eur. H.R. Rep. 9355.
+89 Eur. H.R. Rep. 9355
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

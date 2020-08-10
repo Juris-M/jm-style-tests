@@ -13,7 +13,7 @@ Short form of DCWD2M7A z0049 87 z4288 249 101 z4317 308 z4331 z4332 z4333 104 z2
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-N.Y. C.P.L.R. (McKinney 2000).
+N.Y. C.P.L.R. (McKinney 2000)
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

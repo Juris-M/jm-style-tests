@@ -1,5 +1,5 @@
 >>===== MODE =====>>
-citation
+citation-suppress_trailing_punctuation
 <<===== MODE =====<<
 
 >>===== OPTIONS =====>>
@@ -21,7 +21,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Smith v. Jones</i>, 2001 VT 1, ¶ 12, 169 Vt. 203, 850 A.2d 421.
+<i>Smith v. Jones</i>, 2001 VT 1, ¶ 12, 169 Vt. 203, 850 A.2d 421
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

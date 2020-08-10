@@ -13,7 +13,7 @@ Short form of QSY4B3NF z0049 z0015 71 z4283 z0016 82 z4301 275 101 z4353 z4363 1
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Brown v. State</i>, 216 S.E.2d 356.
+<i>Brown v. State</i>, 216 S.E.2d 356
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

@@ -13,7 +13,7 @@ Short form of SAC2FCQD z0049 z0015 71 z1331 z0016 82 z1349 267 101 z1401 z1412 1
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Smith v. Jones</i>, 660 So.2d 400.
+<i>Smith v. Jones</i>, 660 So.2d 400
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

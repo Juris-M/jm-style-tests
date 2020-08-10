@@ -13,7 +13,7 @@ Short form of IAL7VTK8 z0049 z0015 71 z4283 z0016 82 z4301 275 101 z4353 z4363 1
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Stambovsky v. Ackley</i>, 572 N.Y.S.2d 672 (App. Div. 1991).
+<i>Stambovsky v. Ackley</i>, 572 N.Y.S.2d 672 (App. Div. 1991)
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

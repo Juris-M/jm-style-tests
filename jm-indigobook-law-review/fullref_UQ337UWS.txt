@@ -13,7 +13,7 @@ Short form of UQ337UWS z0049 87 z4295 101 z4335 351 z4349 z4350 z4352 104 z0023 
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Mass. Gen. Laws Ann. (West 2014).
+Mass. Gen. Laws Ann. (West 2014)
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

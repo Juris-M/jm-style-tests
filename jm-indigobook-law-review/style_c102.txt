@@ -1,5 +1,5 @@
 >>===== MODE =====>>
-citation
+citation-suppress_trailing_punctuation
 <<===== MODE =====<<
 
 >>===== OPTIONS =====>>
@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-233 N.E.2d at 219.
+233 N.E.2d at 219
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

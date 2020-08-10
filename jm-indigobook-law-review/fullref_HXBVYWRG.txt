@@ -19,7 +19,7 @@ Short form of HXBVYWRG z0049 z0015 71 z0016 82 z0339 101 z0340 104 109 118 121
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-2006 CEC (CCH) 45.
+2006 CEC (CCH) 45
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

@@ -13,7 +13,7 @@ Short form of 7S3743ZE z0049 87 z4288 247 101 z4317 306 z4331 z4332 104 z0023 z0
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-16 Mich. Reg. 45 (Dec. 31, 2000).
+16 Mich. Reg. 45 (Dec. 31, 2000)
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

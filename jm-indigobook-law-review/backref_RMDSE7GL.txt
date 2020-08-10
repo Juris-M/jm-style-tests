@@ -13,7 +13,7 @@ Short form of RMDSE7GL z0049 z0015 71 z4283 z0016 82 z4301 273 101 z4353 z4363 1
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Helton v. State</i>, 311 So. 2d 381.
+<i>Helton v. State</i>, 311 So. 2d 381
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

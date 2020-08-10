@@ -1,12 +1,6 @@
 >>===== MODE =====>>
-citation
+citation-suppress_trailing_punctuation
 <<===== MODE =====<<
-
->>===== OPTIONS =====>>
-{
-    "wrap_url_and_doi": true
-}
-<<===== OPTIONS =====<<
 
 >>===== KEYS =====>>
 [
@@ -19,20 +13,8 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>accord</i> Chrissy Makkas, <i>Justin Bieber Fronts V Magazine’s Music Issue (Forum Buzz)</i>, The Fashion Spot (Jan. 11, 2012), <a href="https://www.thefashionspot.com/buzz-news/forum-buzz/171203-justin-bieber-fronts-v-magazines-music-issue-forum-buzz/">https://www.thefashionspot.com/buzz-news/forum-buzz/171203-justin-bieber-fronts-v-magazines-music-issue-forum-buzz/</a>.
+<i>accord</i> Chrissy Makkas, <i>Justin Bieber Fronts V Magazine’s Music Issue (Forum Buzz)</i>, The Fashion Spot (Jan. 11, 2012), <a href="https://www.thefashionspot.com/buzz-news/forum-buzz/171203-justin-bieber-fronts-v-magazines-music-issue-forum-buzz/">https://www.thefashionspot.com/buzz-news/forum-buzz/171203-justin-bieber-fronts-v-magazines-music-issue-forum-buzz/</a>
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "prefix": "<i>accord</i>",
-      "id": "IGZIDCS3",
-      "position": 0
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -69,3 +51,23 @@ Initial test checkin
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "prefix": "<i>accord</i>",
+      "id": "IGZIDCS3",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

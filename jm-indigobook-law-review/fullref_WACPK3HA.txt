@@ -13,7 +13,7 @@ Short form of WACPK3HA z0049 87 z4295 z4300 732 101 z4335 813 z4349 z4350 z4352 
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Ohio Rev. Code Ann. (West 2000).
+Ohio Rev. Code Ann. (West 2000)
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

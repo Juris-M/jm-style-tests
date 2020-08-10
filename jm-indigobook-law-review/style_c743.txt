@@ -1,5 +1,5 @@
 >>===== MODE =====>>
-citation
+citation-suppress_trailing_punctuation
 <<===== MODE =====<<
 
 >>===== OPTIONS =====>>
@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Yumac Home Furniture v. Caguas Lumber Yard</i>, 2015 TSPR 148.
+<i>Yumac Home Furniture v. Caguas Lumber Yard</i>, 2015 TSPR 148
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

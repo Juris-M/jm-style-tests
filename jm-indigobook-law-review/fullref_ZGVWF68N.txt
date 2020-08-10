@@ -13,7 +13,7 @@ Short form of ZGVWF68N z0049 87 z4295 101 z4335 343 z4349 z4352 104 z4502 z0023 
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Unif. R. Evid.
+Unif. R. Evid
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

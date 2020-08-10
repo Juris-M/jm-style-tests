@@ -1,12 +1,6 @@
 >>===== MODE =====>>
-citation
+citation-suppress_trailing_punctuation
 <<===== MODE =====<<
-
->>===== OPTIONS =====>>
-{
-    "wrap_url_and_doi": true
-}
-<<===== OPTIONS =====<<
 
 >>===== KEYS =====>>
 [
@@ -19,20 +13,8 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Jack Dickey, <i>The Power of Taylor Swift</i>, Time, Nov. 24, 2014, at 13, 17.
+Jack Dickey, <i>The Power of Taylor Swift</i>, <span style="font-variant:small-caps;">Time</span>, Nov. 24, 2014, at 13, 17
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "id": "PIVQQTDU",
-      "position": 0,
-      "locator": ", p. 17"
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -60,3 +42,23 @@ Jack Dickey, <i>The Power of Taylor Swift</i>, Time, Nov. 24, 2014, at 13, 17.
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "PIVQQTDU",
+      "position": 0,
+      "locator": ", p. 17"
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

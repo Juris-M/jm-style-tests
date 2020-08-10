@@ -1,5 +1,5 @@
 >>===== MODE =====>>
-citation
+citation-suppress_trailing_punctuation
 <<===== MODE =====<<
 
 >>===== OPTIONS =====>>
@@ -20,7 +20,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Saucier v. State Tax Assessor</i>, 1998 ME 61, 708 A.2d 28.
+<i>Saucier v. State Tax Assessor</i>, 1998 ME 61, 708 A.2d 28
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

@@ -13,7 +13,7 @@ Short form of WRJXIVVZ z0049 87 z4295 z4300 270 101 z4335 351 z4349 z4352 104 z0
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-N.Y. Uniform District Court Act § 15.
+N.Y. Uniform District Court Act § 15
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

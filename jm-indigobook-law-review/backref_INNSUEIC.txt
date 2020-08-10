@@ -13,7 +13,7 @@ Short form of INNSUEIC z0049 z0015 71 z4283 z0016 82 z4301 267 101 z4353 z4370 1
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Beastie Boys v. Monster Energy Co.</i>, No. 12 Civ. 6065.
+<i>Beastie Boys v. Monster Energy Co.</i>, No. 12 Civ. 6065
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

@@ -13,7 +13,7 @@ Short form of UKY8AR64 z0049 87 z4295 101 z4335 343 z4349 z4352 104 z0023 z0025 
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Treas. Reg.
+Treas. Reg
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

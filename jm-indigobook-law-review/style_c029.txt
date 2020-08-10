@@ -1,5 +1,5 @@
 >>===== MODE =====>>
-citation
+citation-suppress_trailing_punctuation
 <<===== MODE =====<<
 
 >>===== KEYS =====>>
@@ -13,20 +13,8 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>see also</i> <i>The Shawshank Redemption</i> (Castle Rock Entertainment 1994).
+<i>see also</i> <i>The Shawshank Redemption</i> (Castle Rock Entertainment 1994)
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-[
-  {
-    "prefix": "<i>see also</i>",
-    "id": "NCJ77Z34",
-    "position": 0
-  }
-]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -45,3 +33,16 @@ Initial test checkin
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "prefix": "<i>see also</i>",
+      "id": "NCJ77Z34",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

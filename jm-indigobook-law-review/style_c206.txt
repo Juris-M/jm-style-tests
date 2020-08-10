@@ -1,12 +1,6 @@
 >>===== MODE =====>>
-citation
+citation-suppress_trailing_punctuation
 <<===== MODE =====<<
-
->>===== OPTIONS =====>>
-{
-    "wrap_url_and_doi": true
-}
-<<===== OPTIONS =====<<
 
 >>===== KEYS =====>>
 [
@@ -19,19 +13,8 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Vikas Bajaj, <i>Rules for the Marijuana Market</i>, N.Y. Times, Aug. 5, 2014, at A20.
+Vikas Bajaj, <i>Rules for the Marijuana Market</i>, <span style="font-variant:small-caps;">N.Y. Times</span>, Aug. 5, 2014, at A20
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "id": "8PJM64JN",
-      "position": 0
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -60,3 +43,22 @@ Vikas Bajaj, <i>Rules for the Marijuana Market</i>, N.Y. Times, Aug. 5, 2014, at
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "8PJM64JN",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

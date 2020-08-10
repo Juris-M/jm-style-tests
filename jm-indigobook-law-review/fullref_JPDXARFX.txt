@@ -19,7 +19,7 @@ Short form of JPDXARFX z0049 z0015 71 z0016 82 z0176 101 z0177 104 109 118 121 z
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Y.B. Eur. Conv. on H.R.
+Y.B. Eur. Conv. on H.R
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

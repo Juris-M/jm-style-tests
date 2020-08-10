@@ -13,7 +13,7 @@ Short form of JBQUFACY z0049 87 z4288 249 101 z4317 308 z4332 z4333 104 z2467 z0
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-N.H. Code Admin. R. Ann. Med. 11.
+N.H. Code Admin. R. Ann. Med. 11
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

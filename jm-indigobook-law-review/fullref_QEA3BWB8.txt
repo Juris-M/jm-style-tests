@@ -13,7 +13,7 @@ Short form of QEA3BWB8 z0049 z0015 71 z2923 z0016 82 z2941 267 101 z2993 z3004 1
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Robinson v. State</i>, 68 OBJ 1379 (Okla. Crim. App. 1997).
+<i>Robinson v. State</i>, 68 OBJ 1379 (Okla. Crim. App. 1997)
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

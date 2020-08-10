@@ -1,5 +1,5 @@
 >>===== MODE =====>>
-citation
+citation-suppress_trailing_punctuation
 <<===== MODE =====<<
 
 >>===== KEYS =====>>
@@ -13,7 +13,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<span style="font-variant:small-caps;"><span style="font-variant:small-caps;">Graham C. Lilly</span> et al.</span>, <span style="font-variant:small-caps;">Principles of Evidence</span> 122 (6th ed. 2012).
+<span style="font-variant:small-caps;"><span style="font-variant:small-caps;">Graham C. Lilly</span> et al.</span>, <span style="font-variant:small-caps;">Principles of Evidence</span> 122 (6th ed. 2012)
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

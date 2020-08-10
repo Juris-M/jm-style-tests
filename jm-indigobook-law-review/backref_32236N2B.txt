@@ -13,7 +13,7 @@ Short form of 32236N2B z0049 z0015 71 z2243 z0016 82 z2261 267 101 z2313 z2324 1
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Smith v. Jones</i>, 600 N.W.2d 900.
+<i>Smith v. Jones</i>, 600 N.W.2d 900
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

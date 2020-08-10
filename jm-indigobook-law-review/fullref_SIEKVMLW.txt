@@ -13,7 +13,7 @@ Short form of SIEKVMLW z0049 87 z4288 z4291 101 z4317 300 z4320 z4323 311 z4325 
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Prop. Treas. Reg. 48 Fed. Reg. (Mar. 9, 1983).
+Prop. Treas. Reg. 48 Fed. Reg. (Mar. 9, 1983)
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

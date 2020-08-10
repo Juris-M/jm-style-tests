@@ -1,5 +1,5 @@
 >>===== MODE =====>>
-citation
+citation-suppress_trailing_punctuation
 <<===== MODE =====<<
 
 >>===== OPTIONS =====>>
@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Clinical Social Work Medicare Equality Act of 2001, S. 1083, 107th Cong. § 2(b) (2001).
+Clinical Social Work Medicare Equality Act of 2001, S. 1083, 107th Cong. § 2(b) (2001)
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

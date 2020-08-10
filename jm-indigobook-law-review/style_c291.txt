@@ -1,5 +1,5 @@
 >>===== MODE =====>>
-citation
+citation-suppress_trailing_punctuation
 <<===== MODE =====<<
 
 >>===== OPTIONS =====>>
@@ -19,7 +19,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Behavioral patterns of locusts, Inv. No. 13, USITC Pub. 15 (Apr. 1, 2000) (Review).
+Behavioral patterns of locusts, Inv. No. 13, USITC Pub. 15 (Apr. 1, 2000) (Review)
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>

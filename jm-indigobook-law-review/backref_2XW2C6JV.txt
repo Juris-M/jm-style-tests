@@ -13,7 +13,7 @@ Short form of 2XW2C6JV z0059 z0031 z0036 z0036 z0068 z0031 z0036 z0036
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-2006 L.N.T.S. 45.
+2006 L.N.T.S. 45
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

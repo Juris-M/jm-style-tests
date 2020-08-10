@@ -13,7 +13,7 @@ Short form of TL6UR24Z z0049 87 z4295 z4300 262 101 z4335 343 z4349 z4352 104 z0
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Tex. Agric. Code Ann. § 15.
+Tex. Agric. Code Ann. § 15
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

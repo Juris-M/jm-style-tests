@@ -13,7 +13,7 @@ Short form of NI4GXMY5 z0049 87 z4288 241 101 z4317 300 z4331 z4332 104 z4502 z0
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-23 Nev. Reg. Admin. Regs.
+23 Nev. Reg. Admin. Regs
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

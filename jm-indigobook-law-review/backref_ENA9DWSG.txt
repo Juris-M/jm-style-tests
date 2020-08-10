@@ -13,7 +13,7 @@ Short form of ENA9DWSG z0049 87 z4295 101 z4335 343 z4349 z4350 104 z4501 z0023 
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-89 Stat.
+89 Stat
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

@@ -13,7 +13,7 @@ Short form of JNLCWCGM z0049 87 z4316 296 101 z4395 104 109 118 121 z4417 z4452
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-U.S. Patent No. 8,112,504 B2 (filed Mar. 4, 2009).
+U.S. Patent No. 8,112,504 B2 (filed Mar. 4, 2009)
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

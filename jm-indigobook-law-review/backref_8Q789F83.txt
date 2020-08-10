@@ -13,7 +13,7 @@ Short form of 8Q789F83 z0055 z0031 z0035 z0035 z0068 z0031 z0035 z0035
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<span style="font-variant:small-caps;"><span style="font-variant:small-caps;">Lilly</span> et al.</span>, <i>supra</i>.
+<span style="font-variant:small-caps;"><span style="font-variant:small-caps;">Lilly</span> et al.</span>, <i>supra</i>
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

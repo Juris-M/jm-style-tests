@@ -13,7 +13,7 @@ Short form of E8V8HXM4 z0049 87 z4295 z4300 724 101 z4335 805 z4349 z4350 z4352 
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Wis. Stat. Ann.
+Wis. Stat. Ann
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>
