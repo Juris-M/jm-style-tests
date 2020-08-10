@@ -1,3 +1,6 @@
-[submodule "jm-indigobook-law-review-2"]
+[submodule "jsti-indigobook"]
 	path = jm-indigobook
 	url = git@github.com:Juris-M/jsti-indigobook.git
+[submodule "jsti-indigobook-law-review"]
+	path = jm-indigobook-law-review
+	url = git@github.com:Juris-M/jsti-indigobook-law-review.git
