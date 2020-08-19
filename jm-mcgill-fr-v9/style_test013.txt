@@ -1,0 +1,42 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "7Z5RXVCP"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test013
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+%%RESULT%%
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "post-weblog",
+    "title": "Le bilinguisme des juges à la Cour suprême du Canada : un exemple d’opposition à l’égalité formelle des deux langues officielles",
+    "author": [
+      {
+        "given": "Philippe",
+        "family": "Morin"
+      }
+    ],
+    "container-title": "Blogue sur les droits linguistiques",
+    "issued": {
+      "raw": "5-02-2018"
+    },
+    "URL": "https://tinyurl.com/y8jym2tv",
+    "language": "FR",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<

@@ -1,0 +1,44 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "QDH5MZDV"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test009
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+%%RESULT%%
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_case",
+    "title": "Charlo (Village) c Landry",
+    "authority": "court.queens.bench",
+    "page": "222",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          11,
+          28
+        ]
+      ]
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "archive": "CanLII",
+    "jurisdiction": "ca:nb"
+  }
+]
+<<===== INPUT =====<<

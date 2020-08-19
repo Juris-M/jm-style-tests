@@ -1,0 +1,45 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "8VAHCABT"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test008
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+%%RESULT%%
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_case",
+    "title": "R. c. Charron",
+    "authority": "superior.court",
+    "page": "968",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          3,
+          2
+        ]
+      ]
+    },
+    "language": "FR",
+    "note": "Library Catalog: CanLII",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "archive": "CanLII",
+    "jurisdiction": "ca:qc"
+  }
+]
+<<===== INPUT =====<<

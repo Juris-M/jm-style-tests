@@ -1,0 +1,58 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "MJD7ZGW5"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test006
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+%%RESULT%%
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_case",
+    "title": "Nation crie de Fox Lake c. Anderson",
+    "volume": "2",
+    "authority": "federal.court",
+    "page": "150",
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          12,
+          20
+        ]
+      ]
+    },
+    "URL": "http://canlii.ca/t/g2t8q",
+    "accessed": {
+      "date-parts": [
+        [
+          2020,
+          8,
+          6
+        ]
+      ]
+    },
+    "note": "Library Catalog: CanLII",
+    "multi": {
+      "main": {
+        "container-title": "en-CA"
+      },
+      "_keys": {}
+    },
+    "container-title": "Canadian Native Law Reporter",
+    "jurisdiction": "ca",
+    "collection-number": "2014"
+  }
+]
+<<===== INPUT =====<<

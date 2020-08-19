@@ -1,0 +1,47 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "XPTW463L"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test002
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+%%RESULT%%
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_case",
+    "title": "Conseil scolaire francophone de la Colombie-Britannique v. British Columbia (Education)",
+    "volume": "425",
+    "authority": "court.appeal",
+    "page": "230",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          7,
+          25
+        ]
+      ]
+    },
+    "shortTitle": "Conseil scolaire francophone",
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "archive": "CanLII",
+    "container-title": "DLR (4th)",
+    "jurisdiction": "ca:bc"
+  }
+]
+<<===== INPUT =====<<

@@ -1,0 +1,42 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "KLQILUFN"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test010
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+%%RESULT%%
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "report",
+    "title": "La modernisation de la loi sur les langues officielles : la perspective des communautés de langue officielle en situation minoritaire : Rapport provisoire du Comité sénatorial permanent des langues officielles",
+    "author": [
+      {
+        "literal": "Sénat"
+      }
+    ],
+    "publisher-place": "Ottawa",
+    "issued": {
+      "raw": "10-2018"
+    },
+    "URL": "https://tinyurl.com/y9x6nnlu",
+    "note": "(président : René Cormier)",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "authority": "Le Sénat du Canada"
+  }
+]
+<<===== INPUT =====<<

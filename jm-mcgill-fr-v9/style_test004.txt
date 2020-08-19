@@ -1,0 +1,46 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "DFICH5K5"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test004
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+%%RESULT%%
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_case",
+    "title": "Conseil scolaire francophone de la Colombie-Britannique v. British Columbia (Education)",
+    "authority": "court.appeal",
+    "page": "2836",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          7,
+          25
+        ]
+      ]
+    },
+    "shortTitle": "Conseil scolaire francophone",
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "container-title": "BCJ No",
+    "jurisdiction": "ca:bc",
+    "collection-number": "2018"
+  }
+]
+<<===== INPUT =====<<
