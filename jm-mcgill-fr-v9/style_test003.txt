@@ -16,9 +16,9 @@ should pass test style_test003
 FIRST
   <i>Thibodeau c Aéroport international d’Halifax</i>, 2018 FC 223 [<i>Thibodeau</i>].
 FIRST w/LOCATOR
-  <i>Thibodeau c Aéroport international d’Halifax</i>, 2018 FC 223, 123 [<i>Thibodeau</i>].
+  <i>Thibodeau c Aéroport international d’Halifax</i>, 2018 FC 223 123 [<i>Thibodeau</i>].
 FIRST w/LABEL
-  <i>Thibodeau c Aéroport international d’Halifax</i>, 2018 FC 223, au para 123 [<i>Thibodeau</i>].
+  <i>Thibodeau c Aéroport international d’Halifax</i>, 2018 FC 223 au para 123 [<i>Thibodeau</i>].
 IBID
   <i>Ibid</i>.
 IBID w/LOCATOR

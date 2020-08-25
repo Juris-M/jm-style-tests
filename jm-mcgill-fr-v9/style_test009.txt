@@ -13,7 +13,28 @@ should pass test style_test009
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-%%RESULT%%
+FIRST
+  <i>Charlo (Village) c Landry</i>, 2018 NBQB 222 [<i>Charlo (Village) c Landry</i>].
+FIRST w/LOCATOR
+  <i>Charlo (Village) c Landry</i>, 2018 NBQB 222 123 [<i>Charlo (Village) c Landry</i>].
+FIRST w/LABEL
+  <i>Charlo (Village) c Landry</i>, 2018 NBQB 222 au para 123 [<i>Charlo (Village) c Landry</i>].
+IBID
+  <i>Ibid</i>.
+IBID w/LOCATOR
+  <i>Ibid</i> at 123.
+SUBSEQUENT
+  <i>Charlo (Village) c Landry</i>.
+SUBSEQUENT w/LOCATOR
+  <i>Charlo (Village) c Landry</i>, <i>supra</i> 123.
+SUBSEQUENT w/BACKREF
+  <i>Charlo (Village) c Landry</i>, <i>supra</i> note 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  <i>Charlo (Village) c Landry</i>, <i>supra</i> note 1 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry"><i>Charlo (Village) c Landry</i>, 2018 NBQB 222.</div>
+</div>
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

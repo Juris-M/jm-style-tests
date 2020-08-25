@@ -13,7 +13,28 @@ should pass test style_test002
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-%%RESULT%%
+FIRST
+  <i>Conseil scolaire francophone de la Colombie-Britannique v British Columbia (Education)</i> (2018), 425 DLR (4th) 230 [<i>Conseil scolaire francophone</i>].
+FIRST w/LOCATOR
+  <i>Conseil scolaire francophone de la Colombie-Britannique v British Columbia (Education)</i> (2018), 425 DLR (4th) 230 123 [<i>Conseil scolaire francophone</i>].
+FIRST w/LABEL
+  <i>Conseil scolaire francophone de la Colombie-Britannique v British Columbia (Education)</i> (2018), 425 DLR (4th) 230 au para 123 [<i>Conseil scolaire francophone</i>].
+IBID
+  <i>Ibid</i>.
+IBID w/LOCATOR
+  <i>Ibid</i> at 123.
+SUBSEQUENT
+  <i>Conseil scolaire francophone</i>.
+SUBSEQUENT w/LOCATOR
+  <i>Conseil scolaire francophone</i>, <i>supra</i> 123.
+SUBSEQUENT w/BACKREF
+  <i>Conseil scolaire francophone</i>, <i>supra</i> note 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  <i>Conseil scolaire francophone</i>, <i>supra</i> note 1 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry"><i>Conseil scolaire francophone de la Colombie-Britannique v British Columbia (Education)</i> (2018), 425 DLR (4th) 230.</div>
+</div>
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>
