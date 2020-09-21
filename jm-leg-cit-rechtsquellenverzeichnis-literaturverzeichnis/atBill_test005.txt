@@ -1,0 +1,45 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "574YXPJA"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test005
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  ME StrafRÄG 2008 92/ME XIII. GP.
+FIRST w/LOCATOR
+  ME StrafRÄG 2008 92/ME XIII. GP 123.
+FIRST w/LABEL
+  ME StrafRÄG 2008 92/ME XIII. GP Abs 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">ME StrafRÄG 2008 92/ME XIII. GP.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "bill",
+    "title": "ME StrafRÄG 2008",
+    "number": "92/ME",
+    "chapter-number": "XIII.",
+    "language": "de",
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "jurisdiction": "at",
+    "genre": "GP"
+  }
+]
+<<===== INPUT =====<<

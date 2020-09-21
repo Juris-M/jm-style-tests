@@ -1,0 +1,90 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "P3FMMUBT",
+  "7RPL6N47"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Legal commentary
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  <i>Hippold</i> in Schwimann/Kodek, ABGB II<sup>4</sup> § 1313a; <i>Oberhammer</i> in Schwimann/Kodek, ABGB II<sup>4</sup> §364a.
+FIRST w/LOCATOR
+  <i>Hippold</i> in Schwimann/Kodek, ABGB II<sup>4</sup> § 1313a 123; <i>Oberhammer</i> in Schwimann/Kodek, ABGB II<sup>4</sup> §364a.
+FIRST w/LABEL
+  <i>Hippold</i> in Schwimann/Kodek, ABGB II<sup>4</sup> § 1313a Abs 123; <i>Oberhammer</i> in Schwimann/Kodek, ABGB II<sup>4</sup> §364a.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Schwimann/Kodek (Hg), ABGB II<sup>4</sup> (2012).</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "P3FMMUBT",
+    "type": "chapter",
+    "title": "§364a ABGB",
+    "author": [
+      {
+        "family": "Oberhammer"
+      }
+    ],
+    "editor": [
+      {
+        "family": "Schwimann"
+      },
+      {
+        "family": "Kodek"
+      }
+    ],
+    "container-title": "ABGB",
+    "volume": "II",
+    "edition": "4",
+    "issued": {
+      "raw": "2012"
+    },
+    "shortTitle": "§364a",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  },
+  {
+    "id": "7RPL6N47",
+    "type": "chapter",
+    "title": "§ 1313a ABGB",
+    "author": [
+      {
+        "family": "Hippold"
+      }
+    ],
+    "editor": [
+      {
+        "family": "Schwimann"
+      },
+      {
+        "family": "Kodek"
+      }
+    ],
+    "container-title": "ABGB",
+    "volume": "II",
+    "edition": "4",
+    "issued": {
+      "raw": "2012"
+    },
+    "shortTitle": "§ 1313a",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<

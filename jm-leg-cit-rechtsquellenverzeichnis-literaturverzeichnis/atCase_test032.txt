@@ -1,0 +1,49 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "FS45UHWB"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test035
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  VfGH G150/2018 ua.
+FIRST w/LOCATOR
+  VfGH G150/2018 ua, 123.
+FIRST w/LABEL
+  VfGH G150/2018 ua, Abs 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">VfGH 18.06.2019, G150/2018 ua.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_case",
+    "authority": "vfgh",
+    "number": "G150/2018 ua",
+    "issued": {
+      "literal": "18.06.2019",
+      "date-parts": [
+        [],
+        []
+      ]
+    },
+    "note": "DOI: ECLI:AT:VFGH:2019:G150.2018",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "jurisdiction": "at"
+  }
+]
+<<===== INPUT =====<<

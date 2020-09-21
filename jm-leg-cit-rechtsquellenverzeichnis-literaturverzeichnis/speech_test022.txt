@@ -1,0 +1,48 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "QS9FQAFM"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+No place given Rz 344
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  <i>Merli</i>, Die Zukunft der Verwaltung.
+FIRST w/LOCATOR
+  <i>Merli</i>, Die Zukunft der Verwaltung 123.
+FIRST w/LABEL
+  <i>Merli</i>, Die Zukunft der Verwaltung Abs 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry"><i>Merli</i>, Die Zukunft der Verwaltung – Antrittsvorlesung an der Universität Graz 20.5.2008.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "speech",
+    "title": "Die Zukunft der Verwaltung",
+    "author": [
+      {
+        "family": "Merli"
+      }
+    ],
+    "issued": {
+      "raw": "20.5.2008"
+    },
+    "event": "Antrittsvorlesung an der Universität Graz",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<
