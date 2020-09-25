@@ -19,6 +19,10 @@ FIRST w/LOCATOR
   Alker/Hölter (Hg), Literaturwissenschaft 123.
 FIRST w/LABEL
   Alker/Hölter (Hg), Literaturwissenschaft Abs 123.
+SUBSEQUENT
+  Alker/Hölter (Hg), Literaturwissenschaft.
+SUBSEQUENT w/LOCATOR
+  Alker/Hölter (Hg), Literaturwissenschaft 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry">Alker/Hölter (Hg), Literaturwissenschaft und Bibliotheken (2015) [Literaturwissenschaft].</div>

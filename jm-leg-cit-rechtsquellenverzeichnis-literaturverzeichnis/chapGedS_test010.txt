@@ -19,6 +19,10 @@ FIRST w/LOCATOR
   <i>Eberle</i> in GedS Martens 123.
 FIRST w/LABEL
   <i>Eberle</i> in GedS Martens Abs 123.
+SUBSEQUENT
+  <i>Eberle</i> in GedS Martens.
+SUBSEQUENT w/LOCATOR
+  <i>Eberle</i> in GedS Martens 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry"><i>Eberle</i>, Zum Verwertungsverbot für rechtswidrig erlangte Informationen im Verwaltungsverfahren, in Selmer/Münch (Hg), Gedächtnisschrift für Wolfgang Martens (1987) 351.</div>
@@ -32,14 +36,17 @@ BIBLIOGRAPHY
     "title": "Zum Verwertungsverbot für rechtswidrig erlangte Informationen im Verwaltungsverfahren",
     "author": [
       {
+        "given": "Carl-Eugen",
         "family": "Eberle"
       }
     ],
     "editor": [
       {
+        "given": "Peter",
         "family": "Selmer"
       },
       {
+        "given": "Ingo von",
         "family": "Münch"
       }
     ],

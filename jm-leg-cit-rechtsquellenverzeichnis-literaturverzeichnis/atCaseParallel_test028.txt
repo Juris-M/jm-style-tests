@@ -18,9 +18,13 @@ AT Case with parallel citations
 FIRST
   OGH 2 Ob 328/97t.
 FIRST w/LOCATOR
-  OGH 2 Ob 328/97t.
+  OGH 2 Ob 328/97t = SZ 71/21 (123).
 FIRST w/LABEL
+  OGH 2 Ob 328/97t = SZ 71/21 Abs 123.
+SUBSEQUENT
   OGH 2 Ob 328/97t.
+SUBSEQUENT w/LOCATOR
+  OGH 2 Ob 328/97t = SZ 71/21 (123).
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry">OGH 12.02.1998, 2 Ob 328/97t = SZ 71/21 = JBl 1999, 54 (<i>Karollus</i>) = ecolex 1998, 692 (<i>Wilhelm</i>).</div>
@@ -46,8 +50,8 @@ BIBLIOGRAPHY
     },
     "jurisdiction": "at",
     "seeAlso": [
-      "ITEM-2",
-      "ITEM-3"
+      "U4PGJ8LG",
+      "QBMTEHTJ"
     ]
   },
   {
@@ -80,8 +84,8 @@ BIBLIOGRAPHY
       ]
     },
     "seeAlso": [
-      "ITEM-1",
-      "ITEM-3"
+      "ILKFBEWH",
+      "QBMTEHTJ"
     ]
   },
   {
@@ -114,8 +118,8 @@ BIBLIOGRAPHY
       ]
     },
     "seeAlso": [
-      "ITEM-1",
-      "ITEM-2"
+      "ILKFBEWH",
+      "U4PGJ8LG"
     ]
   }
 ]

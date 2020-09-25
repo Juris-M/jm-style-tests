@@ -19,6 +19,10 @@ FIRST w/LOCATOR
   IGH, <i>Haya de la torre case (Colombia/Peru)</i>, Judgement, ICJ Reports 1951, 71 (123).
 FIRST w/LABEL
   IGH, <i>Haya de la torre case (Colombia/Peru)</i>, Judgement, ICJ Reports 1951, 71 Abs 123.
+SUBSEQUENT
+  IGH, <i>Haya de la torre case (Colombia/Peru)</i>, Judgement, ICJ Reports 1951, 71.
+SUBSEQUENT w/LOCATOR
+  IGH, <i>Haya de la torre case (Colombia/Peru)</i>, Judgement, ICJ Reports 1951, 71 (123).
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry">IGH, <i>Haya de la torre case (Colombia/Peru)</i>, Judgement, ICJ Reports 1951, 71.</div>

@@ -16,9 +16,13 @@ should pass test style_test034
 FIRST
   LG Feldkirch 2R247/18s.
 FIRST w/LOCATOR
-  LG Feldkirch 2R247/18s, 123.
+  LG Feldkirch 2R247/18s (123).
 FIRST w/LABEL
-  LG Feldkirch 2R247/18s, Abs 123.
+  LG Feldkirch 2R247/18s Abs 123.
+SUBSEQUENT
+  LG Feldkirch 2R247/18s.
+SUBSEQUENT w/LOCATOR
+  LG Feldkirch 2R247/18s (123).
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry">LG Feldkirch 29.11.2018, 2R247/18s.</div>

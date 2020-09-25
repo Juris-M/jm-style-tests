@@ -19,6 +19,10 @@ FIRST w/LOCATOR
   EuGH Rs C-139/11 (Moré/KLM) 123.
 FIRST w/LABEL
   EuGH Rs C-139/11 (Moré/KLM) Abs 123.
+SUBSEQUENT
+  EuGH Rs C-139/11 (Moré/KLM).
+SUBSEQUENT w/LOCATOR
+  EuGH Rs C-139/11 (Moré/KLM) 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry">EuGH 22.11.2012 Rs C-139/11 (Moré/KLM).</div>

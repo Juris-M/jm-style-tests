@@ -14,11 +14,15 @@ No author and title given Rz 343
 
 >>===== RESULT =====>>
 FIRST
-  Wiener Zeitung 2006.
+  Wiener Zeitung 15.06.2006, 5.
 FIRST w/LOCATOR
-  Wiener Zeitung 2006, 123.
+  Wiener Zeitung 15.06.2006, 5 (123).
 FIRST w/LABEL
-  Wiener Zeitung 2006, Abs 123.
+  Wiener Zeitung 15.06.2006, 5 Abs 123.
+SUBSEQUENT
+  Wiener Zeitung 15.06.2006, 5.
+SUBSEQUENT w/LOCATOR
+  Wiener Zeitung 15.06.2006, 5 (123).
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry">Wiener Zeitung 15.06.2006, 5.</div>

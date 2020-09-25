@@ -19,6 +19,10 @@ FIRST w/LOCATOR
   <i>Seiß</i>, Raum 60 (2005) 123.
 FIRST w/LABEL
   <i>Seiß</i>, Raum 60 (2005) Abs 123.
+SUBSEQUENT
+  <i>Seiß</i>, Raum 60 (2005).
+SUBSEQUENT w/LOCATOR
+  <i>Seiß</i>, Raum 60 (2005) 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry"><i>Seiß</i>, Von Kathedralen des Verkehrs zu Einkaufszentren mit Gleisanschluss, Raum 60 (2005) 20.</div>
