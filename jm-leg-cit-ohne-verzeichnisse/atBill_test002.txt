@@ -1,0 +1,48 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "7ZY4CZZ6"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test003
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  IA 18/A AB 14 BlgNR XIII. GP.
+FIRST w/LOCATOR
+  IA 18/A AB 14 BlgNR XIII. GP 123.
+FIRST w/LABEL
+  IA 18/A AB 14 BlgNR XIII. GP Abs 123.
+SUBSEQUENT
+  IA 18/A AB 14 BlgNR XIII. GP.
+SUBSEQUENT w/LOCATOR
+  IA 18/A AB 14 BlgNR XIII. GP 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "bill",
+    "title": "IA 18/A AB",
+    "number": "14 BlgNR",
+    "chapter-number": "XIII.",
+    "language": "de",
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "jurisdiction": "at",
+    "genre": "GP"
+  }
+]
+<<===== INPUT =====<<

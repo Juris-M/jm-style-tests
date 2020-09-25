@@ -1,0 +1,63 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "CIVHQBL8"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Legal commentary as looseleaf
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  <i>Kneihs/Lienbacher</i> in Korinek/Holoubek (Hg), B-VG (8. Lfg 2007) Art 142.
+FIRST w/LOCATOR
+  <i>Kneihs/Lienbacher</i> in Korinek/Holoubek (Hg), B-VG (8. Lfg 2007) Art 142, 123.
+FIRST w/LABEL
+  <i>Kneihs/Lienbacher</i> in Korinek/Holoubek (Hg), B-VG (8. Lfg 2007) Art 142 Abs 123.
+SUBSEQUENT
+  <i>Kneihs/Lienbacher</i> in Korinek/Holoubek, B-VG Art 142.
+SUBSEQUENT w/LOCATOR
+  <i>Kneihs/Lienbacher</i> in Korinek/Holoubek, B-VG Art 142, 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "chapter",
+    "title": "Art 142",
+    "commenter": [
+      {
+        "family": "Kneihs"
+      },
+      {
+        "family": "Lienbacher"
+      }
+    ],
+    "editor": [
+      {
+        "family": "Korinek"
+      },
+      {
+        "family": "Holoubek"
+      }
+    ],
+    "container-title": "B-VG",
+    "collection-number": "8. Lfg",
+    "issued": {
+      "raw": "2007"
+    },
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<

@@ -1,0 +1,53 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "DSYEKHBD"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Thesis
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  <i>Segalla</i>, Kommunale Versorgungsleistungen (Diss Univ Wien 2005) [Versorgungsleistungen].
+FIRST w/LOCATOR
+  <i>Segalla</i>, Kommunale Versorgungsleistungen (Diss Univ Wien 2005) 123 [Versorgungsleistungen].
+FIRST w/LABEL
+  <i>Segalla</i>, Kommunale Versorgungsleistungen (Diss Univ Wien 2005) Abs 123 [Versorgungsleistungen].
+SUBSEQUENT
+  <i>Segalla</i>, Versorgungsleistungen.
+SUBSEQUENT w/LOCATOR
+  <i>Segalla</i>, Versorgungsleistungen 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "thesis",
+    "title": "Kommunale Versorgungsleistungen",
+    "author": [
+      {
+        "family": "Segalla"
+      }
+    ],
+    "genre": "Diss",
+    "publisher": "Univ Wien",
+    "issued": {
+      "raw": "2005"
+    },
+    "shortTitle": "Versorgungsleistungen",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<
