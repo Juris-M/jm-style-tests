@@ -1,0 +1,54 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "ZLGU2JBQ"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Court composition in Case Type
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  OGH (verst Senat) 11.09.2012, 6 Ob 24/11i [„AGB und Unterlassungserklärung“].
+FIRST w/LOCATOR
+  OGH (verst Senat) 11.09.2012, 6 Ob 24/11i, 123 [„AGB und Unterlassungserklärung“].
+FIRST w/LABEL
+  OGH (verst Senat) 11.09.2012, 6 Ob 24/11i Abs 123 [„AGB und Unterlassungserklärung“].
+SUBSEQUENT
+  OGH (verst Senat) 6 Ob 24/11i.
+SUBSEQUENT w/LOCATOR
+  OGH (verst Senat) 6 Ob 24/11i, 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_case",
+    "title": "„AGB und Unterlassungserklärung“",
+    "authority": "ogh",
+    "number": "6 Ob 24/11i",
+    "issued": {
+      "literal": "11.09.2012",
+      "date-parts": [
+        [],
+        []
+      ]
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "jurisdiction": "at",
+    "division": "verst Senat"
+  }
+]
+<<===== INPUT =====<<

@@ -1,0 +1,60 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "ASLHPIHN"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test011
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  <i>Merkl</i>, Prolegomena zu einer Theorie des rechtlichen Stufenbaus, in Verdroß (Hg), Gesellschaft, Staat und Recht – FS Kelsen (1931) 252.
+FIRST w/LOCATOR
+  <i>Merkl</i>, Prolegomena zu einer Theorie des rechtlichen Stufenbaus, in Verdroß (Hg), Gesellschaft, Staat und Recht – FS Kelsen (1931) 252 (123).
+FIRST w/LABEL
+  <i>Merkl</i>, Prolegomena zu einer Theorie des rechtlichen Stufenbaus, in Verdroß (Hg), Gesellschaft, Staat und Recht – FS Kelsen (1931) 252 Abs 123.
+SUBSEQUENT
+  <i>Merkl</i> in FS Kelsen.
+SUBSEQUENT w/LOCATOR
+  <i>Merkl</i> in FS Kelsen 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "chapter",
+    "title": "Prolegomena zu einer Theorie des rechtlichen Stufenbaus",
+    "author": [
+      {
+        "family": "Merkl"
+      }
+    ],
+    "editor": [
+      {
+        "family": "Verdroß"
+      }
+    ],
+    "container-title": "Gesellschaft, Staat und Recht – FS Kelsen",
+    "issued": {
+      "raw": "1931"
+    },
+    "page": "252",
+    "language": "de",
+    "shortTitle": "Stufenbau",
+    "note": "container-title-short: FS Kelsen",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<

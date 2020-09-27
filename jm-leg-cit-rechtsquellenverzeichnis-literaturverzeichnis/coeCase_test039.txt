@@ -1,0 +1,57 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "66U96BY2"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test039
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  EKMR 1474/62 ea (Belgischer Sprachenfall).
+FIRST w/LOCATOR
+  EKMR 1474/62 ea (Belgischer Sprachenfall) 123.
+FIRST w/LABEL
+  EKMR 1474/62 ea (Belgischer Sprachenfall) Abs 123.
+SUBSEQUENT
+  EKMR 1474/62 ea (Belgischer Sprachenfall).
+SUBSEQUENT w/LOCATOR
+  EKMR 1474/62 ea (Belgischer Sprachenfall) 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">EKMR (rap) 24.06.1965, 1474/62 ea (Belgischer Sprachenfall).</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_case",
+    "title": "Belgischer Sprachenfall",
+    "authority": "commission.human.rights",
+    "number": "1474/62 ea",
+    "issued": {
+      "date-parts": [
+        [
+          1965,
+          6,
+          24
+        ]
+      ]
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "jurisdiction": "coe.int",
+    "genre": "rap"
+  }
+]
+<<===== INPUT =====<<

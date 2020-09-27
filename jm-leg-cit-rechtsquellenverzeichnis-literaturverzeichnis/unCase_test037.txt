@@ -1,0 +1,59 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "ZT6GYEWM"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test037
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  PCA, <i>Dispute concerning access to information under article 9 of the OSPAR Convention (Ireland v. United Kingdom)</i>, Final Award, 02.07.2003, 23 RIAA 59.
+FIRST w/LOCATOR
+  PCA, <i>Dispute concerning access to information under article 9 of the OSPAR Convention (Ireland v. United Kingdom)</i>, Final Award, 02.07.2003, 23 RIAA 59 (123).
+FIRST w/LABEL
+  PCA, <i>Dispute concerning access to information under article 9 of the OSPAR Convention (Ireland v. United Kingdom)</i>, Final Award, 02.07.2003, 23 RIAA 59 Absatz 123.
+SUBSEQUENT
+  PCA, <i>Dispute concerning access to information under article 9 of the OSPAR Convention (Ireland v. United Kingdom)</i>, Final Award, 02.07.2003, 23 RIAA 59.
+SUBSEQUENT w/LOCATOR
+  PCA, <i>Dispute concerning access to information under article 9 of the OSPAR Convention (Ireland v. United Kingdom)</i>, Final Award, 02.07.2003, 23 RIAA 59 (123).
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">PCA, <i>Dispute concerning access to information under article 9 of the OSPAR Convention (Ireland v. United Kingdom)</i>, Final Award, 02.07.2003, 23 RIAA 59 (Permanent Court of Arbitration 2003).</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_case",
+    "title": "Dispute concerning access to information under article 9 of the OSPAR Convention (Ireland v. United Kingdom)",
+    "volume": "23",
+    "authority": "pca",
+    "page": "59",
+    "issued": {
+      "date-parts": [
+        [
+          2003,
+          7,
+          2
+        ]
+      ]
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "container-title": "RIAA",
+    "jurisdiction": "un.int",
+    "genre": "Final Award"
+  }
+]
+<<===== INPUT =====<<

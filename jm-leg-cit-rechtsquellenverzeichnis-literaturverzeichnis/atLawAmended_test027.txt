@@ -1,0 +1,80 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "ITEM-1",
+  "TQGQIGTG"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Austrian law with amended version, title and short
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  SchUG; SchUG.
+FIRST w/LOCATOR
+  123 SchUG; SchUG.
+FIRST w/LABEL
+  Abs 123 SchUG; SchUG.
+SUBSEQUENT
+  SchUG; SchUG.
+SUBSEQUENT w/LOCATOR
+  123 SchUG; SchUG.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Schulunterrichtsgesetz, BGBl 472/1986 idF BGBl I 80/2020 [SchUG].</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "ITEM-1",
+    "type": "legislation",
+    "title": "Schulunterrichtsgesetz",
+    "container-title": "BGBl",
+    "volume": "472",
+    "issued": {
+      "date-parts": [
+        [
+          1986
+        ]
+      ]
+    },
+    "references": "BGBl I 80/2020",
+    "shortTitle": "SchUG",
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "jurisdiction": "at"
+  },
+  {
+    "id": "TQGQIGTG",
+    "type": "legislation",
+    "title": "Schulunterrichtsgesetz",
+    "container-title": "BGBl",
+    "volume": "472",
+    "issued": {
+      "date-parts": [
+        [
+          1986
+        ]
+      ]
+    },
+    "references": "BGBl I 117/2008",
+    "shortTitle": "SchUG",
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "jurisdiction": "at"
+  }
+]
+<<===== INPUT =====<<

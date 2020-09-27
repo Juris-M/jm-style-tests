@@ -1,0 +1,52 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "BEGZEYBP"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+No vol or iss number Rz 337
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  <i>Rummel</i>, Anmerkungen zum gemeinsamen Irrtum und zur Geschäftsgrundlage, JBl 1981, 1.
+FIRST w/LOCATOR
+  <i>Rummel</i>, Anmerkungen zum gemeinsamen Irrtum und zur Geschäftsgrundlage, JBl 1981, 1 (123).
+FIRST w/LABEL
+  <i>Rummel</i>, Anmerkungen zum gemeinsamen Irrtum und zur Geschäftsgrundlage, JBl 1981, 1 Abs 123.
+SUBSEQUENT
+  <i>Rummel</i>, JBl 1981.
+SUBSEQUENT w/LOCATOR
+  <i>Rummel</i>, JBl 1981, 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "article-journal",
+    "title": "Anmerkungen zum gemeinsamen Irrtum und zur Geschäftsgrundlage",
+    "author": [
+      {
+        "family": "Rummel"
+      }
+    ],
+    "container-title": "JBl",
+    "page": "1",
+    "issued": {
+      "raw": "1981"
+    },
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<

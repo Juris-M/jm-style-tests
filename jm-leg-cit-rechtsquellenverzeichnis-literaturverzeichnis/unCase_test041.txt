@@ -1,0 +1,56 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "CE2YR82V"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test041
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  IGH, <i>Maritime delimitation in the Indian Ocean (Somalia v Kenya)</i>, Preliminary Objections, Judgement, 02.02.2017.
+FIRST w/LOCATOR
+  IGH, <i>Maritime delimitation in the Indian Ocean (Somalia v Kenya)</i>, Preliminary Objections, Judgement, 02.02.2017, 123.
+FIRST w/LABEL
+  IGH, <i>Maritime delimitation in the Indian Ocean (Somalia v Kenya)</i>, Preliminary Objections, Judgement, 02.02.2017 Abs 123.
+SUBSEQUENT
+  IGH, <i>Maritime delimitation in the Indian Ocean (Somalia v Kenya)</i>, Preliminary Objections, Judgement, 02.02.2017.
+SUBSEQUENT w/LOCATOR
+  IGH, <i>Maritime delimitation in the Indian Ocean (Somalia v Kenya)</i>, Preliminary Objections, Judgement, 02.02.2017, 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">IGH, <i>Maritime delimitation in the Indian Ocean (Somalia v Kenya)</i>, Preliminary Objections, Judgement, 02.02.2017.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_case",
+    "title": "Maritime delimitation in the Indian Ocean (Somalia v Kenya)",
+    "authority": "icj",
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          2,
+          2
+        ]
+      ]
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "jurisdiction": "un.int",
+    "genre": "Preliminary Objections, Judgement"
+  }
+]
+<<===== INPUT =====<<

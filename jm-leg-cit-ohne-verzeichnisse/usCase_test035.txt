@@ -1,0 +1,57 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "WTN385KW"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test038
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  Florida Bar v. Went For It, Inc., 515 U.S. 618 (1995).
+FIRST w/LOCATOR
+  Florida Bar v. Went For It, Inc., 515 U.S. 618 123 (1995).
+FIRST w/LABEL
+  Florida Bar v. Went For It, Inc., 515 U.S. 618 Absatz 123 (1995).
+SUBSEQUENT
+  <i>Florida Bar v. Went For It, Inc.</i>, 515 U.S. 618.
+SUBSEQUENT w/LOCATOR
+  <i>Florida Bar v. Went For It, Inc.</i>, 515 U.S. 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_case",
+    "title": "Florida Bar v. Went For It, Inc.",
+    "volume": "515",
+    "authority": "supreme.court",
+    "page": "618",
+    "issued": {
+      "date-parts": [
+        [
+          1995,
+          6,
+          21
+        ]
+      ]
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "container-title": "U.S.",
+    "jurisdiction": "us"
+  }
+]
+<<===== INPUT =====<<
