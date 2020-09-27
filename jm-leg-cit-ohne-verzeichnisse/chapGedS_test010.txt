@@ -20,9 +20,9 @@ FIRST w/LOCATOR
 FIRST w/LABEL
   <i>Eberle</i>, Zum Verwertungsverbot für rechtswidrig erlangte Informationen im Verwaltungsverfahren, in Selmer/Münch (Hg), Gedächtnisschrift für Wolfgang Martens (1987) 351 Abs 123.
 SUBSEQUENT
-  <i>Eberle</i>, Zum Verwertungsverbot für rechtswidrig erlangte Informationen im Verwaltungsverfahren, in GedS Martens 351.
+  <i>Eberle</i> in GedS Martens.
 SUBSEQUENT w/LOCATOR
-  <i>Eberle</i>, Zum Verwertungsverbot für rechtswidrig erlangte Informationen im Verwaltungsverfahren, in GedS Martens 351 (123).
+  <i>Eberle</i> in GedS Martens 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
 </div>

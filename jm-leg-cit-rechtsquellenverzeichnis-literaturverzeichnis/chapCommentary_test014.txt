@@ -34,9 +34,9 @@ BIBLIOGRAPHY
 [
   {
     "id": "P3FMMUBT",
-    "type": "chapter",
+    "type": "legal_commentary",
     "title": "§364a ABGB",
-    "commenter": [
+    "author": [
       {
         "family": "Oberhammer"
       }
@@ -63,9 +63,9 @@ BIBLIOGRAPHY
   },
   {
     "id": "7RPL6N47",
-    "type": "chapter",
+    "type": "legal_commentary",
     "title": "§ 1313a ABGB",
-    "commenter": [
+    "author": [
       {
         "family": "Hippold"
       }

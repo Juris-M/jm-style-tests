@@ -32,7 +32,7 @@ BIBLIOGRAPHY
 >>===== INPUT =====>>
 [
   {
-    "type": "chapter",
+    "type": "legal_commentary",
     "title": "Art 142",
     "author": [
       {

@@ -23,9 +23,9 @@ Legal commentary
 [
   {
     "id": "P3FMMUBT",
-    "type": "chapter",
+    "type": "legal_commentary",
     "title": "§364a ABGB",
-    "commenter": [
+    "author": [
       {
         "family": "Oberhammer"
       }
@@ -52,9 +52,9 @@ Legal commentary
   },
   {
     "id": "7RPL6N47",
-    "type": "chapter",
+    "type": "legal_commentary",
     "title": "§ 1313a ABGB",
-    "commenter": [
+    "author": [
       {
         "family": "Hippold"
       }
@@ -93,9 +93,9 @@ Legal commentary
           "id": "P3FMMUBT",
           "item": {
             "id": "P3FMMUBT",
-            "type": "chapter",
+            "type": "legal_commentary",
             "title": "§364a ABGB",
-            "commenter": [
+            "author": [
               {
                 "family": "Oberhammer",
                 "given": ""
@@ -122,7 +122,7 @@ Legal commentary
               "main": {},
               "_keys": {}
             },
-            "chapters_id": "chapter::ABGB",
+            "container_id": "legal_commentary::ABGB::4",
             "title-short": "§364a",
             "title-main": "§364a ABGB",
             "title-sub": "",
@@ -138,9 +138,9 @@ Legal commentary
         [
           {
             "id": "P3FMMUBT",
-            "type": "chapter",
+            "type": "legal_commentary",
             "title": "§364a ABGB",
-            "commenter": [
+            "author": [
               {
                 "family": "Oberhammer",
                 "given": ""
@@ -167,7 +167,7 @@ Legal commentary
               "main": {},
               "_keys": {}
             },
-            "chapters_id": "chapter::ABGB",
+            "container_id": "legal_commentary::ABGB::4",
             "title-short": "§364a",
             "title-main": "§364a ABGB",
             "title-sub": "",
@@ -175,7 +175,45 @@ Legal commentary
           },
           {
             "id": "P3FMMUBT",
+            "item": {
+              "id": "P3FMMUBT",
+              "type": "legal_commentary",
+              "title": "§364a ABGB",
+              "commenter": [
+                {
+                  "family": "Oberhammer",
+                  "given": ""
+                }
+              ],
+              "editor": [
+                {
+                  "family": "Schwimann",
+                  "given": ""
+                },
+                {
+                  "family": "Kodek",
+                  "given": ""
+                }
+              ],
+              "container-title": "ABGB",
+              "volume": "II",
+              "edition": "4",
+              "issued": {
+                "year": 2012
+              },
+              "shortTitle": "§364a",
+              "multi": {
+                "main": {},
+                "_keys": {}
+              },
+              "chapters_id": "chapter::ABGB",
+              "title-short": "§364a",
+              "title-main": "§364a ABGB",
+              "title-sub": "",
+              "title-subjoin": ""
+            },
             "first-reference-note-number": 0,
+            "first-container-reference-note-number": 0,
             "near-note": false,
             "position": 0,
             "section_form_override": "short",
@@ -195,9 +233,9 @@ Legal commentary
           "id": "7RPL6N47",
           "item": {
             "id": "7RPL6N47",
-            "type": "chapter",
+            "type": "legal_commentary",
             "title": "§ 1313a ABGB",
-            "commenter": [
+            "author": [
               {
                 "family": "Hippold",
                 "given": ""
@@ -224,7 +262,7 @@ Legal commentary
               "main": {},
               "_keys": {}
             },
-            "chapters_id": "chapter::ABGB",
+            "container_id": "legal_commentary::ABGB::4",
             "title-short": "§ 1313a",
             "title-main": "§ 1313a ABGB",
             "title-sub": "",
@@ -235,9 +273,9 @@ Legal commentary
           "id": "7RPL6N47",
           "item": {
             "id": "7RPL6N47",
-            "type": "chapter",
+            "type": "legal_commentary",
             "title": "§ 1313a ABGB",
-            "commenter": [
+            "author": [
               {
                 "family": "Hippold",
                 "given": ""
@@ -264,7 +302,7 @@ Legal commentary
               "main": {},
               "_keys": {}
             },
-            "chapters_id": "chapter::ABGB",
+            "container_id": "legal_commentary::ABGB::4",
             "title-short": "§ 1313a",
             "title-main": "§ 1313a ABGB",
             "title-sub": "",
@@ -280,9 +318,9 @@ Legal commentary
         [
           {
             "id": "7RPL6N47",
-            "type": "chapter",
+            "type": "legal_commentary",
             "title": "§ 1313a ABGB",
-            "commenter": [
+            "author": [
               {
                 "family": "Hippold",
                 "given": ""
@@ -309,7 +347,7 @@ Legal commentary
               "main": {},
               "_keys": {}
             },
-            "chapters_id": "chapter::ABGB",
+            "container_id": "legal_commentary::ABGB::4",
             "title-short": "§ 1313a",
             "title-main": "§ 1313a ABGB",
             "title-sub": "",
@@ -317,18 +355,56 @@ Legal commentary
           },
           {
             "id": "7RPL6N47",
+            "item": {
+              "id": "7RPL6N47",
+              "type": "chapter",
+              "title": "§ 1313a ABGB",
+              "commenter": [
+                {
+                  "family": "Hippold",
+                  "given": ""
+                }
+              ],
+              "editor": [
+                {
+                  "family": "Schwimann",
+                  "given": ""
+                },
+                {
+                  "family": "Kodek",
+                  "given": ""
+                }
+              ],
+              "container-title": "ABGB",
+              "volume": "II",
+              "edition": "4",
+              "issued": {
+                "year": 2012
+              },
+              "shortTitle": "§ 1313a",
+              "multi": {
+                "main": {},
+                "_keys": {}
+              },
+              "chapters_id": "chapter::ABGB",
+              "title-short": "§ 1313a",
+              "title-main": "§ 1313a ABGB",
+              "title-sub": "",
+              "title-subjoin": ""
+            },
+            "first-reference-note-number": 0,
+            "first-container-reference-note-number": 1,
             "near-note": true,
-            "position": 1,
-            "real_subsequent": false,
+            "position": 4,
             "section_form_override": "short"
           }
         ],
         [
           {
             "id": "7RPL6N47",
-            "type": "chapter",
+            "type": "legal_commentary",
             "title": "§ 1313a ABGB",
-            "commenter": [
+            "author": [
               {
                 "family": "Hippold",
                 "given": ""
@@ -355,7 +431,7 @@ Legal commentary
               "main": {},
               "_keys": {}
             },
-            "chapters_id": "chapter::ABGB",
+            "container_id": "legal_commentary::ABGB::4",
             "title-short": "§ 1313a",
             "title-main": "§ 1313a ABGB",
             "title-sub": "",
@@ -363,6 +439,45 @@ Legal commentary
           },
           {
             "id": "7RPL6N47",
+            "item": {
+              "id": "7RPL6N47",
+              "type": "chapter",
+              "title": "§ 1313a ABGB",
+              "commenter": [
+                {
+                  "family": "Hippold",
+                  "given": ""
+                }
+              ],
+              "editor": [
+                {
+                  "family": "Schwimann",
+                  "given": ""
+                },
+                {
+                  "family": "Kodek",
+                  "given": ""
+                }
+              ],
+              "container-title": "ABGB",
+              "volume": "II",
+              "edition": "4",
+              "issued": {
+                "year": 2012
+              },
+              "shortTitle": "§ 1313a",
+              "multi": {
+                "main": {},
+                "_keys": {}
+              },
+              "chapters_id": "chapter::ABGB",
+              "title-short": "§ 1313a",
+              "title-main": "§ 1313a ABGB",
+              "title-sub": "",
+              "title-subjoin": ""
+            },
+            "first-reference-note-number": 0,
+            "first-container-reference-note-number": 1,
             "near-note": true,
             "position": 2,
             "section_form_override": "short"
@@ -386,9 +501,9 @@ Legal commentary
           "id": "P3FMMUBT",
           "item": {
             "id": "P3FMMUBT",
-            "type": "chapter",
+            "type": "legal_commentary",
             "title": "§364a ABGB",
-            "commenter": [
+            "author": [
               {
                 "family": "Oberhammer",
                 "given": ""
@@ -415,7 +530,7 @@ Legal commentary
               "main": {},
               "_keys": {}
             },
-            "chapters_id": "chapter::ABGB",
+            "container_id": "legal_commentary::ABGB::4",
             "title-short": "§364a",
             "title-main": "§364a ABGB",
             "title-sub": "",
@@ -431,9 +546,9 @@ Legal commentary
         [
           {
             "id": "P3FMMUBT",
-            "type": "chapter",
+            "type": "legal_commentary",
             "title": "§364a ABGB",
-            "commenter": [
+            "author": [
               {
                 "family": "Oberhammer",
                 "given": ""
@@ -460,7 +575,7 @@ Legal commentary
               "main": {},
               "_keys": {}
             },
-            "chapters_id": "chapter::ABGB",
+            "container_id": "legal_commentary::ABGB::4",
             "title-short": "§364a",
             "title-main": "§364a ABGB",
             "title-sub": "",
@@ -468,10 +583,47 @@ Legal commentary
           },
           {
             "id": "P3FMMUBT",
+            "item": {
+              "id": "P3FMMUBT",
+              "type": "chapter",
+              "title": "§364a ABGB",
+              "commenter": [
+                {
+                  "family": "Oberhammer",
+                  "given": ""
+                }
+              ],
+              "editor": [
+                {
+                  "family": "Schwimann",
+                  "given": ""
+                },
+                {
+                  "family": "Kodek",
+                  "given": ""
+                }
+              ],
+              "container-title": "ABGB",
+              "volume": "II",
+              "edition": "4",
+              "issued": {
+                "year": 2012
+              },
+              "shortTitle": "§364a",
+              "multi": {
+                "main": {},
+                "_keys": {}
+              },
+              "chapters_id": "chapter::ABGB",
+              "title-short": "§364a",
+              "title-main": "§364a ABGB",
+              "title-sub": "",
+              "title-subjoin": ""
+            },
             "first-reference-note-number": 1,
+            "first-container-reference-note-number": 1,
             "near-note": true,
             "position": 1,
-            "real_subsequent": true,
             "section_form_override": "short"
           }
         ]

@@ -22,7 +22,7 @@ FIRST w/LABEL
 SUBSEQUENT
   <i>Kneihs/Lienbacher</i> in Korinek/Holoubek, B-VG Art 142.
 SUBSEQUENT w/LOCATOR
-  <i>Kneihs/Lienbacher</i> in Korinek/Holoubek, B-VG Art 142, 123.
+  <i>Kneihs/Lienbacher</i> in Korinek/Holoubek, B-VG Art 142 (123).
 BIBLIOGRAPHY
 <div class="csl-bib-body">
 </div>
@@ -31,9 +31,9 @@ BIBLIOGRAPHY
 >>===== INPUT =====>>
 [
   {
-    "type": "chapter",
+    "type": "legal_commentary",
     "title": "Art 142",
-    "commenter": [
+    "author": [
       {
         "family": "Kneihs"
       },

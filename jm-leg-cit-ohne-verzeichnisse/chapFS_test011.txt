@@ -20,9 +20,9 @@ FIRST w/LOCATOR
 FIRST w/LABEL
   <i>Merkl</i>, Prolegomena zu einer Theorie des rechtlichen Stufenbaus, in Verdroß (Hg), Gesellschaft, Staat und Recht – FS Kelsen (1931) 252 Abs 123.
 SUBSEQUENT
-  <i>Merkl</i>, Prolegomena zu einer Theorie des rechtlichen Stufenbaus, in FS Kelsen 252.
+  <i>Merkl</i> in FS Kelsen.
 SUBSEQUENT w/LOCATOR
-  <i>Merkl</i>, Prolegomena zu einer Theorie des rechtlichen Stufenbaus, in FS Kelsen 252 (123).
+  <i>Merkl</i> in FS Kelsen 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
 </div>
