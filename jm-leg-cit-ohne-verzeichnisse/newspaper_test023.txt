@@ -16,7 +16,7 @@ Author and title given Rz 343
 FIRST
   <i>Kommenda</i>, Höchstgericht – Mieter für Reparatur bestraft, Die Presse 16.01.2014.
 FIRST w/LOCATOR
-  <i>Kommenda</i>, Höchstgericht – Mieter für Reparatur bestraft, Die Presse 16.01.2014 123.
+  <i>Kommenda</i>, Höchstgericht – Mieter für Reparatur bestraft, Die Presse 16.01.2014, 123.
 FIRST w/LABEL
   <i>Kommenda</i>, Höchstgericht – Mieter für Reparatur bestraft, Die Presse 16.01.2014 Abs 123.
 SUBSEQUENT

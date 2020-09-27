@@ -16,13 +16,13 @@ Court composition in Case Type
 FIRST
   OGH (verst Senat) 11.09.2012, 6 Ob 24/11i [„AGB und Unterlassungserklärung“].
 FIRST w/LOCATOR
-  OGH (verst Senat) 11.09.2012, 6 Ob 24/11i (123) [„AGB und Unterlassungserklärung“].
+  OGH (verst Senat) 11.09.2012, 6 Ob 24/11i, 123 [„AGB und Unterlassungserklärung“].
 FIRST w/LABEL
   OGH (verst Senat) 11.09.2012, 6 Ob 24/11i Abs 123 [„AGB und Unterlassungserklärung“].
 SUBSEQUENT
   OGH (verst Senat) 6 Ob 24/11i.
 SUBSEQUENT w/LOCATOR
-  OGH (verst Senat) 6 Ob 24/11i (123).
+  OGH (verst Senat) 6 Ob 24/11i, 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
 </div>

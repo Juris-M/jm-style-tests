@@ -16,13 +16,13 @@ Austrian case with reporter
 FIRST
   OGH 4 Ob 8/11x = EvBl 2011/96.
 FIRST w/LOCATOR
-  OGH 4 Ob 8/11x = EvBl 2011/96 (123).
+  OGH 4 Ob 8/11x = EvBl 2011/96, 123.
 FIRST w/LABEL
   OGH 4 Ob 8/11x = EvBl 2011/96 Abs 123.
 SUBSEQUENT
   OGH 4 Ob 8/11x.
 SUBSEQUENT w/LOCATOR
-  OGH 4 Ob 8/11x = EvBl 2011/96 (123).
+  OGH 4 Ob 8/11x = EvBl 2011/96, 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
 </div>

@@ -16,13 +16,13 @@ should pass test style_test041
 FIRST
   IGH, <i>Maritime delimitation in the Indian Ocean (Somalia v Kenya)</i>, Preliminary Objections, Judgement, 02.02.2017.
 FIRST w/LOCATOR
-  IGH, <i>Maritime delimitation in the Indian Ocean (Somalia v Kenya)</i>, Preliminary Objections, Judgement, 02.02.2017 (123).
+  IGH, <i>Maritime delimitation in the Indian Ocean (Somalia v Kenya)</i>, Preliminary Objections, Judgement, 02.02.2017, 123.
 FIRST w/LABEL
   IGH, <i>Maritime delimitation in the Indian Ocean (Somalia v Kenya)</i>, Preliminary Objections, Judgement, 02.02.2017 Abs 123.
 SUBSEQUENT
   IGH, <i>Maritime delimitation in the Indian Ocean (Somalia v Kenya)</i>, Preliminary Objections, Judgement, 02.02.2017.
 SUBSEQUENT w/LOCATOR
-  IGH, <i>Maritime delimitation in the Indian Ocean (Somalia v Kenya)</i>, Preliminary Objections, Judgement, 02.02.2017 (123).
+  IGH, <i>Maritime delimitation in the Indian Ocean (Somalia v Kenya)</i>, Preliminary Objections, Judgement, 02.02.2017, 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
 </div>
