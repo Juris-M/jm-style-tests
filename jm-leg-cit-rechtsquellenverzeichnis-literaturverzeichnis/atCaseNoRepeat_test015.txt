@@ -17,13 +17,9 @@ Test no-repeat court name
 FIRST
   OGH 6 Ob 24/11i; 4 Ob 8/11x.
 FIRST w/LOCATOR
-  OGH 6 Ob 24/11i, 123; 4 Ob 8/11x.
+  OGH 6 Ob 24/11i 123; 4 Ob 8/11x.
 FIRST w/LABEL
   OGH 6 Ob 24/11i Abs 123; 4 Ob 8/11x.
-SUBSEQUENT
-  OGH 6 Ob 24/11i; 4 Ob 8/11x.
-SUBSEQUENT w/LOCATOR
-  OGH 6 Ob 24/11i, 123; 4 Ob 8/11x.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry">OGH 11.09.2012, 6 Ob 24/11i [„AGB und Unterlassungserklärung“].</div>

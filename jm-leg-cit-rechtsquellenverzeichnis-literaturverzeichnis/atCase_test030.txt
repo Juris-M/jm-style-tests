@@ -16,13 +16,9 @@ should pass test style_test033
 FIRST
   BG Melk 5C1296/05y.
 FIRST w/LOCATOR
-  BG Melk 5C1296/05y, 123.
+  BG Melk 5C1296/05y 123.
 FIRST w/LABEL
   BG Melk 5C1296/05y Abs 123.
-SUBSEQUENT
-  BG Melk 5C1296/05y.
-SUBSEQUENT w/LOCATOR
-  BG Melk 5C1296/05y, 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry">BG Melk 21.09.2005, 5C1296/05y.</div>

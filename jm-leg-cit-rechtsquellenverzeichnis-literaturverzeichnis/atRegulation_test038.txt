@@ -19,10 +19,6 @@ FIRST w/LOCATOR
   123 Erfolgsrechnung zusPV.
 FIRST w/LABEL
   Abs 123 Erfolgsrechnung zusPV.
-SUBSEQUENT
-  Erfolgsrechnung zusPV.
-SUBSEQUENT w/LOCATOR
-  123 Erfolgsrechnung zusPV.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry">Erfolgsrechnung zusPV PI Linz AG, avsv 66/2020.</div>
