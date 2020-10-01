@@ -16,9 +16,9 @@ should pass test style_test038
 FIRST
   Florida Bar v. Went For It, Inc., 515 U.S. 618 (1995).
 FIRST w/LOCATOR
-  Florida Bar v. Went For It, Inc., 515 U.S. 618 123 (1995).
+  Florida Bar v. Went For It, Inc., 515 U.S. 618 (123) (1995).
 FIRST w/LABEL
-  Florida Bar v. Went For It, Inc., 515 U.S. 618 Absatz 123 (1995).
+  Florida Bar v. Went For It, Inc., 515 U.S. 618 Abs 123 (1995).
 SUBSEQUENT
   <i>Florida Bar v. Went For It, Inc.</i>, 515 U.S. 618.
 SUBSEQUENT w/LOCATOR
