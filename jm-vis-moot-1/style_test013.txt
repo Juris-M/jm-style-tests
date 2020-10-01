@@ -1,0 +1,79 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "T8RINA36"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test013
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  [Schlechtriem in Schlechtriem/Schwenzer]
+FIRST w/LOCATOR
+  [Schlechtriem in Schlechtriem/Schwenzer, p. 123]
+FIRST w/LABEL
+  [Schlechtriem in Schlechtriem/Schwenzer, para. 123]
+IBID
+  [Schlechtriem in Schlechtriem/Schwenzer]
+IBID w/LOCATOR
+  [Schlechtriem in Schlechtriem/Schwenzer, p. 123]
+SUBSEQUENT
+  [Schlechtriem in Schlechtriem/Schwenzer]
+SUBSEQUENT w/LOCATOR
+  [Schlechtriem in Schlechtriem/Schwenzer, p. 123]
+SUBSEQUENT w/BACKREF
+  [Schlechtriem in Schlechtriem/Schwenzer]
+SUBSEQUENT w/BACKREF+LOCATOR
+  [Schlechtriem in Schlechtriem/Schwenzer, p. 123]
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "chapter",
+    "title": "Introduction",
+    "author": [
+      {
+        "given": "Peter",
+        "family": "Schlechtriem"
+      }
+    ],
+    "editor": [
+      {
+        "given": "Peter",
+        "family": "Schlechtriem"
+      },
+      {
+        "given": "Ingeborg H.",
+        "family": "Schwenzer"
+      }
+    ],
+    "container-title": "Commentary on the UN Convention on the International Sale of Goods (CISG)",
+    "edition": "2",
+    "publisher-place": "Oxford",
+    "publisher": "Oxford University Press",
+    "issued": {
+      "raw": "2005"
+    },
+    "page": "i",
+    "language": "eng",
+    "ISBN": "978-0-19-927518-2",
+    "source": "Library of Congress ISBN",
+    "call-number": "K1028.3198 K6613 2005",
+    "note": "OCLC: ocm57281086",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<

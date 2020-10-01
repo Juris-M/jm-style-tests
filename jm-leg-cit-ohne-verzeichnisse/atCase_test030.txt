@@ -1,0 +1,52 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "MCV59HFX"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test033
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  BG Melk 21.09.2005, 5C1296/05y.
+FIRST w/LOCATOR
+  BG Melk 21.09.2005, 5C1296/05y, 123.
+FIRST w/LABEL
+  BG Melk 21.09.2005, 5C1296/05y Abs 123.
+SUBSEQUENT
+  BG Melk 5C1296/05y.
+SUBSEQUENT w/LOCATOR
+  BG Melk 5C1296/05y, 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_case",
+    "authority": "bg",
+    "number": "5C1296/05y",
+    "issued": {
+      "literal": "21.09.2005",
+      "date-parts": [
+        [],
+        []
+      ]
+    },
+    "note": "DOI: ECLI:AT:BG00141:2005:RW0000343",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "jurisdiction": "at:wien:st.polten:melk"
+  }
+]
+<<===== INPUT =====<<

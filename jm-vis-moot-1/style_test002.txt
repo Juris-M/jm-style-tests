@@ -1,0 +1,81 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "9WNSUP6Q"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test002
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  [Cours d’Appel Grenoble 94/3859]
+FIRST w/LOCATOR
+  [Cours d’Appel Grenoble 94/3859, p. 123]
+FIRST w/LABEL
+  [Cours d’Appel Grenoble 94/3859, para. 123]
+IBID
+  [Cours d’Appel Grenoble 94/3859]
+IBID w/LOCATOR
+  [Cours d’Appel Grenoble 94/3859, p. 123]
+SUBSEQUENT
+  [Cours d’Appel Grenoble 94/3859]
+SUBSEQUENT w/LOCATOR
+  [Cours d’Appel Grenoble 94/3859, p. 123]
+SUBSEQUENT w/BACKREF
+  [Cours d’Appel Grenoble 94/3859]
+SUBSEQUENT w/BACKREF+LOCATOR
+  [Cours d’Appel Grenoble 94/3859, p. 123]
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">FR///Cours d’Appel Grenoble (FR), October 23, 1996, 94/3859, CLOUT Case No. 205//<b>Cited as:</b> <i>Cours d’Appel Grenoble 94/3859</i></div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_case",
+    "container-title": "CLOUT",
+    "authority": "ca",
+    "number": "94/3859",
+    "page": "205",
+    "issued": {
+      "date-parts": [
+        [
+          1996,
+          10,
+          23
+        ]
+      ]
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "jurisdiction": "fr:grenoble"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== ABBREVIATIONS =====>>
+{
+  "default": {
+    "place": {
+      "fr": "FR"
+    }
+  },
+  "fr:grenoble": {
+    "institution-part": {
+      "ca": "Cours d'Appel Grenoble"
+    }
+  }
+}
+<<===== ABBREVIATIONS =====<<

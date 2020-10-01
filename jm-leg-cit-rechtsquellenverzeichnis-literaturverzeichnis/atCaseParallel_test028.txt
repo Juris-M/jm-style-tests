@@ -1,0 +1,126 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "ILKFBEWH",
+  "U4PGJ8LG",
+  "QBMTEHTJ"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+AT Case with parallel citations
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  OGH 2 Ob 328/97t.
+FIRST w/LOCATOR
+  OGH 2 Ob 328/97t = SZ 71/21, 123.
+FIRST w/LABEL
+  OGH 2 Ob 328/97t = SZ 71/21 Abs 123.
+SUBSEQUENT
+  OGH 2 Ob 328/97t.
+SUBSEQUENT w/LOCATOR
+  OGH 2 Ob 328/97t = SZ 71/21, 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">OGH 12.02.1998, 2 Ob 328/97t = SZ 71/21 = JBl 1999, 54 (<i>Karollus</i>) = ecolex 1998, 692 (<i>Wilhelm</i>).</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "ILKFBEWH",
+    "type": "legal_case",
+    "container-title": "SZ",
+    "volume": "71/21",
+    "authority": "ogh",
+    "number": "2 Ob 328/97t",
+    "issued": {
+      "raw": "1998-02-12"
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "jurisdiction": "at",
+    "seeAlso": [
+      "U4PGJ8LG",
+      "QBMTEHTJ"
+    ]
+  },
+  {
+    "id": "U4PGJ8LG",
+    "type": "legal_case",
+    "commenter": [
+      {
+        "literal": "Karollus"
+      }
+    ],
+    "container-title": "JBl",
+    "authority": "ogh",
+    "number": "2 Ob 328/97t",
+    "page": "54",
+    "issued": {
+      "raw": "1998-02-12"
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "jurisdiction": "at",
+    "publication-date": {
+      "month": 0,
+      "date-parts": [
+        [
+          1999
+        ]
+      ]
+    },
+    "seeAlso": [
+      "ILKFBEWH",
+      "QBMTEHTJ"
+    ]
+  },
+  {
+    "id": "QBMTEHTJ",
+    "type": "legal_case",
+    "commenter": [
+      {
+        "literal": "Wilhelm"
+      }
+    ],
+    "container-title": "ecolex",
+    "authority": "ogh",
+    "number": "2 Ob 328/97t",
+    "page": "692",
+    "issued": {
+      "raw": "1998-02-12"
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "jurisdiction": "at",
+    "publication-date": {
+      "month": 0,
+      "date-parts": [
+        [
+          1998
+        ]
+      ]
+    },
+    "seeAlso": [
+      "ILKFBEWH",
+      "U4PGJ8LG"
+    ]
+  }
+]
+<<===== INPUT =====<<

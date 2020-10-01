@@ -1,0 +1,78 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "UQLXFT2N"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+This criminal appeal was filed in the Federal Shar
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  Zafran Bibi v. State, Federal Shariat Court, Islamabad (2002).
+FIRST w/LOCATOR
+  Zafran Bibi v. State, Federal Shariat Court, Islamabad at 123 (2002).
+FIRST w/LABEL
+  Zafran Bibi v. State, Federal Shariat Court, Islamabad ¶ 123 (2002).
+IBID
+  <i>Ibid.</i>
+IBID w/LOCATOR
+  <i>Ibid.</i> at 123.
+SUBSEQUENT
+  <i>Zafran Bibi v. State</i>.
+SUBSEQUENT w/LOCATOR
+  <i>Zafran Bibi v. State</i> at 123.
+SUBSEQUENT w/BACKREF
+  <i>Zafran Bibi v. State</i>.
+SUBSEQUENT w/BACKREF+LOCATOR
+  <i>Zafran Bibi v. State</i> at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Zafran Bibi v. State, Federal Shariat Court, Islamabad (2002).</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_case",
+    "title": "Zafran Bibi v. State",
+    "authority": "fshc",
+    "number": "6-P/2002",
+    "issued": {
+      "date-parts": [
+        [
+          2002,
+          6,
+          6
+        ]
+      ]
+    },
+    "language": "en",
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "call-number": "PK111",
+    "jurisdiction": "pk:islamabad",
+    "genre": "Civil Revision Application"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== ABBREVIATIONS =====>>
+{
+  "pk:islamabad": {
+    "institution-part": {
+      "fshc": "Federal Shariat Court, Islamabad"
+    }
+  }
+}
+<<===== ABBREVIATIONS =====<<

@@ -1,0 +1,70 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "HP35C27P"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test010
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  [Berg]
+FIRST w/LOCATOR
+  [Berg, p. 123]
+FIRST w/LABEL
+  [Berg, para. 123]
+IBID
+  [Berg]
+IBID w/LOCATOR
+  [Berg, p. 123]
+SUBSEQUENT
+  [Berg]
+SUBSEQUENT w/LOCATOR
+  [Berg, p. 123]
+SUBSEQUENT w/BACKREF
+  [Berg]
+SUBSEQUENT w/BACKREF+LOCATOR
+  [Berg, p. 123]
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Berg, A. J. van den (ed.)///Improving the Efficiency of Arbitration Agreements and Awards: 40 Years of Application of the New York Convention//Kluwer Law International, The Hague 1999//<b>Cited as:</b> <i>Author in Berg</i></div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "book",
+    "title": "Improving the efficiency of arbitration agreements and awards: 40 years of application of the New York Convention",
+    "editor": [
+      {
+        "given": "A. J. van den",
+        "family": "Berg"
+      }
+    ],
+    "collection-title": "ICCA congress series",
+    "collection-number": "no. 9",
+    "publisher-place": "The Hague",
+    "publisher": "Kluwer Law International",
+    "issued": {
+      "raw": "1999"
+    },
+    "number-of-pages": "732",
+    "ISBN": "978-90-411-1274-3",
+    "shortTitle": "Improving the efficiency of arbitration agreements and awards",
+    "source": "Library of Congress ISBN",
+    "call-number": "K2400 .A6 I63 1999",
+    "note": "Sponsorship by the Permanent Court of Arbitration and the International Council for Commercial Arbitration",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<

@@ -1,0 +1,56 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "3YTVIRVR"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test012
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  [UNCITRAL]
+FIRST w/LOCATOR
+  [UNCITRAL, p. 123]
+FIRST w/LABEL
+  [UNCITRAL, para. 123]
+IBID
+  [UNCITRAL]
+IBID w/LOCATOR
+  [UNCITRAL, p. 123]
+SUBSEQUENT
+  [UNCITRAL]
+SUBSEQUENT w/LOCATOR
+  [UNCITRAL, p. 123]
+SUBSEQUENT w/BACKREF
+  [UNCITRAL]
+SUBSEQUENT w/BACKREF+LOCATOR
+  [UNCITRAL, p. 123]
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">UNCITRAL///Secretariat Commentary on the 1978 Draft of the CISG//<b>Cited as:</b> <i>UNCITRAL</i></div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "report",
+    "title": "Secretariat Commentary on the 1978 Draft of the CISG",
+    "author": [
+      {
+        "literal": "UNCITRAL"
+      }
+    ],
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<

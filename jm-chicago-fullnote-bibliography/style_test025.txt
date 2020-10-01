@@ -1,0 +1,49 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "T9HWBZSL"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+The applicant - a Guinean citizen - requested asyl
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+%%RESULT%%
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_case",
+    "authority": "central.administrativo.sul",
+    "number": "1176/18.6 BELSB",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          11,
+          8
+        ]
+      ]
+    },
+    "language": "en",
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {
+        "genre": {
+          "en": "Judgment"
+        }
+      }
+    },
+    "call-number": "PT196a",
+    "jurisdiction": "pt:lisboa",
+    "genre": "Acórdão"
+  }
+]
+<<===== INPUT =====<<

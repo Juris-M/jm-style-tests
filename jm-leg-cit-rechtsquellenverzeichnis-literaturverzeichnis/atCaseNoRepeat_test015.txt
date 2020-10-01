@@ -1,0 +1,90 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "S359ICNF",
+  "ZLGU2JBQ"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Test no-repeat court name
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  OGH 6 Ob 24/11i; 4 Ob 8/11x.
+FIRST w/LOCATOR
+  OGH 6 Ob 24/11i, 123; 4 Ob 8/11x.
+FIRST w/LABEL
+  OGH 6 Ob 24/11i Abs 123; 4 Ob 8/11x.
+SUBSEQUENT
+  OGH 6 Ob 24/11i; 4 Ob 8/11x.
+SUBSEQUENT w/LOCATOR
+  OGH 6 Ob 24/11i, 123; 4 Ob 8/11x.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">OGH 11.09.2012, 6 Ob 24/11i [„AGB und Unterlassungserklärung“].</div>
+  <div class="csl-entry">OGH 12.04.2011, 4 Ob 8/11x = wobl 2010/35, 55 (<i>Guntter</i>).</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "S359ICNF",
+    "type": "legal_case",
+    "commenter": [
+      {
+        "family": "Guntter"
+      }
+    ],
+    "container-title": "wobl",
+    "volume": "2010",
+    "issue": "35",
+    "authority": "ogh",
+    "number": "4 Ob 8/11x",
+    "page": "55",
+    "issued": {
+      "date-parts": [
+        [
+          2011,
+          4,
+          12
+        ]
+      ]
+    },
+    "note": "EF-Z 2011/85, 138",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "jurisdiction": "at"
+  },
+  {
+    "id": "ZLGU2JBQ",
+    "type": "legal_case",
+    "title": "„AGB und Unterlassungserklärung“",
+    "authority": "ogh",
+    "number": "6 Ob 24/11i",
+    "issued": {
+      "date-parts": [
+        [
+          2012,
+          9,
+          11
+        ]
+      ]
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "jurisdiction": "at",
+    "genre": "verst Senat"
+  }
+]
+<<===== INPUT =====<<

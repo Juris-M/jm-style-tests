@@ -1,0 +1,53 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "X8238B4N"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Author and title given Rz 343
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  <i>Kommenda</i>, Die Presse 16.01.2014.
+FIRST w/LOCATOR
+  <i>Kommenda</i>, Die Presse 16.01.2014, 123.
+FIRST w/LABEL
+  <i>Kommenda</i>, Die Presse 16.01.2014 Abs 123.
+SUBSEQUENT
+  <i>Kommenda</i>, Die Presse 16.01.2014.
+SUBSEQUENT w/LOCATOR
+  <i>Kommenda</i>, Die Presse 16.01.2014, 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry"><i>Kommenda</i>, Höchstgericht – Mieter für Reparatur bestraft, Die Presse 16.01.2014.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "article-newspaper",
+    "title": "Höchstgericht: Mieter für Reparatur bestraft",
+    "author": [
+      {
+        "given": "Benedikt",
+        "family": "Kommenda"
+      }
+    ],
+    "container-title": "Die Presse",
+    "issued": {
+      "raw": "16.01.2014"
+    },
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<

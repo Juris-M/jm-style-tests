@@ -1,0 +1,102 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "7DMKIKMQ",
+  "DBMR4UZM"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Two chapters from same book
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  <i>Eberle</i> in GedS Martens; <i>Karpen</i> in GedS Martens.
+FIRST w/LOCATOR
+  <i>Eberle</i> in GedS Martens 123; <i>Karpen</i> in GedS Martens.
+FIRST w/LABEL
+  <i>Eberle</i> in GedS Martens Abs 123; <i>Karpen</i> in GedS Martens.
+SUBSEQUENT
+  <i>Eberle</i> in GedS Martens; <i>Karpen</i> in GedS Martens.
+SUBSEQUENT w/LOCATOR
+  <i>Eberle</i> in GedS Martens 123; <i>Karpen</i> in GedS Martens.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry"><i>Eberle</i>, Zum Verwertungsverbot für rechtswidrig erlangte Informationen im Verwaltungsverfahren, in Selmer/Münch (Hg), Gedächtnisschrift für Wolfgang Martens (1987) 351.</div>
+  <div class="csl-entry"><i>Karpen</i>, Verfassungsgeschichtliche Entwicklung des Gesetzesbegriffs in Deutschland, in Selmer/Münch (Hg), Gedächtnisschrift für Wolfgang Martens (1987) 137.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "7DMKIKMQ",
+    "type": "chapter",
+    "title": "Verfassungsgeschichtliche Entwicklung des Gesetzesbegriffs in Deutschland",
+    "author": [
+      {
+        "given": "Ulrich",
+        "family": "Karpen"
+      }
+    ],
+    "editor": [
+      {
+        "given": "Peter",
+        "family": "Selmer"
+      },
+      {
+        "given": "Ingo von",
+        "family": "Münch"
+      }
+    ],
+    "container-title": "Gedächtnisschrift für Wolfgang Martens",
+    "issued": {
+      "raw": "1987"
+    },
+    "page": "137",
+    "language": "de",
+    "shortTitle": "Verwertungsverbot",
+    "note": "container-title-short: GedS Martens",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  },
+  {
+    "id": "DBMR4UZM",
+    "type": "chapter",
+    "title": "Zum Verwertungsverbot für rechtswidrig erlangte Informationen im Verwaltungsverfahren",
+    "author": [
+      {
+        "given": "Carl-Eugen",
+        "family": "Eberle"
+      }
+    ],
+    "editor": [
+      {
+        "given": "Peter",
+        "family": "Selmer"
+      },
+      {
+        "given": "Ingo von",
+        "family": "Münch"
+      }
+    ],
+    "container-title": "Gedächtnisschrift für Wolfgang Martens",
+    "issued": {
+      "raw": "1987"
+    },
+    "page": "351",
+    "shortTitle": "Verwertungsverbot",
+    "note": "container-title-short: GedS Martens",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<

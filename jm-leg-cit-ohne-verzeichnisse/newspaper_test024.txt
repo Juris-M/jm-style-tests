@@ -1,0 +1,46 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "JIW8F373"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+No author and title given Rz 343
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  Wiener Zeitung 15.06.2006, 5.
+FIRST w/LOCATOR
+  Wiener Zeitung 15.06.2006, 5 (123).
+FIRST w/LABEL
+  Wiener Zeitung 15.06.2006, 5 Abs 123.
+SUBSEQUENT
+  Wiener Zeitung 15.06.2006, 5.
+SUBSEQUENT w/LOCATOR
+  Wiener Zeitung 15.06.2006, 5 (123).
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "article-newspaper",
+    "container-title": "Wiener Zeitung",
+    "issued": {
+      "raw": "2006-06-15"
+    },
+    "page": "5",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<

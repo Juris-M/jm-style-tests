@@ -1,0 +1,53 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "XTN8XYXP"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Is. or pagination numbered continuously Rz 336 and
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  <i>Seiß</i>, Von Kathedralen des Verkehrs zu Einkaufszentren mit Gleisanschluss, Raum 60 (2005) 20.
+FIRST w/LOCATOR
+  <i>Seiß</i>, Von Kathedralen des Verkehrs zu Einkaufszentren mit Gleisanschluss, Raum 60 (2005) 20 (123).
+FIRST w/LABEL
+  <i>Seiß</i>, Von Kathedralen des Verkehrs zu Einkaufszentren mit Gleisanschluss, Raum 60 (2005) 20 Abs 123.
+SUBSEQUENT
+  <i>Seiß</i>, Raum 60 (2005).
+SUBSEQUENT w/LOCATOR
+  <i>Seiß</i>, Raum 60 (2005) 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "article-journal",
+    "title": "Von Kathedralen des Verkehrs zu Einkaufszentren mit Gleisanschluss",
+    "author": [
+      {
+        "family": "Seiß"
+      }
+    ],
+    "container-title": "Raum",
+    "volume": "60",
+    "page": "20",
+    "issued": {
+      "raw": "2005"
+    },
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<

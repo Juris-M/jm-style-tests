@@ -1,0 +1,51 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "EAWBSBPX"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test001
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+%%RESULT%%
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "book",
+    "title": "The ABC of EU law",
+    "author": [
+      {
+        "given": "Klaus-Dieter",
+        "family": "Borchardt"
+      },
+      {
+        "literal": "Directorate-General for Communication"
+      }
+    ],
+    "edition": "Manuscript completed in December 2016",
+    "publisher-place": "Luxembourg",
+    "publisher": "Publications Office of the European Union",
+    "issued": {
+      "raw": "2018-01-09"
+    },
+    "language": "en",
+    "ISBN": "978-92-79-63634-9 978-92-79-63657-8 978-92-79-63656-1 978-92-79-71669-0",
+    "URL": "https://publications.europa.eu/en/publication-detail/-/publication/5d4f8cde-de25-11e7-a506-01aa75ed71a1",
+    "accessed": "2019-07-18",
+    "source": "Gemeinsamer Bibliotheksverbund ISBN",
+    "note": "Klaus-Dieter Borchardt and Directorate-General for Communication, The ABC of the EU Law, Manuscript completed in December 2016 (Luxembourg: Publications Office of the European Union, 2018)，accessed July 19, 2019 https://publications.europa.eu/en/publication-detail/-/publication/5d4f8cde-de25-11e7-a506-01aa75ed71a1.",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<

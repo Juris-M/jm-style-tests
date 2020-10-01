@@ -1,0 +1,68 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "E7SK5BNV"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test011
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  [Friedland]
+FIRST w/LOCATOR
+  [Friedland, p. 123]
+FIRST w/LABEL
+  [Friedland, para. 123]
+IBID
+  [Friedland]
+IBID w/LOCATOR
+  [Friedland, p. 123]
+SUBSEQUENT
+  [Friedland]
+SUBSEQUENT w/LOCATOR
+  [Friedland, p. 123]
+SUBSEQUENT w/BACKREF
+  [Friedland]
+SUBSEQUENT w/BACKREF+LOCATOR
+  [Friedland, p. 123]
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Friedland, Paul D.///Arbitration Clauses for International Contracts, 2nd Ed.//Juris Publ., Huntington, NY 2007//<b>Cited as:</b> <i>Friedland</i></div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "book",
+    "title": "Arbitration clauses for international contracts",
+    "author": [
+      {
+        "given": "Paul D.",
+        "family": "Friedland"
+      }
+    ],
+    "edition": "2",
+    "publisher-place": "Huntington, NY",
+    "publisher": "Juris Publ.",
+    "issued": {
+      "raw": "2007"
+    },
+    "number-of-pages": "350",
+    "language": "eng",
+    "ISBN": "978-1-933833-06-4",
+    "source": "Gemeinsamer Bibliotheksverbund ISBN",
+    "note": "OCLC: 611238435",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<

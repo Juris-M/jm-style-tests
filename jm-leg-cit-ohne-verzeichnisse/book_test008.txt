@@ -1,0 +1,58 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "WHSEHZXN"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Collection for standalone citation
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  Alker/Hölter (Hg), Literaturwissenschaft und Bibliotheken (2015) [Literaturwissenschaft].
+FIRST w/LOCATOR
+  Alker/Hölter (Hg), Literaturwissenschaft und Bibliotheken (2015) 123 [Literaturwissenschaft].
+FIRST w/LABEL
+  Alker/Hölter (Hg), Literaturwissenschaft und Bibliotheken (2015) Abs 123 [Literaturwissenschaft].
+SUBSEQUENT
+  Alker/Hölter (Hg), Literaturwissenschaft.
+SUBSEQUENT w/LOCATOR
+  Alker/Hölter (Hg), Literaturwissenschaft 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "book",
+    "title": "Literaturwissenschaft und Bibliotheken",
+    "editor": [
+      {
+        "given": "Stefan",
+        "family": "Alker"
+      },
+      {
+        "given": "Achim",
+        "family": "Hölter"
+      }
+    ],
+    "publisher": "V&R unipress",
+    "issued": {
+      "raw": "2015"
+    },
+    "shortTitle": "Literaturwissenschaft",
+    "source": "Google Scholar",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<
