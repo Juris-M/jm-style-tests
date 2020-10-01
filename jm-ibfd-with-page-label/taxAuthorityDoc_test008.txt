@@ -1,0 +1,63 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "J4PI4UH2"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Tax Authorities' Documentation
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  I.R.S. Ann., 2004–81, 2004–42 I.R.B. 675, Tax Authorities’ Documentation IBFD.
+FIRST w/LOCATOR
+  I.R.S. Ann., 2004–81, 2004–42 I.R.B. 675, p. 123, Tax Authorities’ Documentation IBFD.
+FIRST w/LABEL
+  I.R.S. Ann., 2004–81, 2004–42 I.R.B. 675, para. 123, Tax Authorities’ Documentation IBFD.
+IBID
+  <i>Id.</i>
+IBID w/LOCATOR
+  p. 123 <i>id.</i>
+SUBSEQUENT
+  I.R.S. Ann. 2004–81.
+SUBSEQUENT w/LOCATOR
+  p. 123 I.R.S. Ann. 2004–81.
+SUBSEQUENT w/BACKREF
+  I.R.S. Ann. 2004–81.
+SUBSEQUENT w/BACKREF+LOCATOR
+  p. 123 I.R.S. Ann. 2004–81.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">I.R.S. Ann., 2004–81, 2004–42 I.R.B. 675, Tax Authorities’ Documentation IBFD.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "report",
+    "title": "Ann.",
+    "author": [
+      {
+        "literal": "I.R.S."
+      }
+    ],
+    "number": "2004-81",
+    "issued": {
+      "raw": "2004"
+    },
+    "page": "675",
+    "archive": "Tax Authorities' Documentation IBFD",
+    "note": "container-title: I.R.B.\nvolume: 2004-42\ntype: pamphlet",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<

@@ -1,0 +1,62 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "CK2I9U4G"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Country key features
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  <i>United States – Key Features</i>, Country Key Features IBFD (accessed 1 Mar. 2010).
+FIRST w/LOCATOR
+  <i>United States – Key Features</i> p. 123, Country Key Features IBFD (accessed 1 Mar. 2010).
+FIRST w/LABEL
+  <i>United States – Key Features</i> para. 123, Country Key Features IBFD (accessed 1 Mar. 2010).
+IBID
+  <i>Id.</i>
+IBID w/LOCATOR
+  <i>Id.</i>, at p. 123.
+SUBSEQUENT
+  <i>United States – Key Features</i>.
+SUBSEQUENT w/LOCATOR
+  <i>United States – Key Features</i>, at p. 123.
+SUBSEQUENT w/BACKREF
+  <i>United States – Key Features</i>, <i>supra</i> n. 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  <i>United States – Key Features</i>, <i>supra</i> n. 1, at p. 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry"><i>United States – Key Features</i>, Country Key Features IBFD (accessed 1 Mar. 2010).</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "book",
+    "title": "United States – Key Features",
+    "acessed": {
+      "literal": "2010-03-01",
+      "date-parts": [
+        [
+          2010,
+          3,
+          1
+        ]
+      ]
+    },
+    "archive": "Country Key Features IBFD",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<

@@ -1,0 +1,74 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "YBPGZABZ"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+ECJ case law/AG Opinion
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  UK: Opinion of Advocate General Maduro, 7 Apr. 2005, Case C-446/03, <i>Marks & Spencer plc v. Halsey (Her Majesty’s Inspector of Taxes)</i>, [2005] ECR I-10837, ECJ Case Law IBFD.
+FIRST w/LOCATOR
+  UK: Opinion of Advocate General Maduro, 7 Apr. 2005, Case C-446/03, <i>Marks & Spencer plc v. Halsey (Her Majesty’s Inspector of Taxes)</i>, [2005] ECR I-10837, p. 123, ECJ Case Law IBFD.
+FIRST w/LABEL
+  UK: Opinion of Advocate General Maduro, 7 Apr. 2005, Case C-446/03, <i>Marks & Spencer plc v. Halsey (Her Majesty’s Inspector of Taxes)</i>, [2005] ECR I-10837, para. 123, ECJ Case Law IBFD.
+IBID
+  <i>id.</i>
+IBID w/LOCATOR
+  <i>id.</i>, at p. 123.
+SUBSEQUENT
+  AG Opinion in <i>Marks &#38; Spencer</i> (C-446/03).
+SUBSEQUENT w/LOCATOR
+  AG Opinion in <i>Marks &#38; Spencer</i> (C-446/03), at p. 123.
+SUBSEQUENT w/BACKREF
+  AG Opinion in <i>Marks &#38; Spencer</i> (C-446/03).
+SUBSEQUENT w/BACKREF+LOCATOR
+  AG Opinion in <i>Marks &#38; Spencer</i> (C-446/03), at p. 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">UK: Opinion of Advocate General Maduro, 7 Apr. 2005, Case C-446/03, <i>Marks & Spencer plc v. Halsey (Her Majesty’s Inspector of Taxes)</i>, [2005] ECR I-10837, ECJ Case Law IBFD.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_case",
+    "title": "Marks & Spencer plc v. Halsey (Her Majesty’s Inspector of Taxes)",
+    "author": [
+      {
+        "family": "Maduro"
+      }
+    ],
+    "container-title": "[2005] ECR",
+    "volume": "I-10837",
+    "authority": "ag",
+    "number": "C-446/03",
+    "issued": {
+      "date-parts": [
+        [
+          2005,
+          4,
+          7
+        ]
+      ]
+    },
+    "shortTitle": "Marks & Spencer",
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "archive": "ECJ Case Law IBFD",
+    "jurisdiction": "eu.int:cjeu",
+    "genre": "UK"
+  }
+]
+<<===== INPUT =====<<

@@ -1,0 +1,64 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "FJK7QYJK"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+DE/subjurisdiction case
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  DE: FG [Tax Court] Berlin-Brandenburg, 5 June 2010, 7 K 2083/06 B, Tax Treaty Case Law IBFD.
+FIRST w/LOCATOR
+  DE: FG [Tax Court] Berlin-Brandenburg, 5 June 2010, 7 K 2083/06 B, p. 123, Tax Treaty Case Law IBFD.
+FIRST w/LABEL
+  DE: FG [Tax Court] Berlin-Brandenburg, 5 June 2010, 7 K 2083/06 B, para. 123, Tax Treaty Case Law IBFD.
+IBID
+  <i>Id.</i>
+IBID w/LOCATOR
+  <i>Id.</i>, at p. 123.
+SUBSEQUENT
+  7 K 2083/06 B (6 May 2010).
+SUBSEQUENT w/LOCATOR
+  7 K 2083/06 B (6 May 2010), at p. 123.
+SUBSEQUENT w/BACKREF
+  7 K 2083/06 B (6 May 2010).
+SUBSEQUENT w/BACKREF+LOCATOR
+  7 K 2083/06 B (6 May 2010), at p. 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">DE: FG [Tax Court] Berlin-Brandenburg, 5 June 2010, 7 K 2083/06 B, Tax Treaty Case Law IBFD.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_case",
+    "authority": "fg",
+    "number": "7 K 2083/06 B",
+    "issued": {
+      "date-parts": [
+        [
+          2010,
+          5,
+          6
+        ]
+      ]
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "archive": "Tax Treaty Case Law IBFD",
+    "jurisdiction": "de:berlin.brandenburg"
+  }
+]
+<<===== INPUT =====<<

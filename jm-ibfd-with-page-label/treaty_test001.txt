@@ -1,0 +1,58 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "IS9WF79K"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Treaty
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  <i>Convention between the Federal Republic of Germany and the Kingdom of the Netherlands for the Avoidance of Double Taxation with Respect to Taxes on Income and Capital and Various Other Taxes, and for the Regulation of Other Questions Relating to Taxation</i> [unofficial translation] (16 June 1959), Treaties IBFD [hereinafter <i>Ger.-Neth. Income and Capital Tax Treaty</i>].
+FIRST w/LOCATOR
+  <i>Convention between the Federal Republic of Germany and the Kingdom of the Netherlands for the Avoidance of Double Taxation with Respect to Taxes on Income and Capital and Various Other Taxes, and for the Regulation of Other Questions Relating to Taxation</i> [unofficial translation] p. 123 (16 June 1959), Treaties IBFD [hereinafter <i>Ger.-Neth. Income and Capital Tax Treaty</i>].
+FIRST w/LABEL
+  <i>Convention between the Federal Republic of Germany and the Kingdom of the Netherlands for the Avoidance of Double Taxation with Respect to Taxes on Income and Capital and Various Other Taxes, and for the Regulation of Other Questions Relating to Taxation</i> [unofficial translation] para. 123 (16 June 1959), Treaties IBFD [hereinafter <i>Ger.-Neth. Income and Capital Tax Treaty</i>].
+IBID
+  <i>Id.</i>
+IBID w/LOCATOR
+  p. 123 <i>id.</i>
+SUBSEQUENT
+  <i>Ger.-Neth. Income and Capital Tax Treaty</i>.
+SUBSEQUENT w/LOCATOR
+  p. 123 <i>Ger.-Neth. Income and Capital Tax Treaty</i>.
+SUBSEQUENT w/BACKREF
+  <i>Ger.-Neth. Income and Capital Tax Treaty</i>.
+SUBSEQUENT w/BACKREF+LOCATOR
+  p. 123 <i>Ger.-Neth. Income and Capital Tax Treaty</i>.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry"><i>Convention between the Federal Republic of Germany and the Kingdom of the Netherlands for the Avoidance of Double Taxation with Respect to Taxes on Income and Capital and Various Other Taxes, and for the Regulation of Other Questions Relating to Taxation</i> [unofficial translation] (16 June 1959), Treaties IBFD [hereinafter <i>Ger.-Neth. Income and Capital Tax Treaty</i>].</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "treaty",
+    "title": "Convention between the Federal Republic of Germany and the Kingdom of the Netherlands for the Avoidance of Double Taxation with Respect to Taxes on Income and Capital and Various Other Taxes, and for the Regulation of Other Questions Relating to Taxation",
+    "issued": {
+      "raw": "1959-06-16"
+    },
+    "shortTitle": "Ger.-Neth. Income and Capital Tax Treaty",
+    "archive": "Treaties IBFD",
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "version": "unofficial translation"
+  }
+]
+<<===== INPUT =====<<
