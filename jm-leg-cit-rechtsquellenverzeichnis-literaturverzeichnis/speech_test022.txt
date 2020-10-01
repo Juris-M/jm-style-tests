@@ -19,10 +19,6 @@ FIRST w/LOCATOR
   <i>Merli</i>, Die Zukunft der Verwaltung 123.
 FIRST w/LABEL
   <i>Merli</i>, Die Zukunft der Verwaltung Abs 123.
-SUBSEQUENT
-  <i>Merli</i>, Die Zukunft der Verwaltung.
-SUBSEQUENT w/LOCATOR
-  <i>Merli</i>, Die Zukunft der Verwaltung 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry"><i>Merli</i>, Die Zukunft der Verwaltung – Antrittsvorlesung an der Universität Graz 20.5.2008.</div>

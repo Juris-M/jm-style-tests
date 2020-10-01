@@ -19,10 +19,6 @@ FIRST w/LOCATOR
   IA 18/A AB 14 BlgNR XIII. GP 123.
 FIRST w/LABEL
   IA 18/A AB 14 BlgNR XIII. GP Abs 123.
-SUBSEQUENT
-  IA 18/A AB 14 BlgNR XIII. GP.
-SUBSEQUENT w/LOCATOR
-  IA 18/A AB 14 BlgNR XIII. GP 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry">IA 18/A AB 14 BlgNR XIII. GP.</div>
