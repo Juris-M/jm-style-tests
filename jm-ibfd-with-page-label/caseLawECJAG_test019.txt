@@ -14,15 +14,15 @@ ECJ case law/AG Opinion
 
 >>===== RESULT =====>>
 FIRST
-  UK: Opinion of Advocate General Maduro, 7 Apr. 2005, Case C-446/03, <i>Marks & Spencer plc v. Halsey (Her Majesty’s Inspector of Taxes)</i>, [2005] ECR I-10837, ECJ Case Law IBFD.
+  UK: Opinion of Advocate General Maduro, 7 Apr. 2005, Case C-446/03, <i>Marks &#38; Spencer plc v. Halsey (Her Majesty’s Inspector of Taxes)</i>, [2005] ECR I–10837, ECJ Case Law IBFD.
 FIRST w/LOCATOR
-  UK: Opinion of Advocate General Maduro, 7 Apr. 2005, Case C-446/03, <i>Marks & Spencer plc v. Halsey (Her Majesty’s Inspector of Taxes)</i>, [2005] ECR I-10837, p. 123, ECJ Case Law IBFD.
+  UK: Opinion of Advocate General Maduro, 7 Apr. 2005, Case C-446/03, <i>Marks &#38; Spencer plc v. Halsey (Her Majesty’s Inspector of Taxes)</i>, [2005] ECR I–10837, p. 123, ECJ Case Law IBFD.
 FIRST w/LABEL
-  UK: Opinion of Advocate General Maduro, 7 Apr. 2005, Case C-446/03, <i>Marks & Spencer plc v. Halsey (Her Majesty’s Inspector of Taxes)</i>, [2005] ECR I-10837, para. 123, ECJ Case Law IBFD.
+  UK: Opinion of Advocate General Maduro, 7 Apr. 2005, Case C-446/03, <i>Marks &#38; Spencer plc v. Halsey (Her Majesty’s Inspector of Taxes)</i>, [2005] ECR I–10837, para. 123, ECJ Case Law IBFD.
 IBID
-  <i>id.</i>
+  <i>Id.</i>
 IBID w/LOCATOR
-  <i>id.</i>, at p. 123.
+  <i>Id.</i>, at p. 123.
 SUBSEQUENT
   AG Opinion in <i>Marks &#38; Spencer</i> (C-446/03).
 SUBSEQUENT w/LOCATOR
@@ -33,7 +33,7 @@ SUBSEQUENT w/BACKREF+LOCATOR
   AG Opinion in <i>Marks &#38; Spencer</i> (C-446/03), at p. 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">UK: Opinion of Advocate General Maduro, 7 Apr. 2005, Case C-446/03, <i>Marks & Spencer plc v. Halsey (Her Majesty’s Inspector of Taxes)</i>, [2005] ECR I-10837, ECJ Case Law IBFD.</div>
+  <div class="csl-entry">UK: Opinion of Advocate General Maduro, 7 Apr. 2005, Case C-446/03, <i>Marks &#38; Spencer plc v. Halsey (Her Majesty’s Inspector of Taxes)</i>, [2005] ECR I–10837, ECJ Case Law IBFD.</div>
 </div>
 <<===== RESULT =====<<
 
