@@ -49,13 +49,10 @@ BIBLIOGRAPHY
         ]
       ]
     },
-    "language": "ger",
+    "language": "de>en",
     "shortTitle": "UStG",
     "note": "archive: National Legislation IBFD",
     "multi": {
-      "main": {
-        "title": "de"
-      },
       "_keys": {
         "title": {
           "en": "Federal Law on the Taxation of Business Transactions (VAT Act 1994)"
