@@ -16,7 +16,7 @@ should pass test style_test034
 FIRST
   LG Feldkirch 2R247/18s.
 FIRST w/LOCATOR
-  LG Feldkirch 2R247/18s, 123.
+  LG Feldkirch 2R247/18s 123.
 FIRST w/LABEL
   LG Feldkirch 2R247/18s Abs 123.
 BIBLIOGRAPHY

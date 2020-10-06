@@ -18,13 +18,13 @@ AT Case with parallel citations
 FIRST
   OGH 2 Ob 328/97t = SZ 71/21 = JBl 1999, 54 (<i>Karollus</i>) = ecolex 1998, 692 (<i>Wilhelm</i>).
 FIRST w/LOCATOR
-  OGH 2 Ob 328/97t = SZ 71/21 (123) = JBl 1999, 54 (<i>Karollus</i>) = ecolex 1998, 692 (<i>Wilhelm</i>).
+  OGH 2 Ob 328/97t = SZ 71/21, 123 = JBl 1999, 54 (<i>Karollus</i>) = ecolex 1998, 692 (<i>Wilhelm</i>).
 FIRST w/LABEL
   OGH 2 Ob 328/97t = SZ 71/21 Abs 123 = JBl 1999, 54 (<i>Karollus</i>) = ecolex 1998, 692 (<i>Wilhelm</i>).
 SUBSEQUENT
-  OGH 2 Ob 328/97t.
+  OGH 2 Ob 328/97t = JBl 1999, 54 (<i>Karollus</i>) = ecolex 1998, 692 (<i>Wilhelm</i>).
 SUBSEQUENT w/LOCATOR
-  OGH 2 Ob 328/97t = SZ 71/21 (123) = JBl 1999, 54 (<i>Karollus</i>) = ecolex 1998, 692 (<i>Wilhelm</i>).
+  OGH 2 Ob 328/97t = SZ 71/21, 123 = JBl 1999, 54 (<i>Karollus</i>) = ecolex 1998, 692 (<i>Wilhelm</i>).
 BIBLIOGRAPHY
 <div class="csl-bib-body">
 </div>

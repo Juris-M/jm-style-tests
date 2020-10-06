@@ -18,7 +18,7 @@ FIRST
 FIRST w/LOCATOR
   <i>Rummel</i>, JBl 1981, 123.
 FIRST w/LABEL
-  <i>Rummel</i>, JBl 1981, Abs 123.
+  <i>Rummel</i>, JBl 1981 Abs 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry"><i>Rummel</i>, Anmerkungen zum gemeinsamen Irrtum und zur Geschäftsgrundlage, JBl 1981, 1.</div>

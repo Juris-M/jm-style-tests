@@ -16,7 +16,7 @@ Legal commentary as looseleaf
 FIRST
   <i>Kneihs/Lienbacher</i> in Korinek/Holoubek, B-VG Art 142.
 FIRST w/LOCATOR
-  <i>Kneihs/Lienbacher</i> in Korinek/Holoubek, B-VG Art 142 (123).
+  <i>Kneihs/Lienbacher</i> in Korinek/Holoubek, B-VG Art 142, 123.
 FIRST w/LABEL
   <i>Kneihs/Lienbacher</i> in Korinek/Holoubek, B-VG Art 142 Abs 123.
 BIBLIOGRAPHY
