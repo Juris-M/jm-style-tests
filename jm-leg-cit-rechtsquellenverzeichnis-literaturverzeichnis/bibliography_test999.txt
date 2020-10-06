@@ -1,0 +1,444 @@
+>>===== MODE =====>>
+bibliography
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "7ZY4CZZ6",
+  "S359ICNF",
+  "ZLGU2JBQ",
+  "FE4I86TZ",
+  "ILKFBEWH",
+  "U4PGJ8LG",
+  "QBMTEHTJ",
+  "TQGQIGTG",
+  "2HEFLPP2",
+  "VXL8DEY4",
+  "R5X2C8Z5",
+  "FS45UHWB",
+  "G4PEPCSP",
+  "WTN385KW",
+  "P5SBRNE6"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+undefined
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<div class="csl-bib-body">
+  <div class="csl-entry">EuGH 22.11.2012 Rs C-139/11 (Moré/KLM).</div>
+  <div class="csl-entry">OGH 11.09.2012, 6 Ob 24/11i [„AGB und Unterlassungserklärung“].</div>
+  <div class="csl-entry">OGH 12.04.2011, 4 Ob 8/11x = wobl 2010/35, 55 (<i>Guntter</i>) = EvBl 2011/96.</div>
+  <div class="csl-entry">OGH 12.02.1998, 2 Ob 328/97t = SZ 71/21 = JBl 1999, 54 (<i>Karollus</i>) = ecolex 1998, 692 (<i>Wilhelm</i>).</div>
+  <div class="csl-entry">LG Feldkirch 29.11.2018, 2R247/18s ECLI:AT:LG00929:2018:RFE0100040.</div>
+  <div class="csl-entry">VfGH 18.06.2019, G150/2018 ua ECLI:AT:VFGH:2019:G150.2018.</div>
+  <div class="csl-entry">Erfolgsrechnung zusPV PI Linz AG, avsv 66/2020.</div>
+  <div class="csl-entry">Florida Bar v. Went For It, Inc., 515 U.S. 618.</div>
+  <div class="csl-entry">Bundesverfassungsgesetz über die Nachhaltigkeit, den Tierschutz, den umfassenden Umweltschutz, die Sicherstellung der Wasser- und Lebensmittelversorgung und die Forschung, BGBl I 111/2013 [Nachhaltigkeits-BVG].</div>
+  <div class="csl-entry">KellerbuchV, BGBl II 149/2005.</div>
+  <div class="csl-entry">Schulunterrichtsgesetz, BGBl 472/1986 idF BGBl I 117/2008 [SchUG].</div>
+  <div class="csl-entry">IA 18/A AB 14 BlgNR XIII. GP.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "7ZY4CZZ6",
+    "type": "bill",
+    "title": "IA 18/A AB",
+    "number": "14 BlgNR",
+    "chapter-number": "XIII.",
+    "language": "de",
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "jurisdiction": "at",
+    "genre": "GP"
+  },
+  {
+    "id": "S359ICNF",
+    "type": "legal_case",
+    "commenter": [
+      {
+        "family": "Guntter"
+      }
+    ],
+    "container-title": "wobl",
+    "volume": "2010",
+    "issue": "35",
+    "authority": "ogh",
+    "number": "4 Ob 8/11x",
+    "page": "55",
+    "issued": {
+      "date-parts": [
+        [
+          2011,
+          4,
+          12
+        ]
+      ]
+    },
+    "note": "EF-Z 2011/85, 138",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "jurisdiction": "at",
+    "seeAlso": [
+      "FE4I86TZ"
+    ]
+  },
+  {
+    "id": "ZLGU2JBQ",
+    "type": "legal_case",
+    "title": "„AGB und Unterlassungserklärung“",
+    "authority": "ogh",
+    "number": "6 Ob 24/11i",
+    "issued": {
+      "date-parts": [
+        [
+          2012,
+          9,
+          11
+        ]
+      ]
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "jurisdiction": "at",
+    "genre": "verst Senat"
+  },
+  {
+    "id": "FE4I86TZ",
+    "type": "legal_case",
+    "container-title": "EvBl",
+    "volume": "2011/96",
+    "authority": "ogh",
+    "number": "4 Ob 8/11x",
+    "issued": {
+      "date-parts": [
+        [
+          2011,
+          4,
+          12
+        ]
+      ]
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "jurisdiction": "at",
+    "seeAlso": [
+      "S359ICNF"
+    ]
+  },
+  {
+    "id": "ILKFBEWH",
+    "type": "legal_case",
+    "container-title": "SZ",
+    "volume": "71/21",
+    "authority": "ogh",
+    "number": "2 Ob 328/97t",
+    "issued": {
+      "raw": "1998-02-12"
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "jurisdiction": "at",
+    "seeAlso": [
+      "U4PGJ8LG",
+      "QBMTEHTJ"
+    ]
+  },
+  {
+    "id": "U4PGJ8LG",
+    "type": "legal_case",
+    "commenter": [
+      {
+        "literal": "Karollus"
+      }
+    ],
+    "container-title": "JBl",
+    "authority": "ogh",
+    "number": "2 Ob 328/97t",
+    "page": "54",
+    "issued": {
+      "raw": "1998-02-12"
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "jurisdiction": "at",
+    "publication-date": {
+      "month": 0,
+      "date-parts": [
+        [
+          1999
+        ]
+      ]
+    },
+    "seeAlso": [
+      "ILKFBEWH",
+      "QBMTEHTJ"
+    ]
+  },
+  {
+    "id": "QBMTEHTJ",
+    "type": "legal_case",
+    "commenter": [
+      {
+        "literal": "Wilhelm"
+      }
+    ],
+    "container-title": "ecolex",
+    "authority": "ogh",
+    "number": "2 Ob 328/97t",
+    "page": "692",
+    "issued": {
+      "raw": "1998-02-12"
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "jurisdiction": "at",
+    "publication-date": {
+      "month": 0,
+      "date-parts": [
+        [
+          1998
+        ]
+      ]
+    },
+    "seeAlso": [
+      "ILKFBEWH",
+      "U4PGJ8LG"
+    ]
+  },
+  {
+    "id": "TQGQIGTG",
+    "type": "legislation",
+    "title": "Schulunterrichtsgesetz",
+    "container-title": "BGBl",
+    "volume": "472",
+    "issued": {
+      "date-parts": [
+        [
+          1986
+        ]
+      ]
+    },
+    "references": "BGBl I 117/2008",
+    "shortTitle": "SchUG",
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "jurisdiction": "at"
+  },
+  {
+    "id": "2HEFLPP2",
+    "type": "legislation",
+    "title": "Bundesverfassungsgesetz über die Nachhaltigkeit, den Tierschutz, den umfassenden Umweltschutz, die Sicherstellung der Wasser- und Lebensmittelversorgung und die Forschung",
+    "container-title": "BGBl I",
+    "volume": "111",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "shortTitle": "Nachhaltigkeits-BVG",
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "jurisdiction": "at"
+  },
+  {
+    "id": "VXL8DEY4",
+    "type": "legislation",
+    "title": "KellerbuchV",
+    "container-title": "BGBl II",
+    "volume": "149",
+    "issued": {
+      "date-parts": [
+        [
+          2005
+        ]
+      ]
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "jurisdiction": "at"
+  },
+  {
+    "id": "R5X2C8Z5",
+    "type": "regulation",
+    "title": "Erfolgsrechnung zusPV",
+    "container-title": "avsv",
+    "volume": "66",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "language": "de",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "jurisdiction": "at",
+    "authority": "PI Linz AG"
+  },
+  {
+    "id": "FS45UHWB",
+    "type": "legal_case",
+    "authority": "vfgh",
+    "number": "G150/2018 ua",
+    "issued": {
+      "literal": "18.06.2019",
+      "date-parts": [
+        [],
+        []
+      ]
+    },
+    "note": "DOI: ECLI:AT:VFGH:2019:G150.2018",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "jurisdiction": "at"
+  },
+  {
+    "id": "G4PEPCSP",
+    "type": "legal_case",
+    "authority": "lg",
+    "number": "2R247/18s",
+    "issued": {
+      "literal": "29.11.2018",
+      "date-parts": [
+        [],
+        []
+      ]
+    },
+    "note": "DOI: ECLI:AT:LG00929:2018:RFE0100040",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "jurisdiction": "at:innsbruck:feldkirch"
+  },
+  {
+    "id": "WTN385KW",
+    "type": "legal_case",
+    "title": "Florida Bar v. Went For It, Inc.",
+    "volume": "515",
+    "authority": "supreme.court",
+    "page": "618",
+    "issued": {
+      "date-parts": [
+        [
+          1995,
+          6,
+          21
+        ]
+      ]
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "container-title": "U.S.",
+    "jurisdiction": "us"
+  },
+  {
+    "id": "P5SBRNE6",
+    "type": "legal_case",
+    "title": "Moré/KLM",
+    "authority": "ecj",
+    "number": "Rs C-139/11",
+    "issued": {
+      "date-parts": [
+        [
+          2012,
+          11,
+          22
+        ]
+      ]
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "jurisdiction": "eu.int:cjeu"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "R5X2C8Z5"
+    },
+    {
+      "id": "ZLGU2JBQ"
+    },
+    {
+      "id": "S359ICNF"
+    },
+    {
+      "id": "FE4I86TZ"
+    },
+    {
+      "id": "ILKFBEWH"
+    },
+    {
+      "id": "U4PGJ8LG"
+    },
+    {
+      "id": "QBMTEHTJ"
+    },
+    {
+      "id": "2HEFLPP2"
+    },
+    {
+      "id": "VXL8DEY4"
+    },
+    {
+      "id": "TQGQIGTG"
+    },
+    {
+      "id": "7ZY4CZZ6"
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
