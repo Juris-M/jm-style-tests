@@ -21,7 +21,7 @@ FIRST w/LABEL
   BG Melk 5C1296/05y Abs 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">BG Melk 21.09.2005, 5C1296/05y.</div>
+  <div class="csl-entry">BG Melk 21.09.2005, 5C1296/05y ECLI:AT:BG00141:2005:RW0000343.</div>
 </div>
 <<===== RESULT =====<<
 
