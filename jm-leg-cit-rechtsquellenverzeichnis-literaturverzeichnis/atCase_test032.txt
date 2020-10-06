@@ -19,10 +19,6 @@ FIRST w/LOCATOR
   VfGH G150/2018 ua, 123.
 FIRST w/LABEL
   VfGH G150/2018 ua Abs 123.
-SUBSEQUENT
-  VfGH G150/2018 ua.
-SUBSEQUENT w/LOCATOR
-  VfGH G150/2018 ua, 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry">VfGH 18.06.2019, G150/2018 ua.</div>

@@ -19,10 +19,6 @@ FIRST w/LOCATOR
   EuGH Rs 178/84 (Reinheitsgebot) 123.
 FIRST w/LABEL
   EuGH Rs 178/84 (Reinheitsgebot) Abs 123.
-SUBSEQUENT
-  EuGH Rs 178/84 (Reinheitsgebot).
-SUBSEQUENT w/LOCATOR
-  EuGH Rs 178/84 (Reinheitsgebot) 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry">EuGH 12.03.1987 Rs 178/84 (Kom/DE „Reinheitsgebot“) ECLI:EU:C:1987:126.</div>

@@ -20,10 +20,6 @@ FIRST w/LOCATOR
   123 SchUG; SchUG.
 FIRST w/LABEL
   Abs 123 SchUG; SchUG.
-SUBSEQUENT
-  SchUG; SchUG.
-SUBSEQUENT w/LOCATOR
-  123 SchUG; SchUG.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry">Schulunterrichtsgesetz, BGBl 472/1986 idF BGBl I 80/2020 [SchUG].</div>

@@ -19,13 +19,9 @@ FIRST w/LOCATOR
   <i>Florida Bar v. Went For It, Inc.</i>, 515 U.S. 123.
 FIRST w/LABEL
   <i>Florida Bar v. Went For It, Inc.</i>, 515 U.S. Abs 123.
-SUBSEQUENT
-  <i>Florida Bar v. Went For It, Inc.</i>, 515 U.S. 618.
-SUBSEQUENT w/LOCATOR
-  <i>Florida Bar v. Went For It, Inc.</i>, 515 U.S. 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">Florida Bar v. Went For It, Inc., 515 U.S. 618 (1995).</div>
+  <div class="csl-entry"><i>Florida Bar v. Went For It, Inc.</i>, 515 U.S. 618 (1995).</div>
 </div>
 <<===== RESULT =====<<
 

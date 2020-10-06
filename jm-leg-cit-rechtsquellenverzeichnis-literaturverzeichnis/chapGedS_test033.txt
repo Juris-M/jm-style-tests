@@ -20,10 +20,6 @@ FIRST w/LOCATOR
   <i>Eberle</i> in GedS Martens 123; <i>Karpen</i> in GedS Martens.
 FIRST w/LABEL
   <i>Eberle</i> in GedS Martens Abs 123; <i>Karpen</i> in GedS Martens.
-SUBSEQUENT
-  <i>Eberle</i> in GedS Martens; <i>Karpen</i> in GedS Martens.
-SUBSEQUENT w/LOCATOR
-  <i>Eberle</i> in GedS Martens 123; <i>Karpen</i> in GedS Martens.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry"><i>Eberle</i>, Zum Verwertungsverbot für rechtswidrig erlangte Informationen im Verwaltungsverfahren, in Selmer/Münch (Hg), Gedächtnisschrift für Wolfgang Martens (1987) 351.</div>

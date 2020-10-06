@@ -19,10 +19,6 @@ FIRST w/LOCATOR
   <i>Chappuis</i>, REPRAX 3/2006, 123.
 FIRST w/LABEL
   <i>Chappuis</i>, REPRAX 3/2006, Abs 123.
-SUBSEQUENT
-  <i>Chappuis</i>, REPRAX 3/2006.
-SUBSEQUENT w/LOCATOR
-  <i>Chappuis</i>, REPRAX 3/2006, 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry"><i>Chappuis</i>, L’acte constitutif de la Sàrl selon le nouveau droit, REPRAX 3/2006, 1.</div>

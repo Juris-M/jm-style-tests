@@ -19,10 +19,6 @@ FIRST w/LOCATOR
   BGHIV ZR 241/18, 123.
 FIRST w/LABEL
   BGHIV ZR 241/18 Abs 123.
-SUBSEQUENT
-  BGHIV ZR 241/18.
-SUBSEQUENT w/LOCATOR
-  BGHIV ZR 241/18, 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry">Bundesgerichtshof, 09.09.2019, BGHIV ZR 241/18.</div>
