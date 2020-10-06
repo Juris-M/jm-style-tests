@@ -19,10 +19,6 @@ FIRST w/LOCATOR
   123 Beitrittsvertrag HR, Abl 2012 L 112/10.
 FIRST w/LABEL
   Abs 123 Beitrittsvertrag HR, Abl 2012 L 112/10.
-IBID
-  Beitrittsvertrag HR.
-IBID w/LOCATOR
-  123 Beitrittsvertrag HR.
 SUBSEQUENT
   Beitrittsvertrag HR.
 SUBSEQUENT w/LOCATOR
