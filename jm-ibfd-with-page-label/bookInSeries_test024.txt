@@ -51,7 +51,8 @@ BIBLIOGRAPHY
     "multi": {
       "main": {},
       "_keys": {}
-    }
+    },
+    "language": "en"
   }
 ]
 <<===== INPUT =====<<
