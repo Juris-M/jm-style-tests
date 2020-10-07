@@ -14,15 +14,15 @@ ECJ AG Stn
 
 >>===== RESULT =====>>
 FIRST
-  Stn Advocate General <i>Villalóu</i> 06.07.2015 Rs C-237/15 PPU (Langian).
+  StN GA <i>Villalóu</i> 06.07.2015 Rs C-237/15 PPU (Langian).
 FIRST w/LOCATOR
-  Stn Advocate General <i>Villalóu</i> 06.07.2015 Rs C-237/15 PPU (Langian) 123.
+  StN GA <i>Villalóu</i> 06.07.2015 Rs C-237/15 PPU (Langian) 123.
 FIRST w/LABEL
-  Stn Advocate General <i>Villalóu</i> 06.07.2015 Rs C-237/15 PPU (Langian) Abs 123.
+  StN GA <i>Villalóu</i> 06.07.2015 Rs C-237/15 PPU (Langian) Abs 123.
 SUBSEQUENT
-  Stn Advocate General <i>Villalóu</i> Rs C-237/15 PPU (Langian).
+  StN GA <i>Villalóu</i> Rs C-237/15 PPU (Langian).
 SUBSEQUENT w/LOCATOR
-  Stn Advocate General <i>Villalóu</i> Rs C-237/15 PPU (Langian) 123.
+  StN GA <i>Villalóu</i> Rs C-237/15 PPU (Langian) 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
 </div>
@@ -55,7 +55,7 @@ BIBLIOGRAPHY
       "_keys": {}
     },
     "jurisdiction": "eu.int:cjeu",
-    "genre": "Stn"
+    "genre": "StN"
   }
 ]
 <<===== INPUT =====<<
