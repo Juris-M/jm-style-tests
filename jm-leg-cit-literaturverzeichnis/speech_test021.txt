@@ -1,0 +1,53 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "9Z9439XM"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Place given Rz 344
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  <i>Streit</i>, Gemeinschaftsrecht und Hörfunk.
+FIRST w/LOCATOR
+  <i>Streit</i>, Gemeinschaftsrecht und Hörfunk 123.
+FIRST w/LABEL
+  <i>Streit</i>, Gemeinschaftsrecht und Hörfunk Abs 123.
+SUBSEQUENT
+  <i>Streit</i>, Gemeinschaftsrecht und Hörfunk.
+SUBSEQUENT w/LOCATOR
+  <i>Streit</i>, Gemeinschaftsrecht und Hörfunk 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry"><i>Streit</i>, Gemeinschaftsrecht und Hörfunk – Vortrag im Rahmen des Zweiten Österreichischen Rundfunkforums, Wien 21.9.2006.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "speech",
+    "title": "Gemeinschaftsrecht und Hörfunk",
+    "author": [
+      {
+        "family": "Streit"
+      }
+    ],
+    "issued": {
+      "raw": "21.9.2006"
+    },
+    "event-place": "Wien",
+    "event": "Vortrag im Rahmen des Zweiten Österreichischen Rundfunkforums",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<
