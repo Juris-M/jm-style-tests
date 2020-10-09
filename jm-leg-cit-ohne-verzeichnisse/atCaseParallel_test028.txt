@@ -1,5 +1,5 @@
 >>===== MODE =====>>
-all
+citation
 <<===== MODE =====<<
 
 >>===== KEYS =====>>
@@ -15,19 +15,10 @@ AT Case with parallel citations
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-FIRST
-  OGH 2 Ob 328/97t = SZ 71/21 = JBl 1999, 54 (<i>Karollus</i>) = ecolex 1998, 692 (<i>Wilhelm</i>).
-FIRST w/LOCATOR
-  OGH 2 Ob 328/97t = SZ 71/21, 123 = JBl 1999, 54 (<i>Karollus</i>) = ecolex 1998, 692 (<i>Wilhelm</i>).
-FIRST w/LABEL
-  OGH 2 Ob 328/97t = SZ 71/21 Abs 123 = JBl 1999, 54 (<i>Karollus</i>) = ecolex 1998, 692 (<i>Wilhelm</i>).
-SUBSEQUENT
-  OGH 2 Ob 328/97t = JBl 1999, 54 (<i>Karollus</i>) = ecolex 1998, 692 (<i>Wilhelm</i>).
-SUBSEQUENT w/LOCATOR
-  OGH 2 Ob 328/97t = SZ 71/21, 123 = JBl 1999, 54 (<i>Karollus</i>) = ecolex 1998, 692 (<i>Wilhelm</i>).
-BIBLIOGRAPHY
-<div class="csl-bib-body">
-</div>
+>>[0] OGH 2 Ob 328/97t = SZ 71/21 = JBl 1999, 54 (<i>Karollus</i>) = ecolex 1998, 692 (<i>Wilhelm</i>).
+>>[1] OGH 2 Ob 328/97t.
+>>[2] OGH 2 Ob 328/97t = SZ 71/21, 123.
+>>[3] OGH 2 Ob 328/97t = SZ 71/21 Rz 123 = JBl 1999, 54 Abs 456 (<i>Karollus</i>) = ecolex 1998, 692 (456 <i>Wilhelm</i>).
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>
@@ -123,3 +114,131 @@ BIBLIOGRAPHY
   }
 ]
 <<===== INPUT =====<<
+
+>>===== CITATIONS =====>>
+[
+  [
+    {
+      "citationID": "CITATION-1",
+      "citationItems": [
+        {
+          "id": "ILKFBEWH"
+        },
+        {
+          "id": "U4PGJ8LG"
+        },
+        {
+          "id": "QBMTEHTJ"
+        }
+      ],
+      "properties": {
+        "noteIndex": 1,
+        "index": 0
+      }
+    },
+    [],
+    []
+  ],
+  [
+    {
+      "citationID": "CITATION-2",
+      "citationItems": [
+        {
+          "id": "ILKFBEWH"
+        },
+        {
+          "id": "U4PGJ8LG"
+        },
+        {
+          "id": "QBMTEHTJ"
+        }
+      ],
+      "properties": {
+        "noteIndex": 2,
+        "index": 1
+      }
+    },
+    [
+      [
+        "CITATION-1",
+        1
+      ]
+    ],
+    []
+  ],
+  [
+    {
+      "citationID": "CITATION-3",
+      "citationItems": [
+        {
+          "id": "ILKFBEWH",
+          "locator": "123",
+          "label": "page"
+        },
+        {
+          "id": "U4PGJ8LG"
+        },
+        {
+          "id": "QBMTEHTJ"
+        }
+      ],
+      "properties": {
+        "noteIndex": 3,
+        "index": 2
+      }
+    },
+    [
+      [
+        "CITATION-1",
+        1
+      ],
+      [
+        "CITATION-2",
+        2
+      ]
+    ],
+    []
+  ],
+  [
+    {
+      "citationID": "CITATION-4",
+      "citationItems": [
+        {
+          "id": "ILKFBEWH",
+          "locator": "123",
+          "label": "randnummer"
+        },
+        {
+          "id": "U4PGJ8LG",
+          "locator": "456",
+          "label": "paragraph"
+        },
+        {
+          "id": "QBMTEHTJ",
+          "locator": "456",
+          "label": "page"
+        }
+      ],
+      "properties": {
+        "noteIndex": 4,
+        "index": 3
+      }
+    },
+    [
+      [
+        "CITATION-1",
+        1
+      ],
+      [
+        "CITATION-2",
+        2
+      ],
+      [
+        "CITATION-3",
+        3
+      ]
+    ],
+    []
+  ]
+]
+<<===== CITATIONS =====<<

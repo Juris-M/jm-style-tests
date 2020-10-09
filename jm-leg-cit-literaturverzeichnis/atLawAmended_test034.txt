@@ -1,5 +1,5 @@
 >>===== MODE =====>>
-all
+citation
 <<===== MODE =====<<
 
 >>===== KEYS =====>>
@@ -77,3 +77,45 @@ BIBLIOGRAPHY
   }
 ]
 <<===== INPUT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "NLBNNAPB",
+      "locator": "43",
+      "label": "section"
+    },
+    {
+      "id": "NLBNNAPB",
+      "locator": "23",
+      "label": "section"
+    }
+  ],
+  [
+    {
+      "id": "TQGQIGTG",
+      "locator": "87",
+      "label": "section"
+    },
+    {
+      "id": "TQGQIGTG",
+      "locator": "87",
+      "label": "section"
+    }
+  ],
+  [
+    {
+      "id": "NLBNNAPB",
+      "locator": "119",
+      "label": "section"
+    },
+    {
+      "id": "TQGQIGTG",
+      "locator": "101",
+      "label": "section"
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+
