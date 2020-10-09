@@ -19,7 +19,7 @@ FIRST
 FIRST w/LOCATOR
   OGH 4 Ob 8/11x = wobl 2010/35, 55 (123 <i>Guntter</i>); 11.09.2012, 6 Ob 24/11i [„AGB und Unterlassungserklärung“].
 FIRST w/LABEL
-  OGH 4 Ob 8/11x = wobl 2010/35, 55 (123 <i>Guntter</i>); 11.09.2012, 6 Ob 24/11i [„AGB und Unterlassungserklärung“].
+  OGH 4 Ob 8/11x = wobl 2010/35, 55 Abs 123 (<i>Guntter</i>); 11.09.2012, 6 Ob 24/11i [„AGB und Unterlassungserklärung“].
 SUBSEQUENT
   OGH 4 Ob 8/11x; 11.09.2012, 6 Ob 24/11i [„AGB und Unterlassungserklärung“].
 SUBSEQUENT w/LOCATOR
