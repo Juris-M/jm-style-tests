@@ -2,7 +2,6 @@
 citation
 <<===== MODE =====<<
 
-
 >>===== KEYS =====>>
 [
   "NLBNNAPB",
@@ -10,15 +9,14 @@ citation
 ]
 <<===== KEYS =====<<
 
-
 >>===== DESCRIPTION =====>>
 Austrian law with amended version, title and short
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-
+>>[0] SchUG, BGBl 472/1986 idF BGBl I 80/2020; SchUG idF BGBl I 117/2008.
+>>[1] SchUG idF BGBl I 80/2020; SchUG idF BGBl I 117/2008
 <<===== RESULT =====<<
-
 
 >>===== INPUT =====>>
 [
@@ -89,6 +87,30 @@ Austrian law with amended version, title and short
       }
     },
     [],
+    []
+  ],
+  [
+    {
+      "citationID": "CITATION-2",
+      "citationItems": [
+        {
+          "id": "NLBNNAPB"
+        },
+        {
+          "id": "TQGQIGTG"
+        }
+      ],
+      "properties": {
+        "noteIndex": 2,
+        "index": 1
+      }
+    },
+    [
+      [
+        "CITATION-1",
+        1
+      ]
+    ],
     []
   ]
 ]
