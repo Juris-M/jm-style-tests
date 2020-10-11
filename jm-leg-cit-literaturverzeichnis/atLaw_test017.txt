@@ -1,0 +1,54 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "2HEFLPP2"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test017
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  Nachhaltigkeits-BVG, BGBl I 111/2013.
+FIRST w/LOCATOR
+  123 Nachhaltigkeits-BVG, BGBl I 111/2013.
+FIRST w/LABEL
+  Abs 123 Nachhaltigkeits-BVG, BGBl I 111/2013.
+SUBSEQUENT
+  Nachhaltigkeits-BVG.
+SUBSEQUENT w/LOCATOR
+  123 Nachhaltigkeits-BVG.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legislation",
+    "title": "Bundesverfassungsgesetz über die Nachhaltigkeit, den Tierschutz, den umfassenden Umweltschutz, die Sicherstellung der Wasser- und Lebensmittelversorgung und die Forschung",
+    "container-title": "BGBl I",
+    "volume": "111",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "shortTitle": "Nachhaltigkeits-BVG",
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "jurisdiction": "at"
+  }
+]
+<<===== INPUT =====<<

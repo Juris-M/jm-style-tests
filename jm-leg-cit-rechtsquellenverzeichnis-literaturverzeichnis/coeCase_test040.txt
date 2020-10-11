@@ -19,10 +19,6 @@ FIRST w/LOCATOR
   EGMR (GK) 10226/03 (Yumak und Sadak/TR) 123.
 FIRST w/LABEL
   EGMR (GK) 10226/03 (Yumak und Sadak/TR) Abs 123.
-SUBSEQUENT
-  EGMR (GK) 10226/03 (Yumak und Sadak/TR).
-SUBSEQUENT w/LOCATOR
-  EGMR (GK) 10226/03 (Yumak und Sadak/TR) 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry">EGMR (GK) 08.07.2008, 10226/03 (Yumak und Sadak/TR).</div>

@@ -19,10 +19,6 @@ FIRST w/LOCATOR
   123 SchUG 1986.
 FIRST w/LABEL
   Abs 123 SchUG 1986.
-SUBSEQUENT
-  SchUG 1986.
-SUBSEQUENT w/LOCATOR
-  123 SchUG 1986.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry">Schulunterrichtsgesetz 1986, BGBl 472/1986 idF BGBl I 117/2008 [SchUG 1986].</div>

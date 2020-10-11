@@ -1,0 +1,57 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "VQ2JKCRH"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+ECJ AG
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  SA <i>Szpunar</i> Rs C-390/18 (AIRBNB Irland).
+FIRST w/LOCATOR
+  SA <i>Szpunar</i> Rs C-390/18 (AIRBNB Irland) 123.
+FIRST w/LABEL
+  SA <i>Szpunar</i> Rs C-390/18 (AIRBNB Irland) Abs 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">SA <i>Szpunar</i> 30.04.2019 Rs C-390/18 (AIRBNB Irland).</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_case",
+    "title": "AIRBNB Irland",
+    "author": [
+      {
+        "family": "Szpunar"
+      }
+    ],
+    "authority": "Advocate General",
+    "number": "Rs C-390/18",
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          4,
+          30
+        ]
+      ]
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "jurisdiction": "eu.int:cjeu"
+  }
+]
+<<===== INPUT =====<<

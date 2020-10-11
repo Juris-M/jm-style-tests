@@ -1,0 +1,53 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "VXL8DEY4"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Austrian regulation
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  KellerbuchV, BGBl II 149/2005.
+FIRST w/LOCATOR
+  123 KellerbuchV, BGBl II 149/2005.
+FIRST w/LABEL
+  Abs 123 KellerbuchV, BGBl II 149/2005.
+SUBSEQUENT
+  KellerbuchV.
+SUBSEQUENT w/LOCATOR
+  123 KellerbuchV.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legislation",
+    "title": "KellerbuchV",
+    "container-title": "BGBl II",
+    "volume": "149",
+    "issued": {
+      "date-parts": [
+        [
+          2005
+        ]
+      ]
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "jurisdiction": "at"
+  }
+]
+<<===== INPUT =====<<
