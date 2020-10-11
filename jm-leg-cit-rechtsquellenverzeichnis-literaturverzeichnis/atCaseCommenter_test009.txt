@@ -16,9 +16,9 @@ Austrian case with reporter and commenter wobl 201
 FIRST
   OGH 4 Ob 8/11x.
 FIRST w/LOCATOR
-  OGH 4 Ob 8/11x = wobl 2010, 55 Abs 123 (<i>Guntter</i>).
-FIRST w/LABEL
   OGH 4 Ob 8/11x = wobl 2010, 55 (123 <i>Guntter</i>).
+FIRST w/LABEL
+  OGH 4 Ob 8/11x = wobl 2010, 55 Abs 123 (<i>Guntter</i>).
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry">OGH 12.04.2011, 4 Ob 8/11x = wobl 2010/35, 55 (<i>Guntter</i>).</div>
