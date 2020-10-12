@@ -19,10 +19,6 @@ FIRST w/LOCATOR
   <i>Gaul ea</i>, Zwangsvollstreckungsrecht<sup>12</sup> 123.
 FIRST w/LABEL
   <i>Gaul ea</i>, Zwangsvollstreckungsrecht<sup>12</sup> Abs 123.
-SUBSEQUENT
-  <i>Gaul ea</i>, Zwangsvollstreckungsrecht<sup>12</sup>.
-SUBSEQUENT w/LOCATOR
-  <i>Gaul ea</i>, Zwangsvollstreckungsrecht<sup>12</sup> 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry"><i>Gaul/Schilken/Becker-Eberhard</i>, Zwangsvollstreckungsrecht<sup>12</sup> (2010).</div>

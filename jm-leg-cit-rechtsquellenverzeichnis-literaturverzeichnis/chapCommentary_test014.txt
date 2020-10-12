@@ -20,10 +20,6 @@ FIRST w/LOCATOR
   <i>Hippold</i> in Schwimann/Kodek, ABGB II<sup>4</sup> § 1313a 123; <i>Oberhammer</i> in Schwimann/Kodek, ABGB II<sup>4</sup> §364a.
 FIRST w/LABEL
   <i>Hippold</i> in Schwimann/Kodek, ABGB II<sup>4</sup> § 1313a Abs 123; <i>Oberhammer</i> in Schwimann/Kodek, ABGB II<sup>4</sup> §364a.
-SUBSEQUENT
-  <i>Hippold</i> in Schwimann/Kodek, ABGB II<sup>4</sup> § 1313a; <i>Oberhammer</i> in Schwimann/Kodek, ABGB II<sup>4</sup> §364a.
-SUBSEQUENT w/LOCATOR
-  <i>Hippold</i> in Schwimann/Kodek, ABGB II<sup>4</sup> § 1313a 123; <i>Oberhammer</i> in Schwimann/Kodek, ABGB II<sup>4</sup> §364a.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry">Schwimann/Kodek (Hg), ABGB II<sup>4</sup> (2012).</div>

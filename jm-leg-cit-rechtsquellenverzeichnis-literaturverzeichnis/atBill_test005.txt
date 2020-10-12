@@ -19,10 +19,6 @@ FIRST w/LOCATOR
   ME StrafRÄG 2008 92/ME XIII. GP 123.
 FIRST w/LABEL
   ME StrafRÄG 2008 92/ME XIII. GP Abs 123.
-SUBSEQUENT
-  ME StrafRÄG 2008 92/ME XIII. GP.
-SUBSEQUENT w/LOCATOR
-  ME StrafRÄG 2008 92/ME XIII. GP 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry">ME StrafRÄG 2008 92/ME XIII. GP.</div>

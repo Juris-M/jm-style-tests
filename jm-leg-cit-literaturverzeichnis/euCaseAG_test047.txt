@@ -1,0 +1,61 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "LMSHMBL5"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+ECJ second AG
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  SA <i>Colomer</i> II 27.04.2004 verb Rs C-397/01 bis C-403/01 (Pfeiffer ea).
+FIRST w/LOCATOR
+  SA <i>Colomer</i> II 27.04.2004 verb Rs C-397/01 bis C-403/01 (Pfeiffer ea) 123.
+FIRST w/LABEL
+  SA <i>Colomer</i> II 27.04.2004 verb Rs C-397/01 bis C-403/01 (Pfeiffer ea) Abs 123.
+SUBSEQUENT
+  SA <i>Colomer</i> II verb Rs C-397/01 bis C-403/01 (Pfeiffer ea).
+SUBSEQUENT w/LOCATOR
+  SA <i>Colomer</i> II verb Rs C-397/01 bis C-403/01 (Pfeiffer ea) 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_case",
+    "title": "Pfeiffer ea",
+    "author": [
+      {
+        "family": "Colomer"
+      }
+    ],
+    "authority": "Advocate General",
+    "number": "verb Rs C-397/01 bis C-403/01",
+    "issued": {
+      "date-parts": [
+        [
+          2004,
+          4,
+          27
+        ]
+      ]
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "jurisdiction": "eu.int:cjeu",
+    "division": "II"
+  }
+]
+<<===== INPUT =====<<

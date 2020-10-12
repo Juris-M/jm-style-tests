@@ -1,0 +1,224 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "MSHK9RS3",
+  "ZMBMZR4R"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test047
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+>>[0] EuGH Rs C-40/15 (Minister Finansov/Aspiro SA) ECLI:EU:C:2016:172 = Revista española de Derecho Financiero 2016/171, 263 (<i>Carrasco González</i>) = Jurisprudence de la CJUE 2016: Décisions et commentaires (2017) 703 (<i>Pailler</i>).
+>>[1] EuGH Rs C-40/15 (Minister Finansov/Aspiro SA).
+>>[2] EuGH Rs C-40/15 (Minister Finansov/Aspiro SA) = Revista española de Derecho Financiero 2016/171, 263 (123 <i>Carrasco González</i>).
+>>[3] EuGH Rs C-40/15 (Minister Finansov/Aspiro SA) = Revista española de Derecho Financiero 2016/171, 263 Rz 123 (<i>Carrasco González</i>) = Jurisprudence de la CJUE 2016: Décisions et commentaires (2017) 703 Abs 456 (<i>Pailler</i>).
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "MSHK9RS3",
+    "type": "legal_case",
+    "title": "Minister Finansov/Aspiro SA",
+    "authority": "ecj",
+    "number": "Rs C-40/15",
+    "page": "263",
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          3,
+          17
+        ]
+      ]
+    },
+    "language": "es",
+    "note": "DOI: ECLI:EU:C:2016:172",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "commenter": [
+      {
+        "given": "Francisco M.",
+        "family": "Carrasco González"
+      }
+    ],
+    "container-title": "Revista española de Derecho Financiero",
+    "jurisdiction": "eu.int:cjeu",
+    "issue": "171",
+    "publication-date": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "seeAlso": [
+      "ZMBMZR4R"
+    ]
+  },
+  {
+    "id": "ZMBMZR4R",
+    "type": "legal_case",
+    "title": "Minister Finansov/Aspiro SA",
+    "authority": "ecj",
+    "number": "Rs C-40/15",
+    "page": "703",
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          3,
+          17
+        ]
+      ]
+    },
+    "language": "fr",
+    "note": "DOI: ECLI:EU:C:2016:172",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "commenter": [
+      {
+        "given": "Pauline",
+        "family": "Pailler"
+      }
+    ],
+    "publisher": "Bruylant",
+    "container-title": "Jurisprudence de la CJUE 2016: Décisions et commentaires",
+    "jurisdiction": "eu.int:cjeu",
+    "publication-date": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "seeAlso": [
+      "MSHK9RS3"
+    ]
+  }
+]
+<<===== INPUT =====<<
+
+>>===== CITATIONS =====>>
+[
+  [
+    {
+      "citationID": "CITATION-1",
+      "citationItems": [
+        {
+          "id": "MSHK9RS3"
+        },
+        {
+          "id": "ZMBMZR4R"
+        }
+      ],
+      "properties": {
+        "noteIndex": 1,
+        "index": 0
+      }
+    },
+    [],
+    []
+  ],
+  [
+    {
+      "citationID": "CITATION-2",
+      "citationItems": [
+        {
+          "id": "MSHK9RS3"
+        },
+        {
+          "id": "ZMBMZR4R"
+        }
+      ],
+      "properties": {
+        "noteIndex": 2,
+        "index": 1
+      }
+    },
+    [
+      [
+        "CITATION-1",
+        1
+      ]
+    ],
+    []
+  ],
+  [
+    {
+      "citationID": "CITATION-3",
+      "citationItems": [
+        {
+          "id": "MSHK9RS3",
+          "locator": "123",
+          "label": "page"
+        },
+        {
+          "id": "ZMBMZR4R"
+        }
+      ],
+      "properties": {
+        "noteIndex": 3,
+        "index": 2
+      }
+    },
+    [
+      [
+        "CITATION-1",
+        1
+      ],
+      [
+        "CITATION-2",
+        2
+      ]
+    ],
+    []
+  ],
+  [
+    {
+      "citationID": "CITATION-4",
+      "citationItems": [
+        {
+          "id": "MSHK9RS3",
+          "locator": "123",
+          "label": "randnummer"
+        },
+        {
+          "id": "ZMBMZR4R",
+          "locator": "456",
+          "label": "paragraph"
+        }
+      ],
+      "properties": {
+        "noteIndex": 4,
+        "index": 3
+      }
+    },
+    [
+      [
+        "CITATION-1",
+        1
+      ],
+      [
+        "CITATION-2",
+        2
+      ],
+      [
+        "CITATION-3",
+        3
+      ]
+    ],
+    []
+  ]
+]
+<<===== CITATIONS =====<<

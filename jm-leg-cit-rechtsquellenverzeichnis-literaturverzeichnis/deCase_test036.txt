@@ -19,10 +19,6 @@ FIRST w/LOCATOR
   BVerwG 1 B 02.48.
 FIRST w/LABEL
   BVerwG 1 B 02.48.
-SUBSEQUENT
-  BVerwG 1 B 02.48.
-SUBSEQUENT w/LOCATOR
-  BVerwG 1 B 02.48.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry">BVerwG 1 B 02.48, 7. Oktober 2002.</div>

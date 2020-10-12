@@ -19,10 +19,6 @@ FIRST w/LOCATOR
   <i>Streit</i>, Gemeinschaftsrecht und Hörfunk 123.
 FIRST w/LABEL
   <i>Streit</i>, Gemeinschaftsrecht und Hörfunk Abs 123.
-SUBSEQUENT
-  <i>Streit</i>, Gemeinschaftsrecht und Hörfunk.
-SUBSEQUENT w/LOCATOR
-  <i>Streit</i>, Gemeinschaftsrecht und Hörfunk 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry"><i>Streit</i>, Gemeinschaftsrecht und Hörfunk – Vortrag im Rahmen des Zweiten Österreichischen Rundfunkforums, Wien 21.9.2006.</div>
