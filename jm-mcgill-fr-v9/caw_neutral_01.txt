@@ -4,42 +4,42 @@ all
 
 >>===== KEYS =====>>
 [
-  "8VAHCABT"
+  "ENGIYI89"
 ]
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-should pass test style_test008
+should pass test style_test001
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-%%RESULT%%
+
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>
 [
   {
     "type": "legal_case",
-    "title": "R. c. Charron",
-    "authority": "superior.court",
-    "page": "968",
+    "title": "Conseil scolaire francophone de la Colombie-Britannique v. British Columbia (Education)",
+    "authority": "court.appeal",
+    "page": "305",
     "issued": {
       "date-parts": [
         [
           2018,
-          3,
-          2
+          7,
+          25
         ]
       ]
     },
-    "language": "FR",
-    "note": "Library Catalog: CanLII",
+    "shortTitle": "Conseil scolaire francophone",
+    "note": "",
     "multi": {
       "main": {},
       "_keys": {}
     },
     "archive": "CanLII",
-    "jurisdiction": "ca:qc"
+    "jurisdiction": "ca:bc"
   }
 ]
 <<===== INPUT =====<<

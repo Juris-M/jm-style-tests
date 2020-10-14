@@ -4,36 +4,36 @@ all
 
 >>===== KEYS =====>>
 [
-  "ENGIYI89"
+  "XPTW463L"
 ]
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-should pass test style_test005
+should pass test style_test003
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
 FIRST
-  <i>Conseil scolaire francophone de la Colombie-Britannique v British Columbia (Education)</i>, 2018 BCCA 305 [<i>Conseil scolaire francophone</i>].
+  <i>Conseil scolaire francophone de la Colombie-Britannique v British Columbia (Education)</i> (2018), 425 DLR (4th) 230 [<i>Conseil scolaire francophone</i>].
 FIRST w/LOCATOR
-  <i>Conseil scolaire francophone de la Colombie-Britannique v British Columbia (Education)</i>, 2018 BCCA 305 123 [<i>Conseil scolaire francophone</i>].
+  <i>Conseil scolaire francophone de la Colombie-Britannique v British Columbia (Education)</i> (2018), 425 DLR (4th) 230 à la p 123 [<i>Conseil scolaire francophone</i>].
 FIRST w/LABEL
-  <i>Conseil scolaire francophone de la Colombie-Britannique v British Columbia (Education)</i>, 2018 BCCA 305 au para 123 [<i>Conseil scolaire francophone</i>].
+  <i>Conseil scolaire francophone de la Colombie-Britannique v British Columbia (Education)</i> (2018), 425 DLR (4th) 230 au para 123 [<i>Conseil scolaire francophone</i>].
 IBID
-  <i>Ibid</i>.
+  <i>Ibid.</i>
 IBID w/LOCATOR
-  <i>Ibid</i> at 123.
+  <i>Ibid.</i> à la p 123.
 SUBSEQUENT
   <i>Conseil scolaire francophone</i>.
 SUBSEQUENT w/LOCATOR
-  <i>Conseil scolaire francophone</i>, <i>supra</i> 123.
+  <i>Conseil scolaire francophone</i>, <i>supra</i> à la p 123.
 SUBSEQUENT w/BACKREF
   <i>Conseil scolaire francophone</i>, <i>supra</i> note 1.
 SUBSEQUENT w/BACKREF+LOCATOR
-  <i>Conseil scolaire francophone</i>, <i>supra</i> note 1 123.
+  <i>Conseil scolaire francophone</i>, <i>supra</i> note 1 à la p 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry"><i>Conseil scolaire francophone de la Colombie-Britannique v British Columbia (Education)</i>, 2018 BCCA 305.</div>
+  <div class="csl-entry"><i>Conseil scolaire francophone de la Colombie-Britannique v British Columbia (Education)</i> (2018), 425 DLR (4th) 230.</div>
 </div>
 <<===== RESULT =====<<
 
@@ -42,8 +42,9 @@ BIBLIOGRAPHY
   {
     "type": "legal_case",
     "title": "Conseil scolaire francophone de la Colombie-Britannique v. British Columbia (Education)",
+    "volume": "425",
     "authority": "court.appeal",
-    "page": "305",
+    "page": "230",
     "issued": {
       "date-parts": [
         [
@@ -60,6 +61,7 @@ BIBLIOGRAPHY
       "_keys": {}
     },
     "archive": "CanLII",
+    "container-title": "DLR (4th)",
     "jurisdiction": "ca:bc"
   }
 ]
