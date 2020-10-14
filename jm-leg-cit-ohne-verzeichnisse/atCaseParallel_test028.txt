@@ -1,0 +1,244 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "ILKFBEWH",
+  "U4PGJ8LG",
+  "QBMTEHTJ"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+AT Case with parallel citations
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+>>[0] OGH 2 Ob 328/97t = SZ 71/21 = JBl 1999, 54 (<i>Karollus</i>) = ecolex 1998, 692 (<i>Wilhelm</i>).
+>>[1] OGH 2 Ob 328/97t.
+>>[2] OGH 2 Ob 328/97t = SZ 71/21, 123.
+>>[3] OGH 2 Ob 328/97t = SZ 71/21 Rz 123 = JBl 1999, 54 Abs 456 (<i>Karollus</i>) = ecolex 1998, 692 (456 <i>Wilhelm</i>).
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "ILKFBEWH",
+    "type": "legal_case",
+    "container-title": "SZ",
+    "volume": "71/21",
+    "authority": "ogh",
+    "number": "2 Ob 328/97t",
+    "issued": {
+      "raw": "1998-02-12"
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "jurisdiction": "at",
+    "seeAlso": [
+      "U4PGJ8LG",
+      "QBMTEHTJ"
+    ]
+  },
+  {
+    "id": "U4PGJ8LG",
+    "type": "legal_case",
+    "commenter": [
+      {
+        "literal": "Karollus"
+      }
+    ],
+    "container-title": "JBl",
+    "authority": "ogh",
+    "number": "2 Ob 328/97t",
+    "page": "54",
+    "issued": {
+      "raw": "1998-02-12"
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "jurisdiction": "at",
+    "publication-date": {
+      "month": 0,
+      "date-parts": [
+        [
+          1999
+        ]
+      ]
+    },
+    "seeAlso": [
+      "ILKFBEWH",
+      "QBMTEHTJ"
+    ]
+  },
+  {
+    "id": "QBMTEHTJ",
+    "type": "legal_case",
+    "commenter": [
+      {
+        "literal": "Wilhelm"
+      }
+    ],
+    "container-title": "ecolex",
+    "authority": "ogh",
+    "number": "2 Ob 328/97t",
+    "page": "692",
+    "issued": {
+      "raw": "1998-02-12"
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "jurisdiction": "at",
+    "publication-date": {
+      "month": 0,
+      "date-parts": [
+        [
+          1998
+        ]
+      ]
+    },
+    "seeAlso": [
+      "ILKFBEWH",
+      "U4PGJ8LG"
+    ]
+  }
+]
+<<===== INPUT =====<<
+
+>>===== CITATIONS =====>>
+[
+  [
+    {
+      "citationID": "CITATION-1",
+      "citationItems": [
+        {
+          "id": "ILKFBEWH"
+        },
+        {
+          "id": "U4PGJ8LG"
+        },
+        {
+          "id": "QBMTEHTJ"
+        }
+      ],
+      "properties": {
+        "noteIndex": 1,
+        "index": 0
+      }
+    },
+    [],
+    []
+  ],
+  [
+    {
+      "citationID": "CITATION-2",
+      "citationItems": [
+        {
+          "id": "ILKFBEWH"
+        },
+        {
+          "id": "U4PGJ8LG"
+        },
+        {
+          "id": "QBMTEHTJ"
+        }
+      ],
+      "properties": {
+        "noteIndex": 2,
+        "index": 1
+      }
+    },
+    [
+      [
+        "CITATION-1",
+        1
+      ]
+    ],
+    []
+  ],
+  [
+    {
+      "citationID": "CITATION-3",
+      "citationItems": [
+        {
+          "id": "ILKFBEWH",
+          "locator": "123",
+          "label": "page"
+        },
+        {
+          "id": "U4PGJ8LG"
+        },
+        {
+          "id": "QBMTEHTJ"
+        }
+      ],
+      "properties": {
+        "noteIndex": 3,
+        "index": 2
+      }
+    },
+    [
+      [
+        "CITATION-1",
+        1
+      ],
+      [
+        "CITATION-2",
+        2
+      ]
+    ],
+    []
+  ],
+  [
+    {
+      "citationID": "CITATION-4",
+      "citationItems": [
+        {
+          "id": "ILKFBEWH",
+          "locator": "123",
+          "label": "randnummer"
+        },
+        {
+          "id": "U4PGJ8LG",
+          "locator": "456",
+          "label": "paragraph"
+        },
+        {
+          "id": "QBMTEHTJ",
+          "locator": "456",
+          "label": "page"
+        }
+      ],
+      "properties": {
+        "noteIndex": 4,
+        "index": 3
+      }
+    },
+    [
+      [
+        "CITATION-1",
+        1
+      ],
+      [
+        "CITATION-2",
+        2
+      ],
+      [
+        "CITATION-3",
+        3
+      ]
+    ],
+    []
+  ]
+]
+<<===== CITATIONS =====<<

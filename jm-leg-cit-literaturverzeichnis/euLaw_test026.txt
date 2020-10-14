@@ -1,0 +1,56 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "NLRP3C8Q"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test026
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  Beitrittsvertrag HR, Abl 2012 L 112/10.
+FIRST w/LOCATOR
+  123 Beitrittsvertrag HR, Abl 2012 L 112/10.
+FIRST w/LABEL
+  Abs 123 Beitrittsvertrag HR, Abl 2012 L 112/10.
+SUBSEQUENT
+  Beitrittsvertrag HR.
+SUBSEQUENT w/LOCATOR
+  123 Beitrittsvertrag HR.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legislation",
+    "title": "Beitrittsvertrag HR",
+    "container-title": "Abl",
+    "volume": "L",
+    "page": "112/10",
+    "language": "ü",
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "jurisdiction": "eu.int",
+    "publication-date": {
+      "month": 0,
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    }
+  }
+]
+<<===== INPUT =====<<

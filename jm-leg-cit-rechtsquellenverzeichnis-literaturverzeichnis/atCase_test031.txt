@@ -1,0 +1,49 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "G4PEPCSP"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test034
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  LG Feldkirch 2R247/18s.
+FIRST w/LOCATOR
+  LG Feldkirch 2R247/18s 123.
+FIRST w/LABEL
+  LG Feldkirch 2R247/18s Abs 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">LG Feldkirch 29.11.2018, 2R247/18s ECLI:AT:LG00929:2018:RFE0100040.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_case",
+    "authority": "lg",
+    "number": "2R247/18s",
+    "issued": {
+      "literal": "29.11.2018",
+      "date-parts": [
+        [],
+        []
+      ]
+    },
+    "note": "DOI: ECLI:AT:LG00929:2018:RFE0100040",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "jurisdiction": "at:innsbruck:feldkirch"
+  }
+]
+<<===== INPUT =====<<

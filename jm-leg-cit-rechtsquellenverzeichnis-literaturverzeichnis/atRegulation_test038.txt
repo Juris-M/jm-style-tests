@@ -1,0 +1,51 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "R5X2C8Z5"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Austrian regulation jurism
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  Erfolgsrechnung zusPV.
+FIRST w/LOCATOR
+  123 Erfolgsrechnung zusPV.
+FIRST w/LABEL
+  Abs 123 Erfolgsrechnung zusPV.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Erfolgsrechnung zusPV PI Linz AG, avsv 66/2020.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "regulation",
+    "title": "Erfolgsrechnung zusPV",
+    "container-title": "avsv",
+    "volume": "66",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "language": "de",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "jurisdiction": "at",
+    "authority": "PI Linz AG"
+  }
+]
+<<===== INPUT =====<<

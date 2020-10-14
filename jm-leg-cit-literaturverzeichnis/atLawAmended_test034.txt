@@ -1,0 +1,121 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "NLBNNAPB",
+  "TQGQIGTG"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Austrian law with amended version, title and short
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  SchUG, BGBl 472/1986 idF BGBl I 80/2020; SchUG, BGBl 472/1986 idF BGBl I 117/2008.
+FIRST w/LOCATOR
+  123 SchUG, BGBl 472/1986 idF BGBl I 80/2020; SchUG, BGBl 472/1986 idF BGBl I 117/2008.
+FIRST w/LABEL
+  Abs 123 SchUG, BGBl 472/1986 idF BGBl I 80/2020; SchUG, BGBl 472/1986 idF BGBl I 117/2008.
+SUBSEQUENT
+  SchUG; SchUG, BGBl 472/1986 idF BGBl I 117/2008.
+SUBSEQUENT w/LOCATOR
+  123 SchUG; SchUG, BGBl 472/1986 idF BGBl I 117/2008.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "NLBNNAPB",
+    "type": "legislation",
+    "title": "Schulunterrichtsgesetz",
+    "container-title": "BGBl",
+    "volume": "472",
+    "issued": {
+      "date-parts": [
+        [
+          1986
+        ]
+      ]
+    },
+    "references": "BGBl I 80/2020",
+    "shortTitle": "SchUG",
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "jurisdiction": "at"
+  },
+  {
+    "id": "TQGQIGTG",
+    "type": "legislation",
+    "title": "Schulunterrichtsgesetz",
+    "container-title": "BGBl",
+    "volume": "472",
+    "issued": {
+      "date-parts": [
+        [
+          1986
+        ]
+      ]
+    },
+    "references": "BGBl I 117/2008",
+    "shortTitle": "SchUG",
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "jurisdiction": "at"
+  }
+]
+<<===== INPUT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "NLBNNAPB",
+      "locator": "43",
+      "label": "section"
+    },
+    {
+      "id": "NLBNNAPB",
+      "locator": "23",
+      "label": "section"
+    }
+  ],
+  [
+    {
+      "id": "TQGQIGTG",
+      "locator": "87",
+      "label": "section"
+    },
+    {
+      "id": "TQGQIGTG",
+      "locator": "87",
+      "label": "section"
+    }
+  ],
+  [
+    {
+      "id": "NLBNNAPB",
+      "locator": "119",
+      "label": "section"
+    },
+    {
+      "id": "TQGQIGTG",
+      "locator": "101",
+      "label": "section"
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
+

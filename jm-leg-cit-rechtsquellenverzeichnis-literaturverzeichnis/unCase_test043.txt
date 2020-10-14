@@ -1,0 +1,47 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "QVU2AZF5"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test043
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  IGH, <i>Nuclear Weapons Advisory Opinion</i>, ICJ Reports 1996, 226.
+FIRST w/LOCATOR
+  IGH, <i>Nuclear Weapons Advisory Opinion</i>, ICJ Reports 1996, 226 (123).
+FIRST w/LABEL
+  IGH, <i>Nuclear Weapons Advisory Opinion</i>, ICJ Reports 1996, 226 Abs 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">IGH, <i>Legality of the threat or use of nuclear weapons</i>, Advisory Opinion, ICJ Reports 1996, 226 ("Nuclear Weapons Advisory Opinion").</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_case",
+    "title": "Legality of the threat or use of nuclear weapons",
+    "authority": "icj",
+    "page": "226",
+    "shortTitle": "Nuclear Weapons Advisory Opinion",
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "container-title": "ICJ Reports",
+    "jurisdiction": "un.int",
+    "collection-number": "1996",
+    "genre": "Advisory Opinion"
+  }
+]
+<<===== INPUT =====<<

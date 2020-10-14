@@ -1,0 +1,59 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "TSXAVBCH"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Rz 110
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  Lumb-Fangverbots-VO 983/2013/EU Abl 2013 L 273/3.
+FIRST w/LOCATOR
+  123 Lumb-Fangverbots-VO 983/2013/EU Abl 2013 L 273/3.
+FIRST w/LABEL
+  Abs 123 Lumb-Fangverbots-VO 983/2013/EU Abl 2013 L 273/3.
+SUBSEQUENT
+  Lumb-Fangverbots-VO.
+SUBSEQUENT w/LOCATOR
+  123 Lumb-Fangverbots-VO.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legislation",
+    "title": "über ein Fangverbot für Lumb in den EU- und den internationalen Gewässern I, II und XIV unter der Flagge Frankreichs",
+    "container-title": "Abl",
+    "volume": "L",
+    "number": "983/2013/EU",
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          10,
+          11
+        ]
+      ]
+    },
+    "page": "273/3",
+    "shortTitle": "Lumb-Fangverbots-VO",
+    "genre": "Verordnung",
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "jurisdiction": "eu.int"
+  }
+]
+<<===== INPUT =====<<

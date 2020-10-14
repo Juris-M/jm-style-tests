@@ -1,0 +1,54 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "T7G5N7XW"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+3/2006 (is. reset per year, p reset per is.) Rz 33
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  <i>Chappuis</i>, L’acte constitutif de la Sàrl selon le nouveau droit, REPRAX 3/2006, 1.
+FIRST w/LOCATOR
+  <i>Chappuis</i>, L’acte constitutif de la Sàrl selon le nouveau droit, REPRAX 3/2006, 1 (123).
+FIRST w/LABEL
+  <i>Chappuis</i>, L’acte constitutif de la Sàrl selon le nouveau droit, REPRAX 3/2006, 1 Abs 123.
+SUBSEQUENT
+  <i>Chappuis</i>, REPRAX 3/2006.
+SUBSEQUENT w/LOCATOR
+  <i>Chappuis</i>, REPRAX 3/2006, 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "article-journal",
+    "title": "L’acte constitutif de la Sàrl selon le nouveau droit",
+    "author": [
+      {
+        "family": "Chappuis"
+      }
+    ],
+    "container-title": "REPRAX",
+    "issue": "3",
+    "page": "1",
+    "issued": {
+      "raw": "2006"
+    },
+    "language": "fr",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<

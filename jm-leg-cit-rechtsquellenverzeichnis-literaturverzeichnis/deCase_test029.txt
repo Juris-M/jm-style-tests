@@ -1,0 +1,49 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "CKKJ5R2I"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test032
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  BGHIV ZR 241/18.
+FIRST w/LOCATOR
+  BGHIV ZR 241/18, 123.
+FIRST w/LABEL
+  BGHIV ZR 241/18 Abs 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Bundesgerichtshof, 09.09.2019, BGHIV ZR 241/18.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_case",
+    "authority": "bgh",
+    "number": "IV ZR 241/18",
+    "issued": {
+      "literal": "09.09.2019",
+      "date-parts": [
+        [],
+        []
+      ]
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "jurisdiction": "de"
+  }
+]
+<<===== INPUT =====<<

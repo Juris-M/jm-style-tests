@@ -1,0 +1,673 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "7DMKIKMQ",
+  "DBMR4UZM"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Two chapters from same book
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+..[0] <i>Karpen</i> in GedS Martens.
+..[1] <i>Eberle</i> in GedS Martens; <i>Eberle</i> in GedS Martens.
+>>[2] <i>Karpen</i> in GedS Martens.
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "7DMKIKMQ",
+    "type": "chapter",
+    "title": "Verfassungsgeschichtliche Entwicklung des Gesetzesbegriffs in Deutschland",
+    "author": [
+      {
+        "given": "Ulrich",
+        "family": "Karpen"
+      }
+    ],
+    "editor": [
+      {
+        "given": "Peter",
+        "family": "Selmer"
+      },
+      {
+        "given": "Ingo von",
+        "family": "Münch"
+      }
+    ],
+    "container-title": "Gedächtnisschrift für Wolfgang Martens",
+    "issued": {
+      "raw": "1987"
+    },
+    "page": "137",
+    "language": "de",
+    "shortTitle": "Verwertungsverbot",
+    "note": "container-title-short: GedS Martens",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  },
+  {
+    "id": "DBMR4UZM",
+    "type": "chapter",
+    "title": "Zum Verwertungsverbot für rechtswidrig erlangte Informationen im Verwaltungsverfahren",
+    "author": [
+      {
+        "given": "Carl-Eugen",
+        "family": "Eberle"
+      }
+    ],
+    "editor": [
+      {
+        "given": "Peter",
+        "family": "Selmer"
+      },
+      {
+        "given": "Ingo von",
+        "family": "Münch"
+      }
+    ],
+    "container-title": "Gedächtnisschrift für Wolfgang Martens",
+    "issued": {
+      "raw": "1987"
+    },
+    "page": "351",
+    "shortTitle": "Verwertungsverbot",
+    "note": "container-title-short: GedS Martens",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== CITATIONS =====>>
+[
+  [
+    {
+      "citationID": "CITATION-1",
+      "citationItems": [
+        {
+          "id": "7DMKIKMQ",
+          "item": {
+            "id": "7DMKIKMQ",
+            "type": "chapter",
+            "title": "Verfassungsgeschichtliche Entwicklung des Gesetzesbegriffs in Deutschland",
+            "author": [
+              {
+                "given": "Ulrich",
+                "family": "Karpen"
+              }
+            ],
+            "editor": [
+              {
+                "given": "Peter",
+                "family": "Selmer"
+              },
+              {
+                "given": "Ingo von",
+                "family": "Münch"
+              }
+            ],
+            "container-title": "Gedächtnisschrift für Wolfgang Martens",
+            "issued": {
+              "year": 1987
+            },
+            "page": "137",
+            "language": "de",
+            "shortTitle": "Verwertungsverbot",
+            "note": "",
+            "multi": {
+              "main": {},
+              "_keys": {}
+            },
+            "page-first": "137",
+            "container-title-short": "GedS Martens",
+            "title-short": "Verwertungsverbot",
+            "title-main": "Verfassungsgeschichtliche Entwicklung des Gesetzesbegriffs in Deutschland",
+            "title-sub": "",
+            "title-subjoin": ""
+          }
+        }
+      ],
+      "properties": {
+        "noteIndex": 1,
+        "index": 0
+      },
+      "sortedItems": [
+        [
+          {
+            "id": "7DMKIKMQ",
+            "type": "chapter",
+            "title": "Verfassungsgeschichtliche Entwicklung des Gesetzesbegriffs in Deutschland",
+            "author": [
+              {
+                "given": "Ulrich",
+                "family": "Karpen"
+              }
+            ],
+            "editor": [
+              {
+                "given": "Peter",
+                "family": "Selmer"
+              },
+              {
+                "given": "Ingo von",
+                "family": "Münch"
+              }
+            ],
+            "container-title": "Gedächtnisschrift für Wolfgang Martens",
+            "issued": {
+              "year": 1987
+            },
+            "page": "137",
+            "language": "de",
+            "shortTitle": "Verwertungsverbot",
+            "note": "",
+            "multi": {
+              "main": {},
+              "_keys": {}
+            },
+            "page-first": "137",
+            "container-title-short": "GedS Martens",
+            "title-short": "Verwertungsverbot",
+            "title-main": "Verfassungsgeschichtliche Entwicklung des Gesetzesbegriffs in Deutschland",
+            "title-sub": "",
+            "title-subjoin": ""
+          },
+          {
+            "id": "7DMKIKMQ",
+            "item": {
+              "id": "7DMKIKMQ",
+              "type": "chapter",
+              "title": "Verfassungsgeschichtliche Entwicklung des Gesetzesbegriffs in Deutschland",
+              "author": [
+                {
+                  "given": "Ulrich",
+                  "family": "Karpen"
+                }
+              ],
+              "editor": [
+                {
+                  "given": "Peter",
+                  "family": "Selmer"
+                },
+                {
+                  "given": "Ingo von",
+                  "family": "Münch"
+                }
+              ],
+              "container-title": "Gedächtnisschrift für Wolfgang Martens",
+              "issued": {
+                "year": 1987
+              },
+              "page": "137",
+              "language": "de",
+              "shortTitle": "Verwertungsverbot",
+              "note": "",
+              "multi": {
+                "main": {},
+                "_keys": {}
+              },
+              "page-first": "137",
+              "container-title-short": "GedS Martens",
+              "chapters_id": "chapter::Gedächtnisschrift für Wolfgang Martens",
+              "title-short": "Verwertungsverbot",
+              "title-main": "Verfassungsgeschichtliche Entwicklung des Gesetzesbegriffs in Deutschland",
+              "title-sub": "",
+              "title-subjoin": ""
+            },
+            "first-reference-note-number": 0,
+            "first-container-reference-note-number": 0,
+            "near-note": false,
+            "position": 0,
+            "section_form_override": "short"
+          }
+        ]
+      ]
+    },
+    [],
+    []
+  ],
+  [
+    {
+      "citationID": "CITATION-2",
+      "citationItems": [
+        {
+          "id": "DBMR4UZM",
+          "item": {
+            "id": "DBMR4UZM",
+            "type": "chapter",
+            "title": "Zum Verwertungsverbot für rechtswidrig erlangte Informationen im Verwaltungsverfahren",
+            "author": [
+              {
+                "given": "Carl-Eugen",
+                "family": "Eberle"
+              }
+            ],
+            "editor": [
+              {
+                "given": "Peter",
+                "family": "Selmer"
+              },
+              {
+                "given": "Ingo von",
+                "family": "Münch"
+              }
+            ],
+            "container-title": "Gedächtnisschrift für Wolfgang Martens",
+            "issued": {
+              "year": 1987
+            },
+            "page": "351",
+            "shortTitle": "Verwertungsverbot",
+            "note": "",
+            "multi": {
+              "main": {},
+              "_keys": {}
+            },
+            "page-first": "351",
+            "container-title-short": "GedS Martens",
+            "title-short": "Verwertungsverbot",
+            "title-main": "Zum Verwertungsverbot für rechtswidrig erlangte Informationen im Verwaltungsverfahren",
+            "title-sub": "",
+            "title-subjoin": ""
+          }
+        },
+        {
+          "id": "DBMR4UZM",
+          "item": {
+            "id": "DBMR4UZM",
+            "type": "chapter",
+            "title": "Zum Verwertungsverbot für rechtswidrig erlangte Informationen im Verwaltungsverfahren",
+            "author": [
+              {
+                "given": "Carl-Eugen",
+                "family": "Eberle"
+              }
+            ],
+            "editor": [
+              {
+                "given": "Peter",
+                "family": "Selmer"
+              },
+              {
+                "given": "Ingo von",
+                "family": "Münch"
+              }
+            ],
+            "container-title": "Gedächtnisschrift für Wolfgang Martens",
+            "issued": {
+              "year": 1987
+            },
+            "page": "351",
+            "shortTitle": "Verwertungsverbot",
+            "note": "",
+            "multi": {
+              "main": {},
+              "_keys": {}
+            },
+            "page-first": "351",
+            "container-title-short": "GedS Martens",
+            "title-short": "Verwertungsverbot",
+            "title-main": "Zum Verwertungsverbot für rechtswidrig erlangte Informationen im Verwaltungsverfahren",
+            "title-sub": "",
+            "title-subjoin": ""
+          }
+        }
+      ],
+      "properties": {
+        "noteIndex": 2,
+        "index": 1
+      },
+      "sortedItems": [
+        [
+          {
+            "id": "DBMR4UZM",
+            "type": "chapter",
+            "title": "Zum Verwertungsverbot für rechtswidrig erlangte Informationen im Verwaltungsverfahren",
+            "author": [
+              {
+                "given": "Carl-Eugen",
+                "family": "Eberle"
+              }
+            ],
+            "editor": [
+              {
+                "given": "Peter",
+                "family": "Selmer"
+              },
+              {
+                "given": "Ingo von",
+                "family": "Münch"
+              }
+            ],
+            "container-title": "Gedächtnisschrift für Wolfgang Martens",
+            "issued": {
+              "year": 1987
+            },
+            "page": "351",
+            "shortTitle": "Verwertungsverbot",
+            "note": "",
+            "multi": {
+              "main": {},
+              "_keys": {}
+            },
+            "page-first": "351",
+            "container-title-short": "GedS Martens",
+            "title-short": "Verwertungsverbot",
+            "title-main": "Zum Verwertungsverbot für rechtswidrig erlangte Informationen im Verwaltungsverfahren",
+            "title-sub": "",
+            "title-subjoin": ""
+          },
+          {
+            "id": "DBMR4UZM",
+            "item": {
+              "id": "DBMR4UZM",
+              "type": "chapter",
+              "title": "Zum Verwertungsverbot für rechtswidrig erlangte Informationen im Verwaltungsverfahren",
+              "author": [
+                {
+                  "given": "Carl-Eugen",
+                  "family": "Eberle"
+                }
+              ],
+              "editor": [
+                {
+                  "given": "Peter",
+                  "family": "Selmer"
+                },
+                {
+                  "given": "Ingo von",
+                  "family": "Münch"
+                }
+              ],
+              "container-title": "Gedächtnisschrift für Wolfgang Martens",
+              "issued": {
+                "year": 1987
+              },
+              "page": "351",
+              "shortTitle": "Verwertungsverbot",
+              "note": "",
+              "multi": {
+                "main": {},
+                "_keys": {}
+              },
+              "page-first": "351",
+              "container-title-short": "GedS Martens",
+              "chapters_id": "chapter::Gedächtnisschrift für Wolfgang Martens",
+              "title-short": "Verwertungsverbot",
+              "title-main": "Zum Verwertungsverbot für rechtswidrig erlangte Informationen im Verwaltungsverfahren",
+              "title-sub": "",
+              "title-subjoin": ""
+            },
+            "first-reference-note-number": 0,
+            "first-container-reference-note-number": 0,
+            "near-note": false,
+            "position": 0,
+            "section_form_override": "short"
+          }
+        ],
+        [
+          {
+            "id": "DBMR4UZM",
+            "type": "chapter",
+            "title": "Zum Verwertungsverbot für rechtswidrig erlangte Informationen im Verwaltungsverfahren",
+            "author": [
+              {
+                "given": "Carl-Eugen",
+                "family": "Eberle"
+              }
+            ],
+            "editor": [
+              {
+                "given": "Peter",
+                "family": "Selmer"
+              },
+              {
+                "given": "Ingo von",
+                "family": "Münch"
+              }
+            ],
+            "container-title": "Gedächtnisschrift für Wolfgang Martens",
+            "issued": {
+              "year": 1987
+            },
+            "page": "351",
+            "shortTitle": "Verwertungsverbot",
+            "note": "",
+            "multi": {
+              "main": {},
+              "_keys": {}
+            },
+            "page-first": "351",
+            "container-title-short": "GedS Martens",
+            "title-short": "Verwertungsverbot",
+            "title-main": "Zum Verwertungsverbot für rechtswidrig erlangte Informationen im Verwaltungsverfahren",
+            "title-sub": "",
+            "title-subjoin": ""
+          },
+          {
+            "id": "DBMR4UZM",
+            "item": {
+              "id": "DBMR4UZM",
+              "type": "chapter",
+              "title": "Zum Verwertungsverbot für rechtswidrig erlangte Informationen im Verwaltungsverfahren",
+              "author": [
+                {
+                  "given": "Carl-Eugen",
+                  "family": "Eberle"
+                }
+              ],
+              "editor": [
+                {
+                  "given": "Peter",
+                  "family": "Selmer"
+                },
+                {
+                  "given": "Ingo von",
+                  "family": "Münch"
+                }
+              ],
+              "container-title": "Gedächtnisschrift für Wolfgang Martens",
+              "issued": {
+                "year": 1987
+              },
+              "page": "351",
+              "shortTitle": "Verwertungsverbot",
+              "note": "",
+              "multi": {
+                "main": {},
+                "_keys": {}
+              },
+              "page-first": "351",
+              "container-title-short": "GedS Martens",
+              "chapters_id": "chapter::Gedächtnisschrift für Wolfgang Martens",
+              "title-short": "Verwertungsverbot",
+              "title-main": "Zum Verwertungsverbot für rechtswidrig erlangte Informationen im Verwaltungsverfahren",
+              "title-sub": "",
+              "title-subjoin": ""
+            },
+            "first-reference-note-number": 0,
+            "first-container-reference-note-number": 0,
+            "near-note": true,
+            "position": 2,
+            "section_form_override": "short"
+          }
+        ]
+      ]
+    },
+    [
+      [
+        "CITATION-1",
+        1
+      ]
+    ],
+    []
+  ],
+  [
+    {
+      "citationID": "CITATION-3",
+      "citationItems": [
+        {
+          "id": "7DMKIKMQ",
+          "item": {
+            "id": "7DMKIKMQ",
+            "type": "chapter",
+            "title": "Verfassungsgeschichtliche Entwicklung des Gesetzesbegriffs in Deutschland",
+            "author": [
+              {
+                "given": "Ulrich",
+                "family": "Karpen"
+              }
+            ],
+            "editor": [
+              {
+                "given": "Peter",
+                "family": "Selmer"
+              },
+              {
+                "given": "Ingo von",
+                "family": "Münch"
+              }
+            ],
+            "container-title": "Gedächtnisschrift für Wolfgang Martens",
+            "issued": {
+              "year": 1987
+            },
+            "page": "137",
+            "language": "de",
+            "shortTitle": "Verwertungsverbot",
+            "note": "",
+            "multi": {
+              "main": {},
+              "_keys": {}
+            },
+            "page-first": "137",
+            "container-title-short": "GedS Martens",
+            "title-short": "Verwertungsverbot",
+            "title-main": "Verfassungsgeschichtliche Entwicklung des Gesetzesbegriffs in Deutschland",
+            "title-sub": "",
+            "title-subjoin": ""
+          }
+        }
+      ],
+      "properties": {
+        "noteIndex": 3,
+        "index": 2
+      },
+      "sortedItems": [
+        [
+          {
+            "id": "7DMKIKMQ",
+            "type": "chapter",
+            "title": "Verfassungsgeschichtliche Entwicklung des Gesetzesbegriffs in Deutschland",
+            "author": [
+              {
+                "given": "Ulrich",
+                "family": "Karpen"
+              }
+            ],
+            "editor": [
+              {
+                "given": "Peter",
+                "family": "Selmer"
+              },
+              {
+                "given": "Ingo von",
+                "family": "Münch"
+              }
+            ],
+            "container-title": "Gedächtnisschrift für Wolfgang Martens",
+            "issued": {
+              "year": 1987
+            },
+            "page": "137",
+            "language": "de",
+            "shortTitle": "Verwertungsverbot",
+            "note": "",
+            "multi": {
+              "main": {},
+              "_keys": {}
+            },
+            "page-first": "137",
+            "container-title-short": "GedS Martens",
+            "title-short": "Verwertungsverbot",
+            "title-main": "Verfassungsgeschichtliche Entwicklung des Gesetzesbegriffs in Deutschland",
+            "title-sub": "",
+            "title-subjoin": ""
+          },
+          {
+            "id": "7DMKIKMQ",
+            "item": {
+              "id": "7DMKIKMQ",
+              "type": "chapter",
+              "title": "Verfassungsgeschichtliche Entwicklung des Gesetzesbegriffs in Deutschland",
+              "author": [
+                {
+                  "given": "Ulrich",
+                  "family": "Karpen"
+                }
+              ],
+              "editor": [
+                {
+                  "given": "Peter",
+                  "family": "Selmer"
+                },
+                {
+                  "given": "Ingo von",
+                  "family": "Münch"
+                }
+              ],
+              "container-title": "Gedächtnisschrift für Wolfgang Martens",
+              "issued": {
+                "year": 1987
+              },
+              "page": "137",
+              "language": "de",
+              "shortTitle": "Verwertungsverbot",
+              "note": "",
+              "multi": {
+                "main": {},
+                "_keys": {}
+              },
+              "page-first": "137",
+              "container-title-short": "GedS Martens",
+              "chapters_id": "chapter::Gedächtnisschrift für Wolfgang Martens",
+              "title-short": "Verwertungsverbot",
+              "title-main": "Verfassungsgeschichtliche Entwicklung des Gesetzesbegriffs in Deutschland",
+              "title-sub": "",
+              "title-subjoin": ""
+            },
+            "first-reference-note-number": 1,
+            "first-container-reference-note-number": 1,
+            "near-note": true,
+            "position": 1,
+            "section_form_override": "short"
+          }
+        ]
+      ]
+    },
+    [
+      [
+        "CITATION-1",
+        1
+      ],
+      [
+        "CITATION-2",
+        2
+      ]
+    ],
+    []
+  ]
+]
+<<===== CITATIONS =====<<
