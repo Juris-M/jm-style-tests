@@ -1,0 +1,44 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "I5IW4H9B"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test003
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+%%RESULT%%
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legislation",
+    "title": "Education Act",
+    "container-title": "SA",
+    "volume": "E-0.3",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "section": "E-0.3",
+    "language": "en",
+    "URL": "https://tinyurl.com/y5l9ak87",
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "jurisdiction": "ca"
+  }
+]
+<<===== INPUT =====<<

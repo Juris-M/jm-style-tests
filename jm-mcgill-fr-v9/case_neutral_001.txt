@@ -13,7 +13,7 @@ should pass test style_test001
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-
+%%RESULT%%
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>
@@ -32,6 +32,7 @@ should pass test style_test001
         ]
       ]
     },
+    "language": "en",
     "shortTitle": "Conseil scolaire francophone",
     "note": "",
     "multi": {
@@ -39,7 +40,8 @@ should pass test style_test001
       "_keys": {}
     },
     "archive": "CanLII",
-    "jurisdiction": "ca:bc"
+    "jurisdiction": "ca:bc",
+    "collection-number": "2018"
   }
 ]
 <<===== INPUT =====<<

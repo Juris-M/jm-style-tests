@@ -1,0 +1,49 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "UBJK4ZQQ"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test002
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+%%RESULT%%
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legislation",
+    "title": "Loi sur les langues autochtones",
+    "container-title": "LC",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "section": "23",
+    "language": "fr",
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {
+        "container-title": {
+          "en-CA": "SC"
+        },
+        "title": {
+          "en-CA": "An Act respecting Indigenous languages"
+        }
+      }
+    },
+    "jurisdiction": "ca"
+  }
+]
+<<===== INPUT =====<<
