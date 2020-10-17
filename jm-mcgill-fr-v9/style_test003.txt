@@ -1,0 +1,47 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "ENGIYI89"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Neutral citation - english
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+%%RESULT%%
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_case",
+    "title": "Conseil scolaire francophone de la Colombie-Britannique v. British Columbia (Education)",
+    "authority": "court.appeal",
+    "page": "305",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          7,
+          25
+        ]
+      ]
+    },
+    "language": "en",
+    "shortTitle": "Conseil scolaire francophone",
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "archive": "CanLII",
+    "jurisdiction": "ca:bc",
+    "collection-number": "2018"
+  }
+]
+<<===== INPUT =====<<

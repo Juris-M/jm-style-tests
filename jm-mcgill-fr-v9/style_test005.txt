@@ -4,12 +4,12 @@ all
 
 >>===== KEYS =====>>
 [
-  "ENGIYI89"
+  "XPTW463L"
 ]
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-should pass test style_test001
+Journal with (year)
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
@@ -21,8 +21,9 @@ should pass test style_test001
   {
     "type": "legal_case",
     "title": "Conseil scolaire francophone de la Colombie-Britannique v. British Columbia (Education)",
+    "volume": "425",
     "authority": "court.appeal",
-    "page": "305",
+    "page": "230",
     "issued": {
       "date-parts": [
         [
@@ -32,7 +33,6 @@ should pass test style_test001
         ]
       ]
     },
-    "language": "en",
     "shortTitle": "Conseil scolaire francophone",
     "note": "",
     "multi": {
@@ -40,8 +40,8 @@ should pass test style_test001
       "_keys": {}
     },
     "archive": "CanLII",
-    "jurisdiction": "ca:bc",
-    "collection-number": "2018"
+    "container-title": "DLR (4th)",
+    "jurisdiction": "ca:bc"
   }
 ]
 <<===== INPUT =====<<

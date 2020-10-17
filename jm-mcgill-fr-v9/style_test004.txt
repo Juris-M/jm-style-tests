@@ -4,12 +4,12 @@ all
 
 >>===== KEYS =====>>
 [
-  "I5IW4H9B"
+  "DFICH5K5"
 ]
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-should pass test style_test003
+Journal with [year]
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
@@ -19,26 +19,28 @@ should pass test style_test003
 >>===== INPUT =====>>
 [
   {
-    "type": "legislation",
-    "title": "Education Act",
-    "container-title": "SA",
-    "volume": "E-0.3",
+    "type": "legal_case",
+    "title": "Conseil scolaire francophone de la Colombie-Britannique v. British Columbia (Education)",
+    "authority": "court.appeal",
+    "page": "2836",
     "issued": {
       "date-parts": [
         [
-          2012
+          2018,
+          7,
+          25
         ]
       ]
     },
-    "section": "E-0.3",
-    "language": "en",
-    "URL": "https://tinyurl.com/y5l9ak87",
+    "shortTitle": "Conseil scolaire francophone",
     "note": "",
     "multi": {
       "main": {},
       "_keys": {}
     },
-    "jurisdiction": "ca"
+    "container-title": "BCJ No",
+    "jurisdiction": "ca:bc",
+    "collection-number": "2018"
   }
 ]
 <<===== INPUT =====<<
