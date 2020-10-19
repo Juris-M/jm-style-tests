@@ -13,7 +13,28 @@ Federal law - french
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-%%RESULT%%
+FIRST
+  <i>Loi sur les langues autochtones</i>, LC 2019 c 23 [<i>Loi sur les langues autochtones</i>].
+FIRST w/LOCATOR
+  <i>Loi sur les langues autochtones</i>, LC 2019 c 23 [<i>Loi sur les langues autochtones</i>].
+FIRST w/LABEL
+  <i>Loi sur les langues autochtones</i>, LC 2019 c 23 [<i>Loi sur les langues autochtones</i>].
+IBID
+  <i>Ibid</i>.
+IBID w/LOCATOR
+  <i>Ibid</i> à la p 123.
+SUBSEQUENT
+  <i>Loi sur les langues autochtones</i>.
+SUBSEQUENT w/LOCATOR
+  <i>Loi sur les langues autochtones</i>, <i>supra</i> à la p 123.
+SUBSEQUENT w/BACKREF
+  <i>Loi sur les langues autochtones</i>, <i>supra</i> note 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  <i>Loi sur les langues autochtones</i>, <i>supra</i> note 1 à la p 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry"><i>Loi sur les langues autochtones</i>, LC 2019 c 23.</div>
+</div>
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>
@@ -29,7 +50,7 @@ Federal law - french
         ]
       ]
     },
-    "section": "23",
+    "volume": "23",
     "language": "fr",
     "note": "",
     "multi": {
@@ -43,7 +64,8 @@ Federal law - french
         }
       }
     },
-    "jurisdiction": "ca"
+    "jurisdiction": "ca",
+    "language-name": "fr"
   }
 ]
 <<===== INPUT =====<<
