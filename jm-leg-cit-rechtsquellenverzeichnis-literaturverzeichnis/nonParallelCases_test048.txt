@@ -1,0 +1,66 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "P5SBRNE6",
+  "ZLGU2JBQ"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Non parallel case citations
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "P5SBRNE6",
+    "type": "legal_case",
+    "title": "Moré/KLM",
+    "authority": "ecj",
+    "number": "Rs C-139/11",
+    "issued": {
+      "date-parts": [
+        [
+          2012,
+          11,
+          22
+        ]
+      ]
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "jurisdiction": "eu.int:cjeu"
+  },
+  {
+    "id": "ZLGU2JBQ",
+    "type": "legal_case",
+    "authority": "ogh",
+    "number": "6 Ob 24/11i",
+    "issued": {
+      "date-parts": [
+        [
+          2012,
+          9,
+          11
+        ]
+      ]
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "jurisdiction": "at",
+    "division": "verst Senat"
+  }
+]
+<<===== INPUT =====<<
