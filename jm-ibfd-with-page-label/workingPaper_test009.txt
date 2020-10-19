@@ -1,0 +1,72 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "G658GSQU"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+IMF Workin Paper
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  S. Beer, M. Coelho &#38; S. Leduc, <i>Hidden Treasures: The Impact of Automatic Exchange of Information on Cross-Border Tax Evasion</i>, IMF Working Paper WP/19/286 (20 Dec. 2019), available at https://www.imf.org/en/Publications/WP/Issues/2019/12/20/Hidden-Treasure-The-Impact-of-Automatic-Exchange-of-Information-on-Cross-Border-Tax-Evasion-48781.
+FIRST w/LOCATOR
+  S. Beer, M. Coelho &#38; S. Leduc, <i>Hidden Treasures: The Impact of Automatic Exchange of Information on Cross-Border Tax Evasion</i>, IMF Working Paper WP/19/286, p. 123 (20 Dec. 2019), available at https://www.imf.org/en/Publications/WP/Issues/2019/12/20/Hidden-Treasure-The-Impact-of-Automatic-Exchange-of-Information-on-Cross-Border-Tax-Evasion-48781.
+FIRST w/LABEL
+  S. Beer, M. Coelho &#38; S. Leduc, <i>Hidden Treasures: The Impact of Automatic Exchange of Information on Cross-Border Tax Evasion</i>, IMF Working Paper WP/19/286, para. 123 (20 Dec. 2019), available at https://www.imf.org/en/Publications/WP/Issues/2019/12/20/Hidden-Treasure-The-Impact-of-Automatic-Exchange-of-Information-on-Cross-Border-Tax-Evasion-48781.
+IBID
+  <i>Id.</i>
+IBID w/LOCATOR
+  <i>Id.</i>, at p. 123.
+SUBSEQUENT
+  Beer, Coelho &#38; Leduc.
+SUBSEQUENT w/LOCATOR
+  Beer, Coelho &#38; Leduc, at p. 123.
+SUBSEQUENT w/BACKREF
+  Beer, Coelho &#38; Leduc, <i>supra</i> n. 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  Beer, Coelho &#38; Leduc, <i>supra</i> n. 1, at p. 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">S. Beer, M. Coelho &#38; S. Leduc, <i>Hidden Treasures: The Impact of Automatic Exchange of Information on Cross-Border Tax Evasion</i>, IMF Working Paper WP/19/286 (20 Dec. 2019), available at https://www.imf.org/en/Publications/WP/Issues/2019/12/20/Hidden-Treasure-The-Impact-of-Automatic-Exchange-of-Information-on-Cross-Border-Tax-Evasion-48781.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "article-journal",
+    "title": "Hidden Treasures: The Impact of Automatic Exchange of Information on Cross-Border Tax Evasion",
+    "author": [
+      {
+        "given": "Sebastian",
+        "family": "Beer"
+      },
+      {
+        "given": "Maria",
+        "family": "Coelho"
+      },
+      {
+        "given": "Sébastien",
+        "family": "Leduc"
+      }
+    ],
+    "container-title": "IMF Working Paper",
+    "issue": "WP/19/286",
+    "issued": {
+      "raw": "2019-12-20"
+    },
+    "URL": "https://www.imf.org/en/Publications/WP/Issues/2019/12/20/Hidden-Treasure-The-Impact-of-Automatic-Exchange-of-Information-on-Cross-Border-Tax-Evasion-48781",
+    "accessed": "2020-08-04",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<

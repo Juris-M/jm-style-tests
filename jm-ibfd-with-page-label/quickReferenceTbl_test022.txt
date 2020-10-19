@@ -1,0 +1,53 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "HJZ7XD9P"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Quick reference tables
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  <i>Australia—Transfer Pricing Table</i>, Quick Reference Tables IBFD (accessed 1 Oct. 2010).
+FIRST w/LOCATOR
+  <i>Australia—Transfer Pricing Table</i> p. 123, Quick Reference Tables IBFD (accessed 1 Oct. 2010).
+FIRST w/LABEL
+  <i>Australia—Transfer Pricing Table</i> para. 123, Quick Reference Tables IBFD (accessed 1 Oct. 2010).
+IBID
+  <i>Id.</i>
+IBID w/LOCATOR
+  <i>Id.</i>, at p. 123.
+SUBSEQUENT
+  <i>Australia—Transfer Pricing Table</i>.
+SUBSEQUENT w/LOCATOR
+  <i>Australia—Transfer Pricing Table</i>, at p. 123.
+SUBSEQUENT w/BACKREF
+  <i>Australia—Transfer Pricing Table</i>, <i>supra</i> n. 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  <i>Australia—Transfer Pricing Table</i>, <i>supra</i> n. 1, at p. 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry"><i>Australia—Transfer Pricing Table</i>, Quick Reference Tables IBFD (accessed 1 Oct. 2010).</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "book",
+    "title": "Australia - Transfer Pricing Table",
+    "accessed": "2010-10-01",
+    "archive": "Quick Reference Tables IBFD",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<

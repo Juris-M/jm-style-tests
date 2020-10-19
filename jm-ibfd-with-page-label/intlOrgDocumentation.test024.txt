@@ -1,0 +1,57 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "QXIQHDK6"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+International Organizations’ Documentation with sh
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  <i>OECD Transfer Pricing Guidelines for Multinational Enterprises and Tax Administrations</i> (OECD 2009), International Organizations’ Documentation IBFD [hereinafter <i>OECD Guidelines</i>].
+FIRST w/LOCATOR
+  <i>OECD Transfer Pricing Guidelines for Multinational Enterprises and Tax Administrations</i> p. 123 (OECD 2009), International Organizations’ Documentation IBFD [hereinafter <i>OECD Guidelines</i>].
+FIRST w/LABEL
+  <i>OECD Transfer Pricing Guidelines for Multinational Enterprises and Tax Administrations</i> para. 123 (OECD 2009), International Organizations’ Documentation IBFD [hereinafter <i>OECD Guidelines</i>].
+IBID
+  <i>Id.</i>
+IBID w/LOCATOR
+  <i>Id.</i>, at p. 123.
+SUBSEQUENT
+  <i>OECD Guidelines</i>.
+SUBSEQUENT w/LOCATOR
+  <i>OECD Guidelines</i>, at p. 123.
+SUBSEQUENT w/BACKREF
+  <i>OECD Guidelines</i>, <i>supra</i> n. 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  <i>OECD Guidelines</i>, <i>supra</i> n. 1, at p. 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry"><i>OECD Transfer Pricing Guidelines for Multinational Enterprises and Tax Administrations</i> (OECD 2009), International Organizations’ Documentation IBFD [hereinafter <i>OECD Guidelines</i>].</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "book",
+    "title": "OECD Transfer Pricing Guidelines for Multinational Enterprises and Tax Administrations",
+    "publisher": "OECD",
+    "issued": {
+      "raw": "2009"
+    },
+    "shortTitle": "OECD Guidelines",
+    "archive": "International Organizations’ Documentation IBFD",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<

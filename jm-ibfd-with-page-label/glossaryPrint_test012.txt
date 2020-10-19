@@ -1,0 +1,64 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "BRQ4YHKW"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Glossary (print)
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  <i>Transfer Pricing</i>, in <i>IBFD International Tax Glossary</i> (J. Rogers-Glabush ed., 6th rev. ed., IBFD 2009), Glossary IBFD.
+FIRST w/LOCATOR
+  <i>Transfer Pricing</i>, in <i>IBFD International Tax Glossary</i> p. 123 (J. Rogers-Glabush ed., 6th rev. ed., IBFD 2009), Glossary IBFD.
+FIRST w/LABEL
+  <i>Transfer Pricing</i>, in <i>IBFD International Tax Glossary</i> para. 123 (J. Rogers-Glabush ed., 6th rev. ed., IBFD 2009), Glossary IBFD.
+IBID
+  <i>Id.</i>
+IBID w/LOCATOR
+  <i>Id.</i>, at p. 123.
+SUBSEQUENT
+  <i>Transfer Pricing</i>.
+SUBSEQUENT w/LOCATOR
+  <i>Transfer Pricing</i>, at p. 123.
+SUBSEQUENT w/BACKREF
+  <i>Transfer Pricing</i>, <i>supra</i> n. 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  <i>Transfer Pricing</i>, <i>supra</i> n. 1, at p. 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry"><i>Transfer Pricing</i>, in <i>IBFD International Tax Glossary</i> (J. Rogers-Glabush ed., 6th rev. ed., IBFD 2009), Glossary IBFD.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "entry-encyclopedia",
+    "title": "Transfer Pricing",
+    "editor": [
+      {
+        "given": "J.",
+        "family": "Rogers-Glabush"
+      }
+    ],
+    "container-title": "IBFD International Tax Glossary",
+    "edition": "6th rev. ed.",
+    "publisher": "IBFD",
+    "issued": {
+      "raw": "2009"
+    },
+    "archive": "Glossary IBFD",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<
