@@ -14,11 +14,11 @@ should pass test style_test007
 
 >>===== RESULT =====>>
 FIRST
-  <i>Conseil scolaire francophone de la Colombie-Britannique v British Columbia (Education)</i> (2018), 425 DLR (4th) 230 [<i>Conseil scolaire francophone</i>].
+  <i>Conseil scolaire francophone de la Colombie-Britannique v British Columbia (Education)</i> (2018), 425 DLR (4<sup>e</sup>) 230 [<i>Conseil scolaire francophone</i>].
 FIRST w/LOCATOR
-  <i>Conseil scolaire francophone de la Colombie-Britannique v British Columbia (Education)</i> (2018), 425 DLR (4th) 230 à la p 123 [<i>Conseil scolaire francophone</i>].
+  <i>Conseil scolaire francophone de la Colombie-Britannique v British Columbia (Education)</i> (2018), 425 DLR (4<sup>e</sup>) 230 à la p 123 [<i>Conseil scolaire francophone</i>].
 FIRST w/LABEL
-  <i>Conseil scolaire francophone de la Colombie-Britannique v British Columbia (Education)</i> (2018), 425 DLR (4th) 230 au para 123 [<i>Conseil scolaire francophone</i>].
+  <i>Conseil scolaire francophone de la Colombie-Britannique v British Columbia (Education)</i> (2018), 425 DLR (4<sup>e</sup>) 230 au para 123 [<i>Conseil scolaire francophone</i>].
 IBID
   <i>Ibid</i>.
 IBID w/LOCATOR
@@ -33,7 +33,7 @@ SUBSEQUENT w/BACKREF+LOCATOR
   <i>Conseil scolaire francophone</i>, <i>supra</i> note 1 à la p 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry"><i>Conseil scolaire francophone de la Colombie-Britannique v British Columbia (Education)</i> (2018), 425 DLR (4th) 230.</div>
+  <div class="csl-entry"><i>Conseil scolaire francophone de la Colombie-Britannique v British Columbia (Education)</i> (2018), 425 DLR (4<sup>e</sup>) 230.</div>
 </div>
 <<===== RESULT =====<<
 
@@ -61,8 +61,9 @@ BIBLIOGRAPHY
       "_keys": {}
     },
     "archive": "CanLII",
-    "container-title": "DLR (4th)",
-    "jurisdiction": "ca:bc"
+    "container-title": "DLR",
+    "jurisdiction": "ca:bc",
+    "issue": "4"
   }
 ]
 <<===== INPUT =====<<
