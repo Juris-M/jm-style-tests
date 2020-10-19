@@ -4,21 +4,21 @@ all
 
 >>===== KEYS =====>>
 [
-  "ENGIYI89"
+  "DFICH5K5"
 ]
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-should pass test style_test003
+should pass test style_test006
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
 FIRST
-  <i>Conseil scolaire francophone de la Colombie-Britannique v British Columbia (Education)</i>, 2018 BCCA 305 [<i>Conseil scolaire francophone</i>].
+  <i>Conseil scolaire francophone de la Colombie-Britannique v British Columbia (Education)</i>, [2018] BCJ No 2836 [<i>Conseil scolaire francophone</i>].
 FIRST w/LOCATOR
-  <i>Conseil scolaire francophone de la Colombie-Britannique v British Columbia (Education)</i>, 2018 BCCA 305 à la p 123 [<i>Conseil scolaire francophone</i>].
+  <i>Conseil scolaire francophone de la Colombie-Britannique v British Columbia (Education)</i>, [2018] BCJ No 2836 à la p 123 [<i>Conseil scolaire francophone</i>].
 FIRST w/LABEL
-  <i>Conseil scolaire francophone de la Colombie-Britannique v British Columbia (Education)</i>, 2018 BCCA 305 au para 123 [<i>Conseil scolaire francophone</i>].
+  <i>Conseil scolaire francophone de la Colombie-Britannique v British Columbia (Education)</i>, [2018] BCJ No 2836 au para 123 [<i>Conseil scolaire francophone</i>].
 IBID
   <i>Ibid</i>.
 IBID w/LOCATOR
@@ -33,7 +33,7 @@ SUBSEQUENT w/BACKREF+LOCATOR
   <i>Conseil scolaire francophone</i>, <i>supra</i> note 1 à la p 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry"><i>Conseil scolaire francophone de la Colombie-Britannique v British Columbia (Education)</i>, 2018 BCCA 305.</div>
+  <div class="csl-entry"><i>Conseil scolaire francophone de la Colombie-Britannique v British Columbia (Education)</i>, [2018] BCJ No 2836.</div>
 </div>
 <<===== RESULT =====<<
 
@@ -43,7 +43,7 @@ BIBLIOGRAPHY
     "type": "legal_case",
     "title": "Conseil scolaire francophone de la Colombie-Britannique v. British Columbia (Education)",
     "authority": "court.appeal",
-    "page": "305",
+    "page": "2836",
     "issued": {
       "date-parts": [
         [
@@ -53,17 +53,15 @@ BIBLIOGRAPHY
         ]
       ]
     },
-    "language": "en",
     "shortTitle": "Conseil scolaire francophone",
     "note": "",
     "multi": {
       "main": {},
       "_keys": {}
     },
-    "archive": "CanLII",
+    "container-title": "BCJ No",
     "jurisdiction": "ca:bc",
-    "collection-number": "2018",
-    "language-name": "en"
+    "collection-number": "2018"
   }
 ]
 <<===== INPUT =====<<

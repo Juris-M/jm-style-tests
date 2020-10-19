@@ -4,68 +4,61 @@ all
 
 >>===== KEYS =====>>
 [
-  "UBJK4ZQQ"
+  "DYVZSMLC"
 ]
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-Federal law - french
+should pass test style_test002
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
 FIRST
-  <i>Loi sur les langues autochtones</i>, LC 2019 c 23 [<i>Loi sur les langues autochtones</i>].
+  <i>Valin v Langlois</i> (1879), 5 App Cas 115 [<i>Valin v Langlois</i>].
 FIRST w/LOCATOR
-  <i>Loi sur les langues autochtones</i>, LC 2019 c 23 [<i>Loi sur les langues autochtones</i>].
+  <i>Valin v Langlois</i> (1879), 5 App Cas 115 à la p 123 [<i>Valin v Langlois</i>].
 FIRST w/LABEL
-  <i>Loi sur les langues autochtones</i>, LC 2019 c 23 [<i>Loi sur les langues autochtones</i>].
+  <i>Valin v Langlois</i> (1879), 5 App Cas 115 au para 123 [<i>Valin v Langlois</i>].
 IBID
   <i>Ibid</i>.
 IBID w/LOCATOR
   <i>Ibid</i> à la p 123.
 SUBSEQUENT
-  <i>Loi sur les langues autochtones</i>.
+  <i>Valin v Langlois</i>.
 SUBSEQUENT w/LOCATOR
-  <i>Loi sur les langues autochtones</i>, <i>supra</i> à la p 123.
+  <i>Valin v Langlois</i>, <i>supra</i> à la p 123.
 SUBSEQUENT w/BACKREF
-  <i>Loi sur les langues autochtones</i>, <i>supra</i> note 1.
+  <i>Valin v Langlois</i>, <i>supra</i> note 1.
 SUBSEQUENT w/BACKREF+LOCATOR
-  <i>Loi sur les langues autochtones</i>, <i>supra</i> note 1 à la p 123.
+  <i>Valin v Langlois</i>, <i>supra</i> note 1 à la p 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry"><i>Loi sur les langues autochtones</i>, LC 2019 c 23.</div>
+  <div class="csl-entry"><i>Valin v Langlois</i> (1879), 5 App Cas 115.</div>
 </div>
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>
 [
   {
-    "type": "legislation",
-    "title": "Loi sur les langues autochtones",
-    "container-title": "LC",
+    "type": "legal_case",
+    "title": "Valin v. Langlois",
+    "volume": "5",
+    "authority": "supreme.court",
+    "page": "115",
     "issued": {
       "date-parts": [
         [
-          2019
+          1879
         ]
       ]
     },
-    "volume": "23",
-    "language": "fr",
     "note": "",
     "multi": {
       "main": {},
-      "_keys": {
-        "container-title": {
-          "en-CA": "SC"
-        },
-        "title": {
-          "en-CA": "An Act respecting Indigenous languages"
-        }
-      }
+      "_keys": {}
     },
-    "jurisdiction": "ca",
-    "language-name": "fr"
+    "container-title": "App Cas",
+    "jurisdiction": "ca"
   }
 ]
 <<===== INPUT =====<<

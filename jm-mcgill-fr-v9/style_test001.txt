@@ -4,62 +4,61 @@ all
 
 >>===== KEYS =====>>
 [
-  "I5IW4H9B"
+  "HGM5R2MM"
 ]
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-Provincial law - English only
+should pass test style_test001
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
 FIRST
-  <i>Education Act</i>, SA 2012 c E-03 [<i>Education Act</i>].
+  <i>Valin v Langlois</i> (1879), 3 SCR 1 [<i>Valin v Langlois</i>].
 FIRST w/LOCATOR
-  <i>Education Act</i>, SA 2012 c E-03 [<i>Education Act</i>].
+  <i>Valin v Langlois</i> (1879), 3 SCR 1 à la p 123 [<i>Valin v Langlois</i>].
 FIRST w/LABEL
-  <i>Education Act</i>, SA 2012 c E-03 [<i>Education Act</i>].
+  <i>Valin v Langlois</i> (1879), 3 SCR 1 au para 123 [<i>Valin v Langlois</i>].
 IBID
   <i>Ibid</i>.
 IBID w/LOCATOR
   <i>Ibid</i> à la p 123.
 SUBSEQUENT
-  <i>Education Act</i>.
+  <i>Valin v Langlois</i>.
 SUBSEQUENT w/LOCATOR
-  <i>Education Act</i>, <i>supra</i> à la p 123.
+  <i>Valin v Langlois</i>, <i>supra</i> à la p 123.
 SUBSEQUENT w/BACKREF
-  <i>Education Act</i>, <i>supra</i> note 1.
+  <i>Valin v Langlois</i>, <i>supra</i> note 1.
 SUBSEQUENT w/BACKREF+LOCATOR
-  <i>Education Act</i>, <i>supra</i> note 1 à la p 123.
+  <i>Valin v Langlois</i>, <i>supra</i> note 1 à la p 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry"><i>Education Act</i>, SA 2012 c E-03.</div>
+  <div class="csl-entry"><i>Valin v Langlois</i> (1879), 3 SCR 1.</div>
 </div>
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>
 [
   {
-    "type": "legislation",
-    "title": "Education Act",
-    "container-title": "SA",
+    "type": "legal_case",
+    "title": "Valin v. Langlois",
+    "volume": "3",
+    "authority": "supreme.court",
+    "page": "1",
     "issued": {
       "date-parts": [
         [
-          2012
+          1879
         ]
       ]
     },
-    "volume": "E-0.3",
-    "language": "fr",
-    "URL": "https://tinyurl.com/y5l9ak87",
     "note": "",
     "multi": {
       "main": {},
       "_keys": {}
     },
-    "jurisdiction": "ca:ab",
-    "language-name": "fr"
+    "container-title": "SCR",
+    "jurisdiction": "ca"
   }
 ]
 <<===== INPUT =====<<
