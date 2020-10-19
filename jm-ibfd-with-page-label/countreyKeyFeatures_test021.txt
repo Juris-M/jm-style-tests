@@ -43,7 +43,6 @@ BIBLIOGRAPHY
     "type": "book",
     "title": "United States – Key Features",
     "acessed": {
-      "literal": "2010-03-01",
       "date-parts": [
         [
           2010,
