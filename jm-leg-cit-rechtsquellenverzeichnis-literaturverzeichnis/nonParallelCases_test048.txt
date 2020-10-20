@@ -1,5 +1,5 @@
 >>===== MODE =====>>
-all
+citation
 <<===== MODE =====<<
 
 >>===== KEYS =====>>
@@ -14,53 +14,178 @@ Non parallel case citations
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
+???
 <<===== RESULT =====<<
+
+>>===== CITATIONS =====>>
+[
+[
+{
+  "citationID": "CITATION-1",
+  "properties": {
+    "formattedCitation": "Case Rs C-139/11, {\\i{}Mor\\uc0\\u233{}/KLM}, [2012] = OGH 6 Ob 24/11i; 2 Ob 328/97t; LG Feldkirch 2R247/18s.",
+    "plainCitation": "Case Rs C-139/11, Moré/KLM, [2012] = OGH 6 Ob 24/11i; 2 Ob 328/97t; LG Feldkirch 2R247/18s.",
+    "noteIndex": 1,
+    "suppress-trailing-punctuation": false
+  },
+  "citationItems": [
+    {
+      "id": 13,
+      "uris": [
+        "http://zotero.org/users/local/sXwqvd11/items/URKVSGG6"
+      ],
+      "uri": [
+        "http://zotero.org/users/local/sXwqvd11/items/URKVSGG6"
+      ],
+      "label": "page"
+    },
+    {
+      "id": 11,
+      "uris": [
+        "http://zotero.org/users/local/sXwqvd11/items/P3DEDAJN"
+      ],
+      "uri": [
+        "http://zotero.org/users/local/sXwqvd11/items/P3DEDAJN"
+      ],
+      "label": "page"
+    },
+    {
+      "id": 12,
+      "uris": [
+        "http://zotero.org/users/local/sXwqvd11/items/CE6PYVBW"
+      ],
+      "uri": [
+        "http://zotero.org/users/local/sXwqvd11/items/CE6PYVBW"
+      ],
+      "label": "page"
+    },
+    {
+      "id": 14,
+      "uris": [
+        "http://zotero.org/users/local/sXwqvd11/items/BR5DJ6S7"
+      ],
+      "uri": [
+        "http://zotero.org/users/local/sXwqvd11/items/BR5DJ6S7"
+      ],
+      "label": "page"
+    }
+  ],
+  "schema": "https://github.com/citation-style-language/schema/raw/master/csl-citation.json"
+},
+[],
+[]
+]
+]
+
+<<===== CITATIONS =====<<
+
 
 >>===== INPUT =====>>
 [
-  {
-    "id": "P5SBRNE6",
-    "type": "legal_case",
-    "title": "Moré/KLM",
-    "authority": "ecj",
-    "number": "Rs C-139/11",
-    "issued": {
-      "date-parts": [
-        [
-          2012,
-          11,
-          22
-        ]
-      ]
-    },
-    "note": "",
-    "multi": {
-      "main": {},
-      "_keys": {}
-    },
-    "jurisdiction": "eu.int:cjeu"
-  },
-  {
-    "id": "ZLGU2JBQ",
-    "type": "legal_case",
-    "authority": "ogh",
-    "number": "6 Ob 24/11i",
-    "issued": {
-      "date-parts": [
-        [
-          2012,
-          9,
-          11
-        ]
-      ]
-    },
-    "note": "",
-    "multi": {
-      "main": {},
-      "_keys": {}
-    },
-    "jurisdiction": "at",
-    "division": "verst Senat"
-  }
+   {
+        "id": 13,
+        "type": "legal_case",
+        "multi": {
+          "main": {},
+          "_keys": {}
+        },
+        "abstract": "EuGH",
+        "authority": "ecj",
+        "number": "Rs C-139/11",
+        "title": "Moré/KLM",
+        "jurisdiction": "eu.int:cjeu",
+        "issued": {
+          "date-parts": [
+            [
+              "2012",
+              11,
+              22
+            ]
+          ]
+        },
+        "seeAlso": []
+      },
+      {
+        "id": 11,
+        "type": "legal_case",
+        "multi": {
+          "main": {},
+          "_keys": {}
+        },
+        "abstract": "Court composition in Case Type\n\njurism",
+        "authority": "ogh",
+        "genre": "verst Senat",
+        "number": "6 Ob 24/11i",
+        "jurisdiction": "at",
+        "issued": {
+          "date-parts": [
+            [
+              "2012",
+              9,
+              11
+            ]
+          ]
+        },
+        "seeAlso": []
+      },
+      {
+        "id": 12,
+        "type": "legal_case",
+        "multi": {
+          "main": {},
+          "_keys": {}
+        },
+        "abstract": "AT Case with parallel cites",
+        "authority": "ogh",
+        "container-title": "ecolex",
+        "number": "2 Ob 328/97t",
+        "page": "692",
+        "jurisdiction": "at",
+        "commenter": [
+          {
+            "literal": "Wilhelm",
+            "multi": {
+              "_key": {}
+            }
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              "1998",
+              2,
+              12
+            ]
+          ]
+        },
+        "publication-date": {
+          "date-parts": [
+            [
+              "1998"
+            ]
+          ]
+        },
+        "seeAlso": []
+      },
+      {
+        "id": 14,
+        "type": "legal_case",
+        "multi": {
+          "main": {},
+          "_keys": {}
+        },
+        "authority": "lg",
+        "note": "DOI: ECLI:AT:LG00929:2018:RFE0100040",
+        "number": "2R247/18s",
+        "jurisdiction": "at:innsbruck:feldkirch",
+        "issued": {
+          "literal": "29.11.2018",
+          "date-parts": [
+            [],
+            []
+          ]
+        },
+        "seeAlso": []
+      }
 ]
 <<===== INPUT =====<<
