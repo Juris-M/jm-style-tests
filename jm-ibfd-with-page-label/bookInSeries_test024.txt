@@ -1,0 +1,58 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "JLNURXH4"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test024
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  <i>Child Abuse, Neglect and the Foster Care System</i> (PLI Course Handbook Series No. 475, 2003) [hereinafter <i>Child Abuse</i>].
+FIRST w/LOCATOR
+  <i>Child Abuse, Neglect and the Foster Care System</i> p. 123 (PLI Course Handbook Series No. 475, 2003) [hereinafter <i>Child Abuse</i>].
+FIRST w/LABEL
+  <i>Child Abuse, Neglect and the Foster Care System</i> para. 123 (PLI Course Handbook Series No. 475, 2003) [hereinafter <i>Child Abuse</i>].
+IBID
+  <i>Id.</i>
+IBID w/LOCATOR
+  <i>Id.</i>, at p. 123.
+SUBSEQUENT
+  <i>Child Abuse</i>.
+SUBSEQUENT w/LOCATOR
+  <i>Child Abuse</i>, at p. 123.
+SUBSEQUENT w/BACKREF
+  <i>Child Abuse</i>, <i>supra</i> n. 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  <i>Child Abuse</i>, <i>supra</i> n. 1, at p. 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry"><i>Child Abuse, Neglect and the Foster Care System</i> (PLI Course Handbook Series No. 475, 2003) [hereinafter <i>Child Abuse</i>].</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "book",
+    "title": "Child Abuse, Neglect and the Foster Care System",
+    "title-short": "Child Abuse",
+    "collection-title": "PLI Course Handbook Series",
+    "collection-number": "475",
+    "issued": {
+      "raw": "2003"
+    },
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "language": "en"
+  }
+]
+<<===== INPUT =====<<

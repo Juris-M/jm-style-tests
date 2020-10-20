@@ -1,0 +1,63 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "N2SUPQ2P"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Administrative Documentation
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  S.A.T. Notice on the Annual Report on the Affiliated Transactions of Enterprises in China, <i>Guoshuifa</i> 2008–114, (5 Dec. 2008), Administrative Documentation IBFD.
+FIRST w/LOCATOR
+  S.A.T. Notice on the Annual Report on the Affiliated Transactions of Enterprises in China, <i>Guoshuifa</i> 2008–114, p. 123, (5 Dec. 2008), Administrative Documentation IBFD.
+FIRST w/LABEL
+  S.A.T. Notice on the Annual Report on the Affiliated Transactions of Enterprises in China, <i>Guoshuifa</i> 2008–114, para. 123, (5 Dec. 2008), Administrative Documentation IBFD.
+IBID
+  <i>Id.</i>
+IBID w/LOCATOR
+  p. 123 <i>id.</i>
+SUBSEQUENT
+  S.A.T. Guoshuifa 2008–114.
+SUBSEQUENT w/LOCATOR
+  p. 123 S.A.T. Guoshuifa 2008–114.
+SUBSEQUENT w/BACKREF
+  S.A.T. Guoshuifa 2008–114.
+SUBSEQUENT w/BACKREF+LOCATOR
+  p. 123 S.A.T. Guoshuifa 2008–114.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">S.A.T. Notice on the Annual Report on the Affiliated Transactions of Enterprises in China, <i>Guoshuifa</i> 2008–114, (5 Dec. 2008), Administrative Documentation IBFD.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "report",
+    "title": "Notice on the Annual Report on the Affiliated Transactions of Enterprises in China",
+    "author": [
+      {
+        "literal": "S.A.T."
+      }
+    ],
+    "number": "2008-114",
+    "genre": "Guoshuifa",
+    "issued": {
+      "raw": "5 Dec. 2008"
+    },
+    "archive": "Administrative Documentation IBFD.",
+    "note": "type: pamphlet",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<

@@ -1,0 +1,75 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "DFVTP553"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Natl. legn.
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  AU: Income Tax Assessment Act, 1997 (amended 2009), National Legislation IBFD.
+FIRST w/LOCATOR
+  AU: Income Tax Assessment Act, 1997 (amended 2009), p. 123, National Legislation IBFD.
+FIRST w/LABEL
+  AU: Income Tax Assessment Act, 1997, para. 123 (amended 2009), National Legislation IBFD.
+IBID
+  <i>Id.</i>
+IBID w/LOCATOR
+  p. 123 <i>id.</i>
+SUBSEQUENT
+  ITAA 1997 (amended 2009).
+SUBSEQUENT w/LOCATOR
+  p. 123 ITAA 1997 (amended 2009).
+SUBSEQUENT w/BACKREF
+  ITAA 1997 (amended 2009).
+SUBSEQUENT w/BACKREF+LOCATOR
+  p. 123 ITAA 1997 (amended 2009).
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">AU: Income Tax Assessment Act, 1997 (amended 2009), National Legislation IBFD.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legislation",
+    "title": "Income Tax Assessment Act",
+    "issued": {
+      "date-parts": [
+        [
+          1997
+        ]
+      ]
+    },
+    "shortTitle": "ITAA",
+    "note": "archive: National Legislation IBFD",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "jurisdiction": "AU",
+    "original-date": {
+      "date-parts": [
+        [
+          1997
+        ]
+      ]
+    },
+    "event-date": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    }
+  }
+]
+<<===== INPUT =====<<

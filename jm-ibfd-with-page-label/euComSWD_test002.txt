@@ -1,0 +1,62 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "X392BSVL"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+EU staff working document
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  Commission Staff Working Document SWD(2017) 236 final of 21 June 2017, Executive Summary of the Impact Assessment, Accompanying the document: Proposal for a Council Directive amending Directive 2011/16/EU as regards mandatory automatic exchange of information in the field of taxation in relation to reportable cross-border arrangements [hereinafter SWD (2017/236)].
+FIRST w/LOCATOR
+  Commission Staff Working Document SWD(2017) 236 final of 21 June 2017, Executive Summary of the Impact Assessment, Accompanying the document: Proposal for a Council Directive amending Directive 2011/16/EU as regards mandatory automatic exchange of information in the field of taxation in relation to reportable cross-border arrangements, p. 123 [hereinafter SWD (2017/236)].
+FIRST w/LABEL
+  Commission Staff Working Document SWD(2017) 236 final of 21 June 2017, Executive Summary of the Impact Assessment, Accompanying the document: Proposal for a Council Directive amending Directive 2011/16/EU as regards mandatory automatic exchange of information in the field of taxation in relation to reportable cross-border arrangements, para. 123 [hereinafter SWD (2017/236)].
+IBID
+  <i>Id.</i>
+IBID w/LOCATOR
+  p. 123 <i>id.</i>
+SUBSEQUENT
+  SWD (2017/236).
+SUBSEQUENT w/LOCATOR
+  p. 123 SWD (2017/236).
+SUBSEQUENT w/BACKREF
+  SWD (2017/236).
+SUBSEQUENT w/BACKREF+LOCATOR
+  p. 123 SWD (2017/236).
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Commission Staff Working Document SWD(2017) 236 final of 21 June 2017, Executive Summary of the Impact Assessment, Accompanying the document: Proposal for a Council Directive amending Directive 2011/16/EU as regards mandatory automatic exchange of information in the field of taxation in relation to reportable cross-border arrangements [hereinafter SWD (2017/236)].</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legislation",
+    "title": "Commission Staff Working Document SWD(2017) 236 final of 21 June 2017, Executive Summary of the Impact Assessment, Accompanying the document: Proposal for a Council Directive amending Directive 2011/16/EU as regards mandatory automatic exchange of information in the field of taxation in relation to reportable cross-border arrangements",
+    "number": "236",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "shortTitle": "SWD",
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "jurisdiction": "eu.int"
+  }
+]
+<<===== INPUT =====<<

@@ -1,0 +1,65 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "P5DZG9T8"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Case law with title
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  CA: SCC, 22 June 1995, <i>Crown Forest Industries Ltd. v. Canada</i>, Tax Treaty Case Law IBFD.
+FIRST w/LOCATOR
+  CA: SCC, 22 June 1995, <i>Crown Forest Industries Ltd. v. Canada</i>, p. 123, Tax Treaty Case Law IBFD.
+FIRST w/LABEL
+  CA: SCC, 22 June 1995, <i>Crown Forest Industries Ltd. v. Canada</i>, para. 123, Tax Treaty Case Law IBFD.
+IBID
+  <i>Id.</i>
+IBID w/LOCATOR
+  <i>Id.</i>, at p. 123.
+SUBSEQUENT
+  <i>Crown Forest</i> (1995).
+SUBSEQUENT w/LOCATOR
+  <i>Crown Forest</i> (1995), at p. 123.
+SUBSEQUENT w/BACKREF
+  <i>Crown Forest</i> (1995).
+SUBSEQUENT w/BACKREF+LOCATOR
+  <i>Crown Forest</i> (1995), at p. 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">CA: SCC, 22 June 1995, <i>Crown Forest Industries Ltd. v. Canada</i>, Tax Treaty Case Law IBFD.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_case",
+    "title": "Crown Forest Industries Ltd. v. Canada",
+    "authority": "supreme.court",
+    "issued": {
+      "date-parts": [
+        [
+          1995,
+          6,
+          22
+        ]
+      ]
+    },
+    "shortTitle": "Crown Forest",
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "archive": "Tax Treaty Case Law IBFD",
+    "jurisdiction": "ca"
+  }
+]
+<<===== INPUT =====<<
