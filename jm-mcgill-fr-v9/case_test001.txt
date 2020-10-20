@@ -16,21 +16,21 @@ Case - Reporter - No year
 FIRST
   <i>Valin v Langlois</i> (1879), 3 SCR 1 [<i>Valin v Langlois</i>].
 FIRST w/LOCATOR
-  <i>Valin v Langlois</i> (1879), 3 SCR 1 à la p 123 [<i>Valin v Langlois</i>].
+  <i>Valin v Langlois</i> (1879), 3 SCR 1 at 123 [<i>Valin v Langlois</i>].
 FIRST w/LABEL
-  <i>Valin v Langlois</i> (1879), 3 SCR 1 au para 123 [<i>Valin v Langlois</i>].
+  <i>Valin v Langlois</i> (1879), 3 SCR 1 at para 123 [<i>Valin v Langlois</i>].
 IBID
   <i>Ibid</i>.
 IBID w/LOCATOR
-  <i>Ibid</i> à la p 123.
+  <i>Ibid</i> at 123.
 SUBSEQUENT
   <i>Valin v Langlois</i>.
 SUBSEQUENT w/LOCATOR
-  <i>Valin v Langlois</i>, <i>supra</i> à la p 123.
+  <i>Valin v Langlois</i>, <i>supra</i> at 123.
 SUBSEQUENT w/BACKREF
   <i>Valin v Langlois</i>, <i>supra</i> note 1.
 SUBSEQUENT w/BACKREF+LOCATOR
-  <i>Valin v Langlois</i>, <i>supra</i> note 1 à la p 123.
+  <i>Valin v Langlois</i>, <i>supra</i> note 1 at 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry"><i>Valin v Langlois</i> (1879), 3 SCR 1.</div>
