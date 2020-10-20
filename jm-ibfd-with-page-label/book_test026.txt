@@ -1,0 +1,73 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "S9BL4HKJ"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Book w/ vol. and ed.
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  J.B. Weinstein &#38; M.A. Berger, <i>Weinstein’s Federal Evidence</i> vol. 3 (J.M. McLaughlin ed., 2d ed., Matthew Bender 2005).
+FIRST w/LOCATOR
+  J.B. Weinstein &#38; M.A. Berger, <i>Weinstein’s Federal Evidence</i> vol. 3, p. 123 (J.M. McLaughlin ed., 2d ed., Matthew Bender 2005).
+FIRST w/LABEL
+  J.B. Weinstein &#38; M.A. Berger, <i>Weinstein’s Federal Evidence</i> vol. 3, para. 123 (J.M. McLaughlin ed., 2d ed., Matthew Bender 2005).
+IBID
+  <i>Id.</i>
+IBID w/LOCATOR
+  <i>Id.</i>, at p. 123.
+SUBSEQUENT
+  Weinstein &#38; Berger.
+SUBSEQUENT w/LOCATOR
+  Weinstein &#38; Berger, at p. 123.
+SUBSEQUENT w/BACKREF
+  Weinstein &#38; Berger, <i>supra</i> n. 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  Weinstein &#38; Berger, <i>supra</i> n. 1, at p. 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">J.B. Weinstein &#38; M.A. Berger, <i>Weinstein’s Federal Evidence</i> vol. 3 (J.M. McLaughlin ed., 2d ed., Matthew Bender 2005).</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "book",
+    "title": "Weinstein's Federal Evidence",
+    "author": [
+      {
+        "given": "Jack B.",
+        "family": "Weinstein"
+      },
+      {
+        "given": "Margaret A.",
+        "family": "Berger"
+      }
+    ],
+    "editor": [
+      {
+        "given": "Joseph M.",
+        "family": "McLaughlin"
+      }
+    ],
+    "volume": "3",
+    "edition": "2",
+    "publisher": "Matthew Bender",
+    "issued": {
+      "raw": "2005"
+    },
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<
