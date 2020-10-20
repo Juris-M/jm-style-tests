@@ -4,44 +4,62 @@ all
 
 >>===== KEYS =====>>
 [
-  "XPTW463L"
+  "I5IW4H9B"
 ]
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-Journal with (year)
+should pass test style_test005
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-%%RESULT%%
+FIRST
+  <i>Education Act</i>, SA 2012 c E-03 [<i>Education Act</i>].
+FIRST w/LOCATOR
+  <i>Education Act</i>, SA 2012 c E-03 à la p 123 [<i>Education Act</i>].
+FIRST w/LABEL
+  <i>Education Act</i>, SA 2012 c E-03 au para 123 [<i>Education Act</i>].
+IBID
+  <i>Ibid</i>.
+IBID w/LOCATOR
+  <i>Ibid</i> à la p 123.
+SUBSEQUENT
+  <i>Education Act</i>.
+SUBSEQUENT w/LOCATOR
+  <i>Education Act</i>, <i>supra</i> à la p 123.
+SUBSEQUENT w/BACKREF
+  <i>Education Act</i>, <i>supra</i> note 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  <i>Education Act</i>, <i>supra</i> note 1 à la p 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry"><i>Education Act</i>, SA 2012 c E-03.</div>
+</div>
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>
 [
   {
-    "type": "legal_case",
-    "title": "Conseil scolaire francophone de la Colombie-Britannique v. British Columbia (Education)",
-    "volume": "425",
-    "authority": "court.appeal",
-    "page": "230",
+    "type": "legislation",
+    "title": "Education Act",
+    "container-title": "SA",
+    "volume": "E-0.3",
     "issued": {
       "date-parts": [
         [
-          2018,
-          7,
-          25
+          2012
         ]
       ]
     },
-    "shortTitle": "Conseil scolaire francophone",
+    "language": "en",
+    "URL": "https://tinyurl.com/y5l9ak87",
     "note": "",
     "multi": {
       "main": {},
       "_keys": {}
     },
-    "archive": "CanLII",
-    "container-title": "DLR (4th)",
-    "jurisdiction": "ca:bc"
+    "jurisdiction": "ca:ab",
+    "language-name": "en"
   }
 ]
 <<===== INPUT =====<<
