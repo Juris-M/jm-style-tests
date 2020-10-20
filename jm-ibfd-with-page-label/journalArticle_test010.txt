@@ -1,0 +1,78 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "8ZWRACL9"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Journal article
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  J.F. Avery Jones et al., <i>The Origins of Concepts and Expressions Used in the OECD Model and Their Adoption by States</i>, 60 Bull. Intl. Taxn. 6 (2006), IBFD Journals.
+FIRST w/LOCATOR
+  J.F. Avery Jones et al., <i>The Origins of Concepts and Expressions Used in the OECD Model and Their Adoption by States</i>, 60 Bull. Intl. Taxn. 6, p. 123 (2006), IBFD Journals.
+FIRST w/LABEL
+  J.F. Avery Jones et al., <i>The Origins of Concepts and Expressions Used in the OECD Model and Their Adoption by States</i>, 60 Bull. Intl. Taxn. 6, para. 123 (2006), IBFD Journals.
+IBID
+  <i>Id.</i>
+IBID w/LOCATOR
+  <i>Id.</i>, at p. 123.
+SUBSEQUENT
+  Avery Jones et al.
+SUBSEQUENT w/LOCATOR
+  Avery Jones et al., at p. 123.
+SUBSEQUENT w/BACKREF
+  Avery Jones et al., <i>supra</i> n. 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  Avery Jones et al., <i>supra</i> n. 1, at p. 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">J.F. Avery Jones et al., <i>The Origins of Concepts and Expressions Used in the OECD Model and Their Adoption by States</i>, 60 Bull. Intl. Taxn. 6 (2006), IBFD Journals.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "article-journal",
+    "title": "The Origins of Concepts and Expressions Used in the OECD Model and Their Adoption by States",
+    "author": [
+      {
+        "given": "John F.",
+        "family": "Avery Jones"
+      },
+      {
+        "given": "Luc",
+        "family": "De Broe"
+      },
+      {
+        "given": "Maarten J.",
+        "family": "Ellis"
+      },
+      {
+        "given": "Kees",
+        "family": "van Raad"
+      }
+    ],
+    "container-title": "Bulletin for International Taxation",
+    "volume": "60",
+    "issue": "6",
+    "page": "220-254",
+    "issued": {
+      "raw": "2006"
+    },
+    "journalAbbreviation": "Bull. Intl. Taxn.",
+    "archive": "IBFD Journals",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<

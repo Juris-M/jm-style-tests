@@ -1,0 +1,64 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "3EKESPDB"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+EU law
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  Council Directive 2009/133/EC of 19 October 2009 on the Common System of Taxation Applicable to Mergers, Divisions, Partial Divisions, Transfers of Assets and Exchanges of Shares Concerning Companies of Different Member States and to the Transfer of the Registered Office of an SE or SCE between Member States (Codified Version), OJ L310 (2009), EU Law IBFD [hereinafter Merger Directive (2009/133)].
+FIRST w/LOCATOR
+  Council Directive 2009/133/EC of 19 October 2009 on the Common System of Taxation Applicable to Mergers, Divisions, Partial Divisions, Transfers of Assets and Exchanges of Shares Concerning Companies of Different Member States and to the Transfer of the Registered Office of an SE or SCE between Member States (Codified Version), p. 123, OJ L310 (2009), EU Law IBFD [hereinafter Merger Directive (2009/133)].
+FIRST w/LABEL
+  Council Directive 2009/133/EC of 19 October 2009 on the Common System of Taxation Applicable to Mergers, Divisions, Partial Divisions, Transfers of Assets and Exchanges of Shares Concerning Companies of Different Member States and to the Transfer of the Registered Office of an SE or SCE between Member States (Codified Version), para. 123, OJ L310 (2009), EU Law IBFD [hereinafter Merger Directive (2009/133)].
+IBID
+  <i>Id.</i>
+IBID w/LOCATOR
+  p. 123 <i>id.</i>
+SUBSEQUENT
+  Merger Directive (2009/133).
+SUBSEQUENT w/LOCATOR
+  p. 123 Merger Directive (2009/133).
+SUBSEQUENT w/BACKREF
+  Merger Directive (2009/133).
+SUBSEQUENT w/BACKREF+LOCATOR
+  p. 123 Merger Directive (2009/133).
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Council Directive 2009/133/EC of 19 October 2009 on the Common System of Taxation Applicable to Mergers, Divisions, Partial Divisions, Transfers of Assets and Exchanges of Shares Concerning Companies of Different Member States and to the Transfer of the Registered Office of an SE or SCE between Member States (Codified Version), OJ L310 (2009), EU Law IBFD [hereinafter Merger Directive (2009/133)].</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legislation",
+    "title": "Council Directive 2009/133/EC of 19 October 2009 on the Common System of Taxation Applicable to Mergers, Divisions, Partial Divisions, Transfers of Assets and Exchanges of Shares Concerning Companies of Different Member States and to the Transfer of the Registered Office of an SE or SCE between Member States (Codified Version)",
+    "container-title": "OJ",
+    "volume": "L310",
+    "number": "133",
+    "issued": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    },
+    "shortTitle": "Merger Directive",
+    "note": "archive: EU Law IBFD",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "jurisdiction": "eu.int"
+  }
+]
+<<===== INPUT =====<<

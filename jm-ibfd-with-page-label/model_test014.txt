@@ -1,0 +1,56 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "5DF63R9D"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Models
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  <i>OECD Model Tax Convention on Income and on Capital</i> (15 July 2005), Models IBFD.
+FIRST w/LOCATOR
+  <i>OECD Model Tax Convention on Income and on Capital</i> p. 123 (15 July 2005), Models IBFD.
+FIRST w/LABEL
+  <i>OECD Model Tax Convention on Income and on Capital</i> para. 123 (15 July 2005), Models IBFD.
+IBID
+  <i>Id.</i>
+IBID w/LOCATOR
+  p. 123 <i>id.</i>
+SUBSEQUENT
+  <i>OECD Model</i> (2005).
+SUBSEQUENT w/LOCATOR
+  p. 123 <i>OECD Model</i> (2005).
+SUBSEQUENT w/BACKREF
+  <i>OECD Model</i> (2005).
+SUBSEQUENT w/BACKREF+LOCATOR
+  p. 123 <i>OECD Model</i> (2005).
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry"><i>OECD Model Tax Convention on Income and on Capital</i> (15 July 2005), Models IBFD.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "article",
+    "title": "OECD Model Tax Convention on Income and on Capital",
+    "issued": {
+      "raw": "15 July 2005"
+    },
+    "archive": "Models IBFD",
+    "shortTitle": "OECD Model",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<

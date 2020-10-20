@@ -1,0 +1,73 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "PYHNKY9X"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Natl. legn./source year
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  US: Economic Espionage Act of 1996, Pub. L. no. 104-294, sec. 201, Stat. 110 (1996) 3488, National Legislation IBFD.
+FIRST w/LOCATOR
+  US: Economic Espionage Act of 1996, Pub. L. no. 104-294, sec. 201 123, Stat. 110 (1996) 3488, National Legislation IBFD.
+FIRST w/LABEL
+  US: Economic Espionage Act of 1996, Pub. L. no. 104-294, sec. 201 para. 123, Stat. 110 (1996) 3488, National Legislation IBFD.
+IBID
+  <i>Id.</i>
+IBID w/LOCATOR
+  sec. 201 123 <i>id.</i>
+SUBSEQUENT
+  sec. 201 EEA 1996.
+SUBSEQUENT w/LOCATOR
+  sec. 201 123 EEA 1996.
+SUBSEQUENT w/BACKREF
+  sec. 201 EEA 1996.
+SUBSEQUENT w/BACKREF+LOCATOR
+  sec. 201 123 EEA 1996.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">US: Economic Espionage Act of 1996, Pub. L. no. 104-294, Stat. 110 (1996) 3488, National Legislation IBFD.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legislation",
+    "title": "Economic Espionage Act of 1996",
+    "container-title": "Stat.",
+    "volume": "110",
+    "number": "Pub. L. no. 104-294",
+    "issued": {
+      "date-parts": [
+        [
+          1996
+        ]
+      ]
+    },
+    "page": "3488",
+    "section": "sec. 201",
+    "shortTitle": "EEA",
+    "note": "archive: National Legislation IBFD",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "jurisdiction": "US",
+    "publication-date": {
+      "date-parts": [
+        [
+          1996
+        ]
+      ]
+    }
+  }
+]
+<<===== INPUT =====<<

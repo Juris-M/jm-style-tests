@@ -1,0 +1,64 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "LM4MCB7U"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Case law/no title
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  NL: Supreme Court, 26 Nov. 2010, 09/03219, Tax Treaty Case Law IBFD.
+FIRST w/LOCATOR
+  NL: Supreme Court, 26 Nov. 2010, 09/03219, p. 123, Tax Treaty Case Law IBFD.
+FIRST w/LABEL
+  NL: Supreme Court, 26 Nov. 2010, 09/03219, para. 123, Tax Treaty Case Law IBFD.
+IBID
+  <i>Id.</i>
+IBID w/LOCATOR
+  <i>Id.</i>, at p. 123.
+SUBSEQUENT
+  09/03219 (26 Nov. 2010).
+SUBSEQUENT w/LOCATOR
+  09/03219 (26 Nov. 2010), at p. 123.
+SUBSEQUENT w/BACKREF
+  09/03219 (26 Nov. 2010).
+SUBSEQUENT w/BACKREF+LOCATOR
+  09/03219 (26 Nov. 2010), at p. 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">NL: Supreme Court, 26 Nov. 2010, 09/03219, Tax Treaty Case Law IBFD.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_case",
+    "authority": "hoge",
+    "number": "09/03219",
+    "issued": {
+      "date-parts": [
+        [
+          2010,
+          11,
+          26
+        ]
+      ]
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "archive": "Tax Treaty Case Law IBFD",
+    "jurisdiction": "nl"
+  }
+]
+<<===== INPUT =====<<
