@@ -9,7 +9,7 @@ all
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-should pass test style_test002
+Case - Reporter - No year
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>

@@ -9,7 +9,7 @@ all
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-should pass test style_test005
+Alberta - Legislation - en
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
