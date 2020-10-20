@@ -1,0 +1,69 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "PBI5IZC2"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+ECJ case law
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  UK: ECJ, 13 Dec. 2005, Case C-446/03, <i>Marks &#38; Spencer plc v. Halsey (Her Majesty’s Inspector of Taxes)</i>, [2005] ECR I–10837, ECJ Case Law IBFD.
+FIRST w/LOCATOR
+  UK: ECJ, 13 Dec. 2005, Case C-446/03, <i>Marks &#38; Spencer plc v. Halsey (Her Majesty’s Inspector of Taxes)</i>, [2005] ECR I–10837, p. 123, ECJ Case Law IBFD.
+FIRST w/LABEL
+  UK: ECJ, 13 Dec. 2005, Case C-446/03, <i>Marks &#38; Spencer plc v. Halsey (Her Majesty’s Inspector of Taxes)</i>, [2005] ECR I–10837, para. 123, ECJ Case Law IBFD.
+IBID
+  <i>Id.</i>
+IBID w/LOCATOR
+  <i>Id.</i>, at p. 123.
+SUBSEQUENT
+  <i>Marks &#38; Spencer</i> (C-446/03).
+SUBSEQUENT w/LOCATOR
+  <i>Marks &#38; Spencer</i> (C-446/03), at p. 123.
+SUBSEQUENT w/BACKREF
+  <i>Marks &#38; Spencer</i> (C-446/03).
+SUBSEQUENT w/BACKREF+LOCATOR
+  <i>Marks &#38; Spencer</i> (C-446/03), at p. 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">UK: ECJ, 13 Dec. 2005, Case C-446/03, <i>Marks &#38; Spencer plc v. Halsey (Her Majesty’s Inspector of Taxes)</i>, [2005] ECR I–10837, ECJ Case Law IBFD.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_case",
+    "title": "Marks & Spencer plc v. Halsey (Her Majesty’s Inspector of Taxes)",
+    "container-title": "[2005] ECR",
+    "volume": "I-10837",
+    "authority": "ecj",
+    "number": "C-446/03",
+    "issued": {
+      "date-parts": [
+        [
+          2005,
+          12,
+          13
+        ]
+      ]
+    },
+    "shortTitle": "Marks & Spencer",
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "archive": "ECJ Case Law IBFD",
+    "jurisdiction": "eu.int:cjeu",
+    "genre": "UK"
+  }
+]
+<<===== INPUT =====<<

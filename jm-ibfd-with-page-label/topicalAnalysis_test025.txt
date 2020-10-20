@@ -1,0 +1,59 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "ULHI695V"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Topical analyses
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  S. Zapata, <i>Brazil—Permanent Establishments</i>, Topical Analyses IBFD (accessed 1 Mar. 2010).
+FIRST w/LOCATOR
+  S. Zapata, <i>Brazil—Permanent Establishments</i> p. 123, Topical Analyses IBFD (accessed 1 Mar. 2010).
+FIRST w/LABEL
+  S. Zapata, <i>Brazil—Permanent Establishments</i> para. 123, Topical Analyses IBFD (accessed 1 Mar. 2010).
+IBID
+  <i>Id.</i>
+IBID w/LOCATOR
+  <i>Id.</i>, at p. 123.
+SUBSEQUENT
+  Zapata.
+SUBSEQUENT w/LOCATOR
+  Zapata, at p. 123.
+SUBSEQUENT w/BACKREF
+  Zapata, <i>supra</i> n. 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  Zapata, <i>supra</i> n. 1, at p. 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">S. Zapata, <i>Brazil—Permanent Establishments</i>, Topical Analyses IBFD (accessed 1 Mar. 2010).</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "book",
+    "title": "Brazil - Permanent Establishments",
+    "author": [
+      {
+        "given": "S.",
+        "family": "Zapata"
+      }
+    ],
+    "accessed": "2010-03-01",
+    "archive": "Topical Analyses IBFD",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<

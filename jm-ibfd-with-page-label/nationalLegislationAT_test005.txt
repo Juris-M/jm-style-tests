@@ -1,0 +1,72 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "U4S6ZAZV"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Natl. legn./year in title
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  AT: Bundesgesetz über die Besteuerung der Umsätze (Umsatzsteuergesetz 1994 - UStG 1994), zuletzt geändert durch das Bundesgesetz BGBl I Nr. 112/2012 von 14.12.2012 [Federal Law on the Taxation of Business Transactions (VAT Act 1994)] (amended 2012), National Legislation IBFD.
+FIRST w/LOCATOR
+  AT: Bundesgesetz über die Besteuerung der Umsätze (Umsatzsteuergesetz 1994 - UStG 1994), zuletzt geändert durch das Bundesgesetz BGBl I Nr. 112/2012 von 14.12.2012 [Federal Law on the Taxation of Business Transactions (VAT Act 1994)] (amended 2012), p. 123, National Legislation IBFD.
+FIRST w/LABEL
+  AT: Bundesgesetz über die Besteuerung der Umsätze (Umsatzsteuergesetz 1994 - UStG 1994), zuletzt geändert durch das Bundesgesetz BGBl I Nr. 112/2012 von 14.12.2012 [Federal Law on the Taxation of Business Transactions (VAT Act 1994)], para. 123 (amended 2012), National Legislation IBFD.
+IBID
+  <i>Id.</i>
+IBID w/LOCATOR
+  p. 123 <i>id.</i>
+SUBSEQUENT
+  UStG 1994 (amended 2012).
+SUBSEQUENT w/LOCATOR
+  p. 123 UStG 1994 (amended 2012).
+SUBSEQUENT w/BACKREF
+  UStG 1994 (amended 2012).
+SUBSEQUENT w/BACKREF+LOCATOR
+  p. 123 UStG 1994 (amended 2012).
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">AT: Bundesgesetz über die Besteuerung der Umsätze (Umsatzsteuergesetz 1994 - UStG 1994), zuletzt geändert durch das Bundesgesetz BGBl I Nr. 112/2012 von 14.12.2012 [Federal Law on the Taxation of Business Transactions (VAT Act 1994)] (amended 2012), National Legislation IBFD.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legislation",
+    "title": "Bundesgesetz über die Besteuerung der Umsätze (Umsatzsteuergesetz 1994 - UStG 1994), zuletzt geändert durch das Bundesgesetz BGBl I Nr. 112/2012 von 14.12.2012",
+    "issued": {
+      "date-parts": [
+        [
+          1994
+        ]
+      ]
+    },
+    "language": "de>en",
+    "shortTitle": "UStG",
+    "note": "archive: National Legislation IBFD",
+    "multi": {
+      "_keys": {
+        "title": {
+          "en": "Federal Law on the Taxation of Business Transactions (VAT Act 1994)"
+        }
+      }
+    },
+    "jurisdiction": "AT",
+    "event-date": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    }
+  }
+]
+<<===== INPUT =====<<

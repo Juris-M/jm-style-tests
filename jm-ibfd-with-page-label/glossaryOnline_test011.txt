@@ -1,0 +1,54 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "EU84DXTF"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Glossary (online)
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  <i>Transfer Pricing</i>, in <i>International Tax Glossary</i>, Glossary IBFD.
+FIRST w/LOCATOR
+  <i>Transfer Pricing</i>, in <i>International Tax Glossary</i> p. 123, Glossary IBFD.
+FIRST w/LABEL
+  <i>Transfer Pricing</i>, in <i>International Tax Glossary</i> para. 123, Glossary IBFD.
+IBID
+  <i>Id.</i>
+IBID w/LOCATOR
+  <i>Id.</i>, at p. 123.
+SUBSEQUENT
+  <i>Transfer Pricing</i>.
+SUBSEQUENT w/LOCATOR
+  <i>Transfer Pricing</i>, at p. 123.
+SUBSEQUENT w/BACKREF
+  <i>Transfer Pricing</i>, <i>supra</i> n. 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  <i>Transfer Pricing</i>, <i>supra</i> n. 1, at p. 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry"><i>Transfer Pricing</i>, in <i>International Tax Glossary</i>, Glossary IBFD.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "entry-encyclopedia",
+    "title": "Transfer Pricing",
+    "container-title": "International Tax Glossary",
+    "accessed": "2014-12-09",
+    "archive": "Glossary IBFD",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<
