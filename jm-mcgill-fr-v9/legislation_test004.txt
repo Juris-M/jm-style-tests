@@ -16,21 +16,21 @@ Canada - Legislation - FR
 FIRST
   <i>Loi sur les langues autochtones</i>, LC 2019 c 23 [<i>Loi sur les langues autochtones</i>].
 FIRST w/LOCATOR
-  <i>Loi sur les langues autochtones</i>, LC 2019 c 23 à la p 123 [<i>Loi sur les langues autochtones</i>].
+  <i>Loi sur les langues autochtones</i>, LC 2019 c 23 at 123 [<i>Loi sur les langues autochtones</i>].
 FIRST w/LABEL
-  <i>Loi sur les langues autochtones</i>, LC 2019 c 23 au para 123 [<i>Loi sur les langues autochtones</i>].
+  <i>Loi sur les langues autochtones</i>, LC 2019 c 23 at para 123 [<i>Loi sur les langues autochtones</i>].
 IBID
   <i>Ibid</i>.
 IBID w/LOCATOR
-  <i>Ibid</i> à la p 123.
+  <i>Ibid</i> at 123.
 SUBSEQUENT
   <i>Loi sur les langues autochtones</i>.
 SUBSEQUENT w/LOCATOR
-  <i>Loi sur les langues autochtones</i>, <i>supra</i> à la p 123.
+  <i>Loi sur les langues autochtones</i>, <i>supra</i> at 123.
 SUBSEQUENT w/BACKREF
   <i>Loi sur les langues autochtones</i>, <i>supra</i> note 1.
 SUBSEQUENT w/BACKREF+LOCATOR
-  <i>Loi sur les langues autochtones</i>, <i>supra</i> note 1 à la p 123.
+  <i>Loi sur les langues autochtones</i>, <i>supra</i> note 1 at 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry"><i>Loi sur les langues autochtones</i>, LC 2019 c 23.</div>
