@@ -14,11 +14,11 @@ Canada - Legislation - FR
 
 >>===== RESULT =====>>
 FIRST
-  <i>Loi sur les langues autochtones</i>, LC 2019 c 23.
+  <i>Loi sur les langues autochtones</i>, LC 2019, c 23.
 FIRST w/LOCATOR
-  <i>Loi sur les langues autochtones</i>, LC 2019 c 23 at 123.
+  <i>Loi sur les langues autochtones</i>, LC 2019, c 23, at 123.
 FIRST w/LABEL
-  <i>Loi sur les langues autochtones</i>, LC 2019 c 23 at para 123.
+  <i>Loi sur les langues autochtones</i>, LC 2019, c 23, at para 123.
 IBID
   <i>Ibid</i>.
 IBID w/LOCATOR
@@ -33,7 +33,7 @@ SUBSEQUENT w/BACKREF+LOCATOR
   <i>Loi sur les langues autochtones</i>, <i>supra</i> note 1 at 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry"><i>Loi sur les langues autochtones</i>, LC 2019 c 23.</div>
+  <div class="csl-entry"><i>Loi sur les langues autochtones</i>, LC 2019, c 23.</div>
 </div>
 <<===== RESULT =====<<
 

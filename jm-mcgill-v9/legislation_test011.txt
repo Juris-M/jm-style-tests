@@ -14,11 +14,11 @@ Canada - legislation - en
 
 >>===== RESULT =====>>
 FIRST
-  <i>An Act respecting Indigenous languages</i>, SC 2019 c 23 [<i>Indigenous languages Act</i>].
+  <i>An Act respecting Indigenous languages</i>, SC 2019, c 23 [<i>Indigenous languages Act</i>].
 FIRST w/LOCATOR
-  <i>An Act respecting Indigenous languages</i>, SC 2019 c 23 at 123 [<i>Indigenous languages Act</i>].
+  <i>An Act respecting Indigenous languages</i>, SC 2019, c 23, at 123 [<i>Indigenous languages Act</i>].
 FIRST w/LABEL
-  <i>An Act respecting Indigenous languages</i>, SC 2019 c 23 at para 123 [<i>Indigenous languages Act</i>].
+  <i>An Act respecting Indigenous languages</i>, SC 2019, c 23, at para 123 [<i>Indigenous languages Act</i>].
 IBID
   <i>Ibid</i>.
 IBID w/LOCATOR
@@ -33,7 +33,7 @@ SUBSEQUENT w/BACKREF+LOCATOR
   <i>Indigenous languages Act</i>, <i>supra</i> note 1 at 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry"><i>An Act respecting Indigenous languages</i>, SC 2019 c 23.</div>
+  <div class="csl-entry"><i>An Act respecting Indigenous languages</i>, SC 2019, c 23.</div>
 </div>
 <<===== RESULT =====<<
 

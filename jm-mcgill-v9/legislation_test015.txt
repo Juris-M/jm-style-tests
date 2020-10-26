@@ -1,0 +1,301 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "1",
+  "2",
+  "3"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Legislation - Charter
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+>>[0] <i>Charte canadienne des droits et libertés</i>, s 7, <i>Loi constitutionnelle de 1982</i>, <i>Loi de 1982 sur le Canada</i>.
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "1",
+    "type": "legislation",
+    "multi": {
+      "main": {
+        "title": "fr-CA"
+      },
+      "_keys": {
+        "title": {
+          "en-CA": "Canadian Charter of Rights and Freedoms"
+        }
+      }
+    },
+    "title": "Charte canadienne des droits et libertés",
+    "title-short": "Charte",
+    "jurisdiction": "ca",
+    "language-name": "fr",
+    "seeAlso": [
+      "2",
+      "3"
+    ]
+  },
+  {
+    "id": "2",
+    "type": "legislation",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "title": "Loi constitutionnelle de 1982",
+    "language-name": "fr",
+    "jurisdiction": "ca",
+    "seeAlso": [
+      "1",
+      "3"
+    ]
+  },
+  {
+    "id": "3",
+    "type": "legislation",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "title": "Loi de 1982 sur le Canada",
+    "volume": "11",
+    "jurisdiction": "ca",
+    "language-name": "fr",
+    "issued": {
+      "date-parts": [
+        [
+          "1982"
+        ]
+      ]
+    },
+    "seeAlso": [
+      "1",
+      "2"
+    ]
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== CITATIONS =====>>
+[
+  [
+    {
+      "citationID": "citation-1",
+      "citationItems": [
+        {
+          "id": "1",
+          "label": "section",
+          "locator": "7",
+          "item": {
+            "id": "1",
+            "type": "legislation",
+            "multi": {
+              "main": {
+                "title": "fr-CA"
+              },
+              "_keys": {
+                "title": {
+                  "en-CA": "Canadian Charter of Rights and Freedoms"
+                }
+              }
+            },
+            "title": "Charte canadienne des droits et libertés",
+            "title-short": "Charte",
+            "jurisdiction": "ca",
+            "language-name": "fr",
+            "seeAlso": [
+              "2",
+              "3"
+            ],
+            "legislation_id": "legislation::Charte canadienne des droits et libertés::ca",
+            "title-main": "Charte canadienne des droits et libertés",
+            "title-sub": "",
+            "title-subjoin": "",
+            "country": "ca",
+            "best-jurisdiction": "ca"
+          }
+        },
+        {
+          "id": "2",
+          "item": {
+            "id": "2",
+            "type": "legislation",
+            "multi": {
+              "main": {},
+              "_keys": {}
+            },
+            "title": "Loi constitutionnelle de 1982",
+            "language-name": "fr",
+            "jurisdiction": "ca",
+            "seeAlso": [
+              "1",
+              "3"
+            ],
+            "legislation_id": "legislation::Loi constitutionnelle de 1982::ca",
+            "title-main": "Loi constitutionnelle de 1982",
+            "title-sub": "",
+            "title-subjoin": "",
+            "country": "ca",
+            "best-jurisdiction": "ca"
+          }
+        },
+        {
+          "id": "3",
+          "item": {
+            "id": "3",
+            "type": "legislation",
+            "multi": {
+              "main": {},
+              "_keys": {}
+            },
+            "title": "Loi de 1982 sur le Canada",
+            "volume": "11",
+            "jurisdiction": "ca",
+            "language-name": "fr",
+            "issued": {
+              "year": 1982
+            },
+            "seeAlso": [
+              "1",
+              "2"
+            ],
+            "legislation_id": "legislation::Loi de 1982 sur le Canada::ca::11::1982",
+            "title-main": "Loi de 1982 sur le Canada",
+            "title-sub": "",
+            "title-subjoin": "",
+            "country": "ca",
+            "best-jurisdiction": "ca"
+          }
+        }
+      ],
+      "properties": {
+        "noteIndex": 1,
+        "index": 0
+      },
+      "sortedItems": [
+        [
+          {
+            "id": "1",
+            "type": "legislation",
+            "multi": {
+              "main": {
+                "title": "fr-CA"
+              },
+              "_keys": {
+                "title": {
+                  "en-CA": "Canadian Charter of Rights and Freedoms"
+                }
+              }
+            },
+            "title": "Charte canadienne des droits et libertés",
+            "title-short": "Charte",
+            "jurisdiction": "ca",
+            "language-name": "fr",
+            "seeAlso": [
+              "2",
+              "3"
+            ],
+            "legislation_id": "legislation::Charte canadienne des droits et libertés::ca",
+            "title-main": "Charte canadienne des droits et libertés",
+            "title-sub": "",
+            "title-subjoin": "",
+            "country": "ca",
+            "best-jurisdiction": "ca"
+          },
+          {
+            "id": "1",
+            "label": "",
+            "locator": "sec. 7",
+            "parallel": "first",
+            "first-reference-note-number": 0,
+            "first-container-reference-note-number": 0,
+            "near-note": false,
+            "position": 0,
+            "section_form_override": "short"
+          }
+        ],
+        [
+          {
+            "id": "2",
+            "type": "legislation",
+            "multi": {
+              "main": {},
+              "_keys": {}
+            },
+            "title": "Loi constitutionnelle de 1982",
+            "language-name": "fr",
+            "jurisdiction": "ca",
+            "seeAlso": [
+              "1",
+              "3"
+            ],
+            "legislation_id": "legislation::Loi constitutionnelle de 1982::ca",
+            "title-main": "Loi constitutionnelle de 1982",
+            "title-sub": "",
+            "title-subjoin": "",
+            "country": "ca",
+            "best-jurisdiction": "ca"
+          },
+          {
+            "id": "2",
+            "label": "",
+            "parallel": "other",
+            "first-reference-note-number": 0,
+            "first-container-reference-note-number": 0,
+            "near-note": false,
+            "position": 0,
+            "section_form_override": "short"
+          }
+        ],
+        [
+          {
+            "id": "3",
+            "type": "legislation",
+            "multi": {
+              "main": {},
+              "_keys": {}
+            },
+            "title": "Loi de 1982 sur le Canada",
+            "volume": "11",
+            "jurisdiction": "ca",
+            "language-name": "fr",
+            "issued": {
+              "year": 1982
+            },
+            "seeAlso": [
+              "1",
+              "2"
+            ],
+            "legislation_id": "legislation::Loi de 1982 sur le Canada::ca::11::1982",
+            "title-main": "Loi de 1982 sur le Canada",
+            "title-sub": "",
+            "title-subjoin": "",
+            "country": "ca",
+            "best-jurisdiction": "ca"
+          },
+          {
+            "id": "3",
+            "label": "",
+            "parallel": "other",
+            "first-reference-note-number": 0,
+            "first-container-reference-note-number": 0,
+            "near-note": false,
+            "position": 0,
+            "section_form_override": "short"
+          }
+        ]
+      ]
+    },
+    [],
+    []
+  ]
+]
+<<===== CITATIONS =====<<
