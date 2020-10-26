@@ -66,15 +66,8 @@ Legislation - Charter
     },
     "title": "Loi de 1982 sur le Canada",
     "volume": "11",
-    "jurisdiction": "ca",
+    "jurisdiction": "gb",
     "language-name": "fr",
-    "issued": {
-      "date-parts": [
-        [
-          "1982"
-        ]
-      ]
-    },
     "seeAlso": [
       "1",
       "2"
