@@ -1,0 +1,65 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "LEL9D38C"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Canada - legislation - en
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  <i>An Act respecting Indigenous languages</i>, SC 2019 c 23 [<i>Indigenous languages Act</i>].
+FIRST w/LOCATOR
+  <i>An Act respecting Indigenous languages</i>, SC 2019 c 23 at 123 [<i>Indigenous languages Act</i>].
+FIRST w/LABEL
+  <i>An Act respecting Indigenous languages</i>, SC 2019 c 23 at para 123 [<i>Indigenous languages Act</i>].
+IBID
+  <i>Ibid</i>.
+IBID w/LOCATOR
+  <i>Ibid</i> at 123.
+SUBSEQUENT
+  <i>Indigenous languages Act</i>.
+SUBSEQUENT w/LOCATOR
+  <i>Indigenous languages Act</i>, <i>supra</i> at 123.
+SUBSEQUENT w/BACKREF
+  <i>Indigenous languages Act</i>, <i>supra</i> note 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  <i>Indigenous languages Act</i>, <i>supra</i> note 1 at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry"><i>An Act respecting Indigenous languages</i>, SC 2019 c 23.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legislation",
+    "title": "An Act respecting Indigenous languages",
+    "container-title": "SC",
+    "volume": "23",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "language": "en",
+    "shortTitle": "Indigenous languages Act",
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "jurisdiction": "ca",
+    "language-name": "en"
+  }
+]
+<<===== INPUT =====<<
