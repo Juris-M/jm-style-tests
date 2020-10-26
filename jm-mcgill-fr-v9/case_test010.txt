@@ -9,7 +9,7 @@ all
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-should pass test style_test010
+Case - federal - fr
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
