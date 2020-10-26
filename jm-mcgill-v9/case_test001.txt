@@ -14,23 +14,23 @@ Case - Reporter - No year
 
 >>===== RESULT =====>>
 FIRST
-  <i>Valin v Langlois</i> (1879), 3 SCR 1 [<i>Valin v Langlois</i>].
+  <i>Valin v Langlois</i> (1879), 3 SCR 1 [<i>Valin</i>].
 FIRST w/LOCATOR
-  <i>Valin v Langlois</i> (1879), 3 SCR 1 at 123 [<i>Valin v Langlois</i>].
+  <i>Valin v Langlois</i> (1879), 3 SCR 1 at 123 [<i>Valin</i>].
 FIRST w/LABEL
-  <i>Valin v Langlois</i> (1879), 3 SCR 1 at para 123 [<i>Valin v Langlois</i>].
+  <i>Valin v Langlois</i> (1879), 3 SCR 1 at para 123 [<i>Valin</i>].
 IBID
   <i>Ibid</i>.
 IBID w/LOCATOR
   <i>Ibid</i> at 123.
 SUBSEQUENT
-  <i>Valin v Langlois</i>.
+  <i>Valin</i>.
 SUBSEQUENT w/LOCATOR
-  <i>Valin v Langlois</i>, <i>supra</i> at 123.
+  <i>Valin</i>, <i>supra</i> at 123.
 SUBSEQUENT w/BACKREF
-  <i>Valin v Langlois</i>, <i>supra</i> note 1.
+  <i>Valin</i>, <i>supra</i> note 1.
 SUBSEQUENT w/BACKREF+LOCATOR
-  <i>Valin v Langlois</i>, <i>supra</i> note 1 at 123.
+  <i>Valin</i>, <i>supra</i> note 1 at 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry"><i>Valin v Langlois</i> (1879), 3 SCR 1.</div>
@@ -58,7 +58,8 @@ BIBLIOGRAPHY
       "_keys": {}
     },
     "container-title": "SCR",
-    "jurisdiction": "ca"
+    "jurisdiction": "ca",
+    "shortTitle": "Valin"
   }
 ]
 <<===== INPUT =====<<
