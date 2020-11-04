@@ -14,11 +14,11 @@ should pass test style_test039
 
 >>===== RESULT =====>>
 FIRST
-  EKMR (rap) 24.06.1965 1474/62 ea (Belgischer Sprachenfall).
+  EKMR (rap) 24.06.1965, 1474/62 ea (Belgischer Sprachenfall).
 FIRST w/LOCATOR
-  EKMR (rap) 24.06.1965 1474/62 ea (Belgischer Sprachenfall) 123.
+  EKMR (rap) 24.06.1965, 1474/62 ea (Belgischer Sprachenfall) 123.
 FIRST w/LABEL
-  EKMR (rap) 24.06.1965 1474/62 ea (Belgischer Sprachenfall) Abs 123.
+  EKMR (rap) 24.06.1965, 1474/62 ea (Belgischer Sprachenfall) Abs 123.
 SUBSEQUENT
   EKMR 1474/62 ea (Belgischer Sprachenfall).
 SUBSEQUENT w/LOCATOR
