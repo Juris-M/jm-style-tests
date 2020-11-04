@@ -38,7 +38,7 @@ BIBLIOGRAPHY
         "family": "Colomer"
       }
     ],
-    "authority": "Advocate General",
+    "authority": "ag",
     "number": "verb Rs C-397/01 bis C-403/01",
     "issued": {
       "date-parts": [
