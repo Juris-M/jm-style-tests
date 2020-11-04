@@ -42,7 +42,8 @@ BIBLIOGRAPHY
       "_keys": {}
     },
     "jurisdiction": "at",
-    "genre": "GP"
+    "genre": "GP",
+    "language-name": "de"
   }
 ]
 <<===== INPUT =====<<
