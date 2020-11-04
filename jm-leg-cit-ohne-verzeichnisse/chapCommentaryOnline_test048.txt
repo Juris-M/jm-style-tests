@@ -14,11 +14,11 @@ Legal comm.
 
 >>===== RESULT =====>>
 FIRST
-  <i>Fischer-Czermak</i> in Kletečka/Schauer (Hg), ABGB-ON<sup>1.05</sup> § 165 [01.10.2018] (rdb.at).
+  <i>Fischer-Czermak</i> in Kletečka/Schauer (Hg), ABGB-ON<sup>1.05</sup> § 165 (rdb.at).
 FIRST w/LOCATOR
-  <i>Fischer-Czermak</i> in Kletečka/Schauer (Hg), ABGB-ON<sup>1.05</sup> § 165, 123 [01.10.2018] (rdb.at).
+  <i>Fischer-Czermak</i> in Kletečka/Schauer (Hg), ABGB-ON<sup>1.05</sup> § 165, 123 (rdb.at).
 FIRST w/LABEL
-  <i>Fischer-Czermak</i> in Kletečka/Schauer (Hg), ABGB-ON<sup>1.05</sup> § 165 Abs 123 [01.10.2018] (rdb.at).
+  <i>Fischer-Czermak</i> in Kletečka/Schauer (Hg), ABGB-ON<sup>1.05</sup> § 165 Abs 123 (rdb.at).
 SUBSEQUENT
   <i>Fischer-Czermak</i> in Kletečka/Schauer, ABGB-ON<sup>1.05</sup> § 165.
 SUBSEQUENT w/LOCATOR
@@ -50,7 +50,7 @@ BIBLIOGRAPHY
     "issued": {
       "raw": "2018-10-01"
     },
-    "URL": "rdb.at",
+    "archive": "rdb.at",
     "note": "version: 1.05",
     "multi": {
       "main": {},

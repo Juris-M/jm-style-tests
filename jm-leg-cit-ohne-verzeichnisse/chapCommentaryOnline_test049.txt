@@ -14,11 +14,11 @@ Online comm. w/o editor
 
 >>===== RESULT =====>>
 FIRST
-  <i>Prader</i>, MRG<sup>5.10</sup> § 29 [01.01.2017] (rdb.at).
+  <i>Prader</i>, MRG<sup>5.10</sup> § 29 (rdb.at).
 FIRST w/LOCATOR
-  <i>Prader</i>, MRG<sup>5.10</sup> § 29, 123 [01.01.2017] (rdb.at).
+  <i>Prader</i>, MRG<sup>5.10</sup> § 29, 123 (rdb.at).
 FIRST w/LABEL
-  <i>Prader</i>, MRG<sup>5.10</sup> § 29 Abs 123 [01.01.2017] (rdb.at).
+  <i>Prader</i>, MRG<sup>5.10</sup> § 29 Abs 123 (rdb.at).
 SUBSEQUENT
   <i>Prader</i> MRG<sup>5.10</sup> § 29.
 SUBSEQUENT w/LOCATOR
@@ -43,7 +43,7 @@ BIBLIOGRAPHY
     "issued": {
       "raw": "2017-01-01"
     },
-    "URL": "rdb.at",
+    "archive": "rdb.at",
     "note": "version: 5.10",
     "multi": {
       "main": {},

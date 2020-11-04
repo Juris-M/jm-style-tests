@@ -55,7 +55,7 @@ BIBLIOGRAPHY
     "issued": {
       "raw": "2017-06-01"
     },
-    "URL": "rdb.at",
+    "archive": "rdb.at",
     "note": "",
     "multi": {
       "main": {},

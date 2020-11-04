@@ -45,7 +45,7 @@ BIBLIOGRAPHY
     "issued": {
       "raw": "2012"
     },
-    "URL": "hanselawreview.org",
+    "archive": "hanselawreview.org",
     "multi": {
       "main": {},
       "_keys": {}

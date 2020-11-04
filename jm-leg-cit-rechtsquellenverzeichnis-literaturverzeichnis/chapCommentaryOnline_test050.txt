@@ -21,7 +21,7 @@ FIRST w/LABEL
   <i>Fischer-Czermak</i> in Kletečka/Schauer, ABGB-ON<sup>1.05</sup> § 165 Abs 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">Kletečka/Schauer (Hg), ABGB-ON<sup>1.05</sup> (rdb).</div>
+  <div class="csl-entry">Kletečka/Schauer (Hg), ABGB-ON<sup>1.05</sup> (rdb.at).</div>
 </div>
 <<===== RESULT =====<<
 
@@ -47,7 +47,7 @@ BIBLIOGRAPHY
     "issued": {
       "raw": "2018-10-01"
     },
-    "URL": "rdb.at",
+    "archive": "rdb.at",
     "note": "version: 1.05",
     "multi": {
       "main": {},

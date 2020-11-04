@@ -51,7 +51,7 @@ BIBLIOGRAPHY
     "issued": {
       "raw": "2019"
     },
-    "URL": "beck",
+    "archive": "beck",
     "note": "",
     "multi": {
       "main": {},

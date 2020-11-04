@@ -21,7 +21,7 @@ FIRST w/LABEL
   <i>Novotny</i> in Straube ea, UGB II/RLG<sup>3</sup> § 198 Abs 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">Straube/Ratka/Rauter (Hg), UGB II/RLG<sup>3</sup> [01.06.2017] (rdb).</div>
+  <div class="csl-entry">Straube/Ratka/Rauter (Hg), UGB II/RLG<sup>3</sup> [01.06.2017] (rdb.at).</div>
 </div>
 <<===== RESULT =====<<
 
@@ -52,7 +52,7 @@ BIBLIOGRAPHY
     "issued": {
       "raw": "2017-06-01"
     },
-    "URL": "rdb.at",
+    "archive": "rdb.at",
     "note": "",
     "multi": {
       "main": {},

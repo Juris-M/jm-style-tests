@@ -44,7 +44,7 @@ BIBLIOGRAPHY
     "issued": {
       "raw": "2017-01-01"
     },
-    "URL": "rdb.at",
+    "archive": "rdb.at",
     "note": "version: 5.10",
     "multi": {
       "main": {},

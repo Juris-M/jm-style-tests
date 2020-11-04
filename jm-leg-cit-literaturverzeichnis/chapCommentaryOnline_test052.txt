@@ -48,7 +48,7 @@ BIBLIOGRAPHY
     "issued": {
       "raw": "2016-09-01"
     },
-    "URL": "rdb",
+    "archive": "rdb",
     "note": "",
     "multi": {
       "main": {},

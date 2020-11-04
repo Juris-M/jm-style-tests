@@ -51,7 +51,7 @@ BIBLIOGRAPHY
     "issued": {
       "raw": "2018-10-01"
     },
-    "URL": "rdb.at",
+    "archive": "rdb.at",
     "note": "version: 1.05",
     "multi": {
       "main": {},
