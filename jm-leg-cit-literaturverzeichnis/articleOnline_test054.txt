@@ -1,0 +1,55 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "C7PC93BH"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Online journal w/ page
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  <i>Meyer</i>, Hanse Law Review 2012.
+FIRST w/LOCATOR
+  <i>Meyer</i>, Hanse Law Review 2012, 123.
+FIRST w/LABEL
+  <i>Meyer</i>, Hanse Law Review 2012 Abs 123.
+SUBSEQUENT
+  <i>Meyer</i>, Hanse Law Review 2012.
+SUBSEQUENT w/LOCATOR
+  <i>Meyer</i>, Hanse Law Review 2012, 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry"><i>Meyer</i>, Einführung in die Bearbeitung von Fällen mit Auslandsberührung, Hanse Law Review 2012, 3 &#60;hanselawreview.org&#62;.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "article-journal",
+    "title": "Einführung in die Bearbeitung von Fällen mit Auslandsberührung",
+    "author": [
+      {
+        "given": "O.",
+        "family": "Meyer"
+      }
+    ],
+    "container-title": "Hanse Law Review",
+    "page": "3",
+    "issued": {
+      "raw": "2012"
+    },
+    "URL": "hanselawreview.org",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<

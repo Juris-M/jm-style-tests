@@ -1,0 +1,67 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "4PKPF49Y"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Online comm
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  <i>Novotny</i> in Straube ea, UGB II/RLG<sup>3</sup> § 198.
+FIRST w/LOCATOR
+  <i>Novotny</i> in Straube ea, UGB II/RLG<sup>3</sup> § 198, 123.
+FIRST w/LABEL
+  <i>Novotny</i> in Straube ea, UGB II/RLG<sup>3</sup> § 198 Abs 123.
+SUBSEQUENT
+  <i>Novotny</i> in Straube ea, UGB II/RLG<sup>3</sup> § 198.
+SUBSEQUENT w/LOCATOR
+  <i>Novotny</i> in Straube ea, UGB II/RLG<sup>3</sup> § 198, 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Straube/Ratka/Rauter (Hg), UGB II/RLG<sup>3</sup> [01.06.2017] (rdb.at).</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_commentary",
+    "title": "§ 198",
+    "author": [
+      {
+        "given": "Ch.",
+        "family": "Novotny"
+      }
+    ],
+    "editor": [
+      {
+        "family": "Straube"
+      },
+      {
+        "family": "Ratka"
+      },
+      {
+        "family": "Rauter"
+      }
+    ],
+    "container-title": "UGB II/RLG",
+    "edition": "3",
+    "issued": {
+      "raw": "2017-06-01"
+    },
+    "URL": "rdb.at",
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<

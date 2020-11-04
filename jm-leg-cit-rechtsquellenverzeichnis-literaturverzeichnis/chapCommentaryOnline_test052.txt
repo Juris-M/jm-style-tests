@@ -1,0 +1,62 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "FPTIJVZI"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Online loose leaf comm
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  <i>Karpenstein</i> in Grabitz ea, Das Recht der EU Art 267 AEUV.
+FIRST w/LOCATOR
+  <i>Karpenstein</i> in Grabitz ea, Das Recht der EU Art 267 AEUV 123.
+FIRST w/LABEL
+  <i>Karpenstein</i> in Grabitz ea, Das Recht der EU Art 267 AEUV Abs 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Grabitz/Hilf/Nettesheim (Hg), Das Recht der EU [EL 67, 2019] (beck).</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_commentary",
+    "title": "Art 267 AEUV",
+    "author": [
+      {
+        "family": "Karpenstein"
+      }
+    ],
+    "editor": [
+      {
+        "family": "Grabitz"
+      },
+      {
+        "family": "Hilf"
+      },
+      {
+        "family": "Nettesheim"
+      }
+    ],
+    "container-title": "Das Recht der EU",
+    "collection-number": "EL 67",
+    "issued": {
+      "raw": "2019"
+    },
+    "URL": "beck",
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<
