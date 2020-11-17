@@ -1,0 +1,78 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "65CEJULK"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test055
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  <i>Resch</i> in GedS Rebhahn.
+FIRST w/LOCATOR
+  <i>Resch</i> in GedS Rebhahn 123.
+FIRST w/LABEL
+  <i>Resch</i> in GedS Rebhahn Abs 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry"><i>Resch</i>, Die Auslegung von Gliedstaatsverträgen gem Art 15a B-VG, in Kietaibl/Mosler/Pacic (Hg), Gedenkschrift Robert Rebhahn (2019) 503.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "chapter",
+    "title": "Die Auslegung von Gliedstaatsverträgen gem Art 15a B-VG",
+    "editor": [
+      {
+        "given": "Christoph",
+        "family": "Kietaibl"
+      },
+      {
+        "given": "Rudolf",
+        "family": "Mosler"
+      },
+      {
+        "given": "Jasmin",
+        "family": "Pacic"
+      }
+    ],
+    "author": [
+      {
+        "given": "Reinhard",
+        "family": "Resch"
+      }
+    ],
+    "container-title": "Gedenkschrift Robert Rebhahn",
+    "publisher-place": "Wien",
+    "publisher": "Manz",
+    "issued": {
+      "raw": "2019"
+    },
+    "page": "503-514",
+    "language": "de",
+    "ISBN": "978-3-214-14818-8",
+    "source": "katalog.wu.ac.at",
+    "call-number": "PC 4630 R291",
+    "note": "genre: GedS",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "recipient": [
+      {
+        "given": "Robert",
+        "family": "Rebhahn"
+      }
+    ],
+    "language-name": "de"
+  }
+]
+<<===== INPUT =====<<
