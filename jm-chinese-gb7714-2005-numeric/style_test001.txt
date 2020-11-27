@@ -1,0 +1,56 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "4IZY3WFB"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test001
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+%%RESULT%%
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "article-journal",
+    "title": "A standardised static in vitro digestion method suitable for food – an international consensus",
+    "author": [
+      {
+        "given": "Mark",
+        "family": "Minekus"
+      },
+      {
+        "given": "Martha",
+        "family": "Alminger"
+      },
+      {
+        "given": "Pattie",
+        "family": "Alvito"
+      },
+      {
+        "given": "Brad",
+        "family": "Jones"
+      }
+    ],
+    "container-title": "Food & Function",
+    "volume": "5",
+    "issue": "6",
+    "page": "1113-1124",
+    "issued": {
+      "raw": "2014"
+    },
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "language": "en"
+  }
+]
+<<===== INPUT =====<<
