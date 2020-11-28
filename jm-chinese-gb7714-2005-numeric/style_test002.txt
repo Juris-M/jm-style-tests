@@ -4,12 +4,12 @@ all
 
 >>===== KEYS =====>>
 [
-  "4IZY3WFB"
+  "5YLGJHPQ"
 ]
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-should pass test style_test001
+should pass test style_test002
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
@@ -22,7 +22,7 @@ FIRST w/LABEL
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry">
-    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">MINEKUS M, ALMINGER M, ALVITO P, et al. A standardised static in vitro digestion method suitable for food – an international consensus [J]. Food &#38; Function, 2014, 5(6) : 1113–1124.</div>
+    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">MINEKUS M, ALMINGER M, ALVITO P, et al. A sample item [J]. Food &#38; Function, 2014 : 11131124.</div>
   </div>
 </div>
 <<===== RESULT =====<<
@@ -31,7 +31,7 @@ BIBLIOGRAPHY
 [
   {
     "type": "article-journal",
-    "title": "A standardised static in vitro digestion method suitable for food – an international consensus",
+    "title": "A sample item",
     "author": [
       {
         "given": "Mark",
@@ -51,17 +51,15 @@ BIBLIOGRAPHY
       }
     ],
     "container-title": "Food & Function",
-    "volume": "5",
-    "issue": "6",
-    "page": "1113-1124",
+    "page": "11131124",
     "issued": {
       "raw": "2014"
     },
+    "language": "en",
     "multi": {
       "main": {},
       "_keys": {}
     },
-    "language": "en",
     "language-name": "en"
   }
 ]
