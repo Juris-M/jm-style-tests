@@ -1,0 +1,57 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "LWZZ8MLS"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test009
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  Case C-131/12 <i>Google Spain SL and Google Inc v Agencia Española de Protección de Datos (AEPD) and Mario Costeja González</i> ECLI:EU:C:2014:317.
+FIRST w/LOCATOR
+  Case C-131/12 <i>Google Spain SL and Google Inc v Agencia Española de Protección de Datos (AEPD) and Mario Costeja González</i> ECLI:EU:C:2014:317, 123.
+FIRST w/LABEL
+  Case C-131/12 <i>Google Spain SL and Google Inc v Agencia Española de Protección de Datos (AEPD) and Mario Costeja González</i> ECLI:EU:C:2014:317 [123].
+IBID
+  ibid.
+IBID w/LOCATOR
+  ibid at 123.
+SUBSEQUENT
+  <i>Google Spain</i>.
+SUBSEQUENT w/LOCATOR
+  <i>Google Spain</i> 123.
+SUBSEQUENT w/BACKREF
+  <i>Google Spain</i> (n 1).
+SUBSEQUENT w/BACKREF+LOCATOR
+  <i>Google Spain</i> (n 1) 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Case C-131/12 <i>Google Spain SL and Google Inc v Agencia Española de Protección de Datos (AEPD) and Mario Costeja González</i> ECLI:EU:C:2014:317.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_case",
+    "title": "Google Spain SL and Google Inc. v Agencia Española de Protección de Datos (AEPD) and Mario Costeja González",
+    "authority": "ecj",
+    "number": "C\\-131/12 and C\\-131/13",
+    "shortTitle": "Google Spain",
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "container-title": "ECLI:EU:C:2014:317",
+    "jurisdiction": "eu.int:cjeu"
+  }
+]
+<<===== INPUT =====<<
