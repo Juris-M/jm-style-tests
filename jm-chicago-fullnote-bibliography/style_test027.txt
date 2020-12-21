@@ -1,0 +1,62 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "IP8JXWG7"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test027
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  Author MacAuthor, <i>My Book and How I Wrote It</i> (Placetown: Placetown Publishers, 2020).
+FIRST w/LOCATOR
+  Author MacAuthor, <i>My Book and How I Wrote It</i> (Placetown: Placetown Publishers, 2020), 123.
+FIRST w/LABEL
+  Author MacAuthor, <i>My Book and How I Wrote It</i> (Placetown: Placetown Publishers, 2020), para. 123.
+IBID
+  Ibid.
+IBID w/LOCATOR
+  Ibid. at 123.
+SUBSEQUENT
+  MacAuthor, <i>My Book and How I Wrote It</i>.
+SUBSEQUENT w/LOCATOR
+  MacAuthor, <i>My Book and How I Wrote It</i>, 123.
+SUBSEQUENT w/BACKREF
+  MacAuthor, <i>My Book and How I Wrote It</i>.
+SUBSEQUENT w/BACKREF+LOCATOR
+  MacAuthor, <i>My Book and How I Wrote It</i>, 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">MacAuthor, Author. <i>My Book and How I Wrote It</i>. Placetown: Placetown Publishers. 2020.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "book",
+    "title": "My Book and How I Wrote It",
+    "author": [
+      {
+        "given": "Author",
+        "family": "MacAuthor"
+      }
+    ],
+    "publisher-place": "Placetown",
+    "publisher": "Placetown Publishers",
+    "issued": {
+      "raw": "2020"
+    },
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<

@@ -1,0 +1,30 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "MEBKHAGN"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test028
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+%%RESULT%%
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "article-journal",
+    "title": "<span class=\"nocase\">l'''</span>",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<
