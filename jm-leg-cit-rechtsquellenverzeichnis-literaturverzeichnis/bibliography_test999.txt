@@ -382,7 +382,7 @@ undefined
     "type": "legal_case",
     "title": "Moré/KLM",
     "authority": "ecj",
-    "number": "Rs C-139/11",
+    "number": "C-139/11",
     "issued": {
       "date-parts": [
         [
