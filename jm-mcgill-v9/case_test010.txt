@@ -16,21 +16,21 @@ Case - federal - fr
 FIRST
   <i>Thibodeau c Aéroport international d’Halifax</i>, 2018 CF 223 [<i>Thibodeau</i>].
 FIRST w/LOCATOR
-  <i>Thibodeau c Aéroport international d’Halifax</i>, 2018 CF 223 at 123 [<i>Thibodeau</i>].
+  <i>Thibodeau c Aéroport international d’Halifax</i>, 2018 CF 223 à la p 123 [<i>Thibodeau</i>].
 FIRST w/LABEL
-  <i>Thibodeau c Aéroport international d’Halifax</i>, 2018 CF 223 at para 123 [<i>Thibodeau</i>].
+  <i>Thibodeau c Aéroport international d’Halifax</i>, 2018 CF 223 au para 123 [<i>Thibodeau</i>].
 IBID
   <i>Ibid</i>.
 IBID w/LOCATOR
-  <i>Ibid</i> at 123.
+  <i>Ibid</i> à la p 123.
 SUBSEQUENT
   <i>Thibodeau</i>.
 SUBSEQUENT w/LOCATOR
-  <i>Thibodeau</i>, <i>supra</i> at 123.
+  <i>Thibodeau</i>, <i>supra</i> à la p 123.
 SUBSEQUENT w/BACKREF
   <i>Thibodeau</i>, <i>supra</i> note 1.
 SUBSEQUENT w/BACKREF+LOCATOR
-  <i>Thibodeau</i>, <i>supra</i> note 1 at 123.
+  <i>Thibodeau</i>, <i>supra</i> note 1 à la p 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry"><i>Thibodeau c Aéroport international d’Halifax</i>, 2018 CF 223.</div>

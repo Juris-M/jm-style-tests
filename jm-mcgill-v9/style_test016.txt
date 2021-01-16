@@ -1,0 +1,67 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "YJMNHHXV"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  Jacques Audinet, <i>Le visage de la mondialisation: du multiculturalisme au métissage</i>, Paris, Editions de l’Atelier, 2007.
+FIRST w/LOCATOR
+  Jacques Audinet, <i>Le visage de la mondialisation: du multiculturalisme au métissage</i>, Paris, Editions de l’Atelier, 2007 sur 123.
+FIRST w/LABEL
+  Jacques Audinet, <i>Le visage de la mondialisation: du multiculturalisme au métissage</i>, Paris, Editions de l’Atelier, 2007 au para 123.
+IBID
+  <i>Ibid</i>.
+IBID w/LOCATOR
+  <i>Ibid</i> sur 123.
+SUBSEQUENT
+  Audinet, <i>supra</i> note.
+SUBSEQUENT w/LOCATOR
+  Audinet, <i>supra</i> note sur 123.
+SUBSEQUENT w/BACKREF
+  Audinet, <i>supra</i> note 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  Audinet, <i>supra</i> note 1 sur 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Audinet, Jacques. <i>Le visage de la mondialisation: du multiculturalisme au métissage</i>(Paris: Editions de l’Atelier, 2007).</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "book",
+    "title": "Le visage de la mondialisation: du multiculturalisme au métissage",
+    "author": [
+      {
+        "given": "Jacques",
+        "family": "Audinet"
+      }
+    ],
+    "publisher-place": "Paris",
+    "publisher": "Editions de l'Atelier",
+    "issued": {
+      "raw": "2007"
+    },
+    "number-of-pages": "196",
+    "language": "fr",
+    "ISBN": "978-2-7082-3950-0",
+    "shortTitle": "Le visage de la mondialisation",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "language-name": "fr"
+  }
+]
+<<===== INPUT =====<<
