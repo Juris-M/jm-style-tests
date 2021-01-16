@@ -1,0 +1,78 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "MC5YMXRG"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test015
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  <i>Fraser c Canada (Procureur général)</i>, 2020 CSC 28.
+FIRST w/LOCATOR
+  <i>Fraser c Canada (Procureur général)</i>, 2020 CSC 28 à la p 123.
+FIRST w/LABEL
+  <i>Fraser c Canada (Procureur général)</i>, 2020 CSC 28 au para 123.
+IBID
+  <i>Ibid</i>.
+IBID w/LOCATOR
+  <i>Ibid</i> à la p 123.
+SUBSEQUENT
+  <i>Fraser c Canada (Procureur général)</i>.
+SUBSEQUENT w/LOCATOR
+  <i>Fraser c Canada (Procureur général)</i>, <i>supra</i> à la p 123.
+SUBSEQUENT w/BACKREF
+  <i>Fraser c Canada (Procureur général)</i>, <i>supra</i> note 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  <i>Fraser c Canada (Procureur général)</i>, <i>supra</i> note 1 à la p 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry"><i>Fraser c Canada (Procureur général)</i>, 2020 CSC 28.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_case",
+    "title": "Fraser c. Canada (Procureur général)",
+    "authority": "supreme.court",
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          10,
+          16
+        ]
+      ]
+    },
+    "number": "38505",
+    "page": "28",
+    "language": "fr",
+    "URL": "http://canlii.ca/t/jb371",
+    "accessed": {
+      "date-parts": [
+        [
+          2020,
+          10,
+          28
+        ]
+      ]
+    },
+    "note": "Library Catalog: CanLII",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "jurisdiction": "ca",
+    "collection-number": "2020",
+    "language-name": "fr"
+  }
+]
+<<===== INPUT =====<<

@@ -16,21 +16,21 @@ all
 FIRST
   Jacques Audinet, <i>Le visage de la mondialisation: du multiculturalisme au métissage</i>, Paris, Editions de l’Atelier, 2007.
 FIRST w/LOCATOR
-  Jacques Audinet, <i>Le visage de la mondialisation: du multiculturalisme au métissage</i>, Paris, Editions de l’Atelier, 2007 sur 123.
+  Jacques Audinet, <i>Le visage de la mondialisation: du multiculturalisme au métissage</i>, Paris, Editions de l’Atelier, 2007 à la p 123.
 FIRST w/LABEL
   Jacques Audinet, <i>Le visage de la mondialisation: du multiculturalisme au métissage</i>, Paris, Editions de l’Atelier, 2007 au para 123.
 IBID
   <i>Ibid</i>.
 IBID w/LOCATOR
-  <i>Ibid</i> sur 123.
+  <i>Ibid</i> à la p 123.
 SUBSEQUENT
   Audinet, <i>supra</i> note.
 SUBSEQUENT w/LOCATOR
-  Audinet, <i>supra</i> note sur 123.
+  Audinet, <i>supra</i> note à la p 123.
 SUBSEQUENT w/BACKREF
   Audinet, <i>supra</i> note 1.
 SUBSEQUENT w/BACKREF+LOCATOR
-  Audinet, <i>supra</i> note 1 sur 123.
+  Audinet, <i>supra</i> note 1 à la p 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry">Audinet, Jacques. <i>Le visage de la mondialisation: du multiculturalisme au métissage</i>(Paris: Editions de l’Atelier, 2007).</div>

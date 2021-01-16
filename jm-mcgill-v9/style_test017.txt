@@ -1,0 +1,45 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "HEQXTGHR"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+"Multicultural Citizenship" published on  by Oxfor
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+%%RESULT%%
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "book",
+    "title": "Multicultural Citizenship: A Liberal Theory of Minority Rights",
+    "author": [
+      {
+        "given": "Will",
+        "family": "Kymlicka"
+      }
+    ],
+    "publisher": "Oxford University Press",
+    "ISBN": "978-0-19-159971-2",
+    "shortTitle": "Multicultural Citizenship",
+    "URL": "https://oxford.universitypressscholarship.com/view/10.1093/0198290918.001.0001/acprof-9780198290919",
+    "accessed": {
+      "raw": "2021-01-13"
+    },
+    "source": "oxford.universitypressscholarship.com",
+    "note": "Publication Title: Multicultural Citizenship",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<
