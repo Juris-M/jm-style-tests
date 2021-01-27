@@ -1,0 +1,48 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "IHVCSTEB"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+The Socialist Party of Villarcayo (Burgos), relyin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+%%RESULT%%
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_case",
+    "authority": "Juzgado de lo Contencioso-Administrativo nº 1 de Burgos",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          4,
+          5
+        ]
+      ]
+    },
+    "number": "80/2018",
+    "language": "es",
+    "note": "Spain",
+    "multi": {
+      "main": {},
+      "_keys": {
+        "authority": {
+          "en": "Administrative Court no. 1 of Burgos"
+        }
+      }
+    },
+    "call-number": "ES072",
+    "jurisdiction": "es:castilla.y.leon:burgos"
+  }
+]
+<<===== INPUT =====<<
