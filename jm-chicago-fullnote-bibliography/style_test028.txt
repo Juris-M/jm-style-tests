@@ -1,0 +1,51 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "MEBKHAGN"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test028
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  “l’’’,” n.d.
+FIRST w/LOCATOR
+  “l’’’,” n.d., 123.
+FIRST w/LABEL
+  “l’’’,” n.d., para. 123.
+IBID
+  Ibid.
+IBID w/LOCATOR
+  Ibid. at 123.
+SUBSEQUENT
+  “l’’’.”
+SUBSEQUENT w/LOCATOR
+  “l’’’,” 123.
+SUBSEQUENT w/BACKREF
+  “l’’’.”
+SUBSEQUENT w/BACKREF+LOCATOR
+  “l’’’,” 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">“l’’’,” n.d.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "article-journal",
+    "title": "<span class=\"nocase\">l'''</span>",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<

@@ -2,16 +2,6 @@
 all
 <<===== MODE =====<<
 
->>===== ABBREVIATIONS =====>>
-{
-  "nz": {
-    "institution-part": {
-      "sc": "SC"
-    }
-  }
-}
-<<===== ABBREVIATIONS =====<<
-
 >>===== KEYS =====>>
 [
   "WP69DLZW"
@@ -23,7 +13,28 @@ should pass test style_test018
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-%%RESULT%%
+FIRST
+  <i>Re Gunson (A Bankrupt), ex parte Official Assignee</i> [1966] NZLR 187 (SC).
+FIRST w/LOCATOR
+  <i>Re Gunson (A Bankrupt), ex parte Official Assignee</i> [1966] NZLR 187 (SC) 123.
+FIRST w/LABEL
+  <i>Re Gunson (A Bankrupt), ex parte Official Assignee</i> [1966] NZLR 187 (SC) [123].
+IBID
+  <i>Ibid</i>.
+IBID w/LOCATOR
+  <i>Ibid</i> at 123.
+SUBSEQUENT
+  <i>Re Gunson (A Bankrupt), ex parte Official Assignee</i>.
+SUBSEQUENT w/LOCATOR
+  <i>Re Gunson (A Bankrupt), ex parte Official Assignee</i> at 123.
+SUBSEQUENT w/BACKREF
+  <i>Re Gunson (A Bankrupt), ex parte Official Assignee</i>.
+SUBSEQUENT w/BACKREF+LOCATOR
+  <i>Re Gunson (A Bankrupt), ex parte Official Assignee</i> at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry"><i>Re Gunson (A Bankrupt), ex parte Official Assignee</i> [1966] NZLR 187 (SC).</div>
+</div>
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>
@@ -51,3 +62,14 @@ should pass test style_test018
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== ABBREVIATIONS =====>>
+{
+  "nz": {
+    "institution-part": {
+      "sc": "SC"
+    }
+  }
+}
+<<===== ABBREVIATIONS =====<<

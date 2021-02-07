@@ -1,0 +1,40 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "4QCEJNKQ"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test019
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+%%RESULT%%
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legislation",
+    "title": "Gaming Duties Act",
+    "issued": {
+      "date-parts": [
+        [
+          1971
+        ]
+      ]
+    },
+    "section": "9",
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "jurisdiction": "nz"
+  }
+]
+<<===== INPUT =====<<

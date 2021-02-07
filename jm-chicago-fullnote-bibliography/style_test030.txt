@@ -1,0 +1,49 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "3D9K3V8Z"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+A Nigerian woman filed an appeal against the decis
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+%%RESULT%%
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_case",
+    "authority": "an",
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          4,
+          24
+        ]
+      ]
+    },
+    "number": "2195/2013",
+    "language": "es",
+    "note": "Spain",
+    "multi": {
+      "main": {},
+      "_keys": {
+        "division": {
+          "en": "Sala de lo Contencioso-Administrativo"
+        }
+      }
+    },
+    "call-number": "ES191",
+    "jurisdiction": "es",
+    "division": "Sala de lo Contencioso-Administrativo"
+  }
+]
+<<===== INPUT =====<<

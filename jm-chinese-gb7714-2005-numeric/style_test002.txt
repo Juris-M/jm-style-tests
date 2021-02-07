@@ -1,0 +1,66 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "5YLGJHPQ"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test002
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  <sup>[1]</sup>
+FIRST w/LOCATOR
+  <sup>[1]</sup>
+FIRST w/LABEL
+  <sup>[1]</sup>
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">
+    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">MINEKUS M, ALMINGER M, ALVITO P, et al. A sample item [J]. Food &#38; Function, 2014 : 11131124.</div>
+  </div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "article-journal",
+    "title": "A sample item",
+    "author": [
+      {
+        "given": "Mark",
+        "family": "Minekus"
+      },
+      {
+        "given": "Martha",
+        "family": "Alminger"
+      },
+      {
+        "given": "Pattie",
+        "family": "Alvito"
+      },
+      {
+        "given": "Brad",
+        "family": "Jones"
+      }
+    ],
+    "container-title": "Food & Function",
+    "page": "11131124",
+    "issued": {
+      "raw": "2014"
+    },
+    "language": "en",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "language-name": "en"
+  }
+]
+<<===== INPUT =====<<
