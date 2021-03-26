@@ -1,0 +1,78 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "RZCWSYHS"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test031
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  <i>Loranc Alkhouri c Bureau de LA Sécurité Privée</i>, 2020 QCTAQ 0683.
+FIRST w/LOCATOR
+  <i>Loranc Alkhouri c Bureau de LA Sécurité Privée</i>, 2020 QCTAQ 0683 at 123.
+FIRST w/LABEL
+  <i>Loranc Alkhouri c Bureau de LA Sécurité Privée</i>, 2020 QCTAQ 0683 at para 123.
+IBID
+  <i>Ibid</i>.
+IBID w/LOCATOR
+  <i>Ibid</i> at 123.
+SUBSEQUENT
+  [CSL STYLE ERROR: reference with no printed form.].
+SUBSEQUENT w/LOCATOR
+  <i>Supra</i> at 123.
+SUBSEQUENT w/BACKREF
+  <i>Supra</i> note 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  <i>Supra</i> note 1 at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry"><i>Loranc Alkhouri c Bureau de LA Sécurité Privée</i>, 2020 QCTAQ 0683.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_case",
+    "title": "Loranc Alkhouri c Bureau de LA Sécurité Privée",
+    "authority": "quebec.admin.tribunal",
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          6,
+          10
+        ]
+      ]
+    },
+    "number": "SAE-Q-243775-1909",
+    "page": "0683",
+    "language": "fr",
+    "URL": "https://canlii.ca/t/j8cl4",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          2,
+          26
+        ]
+      ]
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "jurisdiction": "ca:qc",
+    "collection-number": "2020",
+    "language-name": "fr"
+  }
+]
+<<===== INPUT =====<<

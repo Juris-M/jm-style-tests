@@ -1,0 +1,118 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "W69TMWUW",
+  "TIVCFF4T"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Parallel citation 1
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>Gordon v Goertz</i>, [1996] 2 SCR 27, [1996] CanLII 191.
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "TIVCFF4T",
+    "type": "legal_case",
+    "title": "Gordon v. Goertz",
+    "authority": "supreme.court",
+    "issued": {
+      "date-parts": [
+        [
+          1996,
+          5,
+          2
+        ]
+      ]
+    },
+    "number": "24622",
+    "volume": "2",
+    "page": "27",
+    "language": "en",
+    "URL": "https://canlii.ca/t/1fr99",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          2,
+          23
+        ]
+      ]
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "container-title": "SCR",
+    "jurisdiction": "ca",
+    "collection-number": "1996",
+    "seeAlso": [
+      "W69TMWUW"
+    ],
+    "language-name": "en"
+  },
+  {
+    "id": "W69TMWUW",
+    "type": "legal_case",
+    "title": "Gordon v. Goertz",
+    "authority": "supreme.court",
+    "issued": {
+      "date-parts": [
+        [
+          1996,
+          5,
+          2
+        ]
+      ]
+    },
+    "number": "24622",
+    "page": "191",
+    "language": "en",
+    "URL": "https://canlii.ca/t/1fr99",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          2,
+          23
+        ]
+      ]
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "container-title": "CanLII",
+    "jurisdiction": "ca",
+    "collection-number": "1996",
+    "seeAlso": [
+      "TIVCFF4T"
+    ],
+    "language-name": "en"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "TIVCFF4T"
+    },
+    {
+      "id": "W69TMWUW"
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

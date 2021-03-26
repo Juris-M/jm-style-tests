@@ -1,0 +1,118 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "W69TMWUW",
+  "TIVCFF4T"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Parallel citation 1
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>Delgamuukw v British Columbia</i>, [1991] 3 WWR 97, [1991] CanLII 2372.
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "TIVCFF4T",
+    "type": "legal_case",
+    "title": "Delgamuukw v. British Columbia",
+    "authority": "supreme.court.prov",
+    "issued": {
+      "date-parts": [
+        [
+          1991,
+          3,
+          8
+        ]
+      ]
+    },
+    "number": "0843",
+    "volume": "3",
+    "page": "97",
+    "language": "en",
+    "URL": "https://canlii.ca/t/1g2kh",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          2,
+          23
+        ]
+      ]
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "container-title": "WWR",
+    "jurisdiction": "ca:bc",
+    "collection-number": "1991",
+    "seeAlso": [
+      "W69TMWUW"
+    ],
+    "language-name": "en"
+  },
+  {
+    "id": "W69TMWUW",
+    "type": "legal_case",
+    "title": "Delgamuukw v. British Columbia",
+    "authority": "supreme.court.prov",
+    "issued": {
+      "date-parts": [
+        [
+          1991,
+          3,
+          8
+        ]
+      ]
+    },
+    "number": "0843",
+    "page": "2372",
+    "language": "en",
+    "URL": "https://canlii.ca/t/1g2kh",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          2,
+          23
+        ]
+      ]
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "container-title": "CanLII",
+    "jurisdiction": "ca:bc",
+    "collection-number": "1991",
+    "seeAlso": [
+      "TIVCFF4T"
+    ],
+    "language-name": "en"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "TIVCFF4T"
+    },
+    {
+      "id": "W69TMWUW"
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

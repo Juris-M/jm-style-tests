@@ -1,0 +1,79 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "Y7LWITS7"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test011
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  <i>Joyal c Hôpital du Christ-Roi</i>, [1996] CanLII 6068.
+FIRST w/LOCATOR
+  <i>Joyal c Hôpital du Christ-Roi</i>, [1996] CanLII 6068 at 123.
+FIRST w/LABEL
+  <i>Joyal c Hôpital du Christ-Roi</i>, [1996] CanLII 6068 at para 123.
+IBID
+  <i>Ibid</i>.
+IBID w/LOCATOR
+  <i>Ibid</i> at 123.
+SUBSEQUENT
+  [CSL STYLE ERROR: reference with no printed form.].
+SUBSEQUENT w/LOCATOR
+  <i>Supra</i> at 123.
+SUBSEQUENT w/BACKREF
+  <i>Supra</i> note 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  <i>Supra</i> note 1 at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry"><i>Joyal c Hôpital du Christ-Roi</i>, [1996] CanLII 6068.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_case",
+    "title": "Joyal c. Hôpital du Christ-Roi",
+    "authority": "court.appeal",
+    "issued": {
+      "date-parts": [
+        [
+          1996,
+          12,
+          11
+        ]
+      ]
+    },
+    "number": "200-09-000022-936",
+    "page": "6068",
+    "language": "fr",
+    "URL": "https://canlii.ca/t/1ngrk",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          2,
+          23
+        ]
+      ]
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "container-title": "CanLII",
+    "jurisdiction": "ca:qc",
+    "collection-number": "1996",
+    "language-name": "fr"
+  }
+]
+<<===== INPUT =====<<

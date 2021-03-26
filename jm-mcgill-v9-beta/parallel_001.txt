@@ -1,0 +1,132 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "W69TMWUW",
+  "TIVCFF4T"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Parallel citation 1
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>Delgamuukw v British Columbia</i>, [1997] 3 SCR 1010, [1997] CanLII 302.
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "TIVCFF4T",
+    "type": "legal_case",
+    "title": "Delgamuukw v. British Columbia",
+    "authority": "supreme.court",
+    "issued": {
+      "date-parts": [
+        [
+          1997,
+          12,
+          11
+        ]
+      ]
+    },
+    "number": "23799",
+    "volume": "3",
+    "page": "1010",
+    "language": "en",
+    "URL": "https://canlii.ca/t/1fqz8",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          2,
+          23
+        ]
+      ]
+    },
+    "note": "",
+    "multi": {
+      "main": {
+        "title": "en-CA",
+        "authority": "en-CA"
+      },
+      "_keys": {
+        "title": {
+          "fr-CA": "Delgamuukw c. Colombie-Britannique"
+        }
+      }
+    },
+    "container-title": "SCR",
+    "jurisdiction": "ca",
+    "collection-number": "1997",
+    "seeAlso": [
+      "W69TMWUW"
+    ],
+    "language-name": "en"
+  },
+  {
+    "id": "W69TMWUW",
+    "type": "legal_case",
+    "title": "Delgamuukw v. British Columbia",
+    "authority": "supreme.court",
+    "issued": {
+      "date-parts": [
+        [
+          1997,
+          12,
+          11
+        ]
+      ]
+    },
+    "number": "23799",
+    "page": "302",
+    "language": "en",
+    "URL": "https://canlii.ca/t/1fqz8",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          2,
+          23
+        ]
+      ]
+    },
+    "note": "",
+    "multi": {
+      "main": {
+        "title": "en-CA",
+        "authority": "en-CA"
+      },
+      "_keys": {
+        "title": {
+          "fr-CA": "Delgamuukw c. Colombie-Britannique"
+        }
+      }
+    },
+    "container-title": "CanLII",
+    "jurisdiction": "ca",
+    "collection-number": "1997",
+    "seeAlso": [
+      "TIVCFF4T"
+    ],
+    "language-name": "en"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "TIVCFF4T"
+    },
+    {
+      "id": "W69TMWUW"
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

@@ -1,0 +1,78 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "PS66FVSV"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test021
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  <i>Tremblay c Gingras</i>, 2001 QCTP 24.
+FIRST w/LOCATOR
+  <i>Tremblay c Gingras</i>, 2001 QCTP 24 at 123.
+FIRST w/LABEL
+  <i>Tremblay c Gingras</i>, 2001 QCTP 24 at para 123.
+IBID
+  <i>Ibid</i>.
+IBID w/LOCATOR
+  <i>Ibid</i> at 123.
+SUBSEQUENT
+  [CSL STYLE ERROR: reference with no printed form.].
+SUBSEQUENT w/LOCATOR
+  <i>Supra</i> at 123.
+SUBSEQUENT w/BACKREF
+  <i>Supra</i> note 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  <i>Supra</i> note 1 at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry"><i>Tremblay c Gingras</i>, 2001 QCTP 24.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_case",
+    "title": "Tremblay c. Gingras",
+    "authority": "tribunal.professions",
+    "issued": {
+      "date-parts": [
+        [
+          2001,
+          3,
+          30
+        ]
+      ]
+    },
+    "number": "755-07-000004-006",
+    "page": "24",
+    "language": "fr",
+    "URL": "https://canlii.ca/t/1fvs4",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          2,
+          23
+        ]
+      ]
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "jurisdiction": "ca:qc",
+    "collection-number": "2001",
+    "language-name": "fr"
+  }
+]
+<<===== INPUT =====<<

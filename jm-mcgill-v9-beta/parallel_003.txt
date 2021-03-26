@@ -1,0 +1,118 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "W69TMWUW",
+  "TIVCFF4T"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Parallel citation 1
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>Gordon c Goertz</i>, [1996] 2 RCS 27, [1996] CanLII 191.
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "TIVCFF4T",
+    "type": "legal_case",
+    "title": "Gordon c. Goertz",
+    "authority": "supreme.court",
+    "issued": {
+      "date-parts": [
+        [
+          1996,
+          5,
+          2
+        ]
+      ]
+    },
+    "number": "24622",
+    "volume": "2",
+    "page": "27",
+    "language": "fr",
+    "URL": "https://canlii.ca/t/1fr98",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          2,
+          23
+        ]
+      ]
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "container-title": "RCS",
+    "jurisdiction": "ca",
+    "collection-number": "1996",
+    "seeAlso": [
+      "W69TMWUW"
+    ],
+    "language-name": "fr"
+  },
+  {
+    "id": "W69TMWUW",
+    "type": "legal_case",
+    "title": "Gordon c. Goertz",
+    "authority": "supreme.court",
+    "issued": {
+      "date-parts": [
+        [
+          1996,
+          5,
+          2
+        ]
+      ]
+    },
+    "number": "24622",
+    "page": "191",
+    "language": "fr",
+    "URL": "https://canlii.ca/t/1fr98",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          2,
+          23
+        ]
+      ]
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "container-title": "CanLII",
+    "jurisdiction": "ca",
+    "collection-number": "1996",
+    "seeAlso": [
+      "TIVCFF4T"
+    ],
+    "language-name": "fr"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "TIVCFF4T"
+    },
+    {
+      "id": "W69TMWUW"
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
