@@ -14,11 +14,11 @@ News/TNS Online
 
 >>===== RESULT =====>>
 FIRST
-  <i>Treaty between India and Singapore—Indian Decision on whether Fixed Place PE Exists if Business via Bonded Warehouse Owned and Operated by Independent Service Providers</i> (5 Mar. 2010), News IBFD [hereinafter <i>Treaty between India and Singapore</i>].
+  <i>Treaty between India and Singapore - Indian Decision on Whether Fixed Place PE Exists if Business via Bonded Warehouse Owned and Operated by Independent Service Providers</i> (5 Mar. 2010), News IBFD [hereinafter <i>Treaty between India and Singapore</i>].
 FIRST w/LOCATOR
-  <i>Treaty between India and Singapore—Indian Decision on whether Fixed Place PE Exists if Business via Bonded Warehouse Owned and Operated by Independent Service Providers</i> p. 123 (5 Mar. 2010), News IBFD [hereinafter <i>Treaty between India and Singapore</i>].
+  <i>Treaty between India and Singapore - Indian Decision on Whether Fixed Place PE Exists if Business via Bonded Warehouse Owned and Operated by Independent Service Providers</i> p. 123 (5 Mar. 2010), News IBFD [hereinafter <i>Treaty between India and Singapore</i>].
 FIRST w/LABEL
-  <i>Treaty between India and Singapore—Indian Decision on whether Fixed Place PE Exists if Business via Bonded Warehouse Owned and Operated by Independent Service Providers</i> para. 123 (5 Mar. 2010), News IBFD [hereinafter <i>Treaty between India and Singapore</i>].
+  <i>Treaty between India and Singapore - Indian Decision on Whether Fixed Place PE Exists if Business via Bonded Warehouse Owned and Operated by Independent Service Providers</i> para. 123 (5 Mar. 2010), News IBFD [hereinafter <i>Treaty between India and Singapore</i>].
 IBID
   <i>Id.</i>
 IBID w/LOCATOR
@@ -33,7 +33,7 @@ SUBSEQUENT w/BACKREF+LOCATOR
   <i>Treaty between India and Singapore</i>, <i>supra</i> n. 1, at p. 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry"><i>Treaty between India and Singapore—Indian Decision on whether Fixed Place PE Exists if Business via Bonded Warehouse Owned and Operated by Independent Service Providers</i> (5 Mar. 2010), News IBFD [hereinafter <i>Treaty between India and Singapore</i>].</div>
+  <div class="csl-entry"><i>Treaty between India and Singapore - Indian Decision on Whether Fixed Place PE Exists if Business via Bonded Warehouse Owned and Operated by Independent Service Providers</i> (5 Mar. 2010), News IBFD [hereinafter <i>Treaty between India and Singapore</i>].</div>
 </div>
 <<===== RESULT =====<<
 
