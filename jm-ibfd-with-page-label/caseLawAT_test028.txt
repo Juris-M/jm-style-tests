@@ -14,11 +14,11 @@ should pass test style_test034
 
 >>===== RESULT =====>>
 FIRST
-  AT: Regional Court Feldkirch, 29 Nov. 2018, 2R247/18s, ECLI:AT:LG00929:2018:RFE0100040.
+  AT: LG Feldkirch [Regional Court], 29 Nov. 2018, 2R247/18s, ECLI:AT:LG00929:2018:RFE0100040.
 FIRST w/LOCATOR
-  AT: Regional Court Feldkirch, 29 Nov. 2018, 2R247/18s, ECLI:AT:LG00929:2018:RFE0100040, p. 123.
+  AT: LG Feldkirch [Regional Court], 29 Nov. 2018, 2R247/18s, ECLI:AT:LG00929:2018:RFE0100040, p. 123.
 FIRST w/LABEL
-  AT: Regional Court Feldkirch, 29 Nov. 2018, 2R247/18s, ECLI:AT:LG00929:2018:RFE0100040, para. 123.
+  AT: LG Feldkirch [Regional Court], 29 Nov. 2018, 2R247/18s, ECLI:AT:LG00929:2018:RFE0100040, para. 123.
 IBID
   <i>Id.</i>
 IBID w/LOCATOR
@@ -33,7 +33,7 @@ SUBSEQUENT w/BACKREF+LOCATOR
   2R247/18s (29 Nov. 2018), at p. 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">AT: Regional Court Feldkirch, 29 Nov. 2018, 2R247/18s, ECLI:AT:LG00929:2018:RFE0100040.</div>
+  <div class="csl-entry">AT: LG Feldkirch [Regional Court], 29 Nov. 2018, 2R247/18s, ECLI:AT:LG00929:2018:RFE0100040.</div>
 </div>
 <<===== RESULT =====<<
 

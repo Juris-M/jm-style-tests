@@ -14,11 +14,11 @@ Case law minimal/AT
 
 >>===== RESULT =====>>
 FIRST
-  AT: Supreme Court, 12 Apr. 2011, 4 Ob 8/11x.
+  AT: OGH [Supreme Court], 12 Apr. 2011, 4 Ob 8/11x.
 FIRST w/LOCATOR
-  AT: Supreme Court, 12 Apr. 2011, 4 Ob 8/11x, p. 123.
+  AT: OGH [Supreme Court], 12 Apr. 2011, 4 Ob 8/11x, p. 123.
 FIRST w/LABEL
-  AT: Supreme Court, 12 Apr. 2011, 4 Ob 8/11x, para. 123.
+  AT: OGH [Supreme Court], 12 Apr. 2011, 4 Ob 8/11x, para. 123.
 IBID
   <i>Id.</i>
 IBID w/LOCATOR
@@ -33,7 +33,7 @@ SUBSEQUENT w/BACKREF+LOCATOR
   4 Ob 8/11x (12 Apr. 2011), at p. 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">AT: Supreme Court, 12 Apr. 2011, 4 Ob 8/11x.</div>
+  <div class="csl-entry">AT: OGH [Supreme Court], 12 Apr. 2011, 4 Ob 8/11x.</div>
 </div>
 <<===== RESULT =====<<
 
