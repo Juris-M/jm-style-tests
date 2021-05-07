@@ -1,0 +1,87 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "ZUP6Q3LR"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test038
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  <i>Les Pétroles Inc v Tremblay et al</i>, [1963] SCR 120, 1962 CanLII 93.
+FIRST w/LOCATOR
+  <i>Les Pétroles Inc v Tremblay et al</i>, [1963] SCR 120 at 123, 1962 CanLII 93.
+FIRST w/LABEL
+  <i>Les Pétroles Inc v Tremblay et al</i>, [1963] SCR 120 at para 123, 1962 CanLII 93.
+IBID
+  <i>Ibid</i>.
+IBID w/LOCATOR
+  <i>Ibid</i> at 123.
+SUBSEQUENT
+  [CSL STYLE ERROR: reference with no printed form.].
+SUBSEQUENT w/LOCATOR
+  <i>Supra</i> at 123.
+SUBSEQUENT w/BACKREF
+  <i>Supra</i> note 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  <i>Supra</i> note 1 at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry"><i>Les Pétroles Inc v Tremblay et al</i>, [1963] SCR 120, 1962 CanLII 93.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_case",
+    "title": "Les Pétroles Inc. v. Tremblay et al.",
+    "authority": "supreme.court",
+    "issued": {
+      "date-parts": [
+        [
+          1962,
+          12,
+          17
+        ]
+      ]
+    },
+    "page": "120",
+    "language": "en",
+    "URL": "https://canlii.ca/t/22vwz",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          5,
+          7
+        ]
+      ]
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "archive": "CanLII",
+    "archive_location": "93",
+    "container-title": "SCR",
+    "jurisdiction": "ca",
+    "collection-number": "1963",
+    "submitted": {
+      "date-parts": [
+        [
+          1962
+        ]
+      ]
+    },
+    "language-name": "en"
+  }
+]
+<<===== INPUT =====<<

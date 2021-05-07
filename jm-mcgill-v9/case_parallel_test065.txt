@@ -1,0 +1,530 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "ILKFBEWH",
+  "U4PGJ8LG",
+  "QBMTEHTJ"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+AT Case with parallel citations
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+>>[0] <i>Vriend v Alberta</i>, [1998] 1 SCR 493, 224 NR 1.
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "1",
+    "type": "legal_case",
+    "title": "Vriend v. Alberta",
+    "authority": "supreme.court",
+    "issued": {
+      "date-parts": [
+        [
+          1998,
+          4,
+          2
+        ]
+      ]
+    },
+    "number": "25285",
+    "volume": "1",
+    "page": "493",
+    "language": "en",
+    "URL": "https://canlii.ca/t/1fqt5",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          5,
+          7
+        ]
+      ]
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {
+        "container-title": {
+          "fr": "RCS"
+        },
+        "title": {
+          "fr": "Vriend c. Alberta"
+        }
+      }
+    },
+    "archive": "CanLII",
+    "archive_location": "816",
+    "container-title": "SCR",
+    "jurisdiction": "ca",
+    "collection-number": "1998",
+    "submitted": {
+      "date-parts": [
+        [
+          1998
+        ]
+      ]
+    },
+    "language-name": "en",
+    "seeAlso": [
+      "2"
+    ]
+  },
+  {
+    "id": "2",
+    "type": "legal_case",
+    "title": "Vriend v. Alberta",
+    "authority": "supreme.court",
+    "issued": {
+      "date-parts": [
+        [
+          1998,
+          4,
+          2
+        ]
+      ]
+    },
+    "number": "25285",
+    "volume": "224",
+    "page": "1",
+    "language": "en",
+    "URL": "https://canlii.ca/t/1fqt5",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          5,
+          7
+        ]
+      ]
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {
+        "container-title": {
+          "fr": "NR"
+        },
+        "title": {
+          "fr": "Vriend c. Alberta"
+        }
+      }
+    },
+    "archive": "CanLII",
+    "archive_location": "816",
+    "container-title": "NR",
+    "jurisdiction": "ca",
+    "submitted": {
+      "date-parts": [
+        [
+          1998
+        ]
+      ]
+    },
+    "language-name": "en",
+    "seeAlso": [
+      "1"
+    ]
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== CITATIONS =====>>
+[
+  [
+    {
+      "citationID": "CITATION-1",
+      "citationItems": [
+        {
+          "id": "1",
+          "item": {
+            "id": "1",
+            "type": "legal_case",
+            "title": "Vriend v. Alberta",
+            "authority": [
+              {
+                "literal": "supreme.court",
+                "multi": {
+                  "_key": {}
+                }
+              }
+            ],
+            "issued": {
+              "year": 1998,
+              "month": 4,
+              "day": 2
+            },
+            "number": "25285",
+            "volume": "1",
+            "page": "493",
+            "language": "en",
+            "URL": "https://canlii.ca/t/1fqt5",
+            "accessed": {
+              "year": 2021,
+              "month": 5,
+              "day": 7
+            },
+            "note": "",
+            "multi": {
+              "main": {},
+              "_keys": {
+                "container-title": {
+                  "fr": "RCS"
+                },
+                "title": {
+                  "fr": "Vriend c. Alberta"
+                }
+              }
+            },
+            "archive": "CanLII",
+            "archive_location": "816",
+            "container-title": "SCR",
+            "jurisdiction": "ca",
+            "collection-number": "1998",
+            "submitted": {
+              "year": 1998
+            },
+            "language-name": "en",
+            "seeAlso": [
+              "2"
+            ],
+            "page-first": "493",
+            "title-main": "Vriend v",
+            "title-sub": "Alberta",
+            "title-subjoin": ". ",
+            "country": "ca",
+            "best-jurisdiction": "ca"
+          }
+        },
+        {
+          "id": "2",
+          "item": {
+            "id": "2",
+            "type": "legal_case",
+            "title": "Vriend v. Alberta",
+            "authority": [
+              {
+                "literal": "supreme.court",
+                "multi": {
+                  "_key": {}
+                }
+              }
+            ],
+            "issued": {
+              "year": 1998,
+              "month": 4,
+              "day": 2
+            },
+            "number": "25285",
+            "volume": "224",
+            "page": "1",
+            "language": "en",
+            "URL": "https://canlii.ca/t/1fqt5",
+            "accessed": {
+              "year": 2021,
+              "month": 5,
+              "day": 7
+            },
+            "note": "",
+            "multi": {
+              "main": {},
+              "_keys": {
+                "container-title": {
+                  "fr": "NR"
+                },
+                "title": {
+                  "fr": "Vriend c. Alberta"
+                }
+              }
+            },
+            "archive": "CanLII",
+            "archive_location": "816",
+            "container-title": "NR",
+            "jurisdiction": "ca",
+            "submitted": {
+              "year": 1998
+            },
+            "language-name": "en",
+            "seeAlso": [
+              "1"
+            ],
+            "page-first": "1",
+            "title-main": "Vriend v",
+            "title-sub": "Alberta",
+            "title-subjoin": ". ",
+            "country": "ca",
+            "best-jurisdiction": "ca"
+          }
+        }
+      ],
+      "properties": {
+        "noteIndex": 1,
+        "index": 0
+      },
+      "sortedItems": [
+        [
+          {
+            "id": "1",
+            "type": "legal_case",
+            "title": "Vriend v. Alberta",
+            "authority": [
+              {
+                "literal": "supreme.court",
+                "multi": {
+                  "_key": {}
+                }
+              }
+            ],
+            "issued": {
+              "year": 1998,
+              "month": 4,
+              "day": 2
+            },
+            "number": "25285",
+            "volume": "1",
+            "page": "493",
+            "language": "en",
+            "URL": "https://canlii.ca/t/1fqt5",
+            "accessed": {
+              "year": 2021,
+              "month": 5,
+              "day": 7
+            },
+            "note": "",
+            "multi": {
+              "main": {},
+              "_keys": {
+                "container-title": {
+                  "fr": "RCS"
+                },
+                "title": {
+                  "fr": "Vriend c. Alberta"
+                }
+              }
+            },
+            "archive": "CanLII",
+            "archive_location": "816",
+            "container-title": "SCR",
+            "jurisdiction": "ca",
+            "collection-number": "1998",
+            "submitted": {
+              "year": 1998
+            },
+            "language-name": "en",
+            "seeAlso": [
+              "2"
+            ],
+            "page-first": "493",
+            "title-main": "Vriend v",
+            "title-sub": "Alberta",
+            "title-subjoin": ". ",
+            "country": "ca",
+            "best-jurisdiction": "ca"
+          },
+          {
+            "id": "1",
+            "item": {
+              "id": "1",
+              "type": "legal_case",
+              "title": "Vriend v. Alberta",
+              "authority": [
+                {
+                  "literal": "supreme.court",
+                  "multi": {
+                    "_key": {}
+                  }
+                }
+              ],
+              "issued": {
+                "year": 1998,
+                "month": 4,
+                "day": 2
+              },
+              "number": "25285",
+              "volume": "1",
+              "page": "493",
+              "language": "en",
+              "URL": "https://canlii.ca/t/1fqt5",
+              "accessed": {
+                "year": 2021,
+                "month": 5,
+                "day": 7
+              },
+              "note": "",
+              "multi": {
+                "main": {},
+                "_keys": {
+                  "container-title": {
+                    "fr": "RCS"
+                  },
+                  "title": {
+                    "fr": "Vriend c. Alberta"
+                  }
+                }
+              },
+              "archive": "CanLII",
+              "archive_location": "816",
+              "container-title": "SCR",
+              "jurisdiction": "ca",
+              "collection-number": "1998",
+              "submitted": {
+                "year": 1998
+              },
+              "language-name": "en",
+              "seeAlso": [
+                "2"
+              ],
+              "page-first": "493",
+              "title-main": "Vriend v",
+              "title-sub": "Alberta",
+              "title-subjoin": ". ",
+              "country": "ca",
+              "best-jurisdiction": "ca"
+            },
+            "parallel": "first",
+            "first-reference-note-number": 0,
+            "first-container-reference-note-number": 0,
+            "near-note": false,
+            "position": 0,
+            "section_form_override": "short"
+          }
+        ],
+        [
+          {
+            "id": "2",
+            "type": "legal_case",
+            "title": "Vriend v. Alberta",
+            "authority": [
+              {
+                "literal": "supreme.court",
+                "multi": {
+                  "_key": {}
+                }
+              }
+            ],
+            "issued": {
+              "year": 1998,
+              "month": 4,
+              "day": 2
+            },
+            "number": "25285",
+            "volume": "224",
+            "page": "1",
+            "language": "en",
+            "URL": "https://canlii.ca/t/1fqt5",
+            "accessed": {
+              "year": 2021,
+              "month": 5,
+              "day": 7
+            },
+            "note": "",
+            "multi": {
+              "main": {},
+              "_keys": {
+                "container-title": {
+                  "fr": "NR"
+                },
+                "title": {
+                  "fr": "Vriend c. Alberta"
+                }
+              }
+            },
+            "archive": "CanLII",
+            "archive_location": "816",
+            "container-title": "NR",
+            "jurisdiction": "ca",
+            "submitted": {
+              "year": 1998
+            },
+            "language-name": "en",
+            "seeAlso": [
+              "1"
+            ],
+            "page-first": "1",
+            "title-main": "Vriend v",
+            "title-sub": "Alberta",
+            "title-subjoin": ". ",
+            "country": "ca",
+            "best-jurisdiction": "ca"
+          },
+          {
+            "id": "2",
+            "item": {
+              "id": "2",
+              "type": "legal_case",
+              "title": "Université du Québec à Trois-Rivières v. Larocque",
+              "authority": [
+                {
+                  "literal": "supreme.court",
+                  "multi": {
+                    "_key": {}
+                  }
+                }
+              ],
+              "issued": {
+                "year": 1993,
+                "month": 2,
+                "day": 25
+              },
+              "number": "22146",
+              "language": "en",
+              "URL": "https://canlii.ca/t/1fs4l",
+              "accessed": {
+                "year": 2021,
+                "month": 5,
+                "day": 7
+              },
+              "note": "",
+              "multi": {
+                "main": {},
+                "_keys": {
+                  "container-title": {
+                    "fr": "SCJ"
+                  },
+                  "title": {
+                    "fr": "Université du Québec à Trois-Rivières c. Larocque"
+                  }
+                }
+              },
+              "archive": "CanLII",
+              "archive_location": "162",
+              "container-title": "SCJ",
+              "jurisdiction": "ca",
+              "collection-number": "1993",
+              "issue": "23",
+              "submitted": {
+                "year": 1993
+              },
+              "language-name": "en",
+              "seeAlso": [
+                "1"
+              ],
+              "title-main": "Université du Québec à Trois-Rivières v",
+              "title-sub": "Larocque",
+              "title-subjoin": ". ",
+              "country": "ca",
+              "best-jurisdiction": "ca"
+            },
+            "parallel": "other",
+            "first-reference-note-number": 0,
+            "first-container-reference-note-number": 0,
+            "near-note": false,
+            "position": 0,
+            "section_form_override": "short"
+          }
+        ]
+      ]
+    },
+    [],
+    []
+  ]
+]
+<<===== CITATIONS =====<<

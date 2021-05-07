@@ -1,0 +1,96 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "8C9RQRQA"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test060
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  <i>Delgamuukw v British Columbia</i>, [1997] 3 SCR 1010, 1997 CanLII 302.
+FIRST w/LOCATOR
+  <i>Delgamuukw v British Columbia</i>, [1997] 3 SCR 1010 at 123, 1997 CanLII 302.
+FIRST w/LABEL
+  <i>Delgamuukw v British Columbia</i>, [1997] 3 SCR 1010 at para 123, 1997 CanLII 302.
+IBID
+  <i>Ibid</i>.
+IBID w/LOCATOR
+  <i>Ibid</i> at 123.
+SUBSEQUENT
+  [CSL STYLE ERROR: reference with no printed form.].
+SUBSEQUENT w/LOCATOR
+  <i>Supra</i> at 123.
+SUBSEQUENT w/BACKREF
+  <i>Supra</i> note 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  <i>Supra</i> note 1 at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry"><i>Delgamuukw v British Columbia</i>, [1997] 3 SCR 1010, 1997 CanLII 302.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_case",
+    "title": "Delgamuukw v. British Columbia",
+    "authority": "supreme.court",
+    "issued": {
+      "date-parts": [
+        [
+          1997,
+          12,
+          11
+        ]
+      ]
+    },
+    "number": "23799",
+    "volume": "3",
+    "page": "1010",
+    "language": "en",
+    "URL": "https://canlii.ca/t/1fqz8",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          5,
+          7
+        ]
+      ]
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {
+        "container-title": {
+          "fr": "RCS"
+        },
+        "title": {
+          "fr": "Delgamuukw c. Colombie-Britannique"
+        }
+      }
+    },
+    "archive": "CanLII",
+    "archive_location": "302",
+    "container-title": "SCR",
+    "jurisdiction": "ca",
+    "collection-number": "1997",
+    "submitted": {
+      "date-parts": [
+        [
+          1997
+        ]
+      ]
+    },
+    "language-name": "en"
+  }
+]
+<<===== INPUT =====<<

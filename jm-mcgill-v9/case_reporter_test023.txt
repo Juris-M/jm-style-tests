@@ -1,0 +1,95 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "N7U2YZTH"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test023
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  <i>Vriend v Alberta</i>, [1998] ACS No 29, 1998 CanLII 816.
+FIRST w/LOCATOR
+  <i>Vriend v Alberta</i>, [1998] ACS No 29 at 123, 1998 CanLII 816.
+FIRST w/LABEL
+  <i>Vriend v Alberta</i>, [1998] ACS No 29 at para 123, 1998 CanLII 816.
+IBID
+  <i>Ibid</i>.
+IBID w/LOCATOR
+  <i>Ibid</i> at 123.
+SUBSEQUENT
+  [CSL STYLE ERROR: reference with no printed form.].
+SUBSEQUENT w/LOCATOR
+  <i>Supra</i> at 123.
+SUBSEQUENT w/BACKREF
+  <i>Supra</i> note 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  <i>Supra</i> note 1 at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry"><i>Vriend v Alberta</i>, [1998] ACS No 29, 1998 CanLII 816.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_case",
+    "title": "Vriend v. Alberta",
+    "authority": "supreme.court",
+    "issued": {
+      "date-parts": [
+        [
+          1998,
+          4,
+          2
+        ]
+      ]
+    },
+    "number": "25285",
+    "language": "en",
+    "URL": "https://canlii.ca/t/1fqt5",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          5,
+          7
+        ]
+      ]
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {
+        "container-title": {
+          "fr": "ACS"
+        },
+        "title": {
+          "fr": "Vriend c. Alberta"
+        }
+      }
+    },
+    "archive": "CanLII",
+    "archive_location": "816",
+    "container-title": "ACS",
+    "jurisdiction": "ca",
+    "collection-number": "1998",
+    "issue": "29",
+    "submitted": {
+      "date-parts": [
+        [
+          1998
+        ]
+      ]
+    },
+    "language-name": "en"
+  }
+]
+<<===== INPUT =====<<
