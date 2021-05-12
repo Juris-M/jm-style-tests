@@ -4,21 +4,21 @@ all
 
 >>===== KEYS =====>>
 [
-  "53JP3UNL"
+  "96NV4VHD"
 ]
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-should pass test style_test066
+should pass test style_test071
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
 FIRST
-  <i>Accessible Canada Act</i>, SC 2019, c 10.
+  <i>Loi sur le mariage civil</i>, LC 2005, c 33.
 FIRST w/LOCATOR
-  <i>Accessible Canada Act</i>, SC 2019, c 10, at 123.
+  <i>Loi sur le mariage civil</i>, LC 2005, c 33, at 123.
 FIRST w/LABEL
-  <i>Accessible Canada Act</i>, SC 2019, c 10, at para 123.
+  <i>Loi sur le mariage civil</i>, LC 2005, c 33, at para 123.
 IBID
   <i>Ibid</i>.
 IBID w/LOCATOR
@@ -33,7 +33,7 @@ SUBSEQUENT w/BACKREF+LOCATOR
   <i>Supra</i> note 1 at 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry"><i>Accessible Canada Act</i>, SC 2019, c 10.</div>
+  <div class="csl-entry"><i>Loi sur le mariage civil</i>, LC 2005, c 33.</div>
 </div>
 <<===== RESULT =====<<
 
@@ -41,24 +41,24 @@ BIBLIOGRAPHY
 [
   {
     "type": "legislation",
-    "title": "Accessible Canada Act",
-    "container-title": "SC",
-    "number": "10",
+    "title": "Loi sur le mariage civil",
+    "container-title": "LC",
+    "number": "33",
     "issued": {
       "date-parts": [
         [
-          2019
+          2005
         ]
       ]
     },
-    "language": "en",
-    "URL": "https://canlii.ca/t/9hfc",
+    "language": "fr",
+    "URL": "https://canlii.ca/t/cl3d",
     "accessed": {
       "date-parts": [
         [
           2021,
           5,
-          11
+          12
         ]
       ]
     },
@@ -67,15 +67,15 @@ BIBLIOGRAPHY
       "main": {},
       "_keys": {
         "container-title": {
-          "fr": "LC"
+          "en": "SC"
         },
         "title": {
-          "fr": "Loi canadienne sur l'Accessibilité"
+          "en": "Civil Marriage Act"
         }
       }
     },
     "jurisdiction": "ca",
-    "language-name": "en"
+    "language-name": "fr"
   }
 ]
 <<===== INPUT =====<<

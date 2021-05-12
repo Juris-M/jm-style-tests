@@ -1,0 +1,56 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "2EFPRPYU"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test081
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Art 447 CcBC.
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "ITEM-1",
+    "type": "legislation",
+    "title": "Code civil du Bas Canada",
+    "language": "fr",
+    "shortTitle": "CcBC",
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {
+        "title-short": {
+          "en-CA": "CCLC"
+        },
+        "title": {
+          "en-CA": "Civil Code of Lower Canada"
+        }
+      }
+    },
+    "jurisdiction": "ca",
+    "language-name": "fr"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "ITEM-1",
+      "label": "section",
+      "locator": "447"
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

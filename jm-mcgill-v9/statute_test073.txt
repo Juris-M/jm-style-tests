@@ -4,21 +4,21 @@ all
 
 >>===== KEYS =====>>
 [
-  "53JP3UNL"
+  "BLKVJYVV"
 ]
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-should pass test style_test066
+should pass test style_test073
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
 FIRST
-  <i>Accessible Canada Act</i>, SC 2019, c 10.
+  <i>Charter of Human Rights and Freedoms</i>, CQLR c C–12.
 FIRST w/LOCATOR
-  <i>Accessible Canada Act</i>, SC 2019, c 10, at 123.
+  <i>Charter of Human Rights and Freedoms</i>, CQLR c C–12, at 123.
 FIRST w/LABEL
-  <i>Accessible Canada Act</i>, SC 2019, c 10, at para 123.
+  <i>Charter of Human Rights and Freedoms</i>, CQLR c C–12, at para 123.
 IBID
   <i>Ibid</i>.
 IBID w/LOCATOR
@@ -33,7 +33,7 @@ SUBSEQUENT w/BACKREF+LOCATOR
   <i>Supra</i> note 1 at 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry"><i>Accessible Canada Act</i>, SC 2019, c 10.</div>
+  <div class="csl-entry"><i>Charter of Human Rights and Freedoms</i>, CQLR c C–12.</div>
 </div>
 <<===== RESULT =====<<
 
@@ -41,24 +41,17 @@ BIBLIOGRAPHY
 [
   {
     "type": "legislation",
-    "title": "Accessible Canada Act",
-    "container-title": "SC",
-    "number": "10",
-    "issued": {
-      "date-parts": [
-        [
-          2019
-        ]
-      ]
-    },
+    "title": "Charter of Human Rights and Freedoms",
+    "container-title": "CQLR",
+    "number": "C-12",
     "language": "en",
-    "URL": "https://canlii.ca/t/9hfc",
+    "URL": "https://canlii.ca/t/x8d",
     "accessed": {
       "date-parts": [
         [
           2021,
           5,
-          11
+          12
         ]
       ]
     },
@@ -67,14 +60,14 @@ BIBLIOGRAPHY
       "main": {},
       "_keys": {
         "container-title": {
-          "fr": "LC"
+          "fr": "RLRQ"
         },
         "title": {
-          "fr": "Loi canadienne sur l'Accessibilité"
+          "fr": "Charte des droits et libertés de la personne"
         }
       }
     },
-    "jurisdiction": "ca",
+    "jurisdiction": "ca:qc",
     "language-name": "en"
   }
 ]
