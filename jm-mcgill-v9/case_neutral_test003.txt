@@ -1,0 +1,82 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "Z6PKNUDX"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test003
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  <i>Sibanda c Canada (Immigration, Refugiés et Citoyenneté)</i>, 2017 CF 1187.
+FIRST w/LOCATOR
+  <i>Sibanda c Canada (Immigration, Refugiés et Citoyenneté)</i>, 2017 CF 1187 at 123.
+FIRST w/LABEL
+  <i>Sibanda c Canada (Immigration, Refugiés et Citoyenneté)</i>, 2017 CF 1187 at para 123.
+IBID
+  <i>Ibid</i>.
+IBID w/LOCATOR
+  <i>Ibid</i> at 123.
+SUBSEQUENT
+  [CSL STYLE ERROR: reference with no printed form.].
+SUBSEQUENT w/LOCATOR
+  <i>Supra</i> at 123.
+SUBSEQUENT w/BACKREF
+  <i>Supra</i> note 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  <i>Supra</i> note 1 at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry"><i>Sibanda c Canada (Immigration, Refugiés et Citoyenneté)</i>, 2017 CF 1187.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_case",
+    "title": "Sibanda c. Canada (Immigration, Refugiés et Citoyenneté)",
+    "authority": "federal.court",
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          12,
+          21
+        ]
+      ]
+    },
+    "number": "IMM-1570-17",
+    "page": "1187",
+    "language": "fr",
+    "URL": "https://canlii.ca/t/hq0rv",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          5,
+          7
+        ]
+      ]
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {
+        "title": {
+          "en": "Sibanda v. Canada (Immigration, Refugees and Citizenship)"
+        }
+      }
+    },
+    "jurisdiction": "ca",
+    "collection-number": "2017",
+    "language-name": "fr"
+  }
+]
+<<===== INPUT =====<<

@@ -1,0 +1,74 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "BLKVJYVV"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test073
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  <i>Charter of Human Rights and Freedoms</i>, CQLR c C–12.
+FIRST w/LOCATOR
+  <i>Charter of Human Rights and Freedoms</i>, CQLR c C–12, at 123.
+FIRST w/LABEL
+  <i>Charter of Human Rights and Freedoms</i>, CQLR c C–12, at para 123.
+IBID
+  <i>Ibid</i>.
+IBID w/LOCATOR
+  <i>Ibid</i> at 123.
+SUBSEQUENT
+  [CSL STYLE ERROR: reference with no printed form.].
+SUBSEQUENT w/LOCATOR
+  <i>Supra</i> at 123.
+SUBSEQUENT w/BACKREF
+  <i>Supra</i> note 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  <i>Supra</i> note 1 at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry"><i>Charter of Human Rights and Freedoms</i>, CQLR c C–12.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legislation",
+    "title": "Charter of Human Rights and Freedoms",
+    "container-title": "CQLR",
+    "number": "C-12",
+    "language": "en",
+    "URL": "https://canlii.ca/t/x8d",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          5,
+          12
+        ]
+      ]
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {
+        "container-title": {
+          "fr": "RLRQ"
+        },
+        "title": {
+          "fr": "Charte des droits et libertés de la personne"
+        }
+      }
+    },
+    "jurisdiction": "ca:qc",
+    "language-name": "en"
+  }
+]
+<<===== INPUT =====<<

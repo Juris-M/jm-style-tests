@@ -1,0 +1,95 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "UQZ4YCTJ"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test058
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  <i>Delgamuukw v British Columbia</i> (1997), 162 WAC 161, 1997 CanLII 302.
+FIRST w/LOCATOR
+  <i>Delgamuukw v British Columbia</i> (1997), 162 WAC 161 at 123, 1997 CanLII 302.
+FIRST w/LABEL
+  <i>Delgamuukw v British Columbia</i> (1997), 162 WAC 161 at para 123, 1997 CanLII 302.
+IBID
+  <i>Ibid</i>.
+IBID w/LOCATOR
+  <i>Ibid</i> at 123.
+SUBSEQUENT
+  [CSL STYLE ERROR: reference with no printed form.].
+SUBSEQUENT w/LOCATOR
+  <i>Supra</i> at 123.
+SUBSEQUENT w/BACKREF
+  <i>Supra</i> note 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  <i>Supra</i> note 1 at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry"><i>Delgamuukw v British Columbia</i> (1997), 162 WAC 161, 1997 CanLII 302.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_case",
+    "title": "Delgamuukw v. British Columbia",
+    "authority": "supreme.court",
+    "issued": {
+      "date-parts": [
+        [
+          1997,
+          12,
+          11
+        ]
+      ]
+    },
+    "number": "23799",
+    "volume": "162",
+    "page": "161",
+    "language": "en",
+    "URL": "https://canlii.ca/t/1fqz8",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          5,
+          7
+        ]
+      ]
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {
+        "container-title": {
+          "fr": "WAC"
+        },
+        "title": {
+          "fr": "Delgamuukw c. Colombie-Britannique"
+        }
+      }
+    },
+    "archive": "CanLII",
+    "archive_location": "302",
+    "container-title": "WAC",
+    "jurisdiction": "ca",
+    "submitted": {
+      "date-parts": [
+        [
+          1997
+        ]
+      ]
+    },
+    "language-name": "en"
+  }
+]
+<<===== INPUT =====<<

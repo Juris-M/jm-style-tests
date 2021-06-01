@@ -1,0 +1,95 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "FM4ETFHX"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test041
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  <i>Gordon c Goertz</i> (1996), 114 WAC 241, 1996 CanLII 191.
+FIRST w/LOCATOR
+  <i>Gordon c Goertz</i> (1996), 114 WAC 241 at 123, 1996 CanLII 191.
+FIRST w/LABEL
+  <i>Gordon c Goertz</i> (1996), 114 WAC 241 at para 123, 1996 CanLII 191.
+IBID
+  <i>Ibid</i>.
+IBID w/LOCATOR
+  <i>Ibid</i> at 123.
+SUBSEQUENT
+  [CSL STYLE ERROR: reference with no printed form.].
+SUBSEQUENT w/LOCATOR
+  <i>Supra</i> at 123.
+SUBSEQUENT w/BACKREF
+  <i>Supra</i> note 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  <i>Supra</i> note 1 at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry"><i>Gordon c Goertz</i> (1996), 114 WAC 241, 1996 CanLII 191.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_case",
+    "title": "Gordon c. Goertz",
+    "authority": "supreme.court",
+    "issued": {
+      "date-parts": [
+        [
+          1996,
+          5,
+          2
+        ]
+      ]
+    },
+    "number": "24622",
+    "volume": "114",
+    "page": "241",
+    "language": "fr",
+    "URL": "https://canlii.ca/t/1fr98",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          5,
+          7
+        ]
+      ]
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {
+        "container-title": {
+          "en": "WAC"
+        },
+        "title": {
+          "en": "Gordon v. Goertz"
+        }
+      }
+    },
+    "archive": "CanLII",
+    "archive_location": "191",
+    "container-title": "WAC",
+    "jurisdiction": "ca",
+    "submitted": {
+      "date-parts": [
+        [
+          1996
+        ]
+      ]
+    },
+    "language-name": "fr"
+  }
+]
+<<===== INPUT =====<<

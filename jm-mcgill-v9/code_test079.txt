@@ -1,0 +1,56 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "AQGHTTL6"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test079
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Art 447 Cpp.
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "ITEM-1",
+    "type": "legislation",
+    "title": "Code de procédure pénale",
+    "language": "fr",
+    "shortTitle": "Cpp",
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {
+        "title-short": {
+          "en-CA": "CPP"
+        },
+        "title": {
+          "en-CA": "Code of Penal Procedure"
+        }
+      }
+    },
+    "jurisdiction": "ca",
+    "language-name": "fr"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "ITEM-1",
+      "label": "section",
+      "locator": "447"
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

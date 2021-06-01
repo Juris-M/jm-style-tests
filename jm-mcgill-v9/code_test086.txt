@@ -1,0 +1,56 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "2XD6VA4M"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test086
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Art 447 CCQ.
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "ITEM-1",
+    "type": "legislation",
+    "title": "Civil Code of Québec",
+    "language": "en",
+    "shortTitle": "CCQ",
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {
+        "title-short": {
+          "fr-CA": "CcQ"
+        },
+        "title": {
+          "fr-CA": "Code civil du Québec"
+        }
+      }
+    },
+    "jurisdiction": "ca",
+    "language-name": "en"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "ITEM-1",
+      "label": "section",
+      "locator": "447"
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

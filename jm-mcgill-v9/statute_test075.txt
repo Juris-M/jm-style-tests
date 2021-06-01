@@ -1,0 +1,81 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "R95WMAHN"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test075
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  <i>Code criminel</i>, LRC 1985, c C–46.
+FIRST w/LOCATOR
+  <i>Code criminel</i>, LRC 1985, c C–46, at 123.
+FIRST w/LABEL
+  <i>Code criminel</i>, LRC 1985, c C–46, at para 123.
+IBID
+  <i>Ibid</i>.
+IBID w/LOCATOR
+  <i>Ibid</i> at 123.
+SUBSEQUENT
+  [CSL STYLE ERROR: reference with no printed form.].
+SUBSEQUENT w/LOCATOR
+  <i>Supra</i> at 123.
+SUBSEQUENT w/BACKREF
+  <i>Supra</i> note 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  <i>Supra</i> note 1 at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry"><i>Code criminel</i>, LRC 1985, c C–46.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legislation",
+    "title": "Code criminel",
+    "container-title": "LRC",
+    "number": "C-46",
+    "issued": {
+      "date-parts": [
+        [
+          1985
+        ]
+      ]
+    },
+    "language": "fr",
+    "URL": "https://canlii.ca/t/ckjd",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          5,
+          12
+        ]
+      ]
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {
+        "container-title": {
+          "en": "RSC"
+        },
+        "title": {
+          "en": "Criminal Code"
+        }
+      }
+    },
+    "jurisdiction": "ca",
+    "language-name": "fr"
+  }
+]
+<<===== INPUT =====<<

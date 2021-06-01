@@ -1,0 +1,72 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "64FCESDC"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test077
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  <i>Income Tax Act</i>, RSC 1985, c 1 (5th Supp).
+FIRST w/LOCATOR
+  <i>Income Tax Act</i>, RSC 1985, c 1 (5th Supp), at 123.
+FIRST w/LABEL
+  <i>Income Tax Act</i>, RSC 1985, c 1 (5th Supp), at para 123.
+IBID
+  <i>Ibid</i>.
+IBID w/LOCATOR
+  <i>Ibid</i> at 123.
+SUBSEQUENT
+  [CSL STYLE ERROR: reference with no printed form.].
+SUBSEQUENT w/LOCATOR
+  <i>Supra</i> at 123.
+SUBSEQUENT w/BACKREF
+  <i>Supra</i> note 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  <i>Supra</i> note 1 at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry"><i>Income Tax Act</i>, RSC 1985, c 1 (5th Supp).</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legislation",
+    "title": "Income Tax Act",
+    "container-title": "RSC",
+    "volume": "5",
+    "number": "1",
+    "issued": {
+      "date-parts": [
+        [
+          1985
+        ]
+      ]
+    },
+    "language": "en",
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {
+        "container-title": {
+          "fr": "LRC"
+        },
+        "title": {
+          "fr": "Loi de l'impôt sur le revenu"
+        }
+      }
+    },
+    "jurisdiction": "ca",
+    "language-name": "en"
+  }
+]
+<<===== INPUT =====<<

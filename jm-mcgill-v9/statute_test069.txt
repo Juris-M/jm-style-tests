@@ -1,0 +1,81 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "4MLD4N6X"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test069
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  <i>Loi canadienne sur l’Accessibilité</i>, LC 2019, c 10.
+FIRST w/LOCATOR
+  <i>Loi canadienne sur l’Accessibilité</i>, LC 2019, c 10, at 123.
+FIRST w/LABEL
+  <i>Loi canadienne sur l’Accessibilité</i>, LC 2019, c 10, at para 123.
+IBID
+  <i>Ibid</i>.
+IBID w/LOCATOR
+  <i>Ibid</i> at 123.
+SUBSEQUENT
+  [CSL STYLE ERROR: reference with no printed form.].
+SUBSEQUENT w/LOCATOR
+  <i>Supra</i> at 123.
+SUBSEQUENT w/BACKREF
+  <i>Supra</i> note 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  <i>Supra</i> note 1 at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry"><i>Loi canadienne sur l’Accessibilité</i>, LC 2019, c 10.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legislation",
+    "title": "Loi canadienne sur l'Accessibilité",
+    "container-title": "LC",
+    "number": "10",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "language": "fr",
+    "URL": "https://canlii.ca/t/f6jp",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          5,
+          12
+        ]
+      ]
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {
+        "container-title": {
+          "en": "SC"
+        },
+        "title": {
+          "en": "Accessible Canada Act"
+        }
+      }
+    },
+    "jurisdiction": "ca",
+    "language-name": "fr"
+  }
+]
+<<===== INPUT =====<<

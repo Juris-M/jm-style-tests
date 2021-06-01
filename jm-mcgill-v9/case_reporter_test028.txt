@@ -1,0 +1,95 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "U6Q349AW"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test028
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  <i>Université du Québec à Trois-Rivières v Larocque</i> (1993), 53 QAC 171, 1993 CanLII 162.
+FIRST w/LOCATOR
+  <i>Université du Québec à Trois-Rivières v Larocque</i> (1993), 53 QAC 171 at 123, 1993 CanLII 162.
+FIRST w/LABEL
+  <i>Université du Québec à Trois-Rivières v Larocque</i> (1993), 53 QAC 171 at para 123, 1993 CanLII 162.
+IBID
+  <i>Ibid</i>.
+IBID w/LOCATOR
+  <i>Ibid</i> at 123.
+SUBSEQUENT
+  [CSL STYLE ERROR: reference with no printed form.].
+SUBSEQUENT w/LOCATOR
+  <i>Supra</i> at 123.
+SUBSEQUENT w/BACKREF
+  <i>Supra</i> note 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  <i>Supra</i> note 1 at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry"><i>Université du Québec à Trois-Rivières v Larocque</i> (1993), 53 QAC 171, 1993 CanLII 162.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_case",
+    "title": "Université du Québec à Trois-Rivières v. Larocque",
+    "authority": "supreme.court",
+    "issued": {
+      "date-parts": [
+        [
+          1993,
+          2,
+          25
+        ]
+      ]
+    },
+    "number": "22146",
+    "volume": "53",
+    "page": "171",
+    "language": "en",
+    "URL": "https://canlii.ca/t/1fs4l",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          5,
+          7
+        ]
+      ]
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {
+        "container-title": {
+          "fr": "CAQ"
+        },
+        "title": {
+          "fr": "Université du Québec à Trois-Rivières c. Larocque"
+        }
+      }
+    },
+    "archive": "CanLII",
+    "archive_location": "162",
+    "container-title": "QAC",
+    "jurisdiction": "ca",
+    "submitted": {
+      "date-parts": [
+        [
+          1993
+        ]
+      ]
+    },
+    "language-name": "en"
+  }
+]
+<<===== INPUT =====<<
