@@ -1,0 +1,78 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "MPFHZGUP"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test117
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  Sénat, Comité sénatorial permanent des langues officielles, <i>La modernisation de la Loi sur les langues officielles: La perspective des personnes qui ont été témoins de l’évolution de la Loi</i>, 42:1, No 11, (February 2019) (Chair: René Cormier).
+FIRST w/LOCATOR
+  Sénat, Comité sénatorial permanent des langues officielles, <i>La modernisation de la Loi sur les langues officielles: La perspective des personnes qui ont été témoins de l’évolution de la Loi</i>, 42:1, No 11, (February 2019) (Chair: René Cormier) at 123.
+FIRST w/LABEL
+  Sénat, Comité sénatorial permanent des langues officielles, <i>La modernisation de la Loi sur les langues officielles: La perspective des personnes qui ont été témoins de l’évolution de la Loi</i>, 42:1, No 11, (February 2019) (Chair: René Cormier) at para 123.
+IBID
+  <i>Ibid</i>.
+IBID w/LOCATOR
+  <i>Ibid</i> at 123.
+SUBSEQUENT
+  Comité sénatorial permanent des langues officielles, <i>supra</i> note.
+SUBSEQUENT w/LOCATOR
+  Comité sénatorial permanent des langues officielles, <i>supra</i> note at 123.
+SUBSEQUENT w/BACKREF
+  Comité sénatorial permanent des langues officielles, <i>supra</i> note 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  Comité sénatorial permanent des langues officielles, <i>supra</i> note 1 at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Sénat, Comité sénatorial permanent des langues officielles, <i>La modernisation de la Loi sur les langues officielles: La perspective des personnes qui ont été témoins de l’évolution de la Loi</i>, 42:1, No 11, (February 2019) (Chair: René Cormier).</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "report",
+    "title": "La modernisation de la Loi sur les langues officielles : La perspective des personnes qui ont été témoins de l'évolution de la Loi",
+    "collection-editor": [
+      {
+        "given": "René",
+        "family": "Cormier"
+      }
+    ],
+    "author": [
+      {
+        "literal": "Comité sénatorial permanent des langues officielles"
+      }
+    ],
+    "number": "11",
+    "genre": "Rapport provisoire",
+    "publisher-place": "Ottawa",
+    "issued": {
+      "raw": "02-2019"
+    },
+    "page": "63",
+    "language": "fr",
+    "URL": "https://tinyurl.com/n26r9xnw",
+    "call-number": "YC34-0/421-11F-PDF",
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "jurisdiction": "ca",
+    "collection-number": "42:1",
+    "authority": "Sénat",
+    "committee": "Comité sénatorial permanent des langues officielles",
+    "language-name": "fr"
+  }
+]
+<<===== INPUT =====<<

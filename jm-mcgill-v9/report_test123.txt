@@ -1,0 +1,59 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "TPH3T4AT"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test123
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  Commissariat aux langues officielles du Nouveau-Brunswick, <i>Rapport annuel 2018-2019</i> (Fredericton: CLONB, 2019).
+FIRST w/LOCATOR
+  Commissariat aux langues officielles du Nouveau-Brunswick, <i>Rapport annuel 2018-2019</i> (Fredericton: CLONB, 2019) at 123.
+FIRST w/LABEL
+  Commissariat aux langues officielles du Nouveau-Brunswick, <i>Rapport annuel 2018-2019</i> (Fredericton: CLONB, 2019) at para 123.
+IBID
+  <i>Ibid</i>.
+IBID w/LOCATOR
+  <i>Ibid</i> at 123.
+SUBSEQUENT
+  [CSL STYLE ERROR: reference with no printed form.].
+SUBSEQUENT w/LOCATOR
+  <i>supra</i> note at 123.
+SUBSEQUENT w/BACKREF
+  <i>supra</i> note 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  <i>supra</i> note 1 at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Commissariat aux langues officielles du Nouveau-Brunswick, <i>Rapport annuel 2018-2019</i> (Fredericton: CLONB, 2019).</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "report",
+    "title": "Rapport annuel 2018-2019",
+    "publisher-place": "Fredericton",
+    "issued": {
+      "raw": "10-2019"
+    },
+    "URL": "https://tinyurl.com/yxfumpyj",
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "publisher": "CLONB",
+    "authority": "Commissariat aux langues officielles du Nouveau-Brunswick"
+  }
+]
+<<===== INPUT =====<<

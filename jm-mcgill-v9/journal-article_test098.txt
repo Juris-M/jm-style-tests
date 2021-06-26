@@ -1,0 +1,72 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "35YEEDEN"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Cet article s&#8217;int&#233;resse aux communaut&#
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  Wim Remysen, “Les communautés francophones dans les provinces majoritairement anglophones du Canada: aperçu et enjeux” (2019) 78:1 Travaux linguistique 15.
+FIRST w/LOCATOR
+  Wim Remysen, “Les communautés francophones dans les provinces majoritairement anglophones du Canada: aperçu et enjeux” (2019) 78:1 Travaux linguistique 15 at 123.
+FIRST w/LABEL
+  Wim Remysen, “Les communautés francophones dans les provinces majoritairement anglophones du Canada: aperçu et enjeux” (2019) 78:1 Travaux linguistique 15 at para 123.
+IBID
+  <i>Ibid</i>.
+IBID w/LOCATOR
+  <i>Ibid</i> at 123.
+SUBSEQUENT
+  Remysen, <i>supra</i> note.
+SUBSEQUENT w/LOCATOR
+  Remysen, <i>supra</i> note at 123.
+SUBSEQUENT w/BACKREF
+  Remysen, <i>supra</i> note 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  Remysen, <i>supra</i> note 1 at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Remysen, Wim, “Les communautés francophones dans les provinces majoritairement anglophones du Canada: aperçu et enjeux” (2019) 78:1 Travaux linguistique 15.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "article-journal",
+    "title": "Les communautés francophones dans les provinces majoritairement anglophones du Canada : aperçu et enjeux",
+    "author": [
+      {
+        "given": "Wim",
+        "family": "Remysen"
+      }
+    ],
+    "container-title": "Travaux de linguistique",
+    "volume": "78",
+    "issue": "1",
+    "page": "15-45",
+    "issued": {
+      "raw": "2019-10-22"
+    },
+    "journalAbbreviation": "Travaux linguistique",
+    "language": "fr",
+    "ISSN": "0082-6049",
+    "URL": "https://www.cairn.info/revue-travaux-de-linguistique-2019-1-page-15.htm",
+    "accessed": {
+      "raw": "2021-06-23"
+    },
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "language-name": "fr"
+  }
+]
+<<===== INPUT =====<<

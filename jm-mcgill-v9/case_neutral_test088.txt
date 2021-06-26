@@ -4,21 +4,21 @@ all
 
 >>===== KEYS =====>>
 [
-  "IBL3AQZB"
+  "U3VRZAYQ"
 ]
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-should pass test style_test090
+should pass test style_test088
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
 FIRST
-  <i>Criminal Code</i>, RSC 1985, c C–46.
+  <i>R v HSB</i>, 2008 SCC 52.
 FIRST w/LOCATOR
-  <i>Criminal Code</i>, RSC 1985, c C–46, at 123.
+  <i>R v HSB</i>, 2008 SCC 52 at 123.
 FIRST w/LABEL
-  <i>Criminal Code</i>, RSC 1985, c C–46, at para 123.
+  <i>R v HSB</i>, 2008 SCC 52 at para 123.
 IBID
   <i>Ibid</i>.
 IBID w/LOCATOR
@@ -33,32 +33,35 @@ SUBSEQUENT w/BACKREF+LOCATOR
   <i>Supra</i> note 1 at 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry"><i>Criminal Code</i>, RSC 1985, c C–46.</div>
+  <div class="csl-entry"><i>R v HSB</i>, 2008 SCC 52.</div>
 </div>
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>
 [
   {
-    "type": "legislation",
-    "title": "Criminal Code",
-    "container-title": "RSC",
-    "number": "C-46",
+    "type": "legal_case",
+    "title": "R. v. H.S.B.",
+    "authority": "supreme.court",
     "issued": {
       "date-parts": [
         [
-          1985
+          2008,
+          10,
+          2
         ]
       ]
     },
+    "number": "32046",
+    "page": "52",
     "language": "en",
-    "URL": "https://canlii.ca/t/7vf2",
+    "URL": "https://canlii.ca/t/20xmb",
     "accessed": {
       "date-parts": [
         [
           2021,
-          5,
-          12
+          6,
+          3
         ]
       ]
     },
@@ -66,15 +69,13 @@ BIBLIOGRAPHY
     "multi": {
       "main": {},
       "_keys": {
-        "container-title": {
-          "fr": "LRC"
-        },
         "title": {
-          "fr": "Code criminel"
+          "fr": "R. c. H.S.B."
         }
       }
     },
     "jurisdiction": "ca",
+    "collection-number": "2008",
     "language-name": "en"
   }
 ]

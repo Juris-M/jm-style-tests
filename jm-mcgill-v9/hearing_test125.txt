@@ -1,0 +1,77 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "9QYNCXWA"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test125
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  “Projet de loi S-32, Loi modifiant la Loi sur les langues officielles (promotion du français et de l’anglais”, Sénat, Comité sénatorial permanent des Affaires juridiques et constitutionnelles, <i>Témoignages</i>, No 27 (6 March 2002) (Hon Warren J Newman).
+FIRST w/LOCATOR
+  “Projet de loi S-32, Loi modifiant la Loi sur les langues officielles (promotion du français et de l’anglais”, Sénat, Comité sénatorial permanent des Affaires juridiques et constitutionnelles, <i>Témoignages</i>, No 27 (6 March 2002) page 123 (Hon Warren J Newman).
+FIRST w/LABEL
+  “Projet de loi S-32, Loi modifiant la Loi sur les langues officielles (promotion du français et de l’anglais”, Sénat, Comité sénatorial permanent des Affaires juridiques et constitutionnelles, <i>Témoignages</i>, No 27 (6 March 2002) paragraph 123 (Hon Warren J Newman).
+IBID
+  <i>Ibid</i>.
+IBID w/LOCATOR
+  <i>Ibid</i> at 123.
+SUBSEQUENT
+  [CSL STYLE ERROR: reference with no printed form.].
+SUBSEQUENT w/LOCATOR
+  <i>Supra</i> at 123.
+SUBSEQUENT w/BACKREF
+  <i>Supra</i> note 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  <i>Supra</i> note 1 at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">“Projet de loi S-32, Loi modifiant la Loi sur les langues officielles (promotion du français et de l’anglais”, Sénat, Comité sénatorial permanent des Affaires juridiques et constitutionnelles, <i>Témoignages</i>, No 27 (6 March 2002).</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "hearing",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "authority": "Sénat",
+    "chapter-number": "37-1",
+    "event": "Projet de loi S-32, Loi modifiant la Loi sur les langues officielles (promotion du français et de l’anglais",
+    "language": "fr",
+    "title": "Témoignages",
+    "document-number": "27",
+    "jurisdiction": "ca",
+    "committee": "Comité sénatorial permanent des Affaires juridiques et constitutionnelles",
+    "author": [
+      {
+        "family": "Newman",
+        "given": "Hon Warren J",
+        "multi": {
+          "_key": {}
+        }
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2002",
+          3,
+          6
+        ]
+      ]
+    },
+    "language-name": "fr"
+  }
+]
+<<===== INPUT =====<<

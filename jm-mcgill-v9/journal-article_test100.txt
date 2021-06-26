@@ -1,0 +1,72 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "3HT6HWGE"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+This paper presents a framework for what we consid
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  Libby Lee-Hammond &#38; Elizabeth Jackson-Barrett, “Indigenous Children’s Linguistic Rights in the 21st Century: Intentions and Tensions in Practice” (2019) 51:3 Intl J Early Childhood 301.
+FIRST w/LOCATOR
+  Libby Lee-Hammond &#38; Elizabeth Jackson-Barrett, “Indigenous Children’s Linguistic Rights in the 21st Century: Intentions and Tensions in Practice” (2019) 51:3 Intl J Early Childhood 301 at 123.
+FIRST w/LABEL
+  Libby Lee-Hammond &#38; Elizabeth Jackson-Barrett, “Indigenous Children’s Linguistic Rights in the 21st Century: Intentions and Tensions in Practice” (2019) 51:3 Intl J Early Childhood 301 at para 123.
+IBID
+  <i>Ibid</i>.
+IBID w/LOCATOR
+  <i>Ibid</i> at 123.
+SUBSEQUENT
+  Lee-Hammond &#38; Jackson-Barrett, <i>supra</i> note.
+SUBSEQUENT w/LOCATOR
+  Lee-Hammond &#38; Jackson-Barrett, <i>supra</i> note at 123.
+SUBSEQUENT w/BACKREF
+  Lee-Hammond &#38; Jackson-Barrett, <i>supra</i> note 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  Lee-Hammond &#38; Jackson-Barrett, <i>supra</i> note 1 at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Lee-Hammond, Libby &#38; Elizabeth Jackson-Barrett, “Indigenous Children’s Linguistic Rights in the 21st Century: Intentions and Tensions in Practice” (2019) 51:3 Intl J Early Childhood 301.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "article-journal",
+    "title": "Indigenous Children’s Linguistic Rights in the 21st Century: Intentions and Tensions in Practice",
+    "author": [
+      {
+        "given": "Libby",
+        "family": "Lee-Hammond"
+      },
+      {
+        "given": "Elizabeth",
+        "family": "Jackson-Barrett"
+      }
+    ],
+    "container-title": "International Journal of Early Childhood",
+    "volume": "51",
+    "issue": "3",
+    "page": "301-318",
+    "issued": {
+      "raw": "novembre 1, 2019"
+    },
+    "journalAbbreviation": "Intl J Early Childhood",
+    "DOI": "10.1007/s13158-019-00251-6",
+    "ISSN": "1878-4658",
+    "URL": "https://doi.org/10.1007/s13158-019-00251-6",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<

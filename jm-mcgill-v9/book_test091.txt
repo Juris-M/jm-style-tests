@@ -1,0 +1,71 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "679ERT7R"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test091
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  Cecilio Lapresta-Rey &#38; Dr Ángel Huguet, <i>Multilingualism in European Language Education</i> (Blue Ridge Summit: Channel View Publications, 2019).
+FIRST w/LOCATOR
+  Cecilio Lapresta-Rey &#38; Dr Ángel Huguet, <i>Multilingualism in European Language Education</i> (Blue Ridge Summit: Channel View Publications, 2019) at 123.
+FIRST w/LABEL
+  Cecilio Lapresta-Rey &#38; Dr Ángel Huguet, <i>Multilingualism in European Language Education</i> (Blue Ridge Summit: Channel View Publications, 2019) at para 123.
+IBID
+  <i>Ibid</i>.
+IBID w/LOCATOR
+  <i>Ibid</i> at 123.
+SUBSEQUENT
+  Lapresta-Rey &#38; Huguet, <i>supra</i> note.
+SUBSEQUENT w/LOCATOR
+  Lapresta-Rey &#38; Huguet, <i>supra</i> note at 123.
+SUBSEQUENT w/BACKREF
+  Lapresta-Rey &#38; Huguet, <i>supra</i> note 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  Lapresta-Rey &#38; Huguet, <i>supra</i> note 1 at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Lapresta-Rey, Cecilio &#38; Dr Ángel Huguet, <i>Multilingualism in European Language Education</i> (Blue Ridge Summit: Channel View Publications, 2019).</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "book",
+    "title": "Multilingualism in European Language Education",
+    "author": [
+      {
+        "given": "Cecilio",
+        "family": "Lapresta-Rey"
+      },
+      {
+        "given": "Dr Ángel",
+        "family": "Huguet"
+      }
+    ],
+    "publisher-place": "Blue Ridge Summit",
+    "publisher": "Channel View Publications",
+    "issued": {
+      "raw": "2019-05-09"
+    },
+    "number-of-pages": "242",
+    "language": "en",
+    "ISBN": "978-1-78892-332-3",
+    "source": "Google Books",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "language-name": "en"
+  }
+]
+<<===== INPUT =====<<

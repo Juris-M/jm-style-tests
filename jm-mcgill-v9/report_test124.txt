@@ -1,0 +1,62 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "TFXSNTV4"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test124
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  Secrétariat du Conseil du Trésor du Canada, <i>Rapport annuel sur les langues officielles 2017-2018</i> (Ottawa: Sa Majesté la Reine du chef du Canada, représentée par le président du Conseil du Trésor, 2019).
+FIRST w/LOCATOR
+  Secrétariat du Conseil du Trésor du Canada, <i>Rapport annuel sur les langues officielles 2017-2018</i> (Ottawa: Sa Majesté la Reine du chef du Canada, représentée par le président du Conseil du Trésor, 2019) at 123.
+FIRST w/LABEL
+  Secrétariat du Conseil du Trésor du Canada, <i>Rapport annuel sur les langues officielles 2017-2018</i> (Ottawa: Sa Majesté la Reine du chef du Canada, représentée par le président du Conseil du Trésor, 2019) at para 123.
+IBID
+  <i>Ibid</i>.
+IBID w/LOCATOR
+  <i>Ibid</i> at 123.
+SUBSEQUENT
+  [CSL STYLE ERROR: reference with no printed form.].
+SUBSEQUENT w/LOCATOR
+  <i>supra</i> note at 123.
+SUBSEQUENT w/BACKREF
+  <i>supra</i> note 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  <i>supra</i> note 1 at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Secrétariat du Conseil du Trésor du Canada, <i>Rapport annuel sur les langues officielles 2017-2018</i> (Ottawa: Sa Majesté la Reine du chef du Canada, représentée par le président du Conseil du Trésor, 2019).</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "report",
+    "title": "Rapport annuel sur les langues officielles 2017-2018",
+    "publisher-place": "Ottawa",
+    "issued": {
+      "raw": "2019"
+    },
+    "language": "fr",
+    "URL": "https://publications.gc.ca/collections/collection_2019/sct-tbs/BT23-1-2018-fra.pdf",
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "publisher": "Sa Majesté la Reine du chef du Canada, représentée par le président du Conseil du Trésor",
+    "jurisdiction": "ca",
+    "authority": "Secrétariat du Conseil du Trésor du Canada",
+    "language-name": "fr"
+  }
+]
+<<===== INPUT =====<<

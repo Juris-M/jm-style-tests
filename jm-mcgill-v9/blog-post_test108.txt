@@ -1,0 +1,65 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "R6J3EFNA"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test108
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  Érik Labelle Eastaugh, “La nécessité de modifier la Partie VII de la Loi sur les langues officielles du Canada,” (19 April 2019), en ligne (blog) : <i>Blogue sur les droits linguistiques</i> &#60;www.droitslinguistiques.ca/fr/blogue&#62; [https://tinyurl.com/y8skydtd].
+FIRST w/LOCATOR
+  Érik Labelle Eastaugh, “La nécessité de modifier la Partie VII de la Loi sur les langues officielles du Canada,” (19 April 2019), en ligne (blog) : <i>Blogue sur les droits linguistiques</i> &#60;www.droitslinguistiques.ca/fr/blogue&#62; [https://tinyurl.com/y8skydtd] at 123.
+FIRST w/LABEL
+  Érik Labelle Eastaugh, “La nécessité de modifier la Partie VII de la Loi sur les langues officielles du Canada,” (19 April 2019), en ligne (blog) : <i>Blogue sur les droits linguistiques</i> &#60;www.droitslinguistiques.ca/fr/blogue&#62; [https://tinyurl.com/y8skydtd] at para 123.
+IBID
+  <i>Ibid</i>.
+IBID w/LOCATOR
+  <i>Ibid</i> at 123.
+SUBSEQUENT
+  Eastaugh, <i>supra</i> note.
+SUBSEQUENT w/LOCATOR
+  Eastaugh, <i>supra</i> note at 123.
+SUBSEQUENT w/BACKREF
+  Eastaugh, <i>supra</i> note 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  Eastaugh, <i>supra</i> note 1 at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Eastaugh, Érik Labelle, “La nécessité de modifier la Partie VII de la Loi sur les langues officielles du Canada,” (19 April 2019), en ligne (blog) : <i>Blogue sur les droits linguistiques</i> &#60;www.droitslinguistiques.ca/fr/blogue&#62; [https://tinyurl.com/y8skydtd].</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "post-weblog",
+    "title": "La nécessité de modifier la Partie VII de la Loi sur les langues officielles du Canada",
+    "author": [
+      {
+        "given": "Érik Labelle",
+        "family": "Eastaugh"
+      }
+    ],
+    "container-title": "Blogue sur les droits linguistiques",
+    "genre": "www.droitslinguistiques.ca/fr/blogue",
+    "issued": {
+      "raw": "19-04-2019"
+    },
+    "URL": "https://tinyurl.com/y8skydtd",
+    "language": "fr",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "language-name": "fr"
+  }
+]
+<<===== INPUT =====<<

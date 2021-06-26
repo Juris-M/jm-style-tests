@@ -1,0 +1,65 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "3ACJLBLY"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test110
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  Eric Forgues, “Le respect des droits linguistiques à l’épreuve du « bon sens », le cas d’Ambulance Nouveau-Brunswick,” (1 September 2019), en ligne (blog) : <i>Blogue sur les droits linguistiques</i> &#60;www.droitslinguistiques.ca/fr/blogue&#62; [https://tinyurl.com/y9be54bq].
+FIRST w/LOCATOR
+  Eric Forgues, “Le respect des droits linguistiques à l’épreuve du « bon sens », le cas d’Ambulance Nouveau-Brunswick,” (1 September 2019), en ligne (blog) : <i>Blogue sur les droits linguistiques</i> &#60;www.droitslinguistiques.ca/fr/blogue&#62; [https://tinyurl.com/y9be54bq] at 123.
+FIRST w/LABEL
+  Eric Forgues, “Le respect des droits linguistiques à l’épreuve du « bon sens », le cas d’Ambulance Nouveau-Brunswick,” (1 September 2019), en ligne (blog) : <i>Blogue sur les droits linguistiques</i> &#60;www.droitslinguistiques.ca/fr/blogue&#62; [https://tinyurl.com/y9be54bq] at para 123.
+IBID
+  <i>Ibid</i>.
+IBID w/LOCATOR
+  <i>Ibid</i> at 123.
+SUBSEQUENT
+  Forgues, <i>supra</i> note.
+SUBSEQUENT w/LOCATOR
+  Forgues, <i>supra</i> note at 123.
+SUBSEQUENT w/BACKREF
+  Forgues, <i>supra</i> note 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  Forgues, <i>supra</i> note 1 at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Forgues, Eric, “Le respect des droits linguistiques à l’épreuve du « bon sens », le cas d’Ambulance Nouveau-Brunswick,” (1 September 2019), en ligne (blog) : <i>Blogue sur les droits linguistiques</i> &#60;www.droitslinguistiques.ca/fr/blogue&#62; [https://tinyurl.com/y9be54bq].</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "post-weblog",
+    "title": "Le respect des droits linguistiques à l’épreuve du « bon sens », le cas d’Ambulance Nouveau-Brunswick",
+    "author": [
+      {
+        "given": "Eric",
+        "family": "Forgues"
+      }
+    ],
+    "container-title": "Blogue sur les droits linguistiques",
+    "genre": "www.droitslinguistiques.ca/fr/blogue",
+    "issued": {
+      "raw": "09-01-2019"
+    },
+    "URL": "https://tinyurl.com/y9be54bq",
+    "language": "fr",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "language-name": "fr"
+  }
+]
+<<===== INPUT =====<<

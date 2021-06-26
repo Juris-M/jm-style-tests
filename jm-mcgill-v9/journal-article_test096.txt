@@ -1,0 +1,73 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "ZU9DF7RG"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Using different time frames or time scales, such a
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  Marcel Martel, “The 1969 Official Languages Act: A Turning Point, but for Whom?” (2019) 100:2 Can Historial Rev 208.
+FIRST w/LOCATOR
+  Marcel Martel, “The 1969 Official Languages Act: A Turning Point, but for Whom?” (2019) 100:2 Can Historial Rev 208 at 123.
+FIRST w/LABEL
+  Marcel Martel, “The 1969 Official Languages Act: A Turning Point, but for Whom?” (2019) 100:2 Can Historial Rev 208 at para 123.
+IBID
+  <i>Ibid</i>.
+IBID w/LOCATOR
+  <i>Ibid</i> at 123.
+SUBSEQUENT
+  Martel, <i>supra</i> note.
+SUBSEQUENT w/LOCATOR
+  Martel, <i>supra</i> note at 123.
+SUBSEQUENT w/BACKREF
+  Martel, <i>supra</i> note 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  Martel, <i>supra</i> note 1 at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Martel, Marcel, “The 1969 Official Languages Act: A Turning Point, but for Whom?” (2019) 100:2 Can Historial Rev 208.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "article-journal",
+    "title": "The 1969 Official Languages Act: A Turning Point, but for Whom?",
+    "author": [
+      {
+        "given": "Marcel",
+        "family": "Martel"
+      }
+    ],
+    "container-title": "Canadian Historical Review",
+    "volume": "100",
+    "issue": "2",
+    "page": "208-222",
+    "issued": {
+      "raw": "05/2019"
+    },
+    "journalAbbreviation": "Can Historial Rev",
+    "language": "en",
+    "DOI": "10.3138/chr.2018-0082-1",
+    "ISSN": "0008-3755, 1710-1093",
+    "URL": "https://utpjournals.press/doi/10.3138/chr.2018-0082-1",
+    "accessed": {
+      "raw": "2020-07-16"
+    },
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "language-name": "en"
+  }
+]
+<<===== INPUT =====<<

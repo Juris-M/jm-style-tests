@@ -1,0 +1,74 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "LJ2ZIN6K"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test107
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  Christine C Paulin, “Comment faire «worker out» la délibération publique dans un contexte de rapports linguistiques complexes: spécificités des instruments délibératifs au Nouveau-Brunswick” (2019) 62:2 Administration publique Can 225.
+FIRST w/LOCATOR
+  Christine C Paulin, “Comment faire «worker out» la délibération publique dans un contexte de rapports linguistiques complexes: spécificités des instruments délibératifs au Nouveau-Brunswick” (2019) 62:2 Administration publique Can 225 at 123.
+FIRST w/LABEL
+  Christine C Paulin, “Comment faire «worker out» la délibération publique dans un contexte de rapports linguistiques complexes: spécificités des instruments délibératifs au Nouveau-Brunswick” (2019) 62:2 Administration publique Can 225 at para 123.
+IBID
+  <i>Ibid</i>.
+IBID w/LOCATOR
+  <i>Ibid</i> at 123.
+SUBSEQUENT
+  Paulin, <i>supra</i> note.
+SUBSEQUENT w/LOCATOR
+  Paulin, <i>supra</i> note at 123.
+SUBSEQUENT w/BACKREF
+  Paulin, <i>supra</i> note 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  Paulin, <i>supra</i> note 1 at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Paulin, Christine C, “Comment faire «worker out» la délibération publique dans un contexte de rapports linguistiques complexes: spécificités des instruments délibératifs au Nouveau-Brunswick” (2019) 62:2 Administration publique Can 225.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "article-journal",
+    "title": "Comment faire «worker out» la délibération publique dans un contexte de rapports linguistiques complexes: spécificités des instruments délibératifs au Nouveau-Brunswick",
+    "author": [
+      {
+        "given": "Christine C.",
+        "family": "Paulin"
+      }
+    ],
+    "container-title": "Administration publique du Canada",
+    "volume": "62",
+    "issue": "2",
+    "page": "225-248",
+    "issued": {
+      "raw": "2019"
+    },
+    "journalAbbreviation": "Administration publique Can",
+    "language": "fr",
+    "DOI": "https://doi.org/10.1111/capa.12322",
+    "ISSN": "1754-7121",
+    "URL": "https://onlinelibrary.wiley.com/doi/abs/10.1111/capa.12322",
+    "accessed": {
+      "raw": "2021-06-23"
+    },
+    "source": "Wiley Online Library",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "language-name": "fr"
+  }
+]
+<<===== INPUT =====<<
