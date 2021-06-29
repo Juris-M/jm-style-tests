@@ -1,0 +1,69 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "WIQ6F3TB"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+La commissaire aux langues officielles intervient 
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  Pascal Raiche-Nogue, “Langues officielles: Blaine Higgs rappelé à l’ordre par la commissaire,” <i>Acadie Nouvelle</i> (7 April 2020) online : &#60;www.acadienouvelle.com&#62;, [https://www.acadienouvelle.com/actualites/2020/04/07/langues-officielles-blaine-higgs-rappele-a-lordre-par-la-commissaire/].
+FIRST w/LOCATOR
+  Pascal Raiche-Nogue, “Langues officielles: Blaine Higgs rappelé à l’ordre par la commissaire,” <i>Acadie Nouvelle</i> (7 April 2020) at 123 online : &#60;www.acadienouvelle.com&#62;, [https://www.acadienouvelle.com/actualites/2020/04/07/langues-officielles-blaine-higgs-rappele-a-lordre-par-la-commissaire/].
+FIRST w/LABEL
+  Pascal Raiche-Nogue, “Langues officielles: Blaine Higgs rappelé à l’ordre par la commissaire,” <i>Acadie Nouvelle</i> (7 April 2020) at para 123 online : &#60;www.acadienouvelle.com&#62;, [https://www.acadienouvelle.com/actualites/2020/04/07/langues-officielles-blaine-higgs-rappele-a-lordre-par-la-commissaire/].
+IBID
+  <i>Ibid</i>.
+IBID w/LOCATOR
+  <i>Ibid</i> at 123.
+SUBSEQUENT
+  Raiche-Nogue, <i>supra</i> note.
+SUBSEQUENT w/LOCATOR
+  Raiche-Nogue, <i>supra</i> note at 123.
+SUBSEQUENT w/BACKREF
+  Raiche-Nogue, <i>supra</i> note 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  Raiche-Nogue, <i>supra</i> note 1 at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Raiche-Nogue, Pascal, “Langues officielles: Blaine Higgs rappelé à l’ordre par la commissaire,” <i>Acadie Nouvelle</i> (7 April 2020).</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "article-newspaper",
+    "title": "Langues officielles: Blaine Higgs rappelé à l’ordre par la commissaire",
+    "author": [
+      {
+        "given": "Pascal",
+        "family": "Raiche-Nogue"
+      }
+    ],
+    "container-title": "Acadie Nouvelle",
+    "issued": {
+      "raw": "2020-04-07T16:31:59+00:00"
+    },
+    "language": "fr-FR",
+    "shortTitle": "Langues officielles",
+    "URL": "https://www.acadienouvelle.com/actualites/2020/04/07/langues-officielles-blaine-higgs-rappele-a-lordre-par-la-commissaire/",
+    "accessed": {
+      "raw": "2020-06-18"
+    },
+    "source": "www.acadienouvelle.com",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "language-name": "fr-fr"
+  }
+]
+<<===== INPUT =====<<
