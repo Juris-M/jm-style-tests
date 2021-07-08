@@ -36,7 +36,7 @@ BIBLIOGRAPHY
       }
     ],
     "authority": "ag",
-    "number": "Rs C-237/15 PPU",
+    "number": "C-237/15 PPU",
     "issued": {
       "date-parts": [
         [

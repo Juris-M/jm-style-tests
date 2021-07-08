@@ -31,7 +31,7 @@ BIBLIOGRAPHY
     "type": "legal_case",
     "title": "Kom/DE",
     "authority": "ecj",
-    "number": "Rs 178/84",
+    "number": "178/84",
     "issued": {
       "date-parts": [
         [

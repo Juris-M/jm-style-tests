@@ -33,7 +33,7 @@ BIBLIOGRAPHY
     "type": "legal_case",
     "title": "Minister Finansov/Aspiro SA",
     "authority": "ecj",
-    "number": "Rs C-40/15",
+    "number": "C-40/15",
     "page": "263",
     "issued": {
       "date-parts": [
@@ -76,7 +76,7 @@ BIBLIOGRAPHY
     "type": "legal_case",
     "title": "Minister Finansov/Aspiro SA",
     "authority": "ecj",
-    "number": "Rs C-40/15",
+    "number": "C-40/15",
     "page": "703",
     "issued": {
       "date-parts": [
