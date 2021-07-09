@@ -53,7 +53,6 @@ BIBLIOGRAPHY
       "raw": "2020-04-07T16:31:59+00:00"
     },
     "language": "fr-FR",
-    "shortTitle": "Langues officielles",
     "URL": "https://www.acadienouvelle.com/actualites/2020/04/07/langues-officielles-blaine-higgs-rappele-a-lordre-par-la-commissaire/",
     "accessed": {
       "raw": "2020-06-18"

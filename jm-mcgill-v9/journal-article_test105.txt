@@ -14,23 +14,23 @@ Ce texte présente les résultats d’une étude longit
 
 >>===== RESULT =====>>
 FIRST
-  Jules Rocque, “Increasing the English-Language Content on Francophone Minority School Boards’ Websites in Canada: A Longitudinal Study (2008-2016) in Support of Non-Frenchspeaking Parents and Guardians” (2019) 54:3 R sciences éducation U McGill 542.
+  Jules Rocque, “Increasing the English-Language Content on Francophone Minority School Boards’ Websites in Canada: A Longitudinal Study (2008-2016) in Support of Non-Frenchspeaking Parents and Guardians” (2019) 54:3 R sciences éducation U McGill 542 [<i>Increasing the English-Language Content on Francophone Minority School Boards’ Websites in Canada</i>].
 FIRST w/LOCATOR
-  Jules Rocque, “Increasing the English-Language Content on Francophone Minority School Boards’ Websites in Canada: A Longitudinal Study (2008-2016) in Support of Non-Frenchspeaking Parents and Guardians” (2019) 54:3 R sciences éducation U McGill 542 at 123.
+  Jules Rocque, “Increasing the English-Language Content on Francophone Minority School Boards’ Websites in Canada: A Longitudinal Study (2008-2016) in Support of Non-Frenchspeaking Parents and Guardians” (2019) 54:3 R sciences éducation U McGill 542 at 123 [<i>Increasing the English-Language Content on Francophone Minority School Boards’ Websites in Canada</i>].
 FIRST w/LABEL
-  Jules Rocque, “Increasing the English-Language Content on Francophone Minority School Boards’ Websites in Canada: A Longitudinal Study (2008-2016) in Support of Non-Frenchspeaking Parents and Guardians” (2019) 54:3 R sciences éducation U McGill 542 at para 123.
+  Jules Rocque, “Increasing the English-Language Content on Francophone Minority School Boards’ Websites in Canada: A Longitudinal Study (2008-2016) in Support of Non-Frenchspeaking Parents and Guardians” (2019) 54:3 R sciences éducation U McGill 542 at para 123 [<i>Increasing the English-Language Content on Francophone Minority School Boards’ Websites in Canada</i>].
 IBID
   <i>Ibid</i>.
 IBID w/LOCATOR
   <i>Ibid</i> at 123.
 SUBSEQUENT
-  Rocque, “Increasing the English-Language Content on Francophone Minority School Boards’ Websites in Canada,” <i>supra</i> note.
+  Rocque, <i>supra</i> note.
 SUBSEQUENT w/LOCATOR
-  Rocque, “Increasing the English-Language Content on Francophone Minority School Boards’ Websites in Canada,” <i>supra</i> note at 123.
+  Rocque, <i>supra</i> note at 123.
 SUBSEQUENT w/BACKREF
-  Rocque, “Increasing the English-Language Content on Francophone Minority School Boards’ Websites in Canada,” <i>supra</i> note 1.
+  Rocque, <i>supra</i> note 1.
 SUBSEQUENT w/BACKREF+LOCATOR
-  Rocque, “Increasing the English-Language Content on Francophone Minority School Boards’ Websites in Canada,” <i>supra</i> note 1 at 123.
+  Rocque, <i>supra</i> note 1 at 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry">Rocque, Jules, “Increasing the English-Language Content on Francophone Minority School Boards’ Websites in Canada: A Longitudinal Study (2008-2016) in Support of Non-Frenchspeaking Parents and Guardians” (2019) 54:3 R sciences éducation U McGill 542.</div>

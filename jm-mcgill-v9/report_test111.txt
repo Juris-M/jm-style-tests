@@ -24,13 +24,13 @@ IBID
 IBID w/LOCATOR
   <i>Ibid</i> at 123.
 SUBSEQUENT
-  Masson &#38; Larson, <i>supra</i> note.
+  [CSL STYLE ERROR: reference with no printed form.].
 SUBSEQUENT w/LOCATOR
-  Masson &#38; Larson, <i>supra</i> note at 123.
+  <i>supra</i> note at 123.
 SUBSEQUENT w/BACKREF
-  Masson &#38; Larson, <i>supra</i> note 1.
+  <i>supra</i> note 1.
 SUBSEQUENT w/BACKREF+LOCATOR
-  Masson &#38; Larson, <i>supra</i> note 1 at 123.
+  <i>supra</i> note 1 at 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry">Commissaire aux langues officielles, <i>Accéder aux possibilités: Étude sur les difficultés liées à l’offre et à la demande d’enseignants en français langue seconde au Canada</i>, by Mimi Masson, Elizabeth Jean Larson (Ottawa: Ministre des Services publics et de l’Approvisionnement, 2019).</div>

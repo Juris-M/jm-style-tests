@@ -14,23 +14,23 @@ Depuis quelques années, le Commissaire aux service
 
 >>===== RESULT =====>>
 FIRST
-  Érik Labelle Eastaugh, “L’application de la Loi sur les services en français (LSF) de l’Ontario aux services de santé: la problématique des Réseaux locaux d’intégration des soins de santé (RLISS)” (2019) 49:2 RGD 357.
+  Érik Labelle Eastaugh, “L’application de la Loi sur les services en français (LSF) de l’Ontario aux services de santé: la problématique des Réseaux locaux d’intégration des soins de santé (RLISS)” (2019) 49:2 RGD 357 [<i>L’application de la Loi sur les services en français (LSF) de l’Ontario aux services de santé</i>].
 FIRST w/LOCATOR
-  Érik Labelle Eastaugh, “L’application de la Loi sur les services en français (LSF) de l’Ontario aux services de santé: la problématique des Réseaux locaux d’intégration des soins de santé (RLISS)” (2019) 49:2 RGD 357 at 123.
+  Érik Labelle Eastaugh, “L’application de la Loi sur les services en français (LSF) de l’Ontario aux services de santé: la problématique des Réseaux locaux d’intégration des soins de santé (RLISS)” (2019) 49:2 RGD 357 at 123 [<i>L’application de la Loi sur les services en français (LSF) de l’Ontario aux services de santé</i>].
 FIRST w/LABEL
-  Érik Labelle Eastaugh, “L’application de la Loi sur les services en français (LSF) de l’Ontario aux services de santé: la problématique des Réseaux locaux d’intégration des soins de santé (RLISS)” (2019) 49:2 RGD 357 at para 123.
+  Érik Labelle Eastaugh, “L’application de la Loi sur les services en français (LSF) de l’Ontario aux services de santé: la problématique des Réseaux locaux d’intégration des soins de santé (RLISS)” (2019) 49:2 RGD 357 at para 123 [<i>L’application de la Loi sur les services en français (LSF) de l’Ontario aux services de santé</i>].
 IBID
   <i>Ibid</i>.
 IBID w/LOCATOR
   <i>Ibid</i> at 123.
 SUBSEQUENT
-  Eastaugh, “L’application de la Loi sur les services en français (LSF) de l’Ontario aux services de santé,” <i>supra</i> note.
+  Eastaugh, <i>supra</i> note.
 SUBSEQUENT w/LOCATOR
-  Eastaugh, “L’application de la Loi sur les services en français (LSF) de l’Ontario aux services de santé,” <i>supra</i> note at 123.
+  Eastaugh, <i>supra</i> note at 123.
 SUBSEQUENT w/BACKREF
-  Eastaugh, “L’application de la Loi sur les services en français (LSF) de l’Ontario aux services de santé,” <i>supra</i> note 1.
+  Eastaugh, <i>supra</i> note 1.
 SUBSEQUENT w/BACKREF+LOCATOR
-  Eastaugh, “L’application de la Loi sur les services en français (LSF) de l’Ontario aux services de santé,” <i>supra</i> note 1 at 123.
+  Eastaugh, <i>supra</i> note 1 at 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry">Eastaugh, Érik Labelle, “L’application de la Loi sur les services en français (LSF) de l’Ontario aux services de santé: la problématique des Réseaux locaux d’intégration des soins de santé (RLISS)” (2019) 49:2 RGD 357.</div>

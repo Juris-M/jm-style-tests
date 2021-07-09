@@ -55,7 +55,6 @@ BIBLIOGRAPHY
     },
     "number-of-pages": "135",
     "ISBN": "978-0-7766-2336-8",
-    "shortTitle": "Canada’s Official Languages",
     "source": "Google Books",
     "multi": {
       "main": {},

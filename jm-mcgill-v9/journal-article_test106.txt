@@ -14,23 +14,23 @@ should pass test style_test106
 
 >>===== RESULT =====>>
 FIRST
-  Han-Ru Zhou, “Ford et Irwin Toy 30 ans plus tard: une conversation avec le juge de Montigny” (2019) 28:3 Const Forum Const 39.
+  Han-Ru Zhou, “Ford et Irwin Toy 30 ans plus tard: une conversation avec le juge de Montigny” (2019) 28:3 Const Forum Const 39 [<i>Ford et Irwin Toy 30 ans plus tard</i>].
 FIRST w/LOCATOR
-  Han-Ru Zhou, “Ford et Irwin Toy 30 ans plus tard: une conversation avec le juge de Montigny” (2019) 28:3 Const Forum Const 39 at 123.
+  Han-Ru Zhou, “Ford et Irwin Toy 30 ans plus tard: une conversation avec le juge de Montigny” (2019) 28:3 Const Forum Const 39 at 123 [<i>Ford et Irwin Toy 30 ans plus tard</i>].
 FIRST w/LABEL
-  Han-Ru Zhou, “Ford et Irwin Toy 30 ans plus tard: une conversation avec le juge de Montigny” (2019) 28:3 Const Forum Const 39 at para 123.
+  Han-Ru Zhou, “Ford et Irwin Toy 30 ans plus tard: une conversation avec le juge de Montigny” (2019) 28:3 Const Forum Const 39 at para 123 [<i>Ford et Irwin Toy 30 ans plus tard</i>].
 IBID
   <i>Ibid</i>.
 IBID w/LOCATOR
   <i>Ibid</i> at 123.
 SUBSEQUENT
-  Zhou, “Ford et Irwin Toy 30 ans plus tard,” <i>supra</i> note.
+  Zhou, <i>supra</i> note.
 SUBSEQUENT w/LOCATOR
-  Zhou, “Ford et Irwin Toy 30 ans plus tard,” <i>supra</i> note at 123.
+  Zhou, <i>supra</i> note at 123.
 SUBSEQUENT w/BACKREF
-  Zhou, “Ford et Irwin Toy 30 ans plus tard,” <i>supra</i> note 1.
+  Zhou, <i>supra</i> note 1.
 SUBSEQUENT w/BACKREF+LOCATOR
-  Zhou, “Ford et Irwin Toy 30 ans plus tard,” <i>supra</i> note 1 at 123.
+  Zhou, <i>supra</i> note 1 at 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry">Zhou, Han-Ru, “Ford et Irwin Toy 30 ans plus tard: une conversation avec le juge de Montigny” (2019) 28:3 Const Forum Const 39.</div>

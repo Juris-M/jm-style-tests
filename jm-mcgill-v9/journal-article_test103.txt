@@ -14,23 +14,23 @@ Section 93 of the Constitution Act, 1867 was conce
 
 >>===== RESULT =====>>
 FIRST
-  Pierre Foucher, “De Mackell à Mahe: évolution des droits scolaires des minorités de langue officielle au Canada : évolution de la pensée judiciaire autour des droits constitutionnels des minorités de langue officielle au Canada” (2019) 49:1 RGD 111.
+  Pierre Foucher, “De Mackell à Mahe: évolution des droits scolaires des minorités de langue officielle au Canada : évolution de la pensée judiciaire autour des droits constitutionnels des minorités de langue officielle au Canada” (2019) 49:1 RGD 111 [<i>De Mackell à Mahe</i>].
 FIRST w/LOCATOR
-  Pierre Foucher, “De Mackell à Mahe: évolution des droits scolaires des minorités de langue officielle au Canada : évolution de la pensée judiciaire autour des droits constitutionnels des minorités de langue officielle au Canada” (2019) 49:1 RGD 111 at 123.
+  Pierre Foucher, “De Mackell à Mahe: évolution des droits scolaires des minorités de langue officielle au Canada : évolution de la pensée judiciaire autour des droits constitutionnels des minorités de langue officielle au Canada” (2019) 49:1 RGD 111 at 123 [<i>De Mackell à Mahe</i>].
 FIRST w/LABEL
-  Pierre Foucher, “De Mackell à Mahe: évolution des droits scolaires des minorités de langue officielle au Canada : évolution de la pensée judiciaire autour des droits constitutionnels des minorités de langue officielle au Canada” (2019) 49:1 RGD 111 at para 123.
+  Pierre Foucher, “De Mackell à Mahe: évolution des droits scolaires des minorités de langue officielle au Canada : évolution de la pensée judiciaire autour des droits constitutionnels des minorités de langue officielle au Canada” (2019) 49:1 RGD 111 at para 123 [<i>De Mackell à Mahe</i>].
 IBID
   <i>Ibid</i>.
 IBID w/LOCATOR
   <i>Ibid</i> at 123.
 SUBSEQUENT
-  Foucher, “De Mackell à Mahe,” <i>supra</i> note.
+  Foucher, <i>supra</i> note.
 SUBSEQUENT w/LOCATOR
-  Foucher, “De Mackell à Mahe,” <i>supra</i> note at 123.
+  Foucher, <i>supra</i> note at 123.
 SUBSEQUENT w/BACKREF
-  Foucher, “De Mackell à Mahe,” <i>supra</i> note 1.
+  Foucher, <i>supra</i> note 1.
 SUBSEQUENT w/BACKREF+LOCATOR
-  Foucher, “De Mackell à Mahe,” <i>supra</i> note 1 at 123.
+  Foucher, <i>supra</i> note 1 at 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry">Foucher, Pierre, “De Mackell à Mahe: évolution des droits scolaires des minorités de langue officielle au Canada : évolution de la pensée judiciaire autour des droits constitutionnels des minorités de langue officielle au Canada” (2019) 49:1 RGD 111.</div>

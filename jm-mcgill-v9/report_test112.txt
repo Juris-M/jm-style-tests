@@ -24,13 +24,13 @@ IBID
 IBID w/LOCATOR
   <i>Ibid</i> at 123.
 SUBSEQUENT
-  Desjardins &#38; Campbell, <i>supra</i> note.
+  [CSL STYLE ERROR: reference with no printed form.].
 SUBSEQUENT w/LOCATOR
-  Desjardins &#38; Campbell, <i>supra</i> note at 123.
+  <i>supra</i> note at 123.
 SUBSEQUENT w/BACKREF
-  Desjardins &#38; Campbell, <i>supra</i> note 1.
+  <i>supra</i> note 1.
 SUBSEQUENT w/BACKREF+LOCATOR
-  Desjardins &#38; Campbell, <i>supra</i> note 1 at 123.
+  <i>supra</i> note 1 at 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry">Commissariat aux langues officielles du Nouveau-Brunswick, <i>Deux langues, c’est bon pour les affaires</i>, by Pierre-Marcel Desjardins, David Campbell (Fredericton: CLONB, 2019).</div>

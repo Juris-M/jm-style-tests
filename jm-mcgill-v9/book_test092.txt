@@ -14,11 +14,11 @@ should pass test style_test092
 
 >>===== RESULT =====>>
 FIRST
-  Félix Mathieu &#38; Dave Guénette, <i>Ré-imaginer le Canada: vers un État multinational ?</i>, Diversité et démocratie (Québec: Les Presses de L’Université Laval, 2019).
+  Félix Mathieu &#38; Dave Guénette, <i>Ré-imaginer le Canada: vers un État multinational ?</i>, Diversité et démocratie (Québec: Les Presses de L’Université Laval, 2019) [<i>Ré-imaginer le Canada</i>].
 FIRST w/LOCATOR
-  Félix Mathieu &#38; Dave Guénette, <i>Ré-imaginer le Canada: vers un État multinational ?</i>, Diversité et démocratie (Québec: Les Presses de L’Université Laval, 2019) at 123.
+  Félix Mathieu &#38; Dave Guénette, <i>Ré-imaginer le Canada: vers un État multinational ?</i>, Diversité et démocratie (Québec: Les Presses de L’Université Laval, 2019) at 123 [<i>Ré-imaginer le Canada</i>].
 FIRST w/LABEL
-  Félix Mathieu &#38; Dave Guénette, <i>Ré-imaginer le Canada: vers un État multinational ?</i>, Diversité et démocratie (Québec: Les Presses de L’Université Laval, 2019) at para 123.
+  Félix Mathieu &#38; Dave Guénette, <i>Ré-imaginer le Canada: vers un État multinational ?</i>, Diversité et démocratie (Québec: Les Presses de L’Université Laval, 2019) at para 123 [<i>Ré-imaginer le Canada</i>].
 IBID
   <i>Ibid</i>.
 IBID w/LOCATOR

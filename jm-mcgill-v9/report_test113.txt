@@ -24,13 +24,13 @@ IBID
 IBID w/LOCATOR
   <i>Ibid</i> at 123.
 SUBSEQUENT
-  Traisnel et al, <i>supra</i> note.
+  [CSL STYLE ERROR: reference with no printed form.].
 SUBSEQUENT w/LOCATOR
-  Traisnel et al, <i>supra</i> note at 123.
+  <i>supra</i> note at 123.
 SUBSEQUENT w/BACKREF
-  Traisnel et al, <i>supra</i> note 1.
+  <i>supra</i> note 1.
 SUBSEQUENT w/BACKREF+LOCATOR
-  Traisnel et al, <i>supra</i> note 1 at 123.
+  <i>supra</i> note 1 at 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry">Institut canadien de recherche sur les minorités linguistiques, <i>Réussir la rencontre. Les francophones nés à l’étranger et installés au Canada atlantique : contexte, accès, expérience, représentations</i>, by Christophe Traisnel et al (Moncton: ICRML, 2019).</div>
