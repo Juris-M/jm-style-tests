@@ -1,0 +1,86 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "8LXAAZMZ"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Ce texte présente les résultats d’une étude longit
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  Jules Rocque, “Increasing the English-Language Content on Francophone Minority School Boards’ Websites in Canada: A Longitudinal Study (2008-2016) in Support of Non-Frenchspeaking Parents and Guardians” (2019) 54:3 R sciences éducation U McGill 542 [<i>Increasing the English-Language Content on Francophone Minority School Boards’ Websites in Canada</i>].
+FIRST w/LOCATOR
+  Jules Rocque, “Increasing the English-Language Content on Francophone Minority School Boards’ Websites in Canada: A Longitudinal Study (2008-2016) in Support of Non-Frenchspeaking Parents and Guardians” (2019) 54:3 R sciences éducation U McGill 542 at 123 [<i>Increasing the English-Language Content on Francophone Minority School Boards’ Websites in Canada</i>].
+FIRST w/LABEL
+  Jules Rocque, “Increasing the English-Language Content on Francophone Minority School Boards’ Websites in Canada: A Longitudinal Study (2008-2016) in Support of Non-Frenchspeaking Parents and Guardians” (2019) 54:3 R sciences éducation U McGill 542 at para 123 [<i>Increasing the English-Language Content on Francophone Minority School Boards’ Websites in Canada</i>].
+IBID
+  <i>Ibid</i>.
+IBID w/LOCATOR
+  <i>Ibid</i> at 123.
+SUBSEQUENT
+  Rocque, <i>supra</i> note.
+SUBSEQUENT w/LOCATOR
+  Rocque, <i>supra</i> note at 123.
+SUBSEQUENT w/BACKREF
+  Rocque, <i>supra</i> note 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  Rocque, <i>supra</i> note 1 at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Rocque, Jules, “Increasing the English-Language Content on Francophone Minority School Boards’ Websites in Canada: A Longitudinal Study (2008-2016) in Support of Non-Frenchspeaking Parents and Guardians” (2019) 54:3 R sciences éducation U McGill 542.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "article-journal",
+    "title": "Increasing the English-Language Content on Francophone Minority School Boards’ Websites in Canada: A Longitudinal Study (2008-2016) in Support of Non-Frenchspeaking Parents and Guardians",
+    "author": [
+      {
+        "given": "Jules",
+        "family": "Rocque"
+      }
+    ],
+    "container-title": "McGill Journal of Education",
+    "volume": "54",
+    "issue": "3",
+    "page": "542-565",
+    "issued": {
+      "raw": "2019"
+    },
+    "journalAbbreviation": "R sciences éducation U McGill",
+    "language": "en",
+    "DOI": "https://doi.org/10.7202/1069769ar",
+    "ISSN": "0024-9033, 1916-0666",
+    "shortTitle": "INCREASING THE ENGLISH-LANGUAGE CONTENT ON FRANCOPHONE MINORITY SCHOOL BOARDS’ WEBSITES IN CANADA",
+    "URL": "https://www.erudit.org/fr/revues/mje/2019-v54-n3-mje05322/1069769ar/",
+    "accessed": {
+      "date-parts": [
+        [
+          2020,
+          7,
+          16
+        ]
+      ]
+    },
+    "source": "www.erudit.org",
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {
+        "container-title": {
+          "fr-CA": "Revue des sciences de l'éducation de McGill"
+        }
+      }
+    },
+    "language-name": "en"
+  }
+]
+<<===== INPUT =====<<

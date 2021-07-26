@@ -1,0 +1,65 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "9AGYUIUG"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test089
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  Helaina Gaspard, <i>Canada’s Official Languages: Policy Versus Work Practice in the Federal Public Service</i> (Ottawa: University of Ottawa Press, 2019).
+FIRST w/LOCATOR
+  Helaina Gaspard, <i>Canada’s Official Languages: Policy Versus Work Practice in the Federal Public Service</i> (Ottawa: University of Ottawa Press, 2019) at 123.
+FIRST w/LABEL
+  Helaina Gaspard, <i>Canada’s Official Languages: Policy Versus Work Practice in the Federal Public Service</i> (Ottawa: University of Ottawa Press, 2019) at para 123.
+IBID
+  <i>Ibid</i>.
+IBID w/LOCATOR
+  <i>Ibid</i> at 123.
+SUBSEQUENT
+  Gaspard, <i>supra</i> note.
+SUBSEQUENT w/LOCATOR
+  Gaspard, <i>supra</i> note at 123.
+SUBSEQUENT w/BACKREF
+  Gaspard, <i>supra</i> note 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  Gaspard, <i>supra</i> note 1 at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Gaspard, Helaina, <i>Canada’s Official Languages: Policy Versus Work Practice in the Federal Public Service</i> (Ottawa: University of Ottawa Press, 2019).</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "book",
+    "title": "Canada’s Official Languages: Policy Versus Work Practice in the Federal Public Service",
+    "author": [
+      {
+        "given": "Helaina",
+        "family": "Gaspard"
+      }
+    ],
+    "publisher-place": "Ottawa",
+    "publisher": "University of Ottawa Press",
+    "issued": {
+      "raw": "2019-03-05"
+    },
+    "number-of-pages": "135",
+    "ISBN": "978-0-7766-2336-8",
+    "source": "Google Books",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<

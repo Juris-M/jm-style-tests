@@ -1,0 +1,73 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "EXD4TD2M"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test112
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  Commissariat aux langues officielles du Nouveau-Brunswick, <i>Deux langues, c’est bon pour les affaires</i>, by Pierre-Marcel Desjardins, David Campbell (Fredericton: CLONB, 2019).
+FIRST w/LOCATOR
+  Commissariat aux langues officielles du Nouveau-Brunswick, <i>Deux langues, c’est bon pour les affaires</i>, by Pierre-Marcel Desjardins, David Campbell (Fredericton: CLONB, 2019) at 123.
+FIRST w/LABEL
+  Commissariat aux langues officielles du Nouveau-Brunswick, <i>Deux langues, c’est bon pour les affaires</i>, by Pierre-Marcel Desjardins, David Campbell (Fredericton: CLONB, 2019) at para 123.
+IBID
+  <i>Ibid</i>.
+IBID w/LOCATOR
+  <i>Ibid</i> at 123.
+SUBSEQUENT
+  [CSL STYLE ERROR: reference with no printed form.].
+SUBSEQUENT w/LOCATOR
+  <i>supra</i> note at 123.
+SUBSEQUENT w/BACKREF
+  <i>supra</i> note 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  <i>supra</i> note 1 at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Commissariat aux langues officielles du Nouveau-Brunswick, <i>Deux langues, c’est bon pour les affaires</i>, by Pierre-Marcel Desjardins, David Campbell (Fredericton: CLONB, 2019).</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "report",
+    "title": "Deux langues, c'est bon pour les affaires",
+    "author": [
+      {
+        "given": "Pierre-Marcel",
+        "family": "Desjardins"
+      },
+      {
+        "given": "David",
+        "family": "Campbell"
+      }
+    ],
+    "publisher-place": "Fredericton",
+    "issued": {
+      "raw": "Avril 2019"
+    },
+    "page": "48",
+    "language": "fr",
+    "URL": "https://tinyurl.com/379kv3uh",
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "publisher": "CLONB",
+    "jurisdiction": "ca",
+    "authority": "Commissariat aux langues officielles du Nouveau-Brunswick",
+    "language-name": "fr"
+  }
+]
+<<===== INPUT =====<<

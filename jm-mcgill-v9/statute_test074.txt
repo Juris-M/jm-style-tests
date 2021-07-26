@@ -16,21 +16,21 @@ should pass test style_test074
 FIRST
   <i>Charte des droits et libertés de la personne</i>, RLRQ c C–12.
 FIRST w/LOCATOR
-  <i>Charte des droits et libertés de la personne</i>, RLRQ c C–12, at 123.
+  <i>Charte des droits et libertés de la personne</i>, RLRQ c C–12, art 123.
 FIRST w/LABEL
-  <i>Charte des droits et libertés de la personne</i>, RLRQ c C–12, at para 123.
+  <i>Charte des droits et libertés de la personne</i>, RLRQ c C–12, art 123.
 IBID
   <i>Ibid</i>.
 IBID w/LOCATOR
-  <i>Ibid</i> at 123.
+  <i>Ibid</i>, art 123.
 SUBSEQUENT
   [CSL STYLE ERROR: reference with no printed form.].
 SUBSEQUENT w/LOCATOR
-  <i>Supra</i> at 123.
+  <i>Supra</i> art 123.
 SUBSEQUENT w/BACKREF
   <i>Supra</i> note 1.
 SUBSEQUENT w/BACKREF+LOCATOR
-  <i>Supra</i> note 1 at 123.
+  <i>Supra</i> note 1, art 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry"><i>Charte des droits et libertés de la personne</i>, RLRQ c C–12.</div>

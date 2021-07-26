@@ -1,0 +1,76 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "WZMD32ZS"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test095
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  Marina Mello de Menezes Felix de Souza &#38; Telma Cristina de Almeida Silva Pereira, “Politique linguistique et politique publique: une proposition d’intersection théorique” (2019) 15:1 Cahiers Intl sociolinguistique 167.
+FIRST w/LOCATOR
+  Marina Mello de Menezes Felix de Souza &#38; Telma Cristina de Almeida Silva Pereira, “Politique linguistique et politique publique: une proposition d’intersection théorique” (2019) 15:1 Cahiers Intl sociolinguistique 167 at 123.
+FIRST w/LABEL
+  Marina Mello de Menezes Felix de Souza &#38; Telma Cristina de Almeida Silva Pereira, “Politique linguistique et politique publique: une proposition d’intersection théorique” (2019) 15:1 Cahiers Intl sociolinguistique 167 at para 123.
+IBID
+  <i>Ibid</i>.
+IBID w/LOCATOR
+  <i>Ibid</i> at 123.
+SUBSEQUENT
+  Souza &#38; Pereira, <i>supra</i> note.
+SUBSEQUENT w/LOCATOR
+  Souza &#38; Pereira, <i>supra</i> note at 123.
+SUBSEQUENT w/BACKREF
+  Souza &#38; Pereira, <i>supra</i> note 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  Souza &#38; Pereira, <i>supra</i> note 1 at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Souza, Marina Mello de Menezes Felix de &#38; Telma Cristina de Almeida Silva Pereira, “Politique linguistique et politique publique: une proposition d’intersection théorique” (2019) 15:1 Cahiers Intl sociolinguistique 167.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "article-journal",
+    "title": "Politique linguistique et politique publique : une proposition d’intersection théorique",
+    "author": [
+      {
+        "given": "Marina Mello de Menezes Felix de",
+        "family": "Souza"
+      },
+      {
+        "given": "Telma Cristina de Almeida Silva",
+        "family": "Pereira"
+      }
+    ],
+    "container-title": "Cahiers internationaux de sociolinguistique",
+    "volume": "15",
+    "issue": "1",
+    "page": "167-181",
+    "issued": {
+      "raw": "2019-10-11"
+    },
+    "journalAbbreviation": "Cahiers Intl sociolinguistique",
+    "language": "fr",
+    "ISSN": "2257-6517",
+    "URL": "https://www.cairn.info/revue-cahiers-internationaux-de-sociolinguistique-2019-1-page-167.htm",
+    "accessed": {
+      "raw": "2021-06-23"
+    },
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "language-name": "fr"
+  }
+]
+<<===== INPUT =====<<

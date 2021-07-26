@@ -1,0 +1,72 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "4FRDEU6R"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Confronted with its aging population and its deepl
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  Leyla Sall, “Les politiques publiques d’immigration francophone en Acadie du Nouveau-Brunswick: entre incomplétude institutionnelle et succès symbolique” (2019) 83 Lien social &#38; Politiques 272.
+FIRST w/LOCATOR
+  Leyla Sall, “Les politiques publiques d’immigration francophone en Acadie du Nouveau-Brunswick: entre incomplétude institutionnelle et succès symbolique” (2019) 83 Lien social &#38; Politiques 272 at 123.
+FIRST w/LABEL
+  Leyla Sall, “Les politiques publiques d’immigration francophone en Acadie du Nouveau-Brunswick: entre incomplétude institutionnelle et succès symbolique” (2019) 83 Lien social &#38; Politiques 272 at para 123.
+IBID
+  <i>Ibid</i>.
+IBID w/LOCATOR
+  <i>Ibid</i> at 123.
+SUBSEQUENT
+  Sall, <i>supra</i> note.
+SUBSEQUENT w/LOCATOR
+  Sall, <i>supra</i> note at 123.
+SUBSEQUENT w/BACKREF
+  Sall, <i>supra</i> note 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  Sall, <i>supra</i> note 1 at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Sall, Leyla, “Les politiques publiques d’immigration francophone en Acadie du Nouveau-Brunswick: entre incomplétude institutionnelle et succès symbolique” (2019) 83 Lien social &#38; Politiques 272.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "article-journal",
+    "title": "Les politiques publiques d’immigration francophone en Acadie du Nouveau-Brunswick : entre incomplétude institutionnelle et succès symbolique",
+    "author": [
+      {
+        "given": "Leyla",
+        "family": "Sall"
+      }
+    ],
+    "container-title": "Lien social et Politiques",
+    "issue": "83",
+    "page": "272-294",
+    "issued": {
+      "raw": "2019"
+    },
+    "journalAbbreviation": "Lien social & Politiques",
+    "language": "fr",
+    "DOI": "https://doi.org/10.7202/1066094ar",
+    "ISSN": "1703-9665",
+    "URL": "https://www.erudit.org/en/journals/lsp/1900-v1-n1-lsp04994/1066094ar/abstract/",
+    "accessed": {
+      "raw": "2021-06-23"
+    },
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "language-name": "fr"
+  }
+]
+<<===== INPUT =====<<

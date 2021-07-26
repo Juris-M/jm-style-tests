@@ -1,0 +1,84 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "N7RDB9RT"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Au Canada, malgré la massification de l’enseigneme
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  Marie-Odile Magnan et al, “Discours de jeunes issus de groupes minoritaires sur les inégalités scolaires au Québec” (2019) 19 Diversité urbaine 93.
+FIRST w/LOCATOR
+  Marie-Odile Magnan et al, “Discours de jeunes issus de groupes minoritaires sur les inégalités scolaires au Québec” (2019) 19 Diversité urbaine 93 at 123.
+FIRST w/LABEL
+  Marie-Odile Magnan et al, “Discours de jeunes issus de groupes minoritaires sur les inégalités scolaires au Québec” (2019) 19 Diversité urbaine 93 at para 123.
+IBID
+  <i>Ibid</i>.
+IBID w/LOCATOR
+  <i>Ibid</i> at 123.
+SUBSEQUENT
+  Magnan et al, <i>supra</i> note.
+SUBSEQUENT w/LOCATOR
+  Magnan et al, <i>supra</i> note at 123.
+SUBSEQUENT w/BACKREF
+  Magnan et al, <i>supra</i> note 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  Magnan et al, <i>supra</i> note 1 at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Magnan, Marie-Odile et al, “Discours de jeunes issus de groupes minoritaires sur les inégalités scolaires au Québec” (2019) 19 Diversité urbaine 93.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "article-journal",
+    "title": "Discours de jeunes issus de groupes minoritaires sur les inégalités scolaires au Québec",
+    "author": [
+      {
+        "given": "Marie-Odile",
+        "family": "Magnan"
+      },
+      {
+        "given": "Annie",
+        "family": "Pilote"
+      },
+      {
+        "given": "Tya",
+        "family": "Collins"
+      },
+      {
+        "given": "Pierre",
+        "family": "Kamanzi"
+      }
+    ],
+    "container-title": "Diversité urbaine",
+    "volume": "19",
+    "page": "93-114",
+    "issued": {
+      "raw": "2019"
+    },
+    "journalAbbreviation": "Diversité urbaine",
+    "language": "fr",
+    "DOI": "https://doi.org/10.7202/1065122ar",
+    "ISSN": "1913-0694, 1913-0708",
+    "URL": "http://www.erudit.org/fr/revues/du/2019-v19-du04915/1065122ar/",
+    "accessed": {
+      "raw": "2020-07-16"
+    },
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "language-name": "fr"
+  }
+]
+<<===== INPUT =====<<

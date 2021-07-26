@@ -1,0 +1,74 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "8IVRIAW2"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Depuis quelques années, le Commissaire aux service
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  Érik Labelle Eastaugh, “L’application de la Loi sur les services en français (LSF) de l’Ontario aux services de santé: la problématique des Réseaux locaux d’intégration des soins de santé (RLISS)” (2019) 49:2 RGD 357 [<i>L’application de la Loi sur les services en français (LSF) de l’Ontario aux services de santé</i>].
+FIRST w/LOCATOR
+  Érik Labelle Eastaugh, “L’application de la Loi sur les services en français (LSF) de l’Ontario aux services de santé: la problématique des Réseaux locaux d’intégration des soins de santé (RLISS)” (2019) 49:2 RGD 357 at 123 [<i>L’application de la Loi sur les services en français (LSF) de l’Ontario aux services de santé</i>].
+FIRST w/LABEL
+  Érik Labelle Eastaugh, “L’application de la Loi sur les services en français (LSF) de l’Ontario aux services de santé: la problématique des Réseaux locaux d’intégration des soins de santé (RLISS)” (2019) 49:2 RGD 357 at para 123 [<i>L’application de la Loi sur les services en français (LSF) de l’Ontario aux services de santé</i>].
+IBID
+  <i>Ibid</i>.
+IBID w/LOCATOR
+  <i>Ibid</i> at 123.
+SUBSEQUENT
+  Eastaugh, <i>supra</i> note.
+SUBSEQUENT w/LOCATOR
+  Eastaugh, <i>supra</i> note at 123.
+SUBSEQUENT w/BACKREF
+  Eastaugh, <i>supra</i> note 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  Eastaugh, <i>supra</i> note 1 at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Eastaugh, Érik Labelle, “L’application de la Loi sur les services en français (LSF) de l’Ontario aux services de santé: la problématique des Réseaux locaux d’intégration des soins de santé (RLISS)” (2019) 49:2 RGD 357.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "article-journal",
+    "title": "L’application de la Loi sur les services en français (LSF) de l’Ontario aux services de santé : la problématique des Réseaux locaux d’intégration des soins de santé (RLISS)",
+    "author": [
+      {
+        "given": "Érik Labelle",
+        "family": "Eastaugh"
+      }
+    ],
+    "container-title": "Revue générale de droit",
+    "volume": "49",
+    "issue": "2",
+    "page": "357-398",
+    "issued": {
+      "raw": "2019"
+    },
+    "journalAbbreviation": "RGD",
+    "language": "fr",
+    "DOI": "10.7202/1068523ar",
+    "ISSN": "0035-3086, 2292-2512",
+    "shortTitle": "L’application de la Loi sur les services en français (LSF) de l’Ontario aux services de santé",
+    "URL": "https://www.erudit.org/fr/revues/rgd/2019-v49-n2-rgd05219/1068523ar/",
+    "accessed": {
+      "raw": "2021-06-23"
+    },
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "language-name": "fr"
+  }
+]
+<<===== INPUT =====<<

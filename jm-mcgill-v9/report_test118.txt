@@ -1,0 +1,72 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "IKF9298A"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test118
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  Bureau du commissaire aux langues du Nunavut, <i>Rapport annuel 2018-2019</i> (Iqaluit: BCLN, 2019).
+FIRST w/LOCATOR
+  Bureau du commissaire aux langues du Nunavut, <i>Rapport annuel 2018-2019</i> (Iqaluit: BCLN, 2019) at 123.
+FIRST w/LABEL
+  Bureau du commissaire aux langues du Nunavut, <i>Rapport annuel 2018-2019</i> (Iqaluit: BCLN, 2019) at para 123.
+IBID
+  <i>Ibid</i>.
+IBID w/LOCATOR
+  <i>Ibid</i> at 123.
+SUBSEQUENT
+  [CSL STYLE ERROR: reference with no printed form.].
+SUBSEQUENT w/LOCATOR
+  <i>supra</i> note at 123.
+SUBSEQUENT w/BACKREF
+  <i>supra</i> note 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  <i>supra</i> note 1 at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Bureau du commissaire aux langues du Nunavut, <i>Rapport annuel 2018-2019</i> (Iqaluit: BCLN, 2019).</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "report",
+    "title": "Rapport annuel 2018-2019",
+    "publisher-place": "Iqaluit",
+    "issued": {
+      "raw": "2019"
+    },
+    "page": "52",
+    "language": "fr",
+    "URL": "https://tinyurl.com/y4ffs6pj",
+    "accessed": {
+      "date-parts": [
+        [
+          2020,
+          7,
+          30
+        ]
+      ]
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "publisher": "BCLN",
+    "jurisdiction": "ca",
+    "authority": "Bureau du commissaire aux langues du Nunavut",
+    "language-name": "fr"
+  }
+]
+<<===== INPUT =====<<

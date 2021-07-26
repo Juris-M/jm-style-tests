@@ -1,0 +1,90 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "K94Q5F5W"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test093
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  Ali Reguigui et al, ed, <i>Langues en contexte</i>, Série monographie en science humaines 22 (Sudbury, Ontario: 2019).
+FIRST w/LOCATOR
+  Ali Reguigui et al, ed, <i>Langues en contexte</i>, Série monographie en science humaines 22 (Sudbury, Ontario: 2019) at 123.
+FIRST w/LABEL
+  Ali Reguigui et al, ed, <i>Langues en contexte</i>, Série monographie en science humaines 22 (Sudbury, Ontario: 2019) at para 123.
+IBID
+  <i>Ibid</i>.
+IBID w/LOCATOR
+  <i>Ibid</i> at 123.
+SUBSEQUENT
+  [CSL STYLE ERROR: reference with no printed form.].
+SUBSEQUENT w/LOCATOR
+  <i>supra</i> note at 123.
+SUBSEQUENT w/BACKREF
+  <i>supra</i> note 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  <i>supra</i> note 1 at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Reguigui, Ali et al, ed, <i>Langues en contexte</i>, Série monographie en science humaines 22 (Sudbury, Ontario: 2019).</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "book",
+    "title": "Langues en contexte",
+    "collection-editor": [
+      {
+        "given": "Ali",
+        "family": "Reguigui"
+      },
+      {
+        "given": "Julie",
+        "family": "Boissonneault"
+      },
+      {
+        "given": "Leila",
+        "family": "Messaoudi"
+      },
+      {
+        "given": "Hafida El",
+        "family": "Amrani"
+      },
+      {
+        "given": "Hanane",
+        "family": "Bendahmane"
+      }
+    ],
+    "collection-title": "Série monographie en science humaines",
+    "collection-number": "22",
+    "publisher-place": "Sudbury, Ontario",
+    "issued": {
+      "raw": "2019"
+    },
+    "language": "fr-CA",
+    "ISBN": "ISBN 978-0-88667-115-0",
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {
+        "title": {
+          "en-CA": "Languages in Context"
+        },
+        "undefined": {
+          "en-CA": "Human Sciences Monograph Series"
+        }
+      }
+    },
+    "language-name": "fr-ca"
+  }
+]
+<<===== INPUT =====<<

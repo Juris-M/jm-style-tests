@@ -1,0 +1,77 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "9CFACQU3"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Le rôle des représentations sociales et spatiales 
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  Luisa Veronis &#38; Suzanne Huot, “Imaginaires géographiques de la francophonie minoritaire canadienne chez des immigrants et des réfugiés d’expression française” (2019) 19 Diversité urbaine 115.
+FIRST w/LOCATOR
+  Luisa Veronis &#38; Suzanne Huot, “Imaginaires géographiques de la francophonie minoritaire canadienne chez des immigrants et des réfugiés d’expression française” (2019) 19 Diversité urbaine 115 at 123.
+FIRST w/LABEL
+  Luisa Veronis &#38; Suzanne Huot, “Imaginaires géographiques de la francophonie minoritaire canadienne chez des immigrants et des réfugiés d’expression française” (2019) 19 Diversité urbaine 115 at para 123.
+IBID
+  <i>Ibid</i>.
+IBID w/LOCATOR
+  <i>Ibid</i> at 123.
+SUBSEQUENT
+  Veronis &#38; Huot, <i>supra</i> note.
+SUBSEQUENT w/LOCATOR
+  Veronis &#38; Huot, <i>supra</i> note at 123.
+SUBSEQUENT w/BACKREF
+  Veronis &#38; Huot, <i>supra</i> note 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  Veronis &#38; Huot, <i>supra</i> note 1 at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Veronis, Luisa &#38; Suzanne Huot, “Imaginaires géographiques de la francophonie minoritaire canadienne chez des immigrants et des réfugiés d’expression française” (2019) 19 Diversité urbaine 115.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "article-journal",
+    "title": "Imaginaires géographiques de la francophonie minoritaire canadienne chez des immigrants et des réfugiés d’expression française",
+    "author": [
+      {
+        "given": "Luisa",
+        "family": "Veronis"
+      },
+      {
+        "given": "Suzanne",
+        "family": "Huot"
+      }
+    ],
+    "container-title": "Diversité urbaine",
+    "volume": "19",
+    "page": "115-137",
+    "issued": {
+      "raw": "2019"
+    },
+    "journalAbbreviation": "Diversité urbaine",
+    "language": "fr",
+    "DOI": "https://doi.org/10.7202/1065123ar",
+    "ISSN": "1913-0694, 1913-0708",
+    "URL": "http://www.erudit.org/fr/revues/du/2019-v19-du04915/1065123ar/",
+    "accessed": {
+      "raw": "2020-07-16"
+    },
+    "source": "www-erudit-org.eu1.proxy.openathens.net",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "language-name": "fr"
+  }
+]
+<<===== INPUT =====<<

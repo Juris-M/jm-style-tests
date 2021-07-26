@@ -1,0 +1,68 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "FILN47GG"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test127
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  Letter from Shirley C. MacLean to Blaine Higgs (2 juillet 2020).
+FIRST w/LOCATOR
+  Letter from Shirley C. MacLean to Blaine Higgs (2 juillet 2020) at 123.
+FIRST w/LABEL
+  Letter from Shirley C. MacLean to Blaine Higgs (2 juillet 2020) at para 123.
+IBID
+  <i>Ibid</i>.
+IBID w/LOCATOR
+  <i>Ibid</i> at 123.
+SUBSEQUENT
+  [CSL STYLE ERROR: reference with no printed form.].
+SUBSEQUENT w/LOCATOR
+  <i>supra</i> note at 123.
+SUBSEQUENT w/BACKREF
+  <i>supra</i> note 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  <i>supra</i> note 1 at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Letter from Shirley C. MacLean to Blaine Higgs (2 juillet 2020).</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "personal_communication",
+    "title": "CLO - Lettre 2 au PM (2 juillet 2020)",
+    "author": [
+      {
+        "given": "Shirley C.",
+        "family": "MacLean"
+      }
+    ],
+    "recipient": [
+      {
+        "given": "Blaine",
+        "family": "Higgs"
+      }
+    ],
+    "issued": {
+      "raw": "2 juillet 2020"
+    },
+    "language": "fr",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "language-name": "fr"
+  }
+]
+<<===== INPUT =====<<

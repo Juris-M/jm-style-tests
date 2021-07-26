@@ -1,0 +1,75 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "ZVQ2DK6Q"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test092
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  Félix Mathieu &#38; Dave Guénette, <i>Ré-imaginer le Canada: vers un État multinational ?</i>, Diversité et démocratie (Québec: Les Presses de L’Université Laval, 2019) [<i>Ré-imaginer le Canada</i>].
+FIRST w/LOCATOR
+  Félix Mathieu &#38; Dave Guénette, <i>Ré-imaginer le Canada: vers un État multinational ?</i>, Diversité et démocratie (Québec: Les Presses de L’Université Laval, 2019) at 123 [<i>Ré-imaginer le Canada</i>].
+FIRST w/LABEL
+  Félix Mathieu &#38; Dave Guénette, <i>Ré-imaginer le Canada: vers un État multinational ?</i>, Diversité et démocratie (Québec: Les Presses de L’Université Laval, 2019) at para 123 [<i>Ré-imaginer le Canada</i>].
+IBID
+  <i>Ibid</i>.
+IBID w/LOCATOR
+  <i>Ibid</i> at 123.
+SUBSEQUENT
+  Mathieu &#38; Guénette, <i>supra</i> note.
+SUBSEQUENT w/LOCATOR
+  Mathieu &#38; Guénette, <i>supra</i> note at 123.
+SUBSEQUENT w/BACKREF
+  Mathieu &#38; Guénette, <i>supra</i> note 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  Mathieu &#38; Guénette, <i>supra</i> note 1 at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Mathieu, Félix &#38; Dave Guénette, <i>Ré-imaginer le Canada: vers un État multinational ?</i>, Diversité et démocratie (Québec: Les Presses de L’Université Laval, 2019).</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "book",
+    "title": "Ré-imaginer le Canada : vers un État multinational ?",
+    "author": [
+      {
+        "given": "Félix",
+        "family": "Mathieu"
+      },
+      {
+        "given": "Dave",
+        "family": "Guénette"
+      }
+    ],
+    "collection-title": "Diversité et démocratie",
+    "publisher-place": "Québec",
+    "publisher": "Les Presses de L'Université Laval",
+    "issued": {
+      "raw": "6-05-2019"
+    },
+    "number-of-pages": "430",
+    "ISBN": "978-2-7637-4350-9",
+    "shortTitle": "Ré-imaginer le Canada",
+    "URL": "https://www.pulaval.com/produit/re-imaginer-le-canada-vers-un-etat-multinational",
+    "accessed": {
+      "raw": "2020-07-16"
+    },
+    "source": "www.pulaval.com",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<

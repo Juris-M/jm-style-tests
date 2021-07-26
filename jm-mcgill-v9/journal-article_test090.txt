@@ -1,0 +1,73 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "4Y3FPAHH"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+The concept of a ‘linguistic community’ plays a cr
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  Érik Labelle Eastaugh, “The concept of a linguistic community” (2019) 69:1 UTLJ 117.
+FIRST w/LOCATOR
+  Érik Labelle Eastaugh, “The concept of a linguistic community” (2019) 69:1 UTLJ 117 at 123.
+FIRST w/LABEL
+  Érik Labelle Eastaugh, “The concept of a linguistic community” (2019) 69:1 UTLJ 117 at para 123.
+IBID
+  <i>Ibid</i>.
+IBID w/LOCATOR
+  <i>Ibid</i> at 123.
+SUBSEQUENT
+  Eastaugh, <i>supra</i> note.
+SUBSEQUENT w/LOCATOR
+  Eastaugh, <i>supra</i> note at 123.
+SUBSEQUENT w/BACKREF
+  Eastaugh, <i>supra</i> note 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  Eastaugh, <i>supra</i> note 1 at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Eastaugh, Érik Labelle, “The concept of a linguistic community” (2019) 69:1 UTLJ 117.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "article-journal",
+    "title": "The concept of a linguistic community",
+    "author": [
+      {
+        "given": "Érik Labelle",
+        "family": "Eastaugh"
+      }
+    ],
+    "container-title": "University of Toronto Law Journal",
+    "volume": "69",
+    "issue": "1",
+    "page": "117-158",
+    "issued": {
+      "raw": "01/2019"
+    },
+    "journalAbbreviation": "UTLJ",
+    "language": "en",
+    "DOI": "10.3138/utlj.2018-0108",
+    "ISSN": "0042-0220, 1710-1174",
+    "URL": "https://utpjournals.press/doi/10.3138/utlj.2018-0108",
+    "accessed": {
+      "raw": "2020-07-16"
+    },
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "language-name": "en"
+  }
+]
+<<===== INPUT =====<<

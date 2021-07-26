@@ -1,0 +1,72 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "96UM5R5S"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test114
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  Commissariat aux langues officielles, <i>Modernisation de la Loi sur les langues officielles: Recommandations du commissaire aux langues officielles pour une loi actuelle, dynamique et robuste</i> (Ottawa: Ministre des Services publics et de l’Approvisionnement, 2019).
+FIRST w/LOCATOR
+  Commissariat aux langues officielles, <i>Modernisation de la Loi sur les langues officielles: Recommandations du commissaire aux langues officielles pour une loi actuelle, dynamique et robuste</i> (Ottawa: Ministre des Services publics et de l’Approvisionnement, 2019) at 123.
+FIRST w/LABEL
+  Commissariat aux langues officielles, <i>Modernisation de la Loi sur les langues officielles: Recommandations du commissaire aux langues officielles pour une loi actuelle, dynamique et robuste</i> (Ottawa: Ministre des Services publics et de l’Approvisionnement, 2019) at para 123.
+IBID
+  <i>Ibid</i>.
+IBID w/LOCATOR
+  <i>Ibid</i> at 123.
+SUBSEQUENT
+  [CSL STYLE ERROR: reference with no printed form.].
+SUBSEQUENT w/LOCATOR
+  <i>supra</i> note at 123.
+SUBSEQUENT w/BACKREF
+  <i>supra</i> note 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  <i>supra</i> note 1 at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Commissariat aux langues officielles, <i>Modernisation de la Loi sur les langues officielles: Recommandations du commissaire aux langues officielles pour une loi actuelle, dynamique et robuste</i> (Ottawa: Ministre des Services publics et de l’Approvisionnement, 2019).</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "report",
+    "title": "Modernisation de la Loi sur les langues officielles : Recommandations du commissaire aux langues officielles pour une loi actuelle, dynamique et robuste",
+    "publisher-place": "Ottawa",
+    "issued": {
+      "raw": "mai 2019"
+    },
+    "page": "47",
+    "language": "fr",
+    "URL": "https://tinyurl.com/4jznvncm",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          6,
+          23
+        ]
+      ]
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "publisher": "Ministre des Services publics et de l’Approvisionnement",
+    "jurisdiction": "ca",
+    "authority": "Commissariat aux langues officielles",
+    "language-name": "fr"
+  }
+]
+<<===== INPUT =====<<

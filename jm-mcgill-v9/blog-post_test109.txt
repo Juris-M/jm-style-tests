@@ -1,0 +1,63 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "7VVYBCLH"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test109
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  Nourredine Bessadi, “Le tamazight en Algérie: officialisation ou tentative de mise à mort par le biais de la folklorisation ?,” (2 February 2019), en ligne (blog) : <i>Blogue sur les droits linguistiques</i> &#60;www.droitslinguistiques.ca/fr/blogue&#62; [https://tinyurl.com/yalyxe2w].
+FIRST w/LOCATOR
+  Nourredine Bessadi, “Le tamazight en Algérie: officialisation ou tentative de mise à mort par le biais de la folklorisation ?,” (2 February 2019), en ligne (blog) : <i>Blogue sur les droits linguistiques</i> &#60;www.droitslinguistiques.ca/fr/blogue&#62; [https://tinyurl.com/yalyxe2w] at 123.
+FIRST w/LABEL
+  Nourredine Bessadi, “Le tamazight en Algérie: officialisation ou tentative de mise à mort par le biais de la folklorisation ?,” (2 February 2019), en ligne (blog) : <i>Blogue sur les droits linguistiques</i> &#60;www.droitslinguistiques.ca/fr/blogue&#62; [https://tinyurl.com/yalyxe2w] at para 123.
+IBID
+  <i>Ibid</i>.
+IBID w/LOCATOR
+  <i>Ibid</i> at 123.
+SUBSEQUENT
+  Bessadi, <i>supra</i> note.
+SUBSEQUENT w/LOCATOR
+  Bessadi, <i>supra</i> note at 123.
+SUBSEQUENT w/BACKREF
+  Bessadi, <i>supra</i> note 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  Bessadi, <i>supra</i> note 1 at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Bessadi, Nourredine, “Le tamazight en Algérie: officialisation ou tentative de mise à mort par le biais de la folklorisation ?,” (2 February 2019), en ligne (blog) : <i>Blogue sur les droits linguistiques</i> &#60;www.droitslinguistiques.ca/fr/blogue&#62; [https://tinyurl.com/yalyxe2w].</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "post-weblog",
+    "title": "Le tamazight en Algérie : officialisation ou tentative de mise à mort par le biais de la folklorisation ?",
+    "author": [
+      {
+        "given": "Nourredine",
+        "family": "Bessadi"
+      }
+    ],
+    "container-title": "Blogue sur les droits linguistiques",
+    "genre": "www.droitslinguistiques.ca/fr/blogue",
+    "issued": {
+      "raw": "02-02-2019"
+    },
+    "URL": "https://tinyurl.com/yalyxe2w",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<

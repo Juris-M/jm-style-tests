@@ -1,0 +1,89 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "KTR6ARA5"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test113
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  Institut canadien de recherche sur les minorités linguistiques, <i>Réussir la rencontre. Les francophones nés à l’étranger et installés au Canada atlantique : contexte, accès, expérience, représentations</i>, by Christophe Traisnel et al (Moncton: ICRML, 2019).
+FIRST w/LOCATOR
+  Institut canadien de recherche sur les minorités linguistiques, <i>Réussir la rencontre. Les francophones nés à l’étranger et installés au Canada atlantique : contexte, accès, expérience, représentations</i>, by Christophe Traisnel et al (Moncton: ICRML, 2019) at 123.
+FIRST w/LABEL
+  Institut canadien de recherche sur les minorités linguistiques, <i>Réussir la rencontre. Les francophones nés à l’étranger et installés au Canada atlantique : contexte, accès, expérience, représentations</i>, by Christophe Traisnel et al (Moncton: ICRML, 2019) at para 123.
+IBID
+  <i>Ibid</i>.
+IBID w/LOCATOR
+  <i>Ibid</i> at 123.
+SUBSEQUENT
+  [CSL STYLE ERROR: reference with no printed form.].
+SUBSEQUENT w/LOCATOR
+  <i>supra</i> note at 123.
+SUBSEQUENT w/BACKREF
+  <i>supra</i> note 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  <i>supra</i> note 1 at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Institut canadien de recherche sur les minorités linguistiques, <i>Réussir la rencontre. Les francophones nés à l’étranger et installés au Canada atlantique : contexte, accès, expérience, représentations</i>, by Christophe Traisnel et al (Moncton: ICRML, 2019).</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "report",
+    "title": "Réussir la rencontre. Les francophones nés à l'étranger et installés au Canada atlantique : contexte, accès, expérience, représentations",
+    "author": [
+      {
+        "given": "Christophe",
+        "family": "Traisnel"
+      },
+      {
+        "given": "Guillaume",
+        "family": "Deschênes-Thériault"
+      },
+      {
+        "given": "Dominique",
+        "family": "Pépin-Filion"
+      },
+      {
+        "given": "Josée",
+        "family": "Guignard Noël"
+      }
+    ],
+    "publisher-place": "Moncton",
+    "issued": {
+      "raw": "2019"
+    },
+    "page": "290",
+    "language": "fr-CA",
+    "URL": "https://tinyurl.com/3xrwn5wm",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          6,
+          23
+        ]
+      ]
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "publisher": "ICRML",
+    "authority": "Institut canadien de recherche sur les minorités linguistiques",
+    "language-name": "fr-ca"
+  }
+]
+<<===== INPUT =====<<

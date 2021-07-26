@@ -1,0 +1,78 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "HEJZU7JA"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test116
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  Sénat, Comité sénatorial permanent des langues officielles, <i>La modernisation de la Loi sur les langues officielles: La perspective du secteur de la justice</i>, 42:1, No 12, (April 2019) (Chair: René Cormier).
+FIRST w/LOCATOR
+  Sénat, Comité sénatorial permanent des langues officielles, <i>La modernisation de la Loi sur les langues officielles: La perspective du secteur de la justice</i>, 42:1, No 12, (April 2019) (Chair: René Cormier) at 123.
+FIRST w/LABEL
+  Sénat, Comité sénatorial permanent des langues officielles, <i>La modernisation de la Loi sur les langues officielles: La perspective du secteur de la justice</i>, 42:1, No 12, (April 2019) (Chair: René Cormier) at para 123.
+IBID
+  <i>Ibid</i>.
+IBID w/LOCATOR
+  <i>Ibid</i> at 123.
+SUBSEQUENT
+  [CSL STYLE ERROR: reference with no printed form.].
+SUBSEQUENT w/LOCATOR
+  <i>supra</i> note at 123.
+SUBSEQUENT w/BACKREF
+  <i>supra</i> note 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  <i>supra</i> note 1 at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Sénat, Comité sénatorial permanent des langues officielles, <i>La modernisation de la Loi sur les langues officielles: La perspective du secteur de la justice</i>, 42:1, No 12, (April 2019) (Chair: René Cormier).</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "report",
+    "title": "La modernisation de la Loi sur les langues officielles : La perspective du secteur de la justice",
+    "collection-editor": [
+      {
+        "given": "René",
+        "family": "Cormier"
+      }
+    ],
+    "author": [
+      {
+        "literal": "Comité sénatorial permanent des langues officielles"
+      }
+    ],
+    "number": "12",
+    "genre": "Rapport provisoire",
+    "publisher-place": "Ottawa",
+    "issued": {
+      "raw": "04-2019"
+    },
+    "page": "66",
+    "language": "fr",
+    "URL": "https://tinyurl.com/2ydjaw75",
+    "call-number": "YC34-0/421-12F-PDF",
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "jurisdiction": "ca",
+    "collection-number": "42:1",
+    "authority": "Sénat",
+    "committee": "Comité sénatorial permanent des langues officielles",
+    "language-name": "fr"
+  }
+]
+<<===== INPUT =====<<
