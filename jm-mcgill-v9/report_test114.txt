@@ -64,7 +64,6 @@ BIBLIOGRAPHY
       "_keys": {}
     },
     "publisher": "Ministre des Services publics et de l’Approvisionnement",
-    "jurisdiction": "ca",
     "authority": "Commissariat aux langues officielles",
     "language-name": "fr"
   }

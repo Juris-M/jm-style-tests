@@ -68,7 +68,6 @@ BIBLIOGRAPHY
       "main": {},
       "_keys": {}
     },
-    "jurisdiction": "ca",
     "collection-number": "42:1",
     "authority": "Sénat",
     "committee": "Comité sénatorial permanent des langues officielles",

@@ -14,11 +14,11 @@ La commissaire aux langues officielles intervient
 
 >>===== RESULT =====>>
 FIRST
-  Pascal Raiche-Nogue, “Langues officielles: Blaine Higgs rappelé à l’ordre par la commissaire,” <i>Acadie Nouvelle</i> (7 April 2020) online : &#60;www.acadienouvelle.com&#62;, [https://www.acadienouvelle.com/actualites/2020/04/07/langues-officielles-blaine-higgs-rappele-a-lordre-par-la-commissaire/].
+  Pascal Raiche-Nogue, “Langues officielles: Blaine Higgs rappelé à l’ordre par la commissaire,” <i>Acadie Nouvelle</i> (7 April 2020) online: &#60;www.acadienouvelle.com&#62; [https://www.acadienouvelle.com/actualites/2020/04/07/langues-officielles-blaine-higgs-rappele-a-lordre-par-la-commissaire/].
 FIRST w/LOCATOR
-  Pascal Raiche-Nogue, “Langues officielles: Blaine Higgs rappelé à l’ordre par la commissaire,” <i>Acadie Nouvelle</i> (7 April 2020) at 123 online : &#60;www.acadienouvelle.com&#62;, [https://www.acadienouvelle.com/actualites/2020/04/07/langues-officielles-blaine-higgs-rappele-a-lordre-par-la-commissaire/].
+  Pascal Raiche-Nogue, “Langues officielles: Blaine Higgs rappelé à l’ordre par la commissaire,” <i>Acadie Nouvelle</i> (7 April 2020) at 123 online: &#60;www.acadienouvelle.com&#62; [https://www.acadienouvelle.com/actualites/2020/04/07/langues-officielles-blaine-higgs-rappele-a-lordre-par-la-commissaire/].
 FIRST w/LABEL
-  Pascal Raiche-Nogue, “Langues officielles: Blaine Higgs rappelé à l’ordre par la commissaire,” <i>Acadie Nouvelle</i> (7 April 2020) at para 123 online : &#60;www.acadienouvelle.com&#62;, [https://www.acadienouvelle.com/actualites/2020/04/07/langues-officielles-blaine-higgs-rappele-a-lordre-par-la-commissaire/].
+  Pascal Raiche-Nogue, “Langues officielles: Blaine Higgs rappelé à l’ordre par la commissaire,” <i>Acadie Nouvelle</i> (7 April 2020) at para 123 online: &#60;www.acadienouvelle.com&#62; [https://www.acadienouvelle.com/actualites/2020/04/07/langues-officielles-blaine-higgs-rappele-a-lordre-par-la-commissaire/].
 IBID
   <i>Ibid</i>.
 IBID w/LOCATOR

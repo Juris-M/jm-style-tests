@@ -54,7 +54,6 @@ BIBLIOGRAPHY
       "_keys": {}
     },
     "publisher": "Imprimeur de la reine pour l'Ontario",
-    "jurisdiction": "ca:on",
     "authority": "Commissariat aux services en français de l'Ontario",
     "language-name": "fr"
   }

@@ -24,16 +24,16 @@ IBID
 IBID w/LOCATOR
   <i>Ibid</i> at 123.
 SUBSEQUENT
-  [CSL STYLE ERROR: reference with no printed form.].
+  Reguigui et al, <i>supra</i> note.
 SUBSEQUENT w/LOCATOR
-  <i>supra</i> note at 123.
+  Reguigui et al, <i>supra</i> note at 123.
 SUBSEQUENT w/BACKREF
-  <i>supra</i> note 1.
+  Reguigui et al, <i>supra</i> note 1.
 SUBSEQUENT w/BACKREF+LOCATOR
-  <i>supra</i> note 1 at 123.
+  Reguigui et al, <i>supra</i> note 1 at 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">Reguigui, Ali et al, ed, <i>Langues en contexte</i>, Série monographie en science humaines 22 (Sudbury, Ontario: 2019).</div>
+  <div class="csl-entry"><i>Langues en contexte</i>, Ali Reguigui et al, ed, Série monographie en science humaines 22 (Sudbury, Ontario: 2019).</div>
 </div>
 <<===== RESULT =====<<
 
@@ -42,7 +42,7 @@ BIBLIOGRAPHY
   {
     "type": "book",
     "title": "Langues en contexte",
-    "collection-editor": [
+    "editor": [
       {
         "given": "Ali",
         "family": "Reguigui"

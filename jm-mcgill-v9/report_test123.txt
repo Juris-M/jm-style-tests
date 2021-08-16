@@ -14,11 +14,11 @@ should pass test style_test123
 
 >>===== RESULT =====>>
 FIRST
-  Commissariat aux langues officielles du Nouveau-Brunswick, <i>Rapport annuel 2018-2019</i> (Fredericton: CLONB, 2019).
+  Commissariat aux langues officielles du Nouveau-Brunswick, <i>Rapport annuel 2018-2019</i> (Fredericton: CLONB, October 2019).
 FIRST w/LOCATOR
-  Commissariat aux langues officielles du Nouveau-Brunswick, <i>Rapport annuel 2018-2019</i> (Fredericton: CLONB, 2019) at 123.
+  Commissariat aux langues officielles du Nouveau-Brunswick, <i>Rapport annuel 2018-2019</i> (Fredericton: CLONB, October 2019) at 123.
 FIRST w/LABEL
-  Commissariat aux langues officielles du Nouveau-Brunswick, <i>Rapport annuel 2018-2019</i> (Fredericton: CLONB, 2019) at para 123.
+  Commissariat aux langues officielles du Nouveau-Brunswick, <i>Rapport annuel 2018-2019</i> (Fredericton: CLONB, October 2019) at para 123.
 IBID
   <i>Ibid</i>.
 IBID w/LOCATOR
@@ -33,7 +33,7 @@ SUBSEQUENT w/BACKREF+LOCATOR
   <i>supra</i> note 1 at 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">Commissariat aux langues officielles du Nouveau-Brunswick, <i>Rapport annuel 2018-2019</i> (Fredericton: CLONB, 2019).</div>
+  <div class="csl-entry">Commissariat aux langues officielles du Nouveau-Brunswick, <i>Rapport annuel 2018-2019</i> (Fredericton: CLONB, October 2019).</div>
 </div>
 <<===== RESULT =====<<
 

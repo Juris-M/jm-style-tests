@@ -64,7 +64,6 @@ BIBLIOGRAPHY
       "_keys": {}
     },
     "publisher": "BCLN",
-    "jurisdiction": "ca",
     "authority": "Bureau du commissaire aux langues du Nunavut",
     "language-name": "fr"
   }

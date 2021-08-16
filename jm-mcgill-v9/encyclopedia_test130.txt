@@ -1,0 +1,71 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "EHT5Z6MD"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test130
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  François Larocque, “Fascicule 4: Langue et droits constitutionnel” in Stéphane Beaulac &#38; Jean-François Gaudreault-Desbiens, ed, JCQ Droit constitutionnel.
+FIRST w/LOCATOR
+  François Larocque, “Fascicule 4: Langue et droits constitutionnel” at 123, in Stéphane Beaulac &#38; Jean-François Gaudreault-Desbiens, ed, JCQ Droit constitutionnel.
+FIRST w/LABEL
+  François Larocque, “Fascicule 4: Langue et droits constitutionnel” at para 123, in Stéphane Beaulac &#38; Jean-François Gaudreault-Desbiens, ed, JCQ Droit constitutionnel.
+IBID
+  <i>Ibid</i>.
+IBID w/LOCATOR
+  <i>Ibid</i> at 123.
+SUBSEQUENT
+  [CSL STYLE ERROR: reference with no printed form.].
+SUBSEQUENT w/LOCATOR
+  <i>supra</i> note at 123.
+SUBSEQUENT w/BACKREF
+  <i>supra</i> note 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  <i>supra</i> note 1 at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Larocque, François, “Fascicule 4: Langue et droits constitutionnel” in Stéphane Beaulac &#38; Jean-François Gaudreault-Desbiens, ed, JCQ Droit constitutionnel.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "entry-encyclopedia",
+    "title": "Fascicule 4 : Langue et droits constitutionnel",
+    "author": [
+      {
+        "given": "François",
+        "family": "Larocque"
+      }
+    ],
+    "editor": [
+      {
+        "given": "Stéphane",
+        "family": "Beaulac"
+      },
+      {
+        "given": "Jean-François",
+        "family": "Gaudreault-Desbiens"
+      }
+    ],
+    "container-title": "JCQ",
+    "collection-title": "Droit constitutionnel",
+    "language": "fr",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "language-name": "fr"
+  }
+]
+<<===== INPUT =====<<

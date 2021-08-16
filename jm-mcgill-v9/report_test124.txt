@@ -54,7 +54,6 @@ BIBLIOGRAPHY
       "_keys": {}
     },
     "publisher": "Sa Majesté la Reine du chef du Canada, représentée par le président du Conseil du Trésor",
-    "jurisdiction": "ca",
     "authority": "Secrétariat du Conseil du Trésor du Canada",
     "language-name": "fr"
   }

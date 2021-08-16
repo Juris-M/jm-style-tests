@@ -65,7 +65,6 @@ BIBLIOGRAPHY
       "_keys": {}
     },
     "publisher": "CLONB",
-    "jurisdiction": "ca",
     "authority": "Commissariat aux langues officielles du Nouveau-Brunswick",
     "language-name": "fr"
   }

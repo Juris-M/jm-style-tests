@@ -1,0 +1,75 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "SSRAB32J"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test134
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  D 2019-253, (2020) Gaz N-B, 30 (Loi sur les langues officielles).
+FIRST w/LOCATOR
+  D 2019-253, (2020) Gaz N-B, 30 (Loi sur les langues officielles).
+FIRST w/LABEL
+  D 2019-253, (2020) Gaz N-B, 30 (Loi sur les langues officielles).
+IBID
+  <i>Ibid</i>.
+IBID w/LOCATOR
+  <i>Ibid</i> at 123.
+SUBSEQUENT
+  [CSL STYLE ERROR: reference with no printed form.].
+SUBSEQUENT w/LOCATOR
+  <i>Supra</i> at 123.
+SUBSEQUENT w/BACKREF
+  <i>Supra</i> note 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  <i>Supra</i> note 1 at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">D 2019-253, (2020) Gaz N-B, 30 (Loi sur les langues officielles).</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "gazette",
+    "container-title": "Loi sur les langues officielles",
+    "volume": "N-B",
+    "number": "D 2019-253",
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          8,
+          1
+        ]
+      ]
+    },
+    "page": "30",
+    "URL": "https://www2.gnb.ca/content/dam/gnb/Corporate/Gazette/2020/rg20201111.pdf",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          8,
+          13
+        ]
+      ]
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "jurisdiction": "ca:nb"
+  }
+]
+<<===== INPUT =====<<
