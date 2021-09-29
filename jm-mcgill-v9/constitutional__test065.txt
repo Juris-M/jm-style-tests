@@ -1,0 +1,66 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "1"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  <i>Constitution Act, 1867</i> (UK), 1867, reprinted in RCS 1985, Appendix II, No 5.
+FIRST w/LOCATOR
+  <i>Constitution Act, 1867</i> (UK), 1867, 123, reprinted in RCS 1985, Appendix II, No 5.
+FIRST w/LABEL
+  <i>Constitution Act, 1867</i> (UK), 1867, paragraph 123, reprinted in RCS 1985, Appendix II, No 5.
+IBID
+  <i>Ibid</i>.
+IBID w/LOCATOR
+  <i>Ibid</i>, 123.
+SUBSEQUENT
+  [CSL STYLE ERROR: reference with no printed form.].
+SUBSEQUENT w/LOCATOR
+  <i>Supra</i> 123.
+SUBSEQUENT w/BACKREF
+  <i>Supra</i> note 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  <i>Supra</i> note 1, 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry"><i>Constitution Act, 1867</i> (UK), 1867, reprinted in RCS 1985, Appendix II, No 5.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "1",
+    "type": "legislation",
+    "title": "Constitution Act, 1867",
+    "container-title": "RCS 1985",
+    "number": "5",
+    "page": "2",
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "jurisdiction": "gb",
+    "genre": "Vict",
+    "collection-number": "30 & 31",
+    "issued": {
+      "date-parts": [
+        [
+          1867
+        ]
+      ]
+    }
+  }
+]
+<<===== INPUT =====<<

@@ -1,0 +1,77 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "RPYPXJWC"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test140
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  <i>International Covenant on Civil and Political Rights</i>, 19 December 1966, 999 UNTS 171 (entered into force 23 March 1976, accession by Canada 19 May 1976).
+FIRST w/LOCATOR
+  <i>International Covenant on Civil and Political Rights</i>, 19 December 1966, 999 UNTS 171 at 123 (entered into force 23 March 1976, accession by Canada 19 May 1976).
+FIRST w/LABEL
+  <i>International Covenant on Civil and Political Rights</i>, 19 December 1966, 999 UNTS 171 at para 123 (entered into force 23 March 1976, accession by Canada 19 May 1976).
+IBID
+  <i>Ibid</i>.
+IBID w/LOCATOR
+  <i>Ibid</i> at 123.
+SUBSEQUENT
+  [CSL STYLE ERROR: reference with no printed form.].
+SUBSEQUENT w/LOCATOR
+  <i>supra</i> note at 123.
+SUBSEQUENT w/BACKREF
+  <i>supra</i> note 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  <i>supra</i> note 1 at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry"><i>International Covenant on Civil and Political Rights</i>, 19 December 1966, 999 UNTS 171 (entered into force 23 March 1976, accession by Canada 19 May 1976).</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "treaty",
+    "title": "International Covenant on Civil and Political Rights",
+    "issued": {
+      "raw": "23-03-1976"
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "volume": "999",
+    "container-title": "UNTS",
+    "page": "171",
+    "version": "Canada",
+    "original-date": {
+      "date-parts": [
+        [
+          1976,
+          5,
+          19
+        ]
+      ]
+    },
+    "event-date": {
+      "date-parts": [
+        [
+          1966,
+          12,
+          19
+        ]
+      ]
+    }
+  }
+]
+<<===== INPUT =====<<

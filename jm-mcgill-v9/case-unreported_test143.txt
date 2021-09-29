@@ -1,0 +1,64 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "SB96PQYH"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test143
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  <i>Bertrand v Dussault</i>, (30 January 1909), (Man County Court).
+FIRST w/LOCATOR
+  <i>Bertrand v Dussault</i>, (30 January 1909), (Man County Court) at 123.
+FIRST w/LABEL
+  <i>Bertrand v Dussault</i>, (30 January 1909), (Man County Court) at para 123.
+IBID
+  <i>Ibid</i>.
+IBID w/LOCATOR
+  <i>Ibid</i> at 123.
+SUBSEQUENT
+  [CSL STYLE ERROR: reference with no printed form.].
+SUBSEQUENT w/LOCATOR
+  <i>Supra</i> at 123.
+SUBSEQUENT w/BACKREF
+  <i>Supra</i> note 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  <i>Supra</i> note 1 at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry"><i>Bertrand v Dussault</i>, (30 January 1909), (Man County Court).</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_case",
+    "title": "Bertrand v Dussault",
+    "authority": "County Court",
+    "issued": {
+      "date-parts": [
+        [
+          1909,
+          1,
+          30
+        ]
+      ]
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "jurisdiction": "ca:mb",
+    "division": "Saint Boniface"
+  }
+]
+<<===== INPUT =====<<

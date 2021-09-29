@@ -16,21 +16,21 @@ should pass test style_test072
 FIRST
   <i>Civil Marriage Act</i>, SC 2005, c 33.
 FIRST w/LOCATOR
-  <i>Civil Marriage Act</i>, SC 2005, c 33, art 123.
+  <i>Civil Marriage Act</i>, SC 2005, c 33, s 123.
 FIRST w/LABEL
-  <i>Civil Marriage Act</i>, SC 2005, c 33, art 123.
+  <i>Civil Marriage Act</i>, SC 2005, c 33, s 123.
 IBID
   <i>Ibid</i>.
 IBID w/LOCATOR
-  <i>Ibid</i>, art 123.
+  <i>Ibid</i>, s 123.
 SUBSEQUENT
   [CSL STYLE ERROR: reference with no printed form.].
 SUBSEQUENT w/LOCATOR
-  <i>Supra</i> art 123.
+  <i>Supra</i> s 123.
 SUBSEQUENT w/BACKREF
   <i>Supra</i> note 1.
 SUBSEQUENT w/BACKREF+LOCATOR
-  <i>Supra</i> note 1, art 123.
+  <i>Supra</i> note 1, s 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry"><i>Civil Marriage Act</i>, SC 2005, c 33.</div>
@@ -43,7 +43,7 @@ BIBLIOGRAPHY
     "type": "legislation",
     "title": "Civil Marriage Act",
     "container-title": "SC",
-    "number": "33",
+    "volume": "33",
     "issued": {
       "date-parts": [
         [

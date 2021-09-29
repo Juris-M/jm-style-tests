@@ -1,0 +1,74 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "Y8BH7QMB"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test132
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  Atholville, Règlement No Z-22, <i>Arrêté règlementant l’affichage commerical extérieur</i> (14 March 2011).
+FIRST w/LOCATOR
+  Atholville, Règlement No Z-22, <i>Arrêté règlementant l’affichage commerical extérieur</i> (14 March 2011), at 123.
+FIRST w/LABEL
+  Atholville, Règlement No Z-22, <i>Arrêté règlementant l’affichage commerical extérieur</i> (14 March 2011), at para 123.
+IBID
+  <i>Ibid</i>.
+IBID w/LOCATOR
+  <i>Ibid</i>, at 123.
+SUBSEQUENT
+  [CSL STYLE ERROR: reference with no printed form.].
+SUBSEQUENT w/LOCATOR
+  <i>Supra</i> at 123.
+SUBSEQUENT w/BACKREF
+  <i>Supra</i> note 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  <i>Supra</i> note 1, at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Atholville, Règlement No Z-22, <i>Arrêté règlementant l’affichage commerical extérieur</i> (14 March 2011).</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "regulation",
+    "title": "Arrêté règlementant l'affichage commerical extérieur",
+    "volume": "Z-22",
+    "issued": {
+      "date-parts": [
+        [
+          2011,
+          3,
+          14
+        ]
+      ]
+    },
+    "note": "",
+    "multi": {
+      "main": {
+        "genre": "fr-CA"
+      },
+      "_keys": {
+        "title": {
+          "en-CA": "A By-Law Regulating External Commercial Signs"
+        },
+        "genre": {
+          "en-CA": "Regulation"
+        }
+      }
+    },
+    "jurisdiction": "ca",
+    "authority": "Atholville",
+    "genre": "Règlement"
+  }
+]
+<<===== INPUT =====<<

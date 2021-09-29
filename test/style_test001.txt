@@ -1,0 +1,36 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "ZUP6Q3LR"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+This should render the english abbreviations for Canada and New-Brunswick
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  english: ; Country-long: ca; Country-short: Can; court: provincial.court; Court-code: NBPC; Juris-long: ca:nb; Juris-short: NB
+FIRST w/LOCATOR
+  english: ; Country-long: ca; Country-short: Can; court: provincial.court; Court-code: NBPC; Juris-long: ca:nb; Juris-short: NB
+FIRST w/LABEL
+  english: ; Country-long: ca; Country-short: Can; court: provincial.court; Court-code: NBPC; Juris-long: ca:nb; Juris-short: NB
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Country-long: ca; Country-short: Can; Juris-long: ca:nb; Juris-short: NB</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_case",
+    "authority": "provincial.court",
+    "jurisdiction": "ca:nb"
+  }
+]
+<<===== INPUT =====<<

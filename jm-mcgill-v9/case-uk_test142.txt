@@ -1,0 +1,66 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "XAPSAVJP"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test142
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  <i>Ottawa Separate School Trustees v MacKell</i>, [1916] UKPC 92.
+FIRST w/LOCATOR
+  <i>Ottawa Separate School Trustees v MacKell</i>, [1916] UKPC 92, 123.
+FIRST w/LABEL
+  <i>Ottawa Separate School Trustees v MacKell</i>, [1916] UKPC 92, paragraph 123.
+IBID
+  <i>Ibid</i>.
+IBID w/LOCATOR
+  <i>Ibid</i> 123.
+SUBSEQUENT
+  [CSL STYLE ERROR: reference with no printed form.].
+SUBSEQUENT w/LOCATOR
+  <i>Supra</i> 123.
+SUBSEQUENT w/BACKREF
+  <i>Supra</i> note 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  <i>Supra</i> note 1 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry"><i>Ottawa Separate School Trustees v MacKell</i>, [1916] UKPC 92.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_case",
+    "title": "Ottawa Separate School Trustees v. MacKell",
+    "authority": "privy.council",
+    "URL": "https://canlii.ca/t/gw6nw",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "page": "92",
+    "jurisdiction": "gb",
+    "collection-number": "1916"
+  }
+]
+<<===== INPUT =====<<

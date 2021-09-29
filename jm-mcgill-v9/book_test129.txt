@@ -1,0 +1,72 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "4YAD2UTL"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test129
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  Michel Bastarache &#38; Michel Doucet, ed, <i>Les droits linguistiques au Canada</i>, 3d ed (Cowansville, Québec, Canada: Éditions Yvon Blais, 2014).
+FIRST w/LOCATOR
+  Michel Bastarache &#38; Michel Doucet, ed, <i>Les droits linguistiques au Canada</i>, 3d ed (Cowansville, Québec, Canada: Éditions Yvon Blais, 2014) at 123.
+FIRST w/LABEL
+  Michel Bastarache &#38; Michel Doucet, ed, <i>Les droits linguistiques au Canada</i>, 3d ed (Cowansville, Québec, Canada: Éditions Yvon Blais, 2014) at para 123.
+IBID
+  <i>Ibid</i>.
+IBID w/LOCATOR
+  <i>Ibid</i> at 123.
+SUBSEQUENT
+  Bastarache &#38; Doucet, <i>supra</i> note.
+SUBSEQUENT w/LOCATOR
+  Bastarache &#38; Doucet, <i>supra</i> note at 123.
+SUBSEQUENT w/BACKREF
+  Bastarache &#38; Doucet, <i>supra</i> note 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  Bastarache &#38; Doucet, <i>supra</i> note 1 at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry"><i>Les droits linguistiques au Canada</i>, 3d ed, Michel Bastarache &#38; Michel Doucet, ed (Cowansville, Québec, Canada: Éditions Yvon Blais, 2014).</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "book",
+    "title": "Les droits linguistiques au Canada",
+    "editor": [
+      {
+        "given": "Michel",
+        "family": "Bastarache"
+      },
+      {
+        "given": "Michel",
+        "family": "Doucet"
+      }
+    ],
+    "edition": "3",
+    "publisher-place": "Cowansville, Québec, Canada",
+    "publisher": "Éditions Yvon Blais",
+    "issued": {
+      "raw": "2014"
+    },
+    "number-of-pages": "1277",
+    "ISBN": "978-2-89635-993-6",
+    "source": "Library of Congress ISBN",
+    "call-number": "KE4413 .D76 2014",
+    "note": "OCLC: ocn868824216",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<

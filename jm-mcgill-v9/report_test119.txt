@@ -53,7 +53,6 @@ BIBLIOGRAPHY
       "_keys": {}
     },
     "publisher": "Ministre des Services publics et de l’Approvisionnement et de l'Accessibilité",
-    "jurisdiction": "ca",
     "authority": "Commissariat aux langues officielles"
   }
 ]
