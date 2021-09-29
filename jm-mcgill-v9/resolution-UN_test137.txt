@@ -1,0 +1,69 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "FNUVCSQ2"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test137
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  <i>International Covenant on Civil and Political Rights</i>, GA Res 2200A (XXI), UNGAOR, 21st Sess, Supp No 16, UN Doc A/6546 (1966) 32.
+FIRST w/LOCATOR
+  <i>International Covenant on Civil and Political Rights</i>, GA Res 2200A (XXI), UNGAOR, 21st Sess, Supp No 16, UN Doc A/6546 (1966) 32 123.
+FIRST w/LABEL
+  <i>International Covenant on Civil and Political Rights</i>, GA Res 2200A (XXI), UNGAOR, 21st Sess, Supp No 16, UN Doc A/6546 (1966) 32 paragraph 123.
+IBID
+  <i>Ibid</i>.
+IBID w/LOCATOR
+  <i>Ibid</i> 123.
+SUBSEQUENT
+  [CSL STYLE ERROR: reference with no printed form.].
+SUBSEQUENT w/LOCATOR
+  <i>Supra</i> 123.
+SUBSEQUENT w/BACKREF
+  <i>Supra</i> note 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  <i>Supra</i> note 1 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry"><i>International Covenant on Civil and Political Rights</i>, GA Res 2200A (XXI), UNGAOR, 21st Sess, Supp No 16, UN Doc A/6546 (1966) 32.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "bill",
+    "title": "International Covenant on Civil and Political Rights",
+    "number": "2200A (XXI)",
+    "volume": "16",
+    "page": "32-58",
+    "authority": "UNGAOR",
+    "chapter-number": "21",
+    "issued": {
+      "date-parts": [
+        [
+          1966,
+          12,
+          16
+        ]
+      ]
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "archive_location": "A/6546",
+    "jurisdiction": "un.int",
+    "event": "GA Res"
+  }
+]
+<<===== INPUT =====<<

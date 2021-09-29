@@ -1,0 +1,75 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "D3MXIAX4"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test141
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  <i>Brophy v Manitoba (AG)</i>, [1895] UKPC 202.
+FIRST w/LOCATOR
+  <i>Brophy v Manitoba (AG)</i>, [1895] UKPC 202, 123.
+FIRST w/LABEL
+  <i>Brophy v Manitoba (AG)</i>, [1895] UKPC 202, paragraph 123.
+IBID
+  <i>Ibid</i>.
+IBID w/LOCATOR
+  <i>Ibid</i> 123.
+SUBSEQUENT
+  [CSL STYLE ERROR: reference with no printed form.].
+SUBSEQUENT w/LOCATOR
+  <i>Supra</i> 123.
+SUBSEQUENT w/BACKREF
+  <i>Supra</i> note 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  <i>Supra</i> note 1 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry"><i>Brophy v Manitoba (AG)</i>, [1895] UKPC 202.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_case",
+    "title": "Brophy v Manitoba (AG)",
+    "authority": "privy.council",
+    "page": "202",
+    "URL": "https://www.bailii.org/cgi-bin/format.cgi?doc=/uk/cases/UKPC/1895/1895_1.html&query=(brophy)+AND+(v)+AND+(manitoba)",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          9,
+          20
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          1895,
+          1,
+          29
+        ]
+      ]
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "jurisdiction": "gb",
+    "collection-number": "1895"
+  }
+]
+<<===== INPUT =====<<

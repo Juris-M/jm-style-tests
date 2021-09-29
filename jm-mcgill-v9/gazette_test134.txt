@@ -14,11 +14,11 @@ should pass test style_test134
 
 >>===== RESULT =====>>
 FIRST
-  D 2019-253, (2020) Gaz N-B, 30 (Loi sur les langues officielles).
+  D 2019-253, (2020) Gaz N-B, 30 (<i>Loi sur les langues officielles</i>).
 FIRST w/LOCATOR
-  D 2019-253, (2020) Gaz N-B, 30 (Loi sur les langues officielles).
+  D 2019-253, (2020) Gaz N-B, 30 (<i>Loi sur les langues officielles</i>) at 123.
 FIRST w/LABEL
-  D 2019-253, (2020) Gaz N-B, 30 (Loi sur les langues officielles).
+  D 2019-253, (2020) Gaz N-B, 30 (<i>Loi sur les langues officielles</i>) at para 123.
 IBID
   <i>Ibid</i>.
 IBID w/LOCATOR
@@ -26,14 +26,13 @@ IBID w/LOCATOR
 SUBSEQUENT
   [CSL STYLE ERROR: reference with no printed form.].
 SUBSEQUENT w/LOCATOR
-  <i>Supra</i> at 123.
+  <i>Supra</i> note at 123.
 SUBSEQUENT w/BACKREF
   <i>Supra</i> note 1.
 SUBSEQUENT w/BACKREF+LOCATOR
   <i>Supra</i> note 1 at 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">D 2019-253, (2020) Gaz N-B, 30 (Loi sur les langues officielles).</div>
 </div>
 <<===== RESULT =====<<
 

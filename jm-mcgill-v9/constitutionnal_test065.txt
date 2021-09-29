@@ -1,0 +1,359 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "1",
+  "2"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+AT Case with parallel citations
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+>>[0] <i>Constitution Act, 1982</i>, being Schedule B to the <i>Canada Act 1982</i> (UK), 1982, c 11.
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "1",
+    "type": "legislation",
+    "title": "Constitution Act, 1982",
+    "issued": {
+      "date-parts": [
+        [
+          1982
+        ]
+      ]
+    },
+    "page": "B",
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "jurisdiction": "ca",
+    "language-name": "en",
+    "seeAlso": [
+      "2"
+    ]
+  },
+  {
+    "id": "2",
+    "type": "legislation",
+    "title": "Canada Act 1982",
+    "container-title": "RSC 1985",
+    "volume": "11",
+    "number": "44",
+    "issued": {
+      "date-parts": [
+        [
+          1982
+        ]
+      ]
+    },
+    "page": "2",
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {
+        "title": {
+          "fr-CA": "Loi de 1982 sur le Canada"
+        }
+      }
+    },
+    "jurisdiction": "gb",
+    "language-name": "en",
+    "seeAlso": [
+      "1"
+    ]
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== CITATIONS =====>>
+[
+  [
+    {
+      "citationID": "CITATION-1",
+      "citationItems": [
+        {
+          "id": "1",
+          "item": {
+            "id": "1",
+            "type": "legislation",
+            "title": "Constitution Act, 1982",
+            "issued": {
+              "year": 1982
+            },
+            "page": "B",
+            "note": "",
+            "multi": {
+              "main": {},
+              "_keys": {}
+            },
+            "jurisdiction": "ca",
+            "language-name": "en",
+            "seeAlso": [
+              "2"
+            ],
+            "page-first": "B",
+            "legislation_id": "legislation::Constitution Act, 1982::ca::1982",
+            "title-main": "Constitution Act, 1982",
+            "title-sub": "",
+            "title-subjoin": "",
+            "country": "ca",
+            "best-jurisdiction": "ca"
+          }
+        },
+        {
+          "id": "2",
+          "item": {
+            "id": "2",
+            "type": "legislation",
+            "title": "Canada Act 1982",
+            "container-title": "RSC 1985",
+            "volume": "11",
+            "number": "44",
+            "issued": {
+              "year": 1982
+            },
+            "page": "2",
+            "note": "",
+            "multi": {
+              "main": {},
+              "_keys": {
+                "title": {
+                  "fr-CA": "Loi de 1982 sur le Canada"
+                }
+              }
+            },
+            "jurisdiction": "gb",
+            "language-name": "en",
+            "seeAlso": [
+              "1"
+            ],
+            "page-first": "2",
+            "legislation_id": "legislation::Canada Act 1982::gb::11::RSC 1985::1982",
+            "title-main": "Canada Act 1982",
+            "title-sub": "",
+            "title-subjoin": "",
+            "country": "gb",
+            "best-jurisdiction": "gb"
+          }
+        }
+      ],
+      "properties": {
+        "noteIndex": 1,
+        "index": 0
+      },
+      "sortedItems": [
+        [
+          {
+            "id": "1",
+            "type": "legislation",
+            "title": "Constitution Act, 1982",
+            "issued": {
+              "year": 1982
+            },
+            "page": "B",
+            "note": "",
+            "multi": {
+              "main": {},
+              "_keys": {}
+            },
+            "jurisdiction": "ca",
+            "language-name": "en",
+            "seeAlso": [
+              "2"
+            ],
+            "page-first": "B",
+            "legislation_id": "legislation::Constitution Act, 1982::ca::1982",
+            "title-main": "Constitution Act, 1982",
+            "title-sub": "",
+            "title-subjoin": "",
+            "country": "ca",
+            "best-jurisdiction": "ca"
+          },
+          {
+            "id": "1",
+            "item": {
+              "id": "1",
+              "type": "legal_case",
+              "title": "Vriend v. Alberta",
+              "authority": [
+                {
+                  "literal": "supreme.court",
+                  "multi": {
+                    "_key": {}
+                  }
+                }
+              ],
+              "issued": {
+                "year": 1998,
+                "month": 4,
+                "day": 2
+              },
+              "number": "25285",
+              "volume": "1",
+              "page": "493",
+              "language": "en",
+              "URL": "https://canlii.ca/t/1fqt5",
+              "accessed": {
+                "year": 2021,
+                "month": 5,
+                "day": 7
+              },
+              "note": "",
+              "multi": {
+                "main": {},
+                "_keys": {
+                  "container-title": {
+                    "fr": "RCS"
+                  },
+                  "title": {
+                    "fr": "Vriend c. Alberta"
+                  }
+                }
+              },
+              "archive": "CanLII",
+              "archive_location": "816",
+              "container-title": "SCR",
+              "jurisdiction": "ca",
+              "collection-number": "1998",
+              "submitted": {
+                "year": 1998
+              },
+              "language-name": "en",
+              "seeAlso": [
+                "2"
+              ],
+              "page-first": "493",
+              "title-main": "Vriend v",
+              "title-sub": "Alberta",
+              "title-subjoin": ". ",
+              "country": "ca",
+              "best-jurisdiction": "ca"
+            },
+            "label": "",
+            "parallel": "first",
+            "first-reference-note-number": 0,
+            "first-container-reference-note-number": 0,
+            "near-note": false,
+            "position": 0,
+            "section_form_override": "short"
+          }
+        ],
+        [
+          {
+            "id": "2",
+            "type": "legislation",
+            "title": "Canada Act 1982",
+            "container-title": "RSC 1985",
+            "volume": "11",
+            "number": "44",
+            "issued": {
+              "year": 1982
+            },
+            "page": "2",
+            "note": "",
+            "multi": {
+              "main": {},
+              "_keys": {
+                "title": {
+                  "fr-CA": "Loi de 1982 sur le Canada"
+                }
+              }
+            },
+            "jurisdiction": "gb",
+            "language-name": "en",
+            "seeAlso": [
+              "1"
+            ],
+            "page-first": "2",
+            "legislation_id": "legislation::Canada Act 1982::gb::11::RSC 1985::1982",
+            "title-main": "Canada Act 1982",
+            "title-sub": "",
+            "title-subjoin": "",
+            "country": "gb",
+            "best-jurisdiction": "gb"
+          },
+          {
+            "id": "2",
+            "item": {
+              "id": "2",
+              "type": "legal_case",
+              "title": "Vriend v. Alberta",
+              "authority": [
+                {
+                  "literal": "supreme.court",
+                  "multi": {
+                    "_key": {}
+                  }
+                }
+              ],
+              "issued": {
+                "year": 1998,
+                "month": 4,
+                "day": 2
+              },
+              "number": "25285",
+              "volume": "224",
+              "page": "1",
+              "language": "en",
+              "URL": "https://canlii.ca/t/1fqt5",
+              "accessed": {
+                "year": 2021,
+                "month": 5,
+                "day": 7
+              },
+              "note": "",
+              "multi": {
+                "main": {},
+                "_keys": {
+                  "container-title": {
+                    "fr": "NR"
+                  },
+                  "title": {
+                    "fr": "Vriend c. Alberta"
+                  }
+                }
+              },
+              "archive": "CanLII",
+              "archive_location": "816",
+              "container-title": "NR",
+              "jurisdiction": "ca",
+              "submitted": {
+                "year": 1998
+              },
+              "language-name": "en",
+              "seeAlso": [
+                "1"
+              ],
+              "page-first": "1",
+              "title-main": "Vriend v",
+              "title-sub": "Alberta",
+              "title-subjoin": ". ",
+              "country": "ca",
+              "best-jurisdiction": "ca"
+            },
+            "label": "",
+            "parallel": "other",
+            "first-reference-note-number": 0,
+            "first-container-reference-note-number": 0,
+            "near-note": false,
+            "position": 0
+          }
+        ]
+      ]
+    },
+    [],
+    []
+  ]
+]
+<<===== CITATIONS =====<<
