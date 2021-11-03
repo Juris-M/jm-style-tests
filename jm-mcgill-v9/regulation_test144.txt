@@ -1,0 +1,75 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "FBGS4N8A"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test144
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  <i>Règlement sur l’heure avancée et les fuseaux horaires</i>, Règl Nu 045-1999.
+FIRST w/LOCATOR
+  <i>Règlement sur l’heure avancée et les fuseaux horaires</i>, Règl Nu 045-1999, at 123.
+FIRST w/LABEL
+  <i>Règlement sur l’heure avancée et les fuseaux horaires</i>, Règl Nu 045-1999, at para 123.
+IBID
+  <i>Ibid</i>.
+IBID w/LOCATOR
+  <i>Ibid</i>, at 123.
+SUBSEQUENT
+  [CSL STYLE ERROR: reference with no printed form.].
+SUBSEQUENT w/LOCATOR
+  <i>Supra</i> at 123.
+SUBSEQUENT w/BACKREF
+  <i>Supra</i> note 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  <i>Supra</i> note 1, at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry"><i>Règlement sur l’heure avancée et les fuseaux horaires</i>, Règl Nu 045-1999.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "regulation",
+    "title": "Règlement sur l'heure avancée et les fuseaux horaires",
+    "container-title": "Règl Nu",
+    "volume": "1999",
+    "number": "045",
+    "language": "fr",
+    "URL": "https://canlii.ca/t/p6b2",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          11,
+          3
+        ]
+      ]
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {
+        "container-title": {
+          "en": "Nu Reg"
+        },
+        "title": {
+          "en": "Time Zone and Daylight Saving Time Regulations"
+        }
+      }
+    },
+    "jurisdiction": "ca:nu",
+    "language-name": "fr"
+  }
+]
+<<===== INPUT =====<<

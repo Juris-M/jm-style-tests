@@ -1,0 +1,76 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "23R8ZCMM"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test169
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  <i>Explosives Regulations</i>, RRNWT 1990, c E-27.
+FIRST w/LOCATOR
+  <i>Explosives Regulations</i>, RRNWT 1990, c E-27, at 123.
+FIRST w/LABEL
+  <i>Explosives Regulations</i>, RRNWT 1990, c E-27, at para 123.
+IBID
+  <i>Ibid</i>.
+IBID w/LOCATOR
+  <i>Ibid</i>, at 123.
+SUBSEQUENT
+  [CSL STYLE ERROR: reference with no printed form.].
+SUBSEQUENT w/LOCATOR
+  <i>Supra</i> at 123.
+SUBSEQUENT w/BACKREF
+  <i>Supra</i> note 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  <i>Supra</i> note 1, at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry"><i>Explosives Regulations</i>, RRNWT 1990, c E-27.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "regulation",
+    "title": "Explosives Regulations",
+    "container-title": "RRNWT",
+    "volume": "1990",
+    "number": "E-27",
+    "language": "en",
+    "URL": "https://canlii.ca/t/kd6x",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          11,
+          3
+        ]
+      ]
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {
+        "container-title": {
+          "fr": "RRTN-O"
+        },
+        "title": {
+          "fr": "Règlement sur les explosifs"
+        }
+      }
+    },
+    "jurisdiction": "ca:nt",
+    "genre": "Revised",
+    "language-name": "en"
+  }
+]
+<<===== INPUT =====<<

@@ -1,0 +1,68 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "B6PGVPJG"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test168
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  <i>Freedom of Information and Protection of Privacy Act General Regulations</i>, PEI Reg EC564-02.
+FIRST w/LOCATOR
+  <i>Freedom of Information and Protection of Privacy Act General Regulations</i>, PEI Reg EC564-02, at 123.
+FIRST w/LABEL
+  <i>Freedom of Information and Protection of Privacy Act General Regulations</i>, PEI Reg EC564-02, at para 123.
+IBID
+  <i>Ibid</i>.
+IBID w/LOCATOR
+  <i>Ibid</i>, at 123.
+SUBSEQUENT
+  [CSL STYLE ERROR: reference with no printed form.].
+SUBSEQUENT w/LOCATOR
+  <i>Supra</i> at 123.
+SUBSEQUENT w/BACKREF
+  <i>Supra</i> note 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  <i>Supra</i> note 1, at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry"><i>Freedom of Information and Protection of Privacy Act General Regulations</i>, PEI Reg EC564-02.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "regulation",
+    "title": "Freedom of Information and Protection of Privacy Act General Regulations",
+    "container-title": "PEI Reg",
+    "volume": "02",
+    "number": "EC564",
+    "language": "en",
+    "URL": "https://canlii.ca/t/54qr5",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          11,
+          3
+        ]
+      ]
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "jurisdiction": "ca:pe",
+    "language-name": "en"
+  }
+]
+<<===== INPUT =====<<

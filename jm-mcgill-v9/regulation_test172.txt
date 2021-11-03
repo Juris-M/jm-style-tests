@@ -1,0 +1,68 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "9H6WATGQ"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test172
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  <i>The Subsurface Mineral Regulations, 1960</i>, Sask Reg 541/67.
+FIRST w/LOCATOR
+  <i>The Subsurface Mineral Regulations, 1960</i>, Sask Reg 541/67, at 123.
+FIRST w/LABEL
+  <i>The Subsurface Mineral Regulations, 1960</i>, Sask Reg 541/67, at para 123.
+IBID
+  <i>Ibid</i>.
+IBID w/LOCATOR
+  <i>Ibid</i>, at 123.
+SUBSEQUENT
+  [CSL STYLE ERROR: reference with no printed form.].
+SUBSEQUENT w/LOCATOR
+  <i>Supra</i> at 123.
+SUBSEQUENT w/BACKREF
+  <i>Supra</i> note 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  <i>Supra</i> note 1, at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry"><i>The Subsurface Mineral Regulations, 1960</i>, Sask Reg 541/67.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "regulation",
+    "title": "The Subsurface Mineral Regulations, 1960",
+    "container-title": "Sask Reg",
+    "volume": "67",
+    "number": "541",
+    "language": "en",
+    "URL": "https://canlii.ca/t/52zv0",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          11,
+          3
+        ]
+      ]
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "jurisdiction": "ca:sk",
+    "language-name": "en"
+  }
+]
+<<===== INPUT =====<<

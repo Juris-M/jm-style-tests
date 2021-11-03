@@ -1,0 +1,75 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "Z5HWIT6H"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test149
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  <i>Règlement sur la publicité de l’Ordre des dentistes du Québec</i>, D 784-82.
+FIRST w/LOCATOR
+  <i>Règlement sur la publicité de l’Ordre des dentistes du Québec</i>, D 784-82, at 123.
+FIRST w/LABEL
+  <i>Règlement sur la publicité de l’Ordre des dentistes du Québec</i>, D 784-82, at para 123.
+IBID
+  <i>Ibid</i>.
+IBID w/LOCATOR
+  <i>Ibid</i>, at 123.
+SUBSEQUENT
+  [CSL STYLE ERROR: reference with no printed form.].
+SUBSEQUENT w/LOCATOR
+  <i>Supra</i> at 123.
+SUBSEQUENT w/BACKREF
+  <i>Supra</i> note 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  <i>Supra</i> note 1, at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry"><i>Règlement sur la publicité de l’Ordre des dentistes du Québec</i>, D 784-82.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "regulation",
+    "title": "Règlement sur la publicité de l'Ordre des dentistes du Québec",
+    "container-title": "D",
+    "volume": "82",
+    "number": "784",
+    "language": "fr",
+    "URL": "https://canlii.ca/t/mfj0",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          11,
+          3
+        ]
+      ]
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {
+        "container-title": {
+          "en": "OC"
+        },
+        "title": {
+          "en": "Regulation respecting advertising of the Ordre des dentistes du Québec"
+        }
+      }
+    },
+    "jurisdiction": "ca:qc",
+    "language-name": "fr"
+  }
+]
+<<===== INPUT =====<<

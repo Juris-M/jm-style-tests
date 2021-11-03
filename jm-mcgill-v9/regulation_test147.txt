@@ -1,0 +1,76 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "ALXGXYV4"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test147
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  <i>Regulation respecting the language of commerce and business</i>, CQLR c C-11, r 9.
+FIRST w/LOCATOR
+  <i>Regulation respecting the language of commerce and business</i>, CQLR c C-11, r 9, at 123.
+FIRST w/LABEL
+  <i>Regulation respecting the language of commerce and business</i>, CQLR c C-11, r 9, at para 123.
+IBID
+  <i>Ibid</i>.
+IBID w/LOCATOR
+  <i>Ibid</i>, at 123.
+SUBSEQUENT
+  [CSL STYLE ERROR: reference with no printed form.].
+SUBSEQUENT w/LOCATOR
+  <i>Supra</i> at 123.
+SUBSEQUENT w/BACKREF
+  <i>Supra</i> note 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  <i>Supra</i> note 1, at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry"><i>Regulation respecting the language of commerce and business</i>, CQLR c C-11, r 9.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "regulation",
+    "title": "Regulation respecting the language of commerce and business",
+    "container-title": "CQLR",
+    "volume": "C-11,",
+    "number": "9",
+    "language": "en",
+    "URL": "https://canlii.ca/t/52vms",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          11,
+          3
+        ]
+      ]
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {
+        "container-title": {
+          "fr": "RLRQ"
+        },
+        "title": {
+          "fr": "Règlement sur la langue du commerce et des affaires"
+        }
+      }
+    },
+    "jurisdiction": "ca:qc",
+    "genre": "Revised",
+    "language-name": "en"
+  }
+]
+<<===== INPUT =====<<

@@ -1,0 +1,75 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "VNQWHD9Q"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test128
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  <i>Smart Meters: Cost Recovery</i>, O Reg 426/06.
+FIRST w/LOCATOR
+  <i>Smart Meters: Cost Recovery</i>, O Reg 426/06, at 123.
+FIRST w/LABEL
+  <i>Smart Meters: Cost Recovery</i>, O Reg 426/06, at para 123.
+IBID
+  <i>Ibid</i>.
+IBID w/LOCATOR
+  <i>Ibid</i>, at 123.
+SUBSEQUENT
+  [CSL STYLE ERROR: reference with no printed form.].
+SUBSEQUENT w/LOCATOR
+  <i>Supra</i> at 123.
+SUBSEQUENT w/BACKREF
+  <i>Supra</i> note 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  <i>Supra</i> note 1, at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry"><i>Smart Meters: Cost Recovery</i>, O Reg 426/06.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "regulation",
+    "title": "Smart Meters: Cost Recovery",
+    "container-title": "O Reg",
+    "volume": "06",
+    "number": "426",
+    "language": "en",
+    "URL": "https://canlii.ca/t/52w8w",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          11,
+          3
+        ]
+      ]
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {
+        "container-title": {
+          "fr": "Règl de l'Ont"
+        },
+        "title": {
+          "fr": "Compteurs intelligents : Recouvrement des frais"
+        }
+      }
+    },
+    "jurisdiction": "ca:on",
+    "language-name": "en"
+  }
+]
+<<===== INPUT =====<<

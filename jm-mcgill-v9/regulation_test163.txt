@@ -1,0 +1,75 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "5G9AY7DP"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test163
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  <i>Règlement sur le service d’urgence 911</i>, Règl des TN-O 089-2019.
+FIRST w/LOCATOR
+  <i>Règlement sur le service d’urgence 911</i>, Règl des TN-O 089-2019, at 123.
+FIRST w/LABEL
+  <i>Règlement sur le service d’urgence 911</i>, Règl des TN-O 089-2019, at para 123.
+IBID
+  <i>Ibid</i>.
+IBID w/LOCATOR
+  <i>Ibid</i>, at 123.
+SUBSEQUENT
+  [CSL STYLE ERROR: reference with no printed form.].
+SUBSEQUENT w/LOCATOR
+  <i>Supra</i> at 123.
+SUBSEQUENT w/BACKREF
+  <i>Supra</i> note 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  <i>Supra</i> note 1, at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry"><i>Règlement sur le service d’urgence 911</i>, Règl des TN-O 089-2019.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "regulation",
+    "title": "Règlement sur le service d'urgence 911",
+    "container-title": "Règl des TN-O",
+    "volume": "2019",
+    "number": "089",
+    "language": "fr",
+    "URL": "https://canlii.ca/t/6c498",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          11,
+          3
+        ]
+      ]
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {
+        "container-title": {
+          "en": "NWT Reg"
+        },
+        "title": {
+          "en": "9-1-1 Regulations"
+        }
+      }
+    },
+    "jurisdiction": "ca:nt",
+    "language-name": "fr"
+  }
+]
+<<===== INPUT =====<<

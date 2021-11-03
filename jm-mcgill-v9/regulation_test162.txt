@@ -1,0 +1,75 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "59BWMFS5"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test162
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  <i>General Regulation</i>, NB Reg 2000-8.
+FIRST w/LOCATOR
+  <i>General Regulation</i>, NB Reg 2000-8, at 123.
+FIRST w/LABEL
+  <i>General Regulation</i>, NB Reg 2000-8, at para 123.
+IBID
+  <i>Ibid</i>.
+IBID w/LOCATOR
+  <i>Ibid</i>, at 123.
+SUBSEQUENT
+  [CSL STYLE ERROR: reference with no printed form.].
+SUBSEQUENT w/LOCATOR
+  <i>Supra</i> at 123.
+SUBSEQUENT w/BACKREF
+  <i>Supra</i> note 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  <i>Supra</i> note 1, at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry"><i>General Regulation</i>, NB Reg 2000-8.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "regulation",
+    "title": "General Regulation",
+    "container-title": "NB Reg",
+    "volume": "2000",
+    "number": "8",
+    "language": "en",
+    "URL": "https://canlii.ca/t/5379c",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          11,
+          3
+        ]
+      ]
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {
+        "container-title": {
+          "fr": "Règl du N-B"
+        },
+        "title": {
+          "fr": "Règlement général"
+        }
+      }
+    },
+    "jurisdiction": "ca:nb",
+    "language-name": "en"
+  }
+]
+<<===== INPUT =====<<

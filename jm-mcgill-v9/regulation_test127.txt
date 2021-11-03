@@ -1,0 +1,75 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "YHDNJ26M"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test127
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  <i>Time Zone and Daylight Saving Time Regulations</i>, Nu Reg 045-99.
+FIRST w/LOCATOR
+  <i>Time Zone and Daylight Saving Time Regulations</i>, Nu Reg 045-99, at 123.
+FIRST w/LABEL
+  <i>Time Zone and Daylight Saving Time Regulations</i>, Nu Reg 045-99, at para 123.
+IBID
+  <i>Ibid</i>.
+IBID w/LOCATOR
+  <i>Ibid</i>, at 123.
+SUBSEQUENT
+  [CSL STYLE ERROR: reference with no printed form.].
+SUBSEQUENT w/LOCATOR
+  <i>Supra</i> at 123.
+SUBSEQUENT w/BACKREF
+  <i>Supra</i> note 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  <i>Supra</i> note 1, at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry"><i>Time Zone and Daylight Saving Time Regulations</i>, Nu Reg 045-99.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "regulation",
+    "title": "Time Zone and Daylight Saving Time Regulations",
+    "container-title": "Nu Reg",
+    "volume": "99",
+    "number": "045",
+    "language": "en",
+    "URL": "https://canlii.ca/t/kh6q",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          11,
+          3
+        ]
+      ]
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {
+        "container-title": {
+          "fr": "Règl Nu"
+        },
+        "title": {
+          "fr": "Règlement sur l'heure avancée et les fuseaux horaires"
+        }
+      }
+    },
+    "jurisdiction": "ca:nu",
+    "language-name": "en"
+  }
+]
+<<===== INPUT =====<<

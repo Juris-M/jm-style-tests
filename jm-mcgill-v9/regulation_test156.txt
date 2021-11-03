@@ -1,0 +1,75 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "Q42LDVHY"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test156
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  <i>Règlement sur les oiseaux migrateurs</i>, CRC, c 1035.
+FIRST w/LOCATOR
+  <i>Règlement sur les oiseaux migrateurs</i>, CRC, c 1035, at 123.
+FIRST w/LABEL
+  <i>Règlement sur les oiseaux migrateurs</i>, CRC, c 1035, at para 123.
+IBID
+  <i>Ibid</i>.
+IBID w/LOCATOR
+  <i>Ibid</i>, at 123.
+SUBSEQUENT
+  [CSL STYLE ERROR: reference with no printed form.].
+SUBSEQUENT w/LOCATOR
+  <i>Supra</i> at 123.
+SUBSEQUENT w/BACKREF
+  <i>Supra</i> note 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  <i>Supra</i> note 1, at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry"><i>Règlement sur les oiseaux migrateurs</i>, CRC, c 1035.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "regulation",
+    "title": "Règlement sur les oiseaux migrateurs",
+    "container-title": "CRC",
+    "volume": "1035",
+    "language": "fr",
+    "URL": "https://canlii.ca/t/6cdgt",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          11,
+          3
+        ]
+      ]
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {
+        "container-title": {
+          "en": "CRC"
+        },
+        "title": {
+          "en": "Migratory Birds Regulations"
+        }
+      }
+    },
+    "jurisdiction": "ca",
+    "genre": "Revised",
+    "language-name": "fr"
+  }
+]
+<<===== INPUT =====<<
