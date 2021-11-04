@@ -1,0 +1,61 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "WWKSSIUN"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test176
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  Parliament of Canada, “Instruction to the Honorable A Archibald,” <i>Sessional Papers</i>, No 20 (1871).
+FIRST w/LOCATOR
+  Parliament of Canada, “Instruction to the Honorable A Archibald,” <i>Sessional Papers</i>, No 20 (1871) at 123.
+FIRST w/LABEL
+  Parliament of Canada, “Instruction to the Honorable A Archibald,” <i>Sessional Papers</i>, No 20 (1871) at para 123.
+IBID
+  <i>Ibid</i>.
+IBID w/LOCATOR
+  <i>Ibid</i> at 123.
+SUBSEQUENT
+  [CSL STYLE ERROR: reference with no printed form.].
+SUBSEQUENT w/LOCATOR
+  <i>Supra</i> at 123.
+SUBSEQUENT w/BACKREF
+  <i>Supra</i> note 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  <i>Supra</i> note 1 at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Parliament of Canada, “Instruction to the Honorable A Archibald,” <i>Sessional Papers</i>, No 20 (1871).</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "report",
+    "title": "Instruction to the Honorable A Archibald",
+    "number": "20",
+    "collection-title": "Sessional Papers",
+    "issued": {
+      "raw": "1871"
+    },
+    "language": "en",
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "jurisdiction": "ca",
+    "authority": "Parliament of Canada",
+    "language-name": "en"
+  }
+]
+<<===== INPUT =====<<

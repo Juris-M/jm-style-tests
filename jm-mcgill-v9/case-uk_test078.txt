@@ -1,0 +1,66 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "UPFLM7T9"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test078
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  <i>Winnipeg (City of) v Barrett (Manitoba)</i>, [1892] UKPC 445.
+FIRST w/LOCATOR
+  <i>Winnipeg (City of) v Barrett (Manitoba)</i>, [1892] UKPC 445, 123.
+FIRST w/LABEL
+  <i>Winnipeg (City of) v Barrett (Manitoba)</i>, [1892] UKPC 445, paragraph 123.
+IBID
+  <i>Ibid</i>.
+IBID w/LOCATOR
+  <i>Ibid</i> 123.
+SUBSEQUENT
+  [CSL STYLE ERROR: reference with no printed form.].
+SUBSEQUENT w/LOCATOR
+  <i>Supra</i> 123.
+SUBSEQUENT w/BACKREF
+  <i>Supra</i> note 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  <i>Supra</i> note 1 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry"><i>Winnipeg (City of) v Barrett (Manitoba)</i>, [1892] UKPC 445.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_case",
+    "title": "Winnipeg (City of) v Barrett (Manitoba)",
+    "authority": "privy.council",
+    "page": "445",
+    "URL": "https://www.bailii.org/cgi-bin/format.cgi?doc=/uk/cases/UKPC/1892/1892_42.html&query=(Winnipeg)+AND+(v)+AND+(Barrett)",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "jurisdiction": "gb",
+    "collection-number": "1892"
+  }
+]
+<<===== INPUT =====<<
