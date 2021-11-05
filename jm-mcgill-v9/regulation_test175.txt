@@ -4,21 +4,21 @@ all
 
 >>===== KEYS =====>>
 [
-  "EC8CVIYX"
+  "2GMH9FEH"
 ]
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-should pass test style_test072
+should pass test style_test175
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
 FIRST
-  <i>Civil Marriage Act</i>, SC 2005, c 33.
+  <i>Règlement canadien sur la sûreté aérienne</i>, DORS/2000-111.
 FIRST w/LOCATOR
-  <i>Civil Marriage Act</i>, SC 2005, c 33, at 123.
+  <i>Règlement canadien sur la sûreté aérienne</i>, DORS/2000-111, at 123.
 FIRST w/LABEL
-  <i>Civil Marriage Act</i>, SC 2005, c 33, at para 123.
+  <i>Règlement canadien sur la sûreté aérienne</i>, DORS/2000-111, at para 123.
 IBID
   <i>Ibid</i>.
 IBID w/LOCATOR
@@ -33,32 +33,26 @@ SUBSEQUENT w/BACKREF+LOCATOR
   <i>Supra</i> note 1, at 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry"><i>Civil Marriage Act</i>, SC 2005, c 33.</div>
+  <div class="csl-entry"><i>Règlement canadien sur la sûreté aérienne</i>, DORS/2000-111.</div>
 </div>
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>
 [
   {
-    "type": "legislation",
-    "title": "Civil Marriage Act",
-    "container-title": "SC",
-    "volume": "33",
-    "issued": {
-      "date-parts": [
-        [
-          2005
-        ]
-      ]
-    },
-    "language": "en",
-    "URL": "https://canlii.ca/t/7w02",
+    "type": "regulation",
+    "title": "Règlement canadien sur la sûreté aérienne",
+    "container-title": "DORS",
+    "volume": "2000",
+    "number": "111",
+    "language": "fr",
+    "URL": "https://canlii.ca/t/pwb4",
     "accessed": {
       "date-parts": [
         [
           2021,
-          5,
-          12
+          11,
+          3
         ]
       ]
     },
@@ -67,15 +61,15 @@ BIBLIOGRAPHY
       "main": {},
       "_keys": {
         "container-title": {
-          "fr": "LC"
+          "en": "SOR"
         },
         "title": {
-          "fr": "Loi sur le mariage civil"
+          "en": "Canadian Aviation Security Regulations"
         }
       }
     },
     "jurisdiction": "ca",
-    "language-name": "en"
+    "language-name": "fr"
   }
 ]
 <<===== INPUT =====<<

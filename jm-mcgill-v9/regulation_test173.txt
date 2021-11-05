@@ -4,21 +4,21 @@ all
 
 >>===== KEYS =====>>
 [
-  "EC8CVIYX"
+  "F25Z3GIC"
 ]
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-should pass test style_test072
+should pass test style_test173
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
 FIRST
-  <i>Civil Marriage Act</i>, SC 2005, c 33.
+  <i>Town of Old Perlican Order</i>, CNLR 331/96.
 FIRST w/LOCATOR
-  <i>Civil Marriage Act</i>, SC 2005, c 33, at 123.
+  <i>Town of Old Perlican Order</i>, CNLR 331/96, at 123.
 FIRST w/LABEL
-  <i>Civil Marriage Act</i>, SC 2005, c 33, at para 123.
+  <i>Town of Old Perlican Order</i>, CNLR 331/96, at para 123.
 IBID
   <i>Ibid</i>.
 IBID w/LOCATOR
@@ -33,48 +33,36 @@ SUBSEQUENT w/BACKREF+LOCATOR
   <i>Supra</i> note 1, at 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry"><i>Civil Marriage Act</i>, SC 2005, c 33.</div>
+  <div class="csl-entry"><i>Town of Old Perlican Order</i>, CNLR 331/96.</div>
 </div>
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>
 [
   {
-    "type": "legislation",
-    "title": "Civil Marriage Act",
-    "container-title": "SC",
-    "volume": "33",
-    "issued": {
-      "date-parts": [
-        [
-          2005
-        ]
-      ]
-    },
+    "type": "regulation",
+    "title": "Town of Old Perlican Order",
+    "container-title": "CNLR",
+    "volume": "96",
+    "number": "331",
     "language": "en",
-    "URL": "https://canlii.ca/t/7w02",
+    "URL": "https://canlii.ca/t/k23d",
     "accessed": {
       "date-parts": [
         [
           2021,
-          5,
-          12
+          11,
+          3
         ]
       ]
     },
     "note": "",
     "multi": {
       "main": {},
-      "_keys": {
-        "container-title": {
-          "fr": "LC"
-        },
-        "title": {
-          "fr": "Loi sur le mariage civil"
-        }
-      }
+      "_keys": {}
     },
-    "jurisdiction": "ca",
+    "jurisdiction": "ca:nl",
+    "genre": "Revised",
     "language-name": "en"
   }
 ]

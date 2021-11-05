@@ -4,21 +4,21 @@ all
 
 >>===== KEYS =====>>
 [
-  "EC8CVIYX"
+  "NBYJE7WE"
 ]
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-should pass test style_test072
+should pass test style_test148
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
 FIRST
-  <i>Civil Marriage Act</i>, SC 2005, c 33.
+  <i>Regulation respecting advertising of the Ordre des dentistes du Québec</i>, OC 784-82.
 FIRST w/LOCATOR
-  <i>Civil Marriage Act</i>, SC 2005, c 33, at 123.
+  <i>Regulation respecting advertising of the Ordre des dentistes du Québec</i>, OC 784-82, at 123.
 FIRST w/LABEL
-  <i>Civil Marriage Act</i>, SC 2005, c 33, at para 123.
+  <i>Regulation respecting advertising of the Ordre des dentistes du Québec</i>, OC 784-82, at para 123.
 IBID
   <i>Ibid</i>.
 IBID w/LOCATOR
@@ -33,32 +33,26 @@ SUBSEQUENT w/BACKREF+LOCATOR
   <i>Supra</i> note 1, at 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry"><i>Civil Marriage Act</i>, SC 2005, c 33.</div>
+  <div class="csl-entry"><i>Regulation respecting advertising of the Ordre des dentistes du Québec</i>, OC 784-82.</div>
 </div>
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>
 [
   {
-    "type": "legislation",
-    "title": "Civil Marriage Act",
-    "container-title": "SC",
-    "volume": "33",
-    "issued": {
-      "date-parts": [
-        [
-          2005
-        ]
-      ]
-    },
+    "type": "regulation",
+    "title": "Regulation respecting advertising of the Ordre des dentistes du Québec",
+    "container-title": "OC",
+    "volume": "82",
+    "number": "784",
     "language": "en",
-    "URL": "https://canlii.ca/t/7w02",
+    "URL": "https://canlii.ca/t/hqdn",
     "accessed": {
       "date-parts": [
         [
           2021,
-          5,
-          12
+          11,
+          3
         ]
       ]
     },
@@ -67,14 +61,14 @@ BIBLIOGRAPHY
       "main": {},
       "_keys": {
         "container-title": {
-          "fr": "LC"
+          "fr": "D"
         },
         "title": {
-          "fr": "Loi sur le mariage civil"
+          "fr": "Règlement sur la publicité de l'Ordre des dentistes du Québec"
         }
       }
     },
-    "jurisdiction": "ca",
+    "jurisdiction": "ca:qc",
     "language-name": "en"
   }
 ]

@@ -4,21 +4,21 @@ all
 
 >>===== KEYS =====>>
 [
-  "EC8CVIYX"
+  "ALXGXYV4"
 ]
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-should pass test style_test072
+should pass test style_test147
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
 FIRST
-  <i>Civil Marriage Act</i>, SC 2005, c 33.
+  <i>Regulation respecting the language of commerce and business</i>, CQLR c C-11, r 9.
 FIRST w/LOCATOR
-  <i>Civil Marriage Act</i>, SC 2005, c 33, at 123.
+  <i>Regulation respecting the language of commerce and business</i>, CQLR c C-11, r 9, at 123.
 FIRST w/LABEL
-  <i>Civil Marriage Act</i>, SC 2005, c 33, at para 123.
+  <i>Regulation respecting the language of commerce and business</i>, CQLR c C-11, r 9, at para 123.
 IBID
   <i>Ibid</i>.
 IBID w/LOCATOR
@@ -33,32 +33,26 @@ SUBSEQUENT w/BACKREF+LOCATOR
   <i>Supra</i> note 1, at 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry"><i>Civil Marriage Act</i>, SC 2005, c 33.</div>
+  <div class="csl-entry"><i>Regulation respecting the language of commerce and business</i>, CQLR c C-11, r 9.</div>
 </div>
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>
 [
   {
-    "type": "legislation",
-    "title": "Civil Marriage Act",
-    "container-title": "SC",
-    "volume": "33",
-    "issued": {
-      "date-parts": [
-        [
-          2005
-        ]
-      ]
-    },
+    "type": "regulation",
+    "title": "Regulation respecting the language of commerce and business",
+    "container-title": "CQLR",
+    "volume": "C-11,",
+    "number": "9",
     "language": "en",
-    "URL": "https://canlii.ca/t/7w02",
+    "URL": "https://canlii.ca/t/52vms",
     "accessed": {
       "date-parts": [
         [
           2021,
-          5,
-          12
+          11,
+          3
         ]
       ]
     },
@@ -67,14 +61,15 @@ BIBLIOGRAPHY
       "main": {},
       "_keys": {
         "container-title": {
-          "fr": "LC"
+          "fr": "RLRQ"
         },
         "title": {
-          "fr": "Loi sur le mariage civil"
+          "fr": "Règlement sur la langue du commerce et des affaires"
         }
       }
     },
-    "jurisdiction": "ca",
+    "jurisdiction": "ca:qc",
+    "genre": "Revised",
     "language-name": "en"
   }
 ]

@@ -4,21 +4,21 @@ all
 
 >>===== KEYS =====>>
 [
-  "EC8CVIYX"
+  "JG69F3SZ"
 ]
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-should pass test style_test072
+should pass test style_test159
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
 FIRST
-  <i>Civil Marriage Act</i>, SC 2005, c 33.
+  <i>Manitoba Drug Interchangeability Formulary Regulation</i>, Man Reg 155/2003.
 FIRST w/LOCATOR
-  <i>Civil Marriage Act</i>, SC 2005, c 33, at 123.
+  <i>Manitoba Drug Interchangeability Formulary Regulation</i>, Man Reg 155/2003, at 123.
 FIRST w/LABEL
-  <i>Civil Marriage Act</i>, SC 2005, c 33, at para 123.
+  <i>Manitoba Drug Interchangeability Formulary Regulation</i>, Man Reg 155/2003, at para 123.
 IBID
   <i>Ibid</i>.
 IBID w/LOCATOR
@@ -33,32 +33,26 @@ SUBSEQUENT w/BACKREF+LOCATOR
   <i>Supra</i> note 1, at 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry"><i>Civil Marriage Act</i>, SC 2005, c 33.</div>
+  <div class="csl-entry"><i>Manitoba Drug Interchangeability Formulary Regulation</i>, Man Reg 155/2003.</div>
 </div>
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>
 [
   {
-    "type": "legislation",
-    "title": "Civil Marriage Act",
-    "container-title": "SC",
-    "volume": "33",
-    "issued": {
-      "date-parts": [
-        [
-          2005
-        ]
-      ]
-    },
+    "type": "regulation",
+    "title": "Manitoba Drug Interchangeability Formulary Regulation",
+    "container-title": "Man Reg",
+    "volume": "2003",
+    "number": "155",
     "language": "en",
-    "URL": "https://canlii.ca/t/7w02",
+    "URL": "https://canlii.ca/t/k85q",
     "accessed": {
       "date-parts": [
         [
           2021,
-          5,
-          12
+          11,
+          3
         ]
       ]
     },
@@ -67,14 +61,14 @@ BIBLIOGRAPHY
       "main": {},
       "_keys": {
         "container-title": {
-          "fr": "LC"
+          "fr": "Règl du Man"
         },
         "title": {
-          "fr": "Loi sur le mariage civil"
+          "fr": "Règlement sur la liste des médicaments interchangeables pour le Manitoba"
         }
       }
     },
-    "jurisdiction": "ca",
+    "jurisdiction": "ca:mb",
     "language-name": "en"
   }
 ]

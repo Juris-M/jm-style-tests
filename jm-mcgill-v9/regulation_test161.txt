@@ -4,21 +4,21 @@ all
 
 >>===== KEYS =====>>
 [
-  "EC8CVIYX"
+  "Q68R3WAA"
 ]
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-should pass test style_test072
+should pass test style_test161
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
 FIRST
-  <i>Civil Marriage Act</i>, SC 2005, c 33.
+  <i>Règlement général</i>, Règl du N-B 2000-8.
 FIRST w/LOCATOR
-  <i>Civil Marriage Act</i>, SC 2005, c 33, at 123.
+  <i>Règlement général</i>, Règl du N-B 2000-8, at 123.
 FIRST w/LABEL
-  <i>Civil Marriage Act</i>, SC 2005, c 33, at para 123.
+  <i>Règlement général</i>, Règl du N-B 2000-8, at para 123.
 IBID
   <i>Ibid</i>.
 IBID w/LOCATOR
@@ -33,32 +33,26 @@ SUBSEQUENT w/BACKREF+LOCATOR
   <i>Supra</i> note 1, at 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry"><i>Civil Marriage Act</i>, SC 2005, c 33.</div>
+  <div class="csl-entry"><i>Règlement général</i>, Règl du N-B 2000-8.</div>
 </div>
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>
 [
   {
-    "type": "legislation",
-    "title": "Civil Marriage Act",
-    "container-title": "SC",
-    "volume": "33",
-    "issued": {
-      "date-parts": [
-        [
-          2005
-        ]
-      ]
-    },
-    "language": "en",
-    "URL": "https://canlii.ca/t/7w02",
+    "type": "regulation",
+    "title": "Règlement général",
+    "container-title": "Règl du N-B",
+    "volume": "2000",
+    "number": "8",
+    "language": "fr",
+    "URL": "https://canlii.ca/t/6b8dp",
     "accessed": {
       "date-parts": [
         [
           2021,
-          5,
-          12
+          11,
+          3
         ]
       ]
     },
@@ -67,15 +61,15 @@ BIBLIOGRAPHY
       "main": {},
       "_keys": {
         "container-title": {
-          "fr": "LC"
+          "en": "NB Reg"
         },
         "title": {
-          "fr": "Loi sur le mariage civil"
+          "en": "General Regulation"
         }
       }
     },
-    "jurisdiction": "ca",
-    "language-name": "en"
+    "jurisdiction": "ca:nb",
+    "language-name": "fr"
   }
 ]
 <<===== INPUT =====<<

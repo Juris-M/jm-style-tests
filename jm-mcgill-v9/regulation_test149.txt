@@ -4,21 +4,21 @@ all
 
 >>===== KEYS =====>>
 [
-  "BLKVJYVV"
+  "Z5HWIT6H"
 ]
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-should pass test style_test073
+should pass test style_test149
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
 FIRST
-  <i>Charter of Human Rights and Freedoms</i>, CQLR c C–12.
+  <i>Règlement sur la publicité de l’Ordre des dentistes du Québec</i>, D 784-82.
 FIRST w/LOCATOR
-  <i>Charter of Human Rights and Freedoms</i>, CQLR c C–12, at 123.
+  <i>Règlement sur la publicité de l’Ordre des dentistes du Québec</i>, D 784-82, at 123.
 FIRST w/LABEL
-  <i>Charter of Human Rights and Freedoms</i>, CQLR c C–12, at para 123.
+  <i>Règlement sur la publicité de l’Ordre des dentistes du Québec</i>, D 784-82, at para 123.
 IBID
   <i>Ibid</i>.
 IBID w/LOCATOR
@@ -33,25 +33,26 @@ SUBSEQUENT w/BACKREF+LOCATOR
   <i>Supra</i> note 1, at 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry"><i>Charter of Human Rights and Freedoms</i>, CQLR c C–12.</div>
+  <div class="csl-entry"><i>Règlement sur la publicité de l’Ordre des dentistes du Québec</i>, D 784-82.</div>
 </div>
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>
 [
   {
-    "type": "legislation",
-    "title": "Charter of Human Rights and Freedoms",
-    "container-title": "CQLR",
-    "volume": "C-12",
-    "language": "en",
-    "URL": "https://canlii.ca/t/x8d",
+    "type": "regulation",
+    "title": "Règlement sur la publicité de l'Ordre des dentistes du Québec",
+    "container-title": "D",
+    "volume": "82",
+    "number": "784",
+    "language": "fr",
+    "URL": "https://canlii.ca/t/mfj0",
     "accessed": {
       "date-parts": [
         [
           2021,
-          5,
-          12
+          11,
+          3
         ]
       ]
     },
@@ -60,15 +61,15 @@ BIBLIOGRAPHY
       "main": {},
       "_keys": {
         "container-title": {
-          "fr": "RLRQ"
+          "en": "OC"
         },
         "title": {
-          "fr": "Charte des droits et libertés de la personne"
+          "en": "Regulation respecting advertising of the Ordre des dentistes du Québec"
         }
       }
     },
     "jurisdiction": "ca:qc",
-    "language-name": "en"
+    "language-name": "fr"
   }
 ]
 <<===== INPUT =====<<

@@ -4,21 +4,21 @@ all
 
 >>===== KEYS =====>>
 [
-  "EC8CVIYX"
+  "VNQWHD9Q"
 ]
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-should pass test style_test072
+should pass test style_test128
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
 FIRST
-  <i>Civil Marriage Act</i>, SC 2005, c 33.
+  <i>Smart Meters: Cost Recovery</i>, O Reg 426/06.
 FIRST w/LOCATOR
-  <i>Civil Marriage Act</i>, SC 2005, c 33, at 123.
+  <i>Smart Meters: Cost Recovery</i>, O Reg 426/06, at 123.
 FIRST w/LABEL
-  <i>Civil Marriage Act</i>, SC 2005, c 33, at para 123.
+  <i>Smart Meters: Cost Recovery</i>, O Reg 426/06, at para 123.
 IBID
   <i>Ibid</i>.
 IBID w/LOCATOR
@@ -33,32 +33,26 @@ SUBSEQUENT w/BACKREF+LOCATOR
   <i>Supra</i> note 1, at 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry"><i>Civil Marriage Act</i>, SC 2005, c 33.</div>
+  <div class="csl-entry"><i>Smart Meters: Cost Recovery</i>, O Reg 426/06.</div>
 </div>
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>
 [
   {
-    "type": "legislation",
-    "title": "Civil Marriage Act",
-    "container-title": "SC",
-    "volume": "33",
-    "issued": {
-      "date-parts": [
-        [
-          2005
-        ]
-      ]
-    },
+    "type": "regulation",
+    "title": "Smart Meters: Cost Recovery",
+    "container-title": "O Reg",
+    "volume": "06",
+    "number": "426",
     "language": "en",
-    "URL": "https://canlii.ca/t/7w02",
+    "URL": "https://canlii.ca/t/52w8w",
     "accessed": {
       "date-parts": [
         [
           2021,
-          5,
-          12
+          11,
+          3
         ]
       ]
     },
@@ -67,14 +61,14 @@ BIBLIOGRAPHY
       "main": {},
       "_keys": {
         "container-title": {
-          "fr": "LC"
+          "fr": "Règl de l'Ont"
         },
         "title": {
-          "fr": "Loi sur le mariage civil"
+          "fr": "Compteurs intelligents : Recouvrement des frais"
         }
       }
     },
-    "jurisdiction": "ca",
+    "jurisdiction": "ca:on",
     "language-name": "en"
   }
 ]

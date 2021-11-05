@@ -4,21 +4,21 @@ all
 
 >>===== KEYS =====>>
 [
-  "EC8CVIYX"
+  "Y74WMU9Z"
 ]
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-should pass test style_test072
+should pass test style_test153
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
 FIRST
-  <i>Civil Marriage Act</i>, SC 2005, c 33.
+  <i>Pest and Nuisance Control Regulation</i>, Alta Reg 184/2001.
 FIRST w/LOCATOR
-  <i>Civil Marriage Act</i>, SC 2005, c 33, at 123.
+  <i>Pest and Nuisance Control Regulation</i>, Alta Reg 184/2001, at 123.
 FIRST w/LABEL
-  <i>Civil Marriage Act</i>, SC 2005, c 33, at para 123.
+  <i>Pest and Nuisance Control Regulation</i>, Alta Reg 184/2001, at para 123.
 IBID
   <i>Ibid</i>.
 IBID w/LOCATOR
@@ -33,48 +33,35 @@ SUBSEQUENT w/BACKREF+LOCATOR
   <i>Supra</i> note 1, at 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry"><i>Civil Marriage Act</i>, SC 2005, c 33.</div>
+  <div class="csl-entry"><i>Pest and Nuisance Control Regulation</i>, Alta Reg 184/2001.</div>
 </div>
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>
 [
   {
-    "type": "legislation",
-    "title": "Civil Marriage Act",
-    "container-title": "SC",
-    "volume": "33",
-    "issued": {
-      "date-parts": [
-        [
-          2005
-        ]
-      ]
-    },
+    "type": "regulation",
+    "title": "Pest and Nuisance Control Regulation",
+    "container-title": "Alta Reg",
+    "volume": "2001",
+    "number": "184",
     "language": "en",
-    "URL": "https://canlii.ca/t/7w02",
+    "URL": "https://canlii.ca/t/54bvw",
     "accessed": {
       "date-parts": [
         [
           2021,
-          5,
-          12
+          11,
+          3
         ]
       ]
     },
     "note": "",
     "multi": {
       "main": {},
-      "_keys": {
-        "container-title": {
-          "fr": "LC"
-        },
-        "title": {
-          "fr": "Loi sur le mariage civil"
-        }
-      }
+      "_keys": {}
     },
-    "jurisdiction": "ca",
+    "jurisdiction": "ca:ab",
     "language-name": "en"
   }
 ]

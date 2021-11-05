@@ -1,0 +1,76 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "VJT62ILP"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test165
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  <i>Règlement sur l’administration scolaire et les écoles publiques</i>, Règl du Man 468/88R.
+FIRST w/LOCATOR
+  <i>Règlement sur l’administration scolaire et les écoles publiques</i>, Règl du Man 468/88R, at 123.
+FIRST w/LABEL
+  <i>Règlement sur l’administration scolaire et les écoles publiques</i>, Règl du Man 468/88R, at para 123.
+IBID
+  <i>Ibid</i>.
+IBID w/LOCATOR
+  <i>Ibid</i>, at 123.
+SUBSEQUENT
+  [CSL STYLE ERROR: reference with no printed form.].
+SUBSEQUENT w/LOCATOR
+  <i>Supra</i> at 123.
+SUBSEQUENT w/BACKREF
+  <i>Supra</i> note 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  <i>Supra</i> note 1, at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry"><i>Règlement sur l’administration scolaire et les écoles publiques</i>, Règl du Man 468/88R.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "regulation",
+    "title": "Règlement sur l'administration scolaire et les écoles publiques",
+    "container-title": "Règl du Man",
+    "volume": "88",
+    "number": "468",
+    "language": "fr",
+    "URL": "https://canlii.ca/t/6d3df",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          11,
+          3
+        ]
+      ]
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {
+        "container-title": {
+          "en": "Man Reg"
+        },
+        "title": {
+          "en": "Education Administration Miscellaneous Provisions Regulation"
+        }
+      }
+    },
+    "jurisdiction": "ca:mb",
+    "genre": "Revised",
+    "language-name": "fr"
+  }
+]
+<<===== INPUT =====<<
