@@ -16,9 +16,9 @@ should pass test style_test136
 FIRST
   <i>The Quebec Act, 1774</i> (UK), 14 Geo 3, c 83, reprinted in RSC 1985, Appendix II, No 2.
 FIRST w/LOCATOR
-  <i>The Quebec Act, 1774</i> (UK), 14 Geo 3, c 83, 123, reprinted in RSC 1985, Appendix II, No 2.
+  <i>The Quebec Act, 1774</i> (UK), 14 Geo 3, c 83, at 123, reprinted in RSC 1985, Appendix II, No 2.
 FIRST w/LABEL
-  <i>The Quebec Act, 1774</i> (UK), 14 Geo 3, c 83, paragraph 123, reprinted in RSC 1985, Appendix II, No 2.
+  <i>The Quebec Act, 1774</i> (UK), 14 Geo 3, c 83, at para 123, reprinted in RSC 1985, Appendix II, No 2.
 IBID
   <i>Ibid</i>.
 IBID w/LOCATOR
@@ -52,7 +52,7 @@ BIBLIOGRAPHY
     "jurisdiction": "gb",
     "genre": "Geo 3",
     "collection-number": "14",
-    "language-name": "en",
+    "language-name": "fr",
     "page": 2,
     "number": 2,
     "container-title": "RSC 1985"

@@ -16,9 +16,9 @@ all
 FIRST
   <i>Constitution Act, 1867</i> (UK), 1867, reprinted in RCS 1985, Appendix II, No 5.
 FIRST w/LOCATOR
-  <i>Constitution Act, 1867</i> (UK), 1867, 123, reprinted in RCS 1985, Appendix II, No 5.
+  <i>Constitution Act, 1867</i> (UK), 1867, at 123, reprinted in RCS 1985, Appendix II, No 5.
 FIRST w/LABEL
-  <i>Constitution Act, 1867</i> (UK), 1867, paragraph 123, reprinted in RCS 1985, Appendix II, No 5.
+  <i>Constitution Act, 1867</i> (UK), 1867, at para 123, reprinted in RCS 1985, Appendix II, No 5.
 IBID
   <i>Ibid</i>.
 IBID w/LOCATOR
