@@ -40,7 +40,7 @@ Charter citation
     "jurisdiction": "ca",
     "language-name": "en",
     "volume": "1",
-    "number": "B",
+    "page": "B",
     "seeAlso": [
       "2"
     ],
