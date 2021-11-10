@@ -1,0 +1,96 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "1",
+  "2",
+  "3"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Charter citation
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>Canadian Charter of Rights and Freedoms</i>, s 7, Part I of the <i>Constitution Act, 1982</i>, being Schedule B to the <i>Canada Act 1982</i> (UK), 1982, c 11.
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "1",
+    "type": "legislation",
+    "title": "Canadian Charter of Rights and Freedoms",
+    "issued": {
+      "date-parts": [
+        [
+          1982
+        ]
+      ]
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "container-title": "Constitution Act, 1982",
+    "jurisdiction": "ca",
+    "language-name": "en",
+    "volume": "1",
+    "number": "B",
+    "seeAlso": [
+      "2"
+    ],
+    "title-short": "Charter"
+  },
+  {
+    "id": "2",
+    "type": "legislation",
+    "title": "Canada Act 1982",
+    "container-title": "RSC 1985",
+    "volume": "11",
+    "issued": {
+      "date-parts": [
+        [
+          1982
+        ]
+      ]
+    },
+    "page": "2",
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {
+        "title": {
+          "fr-CA": "Loi de 1982 sur le Canada"
+        }
+      }
+    },
+    "jurisdiction": "gb",
+    "language-name": "en",
+    "seeAlso": [
+      "1"
+    ],
+    "title-short": "Charter"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "1",
+      "label": "page",
+      "locator": "sec. 7"
+    },
+    {
+      "id": "2"
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
