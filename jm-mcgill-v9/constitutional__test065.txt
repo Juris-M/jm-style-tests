@@ -24,13 +24,13 @@ IBID
 IBID w/LOCATOR
   <i>Ibid</i>, 123.
 SUBSEQUENT
-  [CSL STYLE ERROR: reference with no printed form.].
+  <i>Constitution Act, 1867</i>, <i>supra</i>.
 SUBSEQUENT w/LOCATOR
-  <i>Supra</i> 123.
+  <i>Constitution Act, 1867</i>, <i>supra</i> 123.
 SUBSEQUENT w/BACKREF
-  <i>Supra</i> note 1.
+  <i>Constitution Act, 1867</i>, <i>supra</i> note 1.
 SUBSEQUENT w/BACKREF+LOCATOR
-  <i>Supra</i> note 1, 123.
+  <i>Constitution Act, 1867</i>, <i>supra</i> note 1, 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry"><i>Constitution Act, 1867</i> (UK), 1867, reprinted in RCS 1985, Appendix II, No 5.</div>

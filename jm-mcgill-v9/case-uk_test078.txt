@@ -24,13 +24,13 @@ IBID
 IBID w/LOCATOR
   <i>Ibid</i> 123.
 SUBSEQUENT
-  [CSL STYLE ERROR: reference with no printed form.].
+  <i>Winnipeg (City of) v Barrett (Manitoba)</i>, <i>supra</i>.
 SUBSEQUENT w/LOCATOR
-  <i>Supra</i> 123.
+  <i>Winnipeg (City of) v Barrett (Manitoba)</i>, <i>supra</i> 123.
 SUBSEQUENT w/BACKREF
-  <i>Supra</i> note 1.
+  <i>Winnipeg (City of) v Barrett (Manitoba)</i>, <i>supra</i> note 1.
 SUBSEQUENT w/BACKREF+LOCATOR
-  <i>Supra</i> note 1 123.
+  <i>Winnipeg (City of) v Barrett (Manitoba)</i>, <i>supra</i> note 1 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry"><i>Winnipeg (City of) v Barrett (Manitoba)</i>, [1892] UKPC 445.</div>

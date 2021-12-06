@@ -24,13 +24,13 @@ IBID
 IBID w/LOCATOR
   <i>Ibid</i> at 123.
 SUBSEQUENT
-  [CSL STYLE ERROR: reference with no printed form.].
+  <i>Témoignages</i>, <i>supra</i>.
 SUBSEQUENT w/LOCATOR
-  <i>Supra</i> at 123.
+  <i>Témoignages</i>, <i>supra</i> at 123.
 SUBSEQUENT w/BACKREF
-  <i>Supra</i> note 1.
+  <i>Témoignages</i>, <i>supra</i> note 1.
 SUBSEQUENT w/BACKREF+LOCATOR
-  <i>Supra</i> note 1 at 123.
+  <i>Témoignages</i>, <i>supra</i> note 1 at 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry">“Projet de loi S-32, Loi modifiant la Loi sur les langues officielles (promotion du français et de l’anglais)”, Sénat, Comité sénatorial permanent des Affaires juridiques et constitutionnelles, <i>Témoignages</i>, 37-1, No 27 (6 March 2002).</div>

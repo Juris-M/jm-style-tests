@@ -24,13 +24,13 @@ IBID
 IBID w/LOCATOR
   <i>Ibid</i>, 123.
 SUBSEQUENT
-  [CSL STYLE ERROR: reference with no printed form.].
+  <i>Canada Act 1982</i>, <i>supra</i>.
 SUBSEQUENT w/LOCATOR
-  <i>Supra</i> 123.
+  <i>Canada Act 1982</i>, <i>supra</i> 123.
 SUBSEQUENT w/BACKREF
-  <i>Supra</i> note 1.
+  <i>Canada Act 1982</i>, <i>supra</i> note 1.
 SUBSEQUENT w/BACKREF+LOCATOR
-  <i>Supra</i> note 1, 123.
+  <i>Canada Act 1982</i>, <i>supra</i> note 1, 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry"><i>Canada Act 1982</i> (UK), 1982, c 11, reprinted in RSC 1985, Appendix II, No 44.</div>

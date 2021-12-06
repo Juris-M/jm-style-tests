@@ -24,13 +24,13 @@ IBID
 IBID w/LOCATOR
   <i>Ibid</i>, 123.
 SUBSEQUENT
-  [CSL STYLE ERROR: reference with no printed form.].
+  <i>The Quebec Act, 1774</i>, <i>supra</i>.
 SUBSEQUENT w/LOCATOR
-  <i>Supra</i> 123.
+  <i>The Quebec Act, 1774</i>, <i>supra</i> 123.
 SUBSEQUENT w/BACKREF
-  <i>Supra</i> note 1.
+  <i>The Quebec Act, 1774</i>, <i>supra</i> note 1.
 SUBSEQUENT w/BACKREF+LOCATOR
-  <i>Supra</i> note 1, 123.
+  <i>The Quebec Act, 1774</i>, <i>supra</i> note 1, 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry"><i>The Quebec Act, 1774</i> (UK), 14 Geo 3, c 83, reprinted in RSC 1985, Appendix II, No 2.</div>

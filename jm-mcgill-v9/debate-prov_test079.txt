@@ -1,0 +1,71 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "4LS83DIX"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test079
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  Nova Scotia, House of Assembly, <i>Assembly Debates</i>, 64-1, No 21–05 (15 October 2021).
+FIRST w/LOCATOR
+  Nova Scotia, House of Assembly, <i>Assembly Debates</i>, 64-1, No 21–05 (15 October 2021) at 123.
+FIRST w/LABEL
+  Nova Scotia, House of Assembly, <i>Assembly Debates</i>, 64-1, No 21–05 (15 October 2021) at para 123.
+IBID
+  <i>Ibid</i>.
+IBID w/LOCATOR
+  <i>Ibid</i> at 123.
+SUBSEQUENT
+  <i>supra</i>.
+SUBSEQUENT w/LOCATOR
+  <i>supra</i> at 123.
+SUBSEQUENT w/BACKREF
+  <i>supra</i> note 1.
+SUBSEQUENT w/BACKREF+LOCATOR
+  <i>supra</i> note 1 at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Nova Scotia, House of Assembly, <i>Assembly Debates</i>, 64-1, No 21–05 (15 October 2021).</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "hearing",
+    "title": "Assembly Debates",
+    "authority": "House of Assembly",
+    "collection-number": "64",
+    "chapter-number": "1",
+    "issued": {
+      "raw": "15-10-2021"
+    },
+    "URL": "https://nslegislature.ca/sites/default/files/pdfs/proceedings/hansard/64-1/h05oct15.pdf",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          11,
+          12
+        ]
+      ]
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "volume": "21-05",
+    "jurisdiction": "ca:ns",
+    "publisher-place": "Nova Scotia"
+  }
+]
+<<===== INPUT =====<<

@@ -24,13 +24,13 @@ IBID
 IBID w/LOCATOR
   <i>Ibid</i> at 123.
 SUBSEQUENT
-  [CSL STYLE ERROR: reference with no printed form.].
+  <i>Joyal c Hôpital du Christ-Roi</i>, <i>supra</i>.
 SUBSEQUENT w/LOCATOR
-  <i>Supra</i> at 123.
+  <i>Joyal c Hôpital du Christ-Roi</i>, <i>supra</i> at 123.
 SUBSEQUENT w/BACKREF
-  <i>Supra</i> note 1.
+  <i>Joyal c Hôpital du Christ-Roi</i>, <i>supra</i> note 1.
 SUBSEQUENT w/BACKREF+LOCATOR
-  <i>Supra</i> note 1 at 123.
+  <i>Joyal c Hôpital du Christ-Roi</i>, <i>supra</i> note 1 at 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry"><i>Joyal c Hôpital du Christ-Roi</i>, 1996 CanLII 6068.</div>

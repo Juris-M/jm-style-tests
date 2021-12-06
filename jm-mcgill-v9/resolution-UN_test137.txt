@@ -24,13 +24,13 @@ IBID
 IBID w/LOCATOR
   <i>Ibid</i> 123.
 SUBSEQUENT
-  [CSL STYLE ERROR: reference with no printed form.].
+  <i>supra</i>.
 SUBSEQUENT w/LOCATOR
-  <i>Supra</i> 123.
+  <i>supra</i> 123.
 SUBSEQUENT w/BACKREF
-  <i>Supra</i> note 1.
+  <i>supra</i> note 1.
 SUBSEQUENT w/BACKREF+LOCATOR
-  <i>Supra</i> note 1 123.
+  <i>supra</i> note 1 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry"><i>International Covenant on Civil and Political Rights</i>, GA Res 2200A (XXI), UNGAOR, 21st Sess, Supp No 16, UN Doc A/6546 (1966) 32.</div>

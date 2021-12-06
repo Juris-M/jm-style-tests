@@ -24,13 +24,13 @@ IBID
 IBID w/LOCATOR
   <i>Ibid</i> at 123.
 SUBSEQUENT
-  [CSL STYLE ERROR: reference with no printed form.].
+  <i>Delgamuukw v British Columbia</i>, <i>supra</i>.
 SUBSEQUENT w/LOCATOR
-  <i>Supra</i> at 123.
+  <i>Delgamuukw v British Columbia</i>, <i>supra</i> at 123.
 SUBSEQUENT w/BACKREF
-  <i>Supra</i> note 1.
+  <i>Delgamuukw v British Columbia</i>, <i>supra</i> note 1.
 SUBSEQUENT w/BACKREF+LOCATOR
-  <i>Supra</i> note 1 at 123.
+  <i>Delgamuukw v British Columbia</i>, <i>supra</i> note 1 at 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry"><i>Delgamuukw v British Columbia</i> (1997), 162 WAC 161, 1997 CanLII 302.</div>

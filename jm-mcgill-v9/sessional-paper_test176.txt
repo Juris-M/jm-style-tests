@@ -24,13 +24,13 @@ IBID
 IBID w/LOCATOR
   <i>Ibid</i> at 123.
 SUBSEQUENT
-  [CSL STYLE ERROR: reference with no printed form.].
+  <i>Instruction to the Honorable A Archibald</i>, <i>supra</i>.
 SUBSEQUENT w/LOCATOR
-  <i>Supra</i> at 123.
+  <i>Instruction to the Honorable A Archibald</i>, <i>supra</i> at 123.
 SUBSEQUENT w/BACKREF
-  <i>Supra</i> note 1.
+  <i>Instruction to the Honorable A Archibald</i>, <i>supra</i> note 1.
 SUBSEQUENT w/BACKREF+LOCATOR
-  <i>Supra</i> note 1 at 123.
+  <i>Instruction to the Honorable A Archibald</i>, <i>supra</i> note 1 at 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry">Parliament of Canada, “Instruction to the Honorable A Archibald,” <i>Sessional Papers</i>, No 20 (1871).</div>
