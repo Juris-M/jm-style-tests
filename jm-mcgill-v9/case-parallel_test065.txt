@@ -11,7 +11,7 @@ citation
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-AT Case with parallel citations
+Case with parallel citations
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
