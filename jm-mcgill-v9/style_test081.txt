@@ -14,11 +14,11 @@ should pass test style_test081
 
 >>===== RESULT =====>>
 FIRST
-  Canada, <i>Preliminary Report of the Royal Commission on Bilingualism and Bilculturalism:</i> (Ottawa: Privy Council Office, 1965) (Chair: A Davidson Dunton &#38; André Laurendeau).
+  <i>Preliminary Report of the Royal Commission on Bilingualism and Bilculturalism:</i> (Ottawa: Privy Council Office, 1965) (Chair: A Davidson Dunton &#38; André Laurendeau).
 FIRST w/LOCATOR
-  Canada, <i>Preliminary Report of the Royal Commission on Bilingualism and Bilculturalism:</i> (Ottawa: Privy Council Office, 1965) (Chair: A Davidson Dunton &#38; André Laurendeau) at 123.
+  <i>Preliminary Report of the Royal Commission on Bilingualism and Bilculturalism:</i> (Ottawa: Privy Council Office, 1965) (Chair: A Davidson Dunton &#38; André Laurendeau) at 123.
 FIRST w/LABEL
-  Canada, <i>Preliminary Report of the Royal Commission on Bilingualism and Bilculturalism:</i> (Ottawa: Privy Council Office, 1965) (Chair: A Davidson Dunton &#38; André Laurendeau) at para 123.
+  <i>Preliminary Report of the Royal Commission on Bilingualism and Bilculturalism:</i> (Ottawa: Privy Council Office, 1965) (Chair: A Davidson Dunton &#38; André Laurendeau) at para 123.
 IBID
   <i>Ibid</i>.
 IBID w/LOCATOR
@@ -33,7 +33,7 @@ SUBSEQUENT w/BACKREF+LOCATOR
   <i>Preliminary Report of the Royal Commission on Bilingualism and Bilculturalism:</i>, <i>supra</i> note 1 at 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">Canada, <i>Preliminary Report of the Royal Commission on Bilingualism and Bilculturalism:</i> (Ottawa: Privy Council Office, 1965) (Chair: A Davidson Dunton &#38; André Laurendeau).</div>
+  <div class="csl-entry"><i>Preliminary Report of the Royal Commission on Bilingualism and Bilculturalism:</i> (Ottawa: Privy Council Office, 1965) (Chair: A Davidson Dunton &#38; André Laurendeau).</div>
 </div>
 <<===== RESULT =====<<
 
