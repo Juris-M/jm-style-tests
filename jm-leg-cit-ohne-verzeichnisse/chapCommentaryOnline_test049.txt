@@ -1,0 +1,54 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "U9KR7CWP"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Online comm. w/o editor
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  <i>Prader</i>, MRG<sup>5.10</sup> § 29 (rdb.at).
+FIRST w/LOCATOR
+  <i>Prader</i>, MRG<sup>5.10</sup> § 29, 123 (rdb.at).
+FIRST w/LABEL
+  <i>Prader</i>, MRG<sup>5.10</sup> § 29 Abs 123 (rdb.at).
+SUBSEQUENT
+  <i>Prader</i> MRG<sup>5.10</sup> § 29.
+SUBSEQUENT w/LOCATOR
+  <i>Prader</i> MRG<sup>5.10</sup> § 29, 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_commentary",
+    "title": "§ 29",
+    "author": [
+      {
+        "family": "Prader"
+      }
+    ],
+    "container-title": "MRG",
+    "collection-title": "Manz Wohnrecht",
+    "issued": {
+      "raw": "2017-01-01"
+    },
+    "archive": "rdb.at",
+    "note": "version: 5.10",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<

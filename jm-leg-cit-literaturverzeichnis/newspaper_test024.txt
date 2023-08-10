@@ -22,7 +22,7 @@ FIRST w/LABEL
 SUBSEQUENT
   Wiener Zeitung 15.06.2006, 5.
 SUBSEQUENT w/LOCATOR
-  Wiener Zeitung 15.06.2006, 5, 123.
+  Wiener Zeitung 15.06.2006, 5 (123).
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry">Wiener Zeitung 15.06.2006, 5.</div>

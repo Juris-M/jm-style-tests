@@ -1,0 +1,62 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "3HNKGJ7B"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Legal comm.
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  <i>Fischer-Czermak</i> in Kletečka/Schauer, ABGB-ON<sup>1.05</sup> § 165.
+FIRST w/LOCATOR
+  <i>Fischer-Czermak</i> in Kletečka/Schauer, ABGB-ON<sup>1.05</sup> § 165, 123.
+FIRST w/LABEL
+  <i>Fischer-Czermak</i> in Kletečka/Schauer, ABGB-ON<sup>1.05</sup> § 165 Abs 123.
+SUBSEQUENT
+  <i>Fischer-Czermak</i> in Kletečka/Schauer, ABGB-ON<sup>1.05</sup> § 165.
+SUBSEQUENT w/LOCATOR
+  <i>Fischer-Czermak</i> in Kletečka/Schauer, ABGB-ON<sup>1.05</sup> § 165, 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Kletečka/Schauer (Hg), ABGB-ON<sup>1.05</sup> (rdb.at).</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_commentary",
+    "title": "§ 165",
+    "author": [
+      {
+        "literal": "Fischer-Czermak"
+      }
+    ],
+    "editor": [
+      {
+        "family": "Kletečka"
+      },
+      {
+        "family": "Schauer"
+      }
+    ],
+    "container-title": "ABGB-ON",
+    "issued": {
+      "raw": "2018-10-01"
+    },
+    "archive": "rdb.at",
+    "note": "version: 1.05",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<

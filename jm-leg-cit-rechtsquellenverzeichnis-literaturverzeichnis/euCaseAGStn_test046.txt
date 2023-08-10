@@ -35,8 +35,8 @@ BIBLIOGRAPHY
         "family": "Villalóu"
       }
     ],
-    "authority": "Advocate General",
-    "number": "Rs C-237/15 PPU",
+    "authority": "ag",
+    "number": "C-237/15 PPU",
     "issued": {
       "date-parts": [
         [

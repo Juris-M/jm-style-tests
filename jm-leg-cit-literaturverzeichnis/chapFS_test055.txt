@@ -1,0 +1,77 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "VB7MYS9V"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test055
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  <i>Radosch</i> in FS Hauptverband der Gerichtssachverständigen.
+FIRST w/LOCATOR
+  <i>Radosch</i> in FS Hauptverband der Gerichtssachverständigen 123.
+FIRST w/LABEL
+  <i>Radosch</i> in FS Hauptverband der Gerichtssachverständigen Abs 123.
+SUBSEQUENT
+  <i>Radosch</i> in FS Hauptverband der Gerichtssachverständigen.
+SUBSEQUENT w/LOCATOR
+  <i>Radosch</i> in FS Hauptverband der Gerichtssachverständigen 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry"><i>Radosch</i>, Genderaspekte im Sachverständigenwesen, in Rant/Gobiet (Hg), Sachverständige in Österreich: Festschrift 100 Jahre Hauptverband der Gerichtssachverständigen (2012) 107.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "chapter",
+    "title": "Genderaspekte im Sachverständigenwesen",
+    "editor": [
+      {
+        "given": "Matthias",
+        "family": "Rant"
+      },
+      {
+        "given": "Wolfgang",
+        "family": "Gobiet"
+      }
+    ],
+    "author": [
+      {
+        "given": "Ulrike",
+        "family": "Radosch"
+      }
+    ],
+    "container-title": "Sachverständige in Österreich: Festschrift 100 Jahre Hauptverband der Gerichtssachverständigen",
+    "publisher-place": "Wien",
+    "publisher": "Hauptverbder Allgemein Beeideten und Gerichtlich Zertifizierten Sachverständigen Österreichs",
+    "issued": {
+      "raw": "2012"
+    },
+    "page": "107-128",
+    "language": "de",
+    "ISBN": "978-3-7073-2188-3",
+    "source": "katalog.wu.ac.at",
+    "call-number": "PC 4650 R213",
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "recipient": [
+      {
+        "literal": "Hauptverband der Gerichtssachverständigen"
+      }
+    ],
+    "language-name": "de"
+  }
+]
+<<===== INPUT =====<<

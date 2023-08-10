@@ -14,11 +14,11 @@ Quick reference tables
 
 >>===== RESULT =====>>
 FIRST
-  <i>Australia—Transfer Pricing Table</i>, Quick Reference Tables IBFD (accessed 1 Oct. 2010).
+  <i>Australia - Transfer Pricing Table</i>, Quick Reference Tables IBFD.
 FIRST w/LOCATOR
-  <i>Australia—Transfer Pricing Table</i> p. 123, Quick Reference Tables IBFD (accessed 1 Oct. 2010).
+  <i>Australia - Transfer Pricing Table</i> p. 123, Quick Reference Tables IBFD.
 FIRST w/LABEL
-  <i>Australia—Transfer Pricing Table</i> para. 123, Quick Reference Tables IBFD (accessed 1 Oct. 2010).
+  <i>Australia - Transfer Pricing Table</i> para. 123, Quick Reference Tables IBFD.
 IBID
   <i>Id.</i>
 IBID w/LOCATOR
@@ -33,7 +33,7 @@ SUBSEQUENT w/BACKREF+LOCATOR
   <i>Australia—Transfer Pricing Table</i>, <i>supra</i> n. 1, at p. 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry"><i>Australia—Transfer Pricing Table</i>, Quick Reference Tables IBFD (accessed 1 Oct. 2010).</div>
+  <div class="csl-entry"><i>Australia - Transfer Pricing Table</i>, Quick Reference Tables IBFD.</div>
 </div>
 <<===== RESULT =====<<
 

@@ -14,11 +14,11 @@ Case law/no title
 
 >>===== RESULT =====>>
 FIRST
-  NL: Supreme Court, 26 Nov. 2010, 09/03219, Tax Treaty Case Law IBFD.
+  NL: HR [Supreme Court], 26 Nov. 2010, 09/03219, Tax Treaty Case Law IBFD.
 FIRST w/LOCATOR
-  NL: Supreme Court, 26 Nov. 2010, 09/03219, p. 123, Tax Treaty Case Law IBFD.
+  NL: HR [Supreme Court], 26 Nov. 2010, 09/03219, p. 123, Tax Treaty Case Law IBFD.
 FIRST w/LABEL
-  NL: Supreme Court, 26 Nov. 2010, 09/03219, para. 123, Tax Treaty Case Law IBFD.
+  NL: HR [Supreme Court], 26 Nov. 2010, 09/03219, para. 123, Tax Treaty Case Law IBFD.
 IBID
   <i>Id.</i>
 IBID w/LOCATOR
@@ -33,7 +33,7 @@ SUBSEQUENT w/BACKREF+LOCATOR
   09/03219 (26 Nov. 2010), at p. 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">NL: Supreme Court, 26 Nov. 2010, 09/03219, Tax Treaty Case Law IBFD.</div>
+  <div class="csl-entry">NL: HR [Supreme Court], 26 Nov. 2010, 09/03219, Tax Treaty Case Law IBFD.</div>
 </div>
 <<===== RESULT =====<<
 

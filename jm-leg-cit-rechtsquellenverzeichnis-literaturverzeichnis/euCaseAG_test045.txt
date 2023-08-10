@@ -36,7 +36,7 @@ BIBLIOGRAPHY
       }
     ],
     "authority": "Advocate General",
-    "number": "Rs C-390/18",
+    "number": "C-390/18",
     "issued": {
       "date-parts": [
         [

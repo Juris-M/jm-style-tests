@@ -14,14 +14,14 @@ should pass test style_test032
 
 >>===== RESULT =====>>
 FIRST
-  BGHIV ZR 241/18.
+  BGH, 09.09.2019 – IV ZR 241/18 (n. v.).
 FIRST w/LOCATOR
-  BGHIV ZR 241/18, 123.
+  BGH, 09.09.2019 – IV ZR 241/18, 123 (n. v.).
 FIRST w/LABEL
-  BGHIV ZR 241/18 Abs 123.
+  BGH, 09.09.2019 – IV ZR 241/18 Abs 123 (n. v.).
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">Bundesgerichtshof, 09.09.2019, BGHIV ZR 241/18.</div>
+  <div class="csl-entry">BGH, 09.09.2019 – IV ZR 241/18 (n. v.).</div>
 </div>
 <<===== RESULT =====<<
 

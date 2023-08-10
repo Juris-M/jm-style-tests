@@ -14,10 +14,10 @@ should pass test style_test047
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
->>[0] EuGH Rs C-40/15 (Minister Finansov/Aspiro SA) ECLI:EU:C:2016:172 = Revista española de Derecho Financiero 2016/171, 263 (<i>Carrasco González</i>) = Jurisprudence de la CJUE 2016: Décisions et commentaires (2017) 703 (<i>Pailler</i>).
+>>[0] EuGH Rs C-40/15 (Minister Finansov/Aspiro SA) ECLI:EU:C:2016:172 = Revista española de Derecho Financiero 2016/171, 263 (<i>Carrasco González</i>) = Jurisprudence de la CJUE 2016: Décisions et commentaires (2017) 703 (<i>Pâiller</i>).
 >>[1] EuGH Rs C-40/15 (Minister Finansov/Aspiro SA).
 >>[2] EuGH Rs C-40/15 (Minister Finansov/Aspiro SA) = Revista española de Derecho Financiero 2016/171, 263 (123 <i>Carrasco González</i>).
->>[3] EuGH Rs C-40/15 (Minister Finansov/Aspiro SA) = Revista española de Derecho Financiero 2016/171, 263 Rz 123 (<i>Carrasco González</i>) = Jurisprudence de la CJUE 2016: Décisions et commentaires (2017) 703 Abs 456 (<i>Pailler</i>).
+>>[3] EuGH Rs C-40/15 (Minister Finansov/Aspiro SA) = Revista española de Derecho Financiero 2016/171, 263 Rz 123 (<i>Carrasco González</i>) = Jurisprudence de la CJUE 2016: Décisions et commentaires (2017) 703 Abs 456 (<i>Pâiller</i>).
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>
@@ -62,7 +62,8 @@ should pass test style_test047
     },
     "seeAlso": [
       "ZMBMZR4R"
-    ]
+    ],
+    "language-name": "es"
   },
   {
     "id": "ZMBMZR4R",
@@ -104,10 +105,12 @@ should pass test style_test047
     },
     "seeAlso": [
       "MSHK9RS3"
-    ]
+    ],
+    "language-name": "fr"
   }
 ]
 <<===== INPUT =====<<
+
 
 >>===== CITATIONS =====>>
 [

@@ -14,19 +14,9 @@ Austrian law with amended version, title and short
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-FIRST
-  SchUG, BGBl 472/1986 idF BGBl I 80/2020; SchUG, BGBl 472/1986 idF BGBl I 117/2008.
-FIRST w/LOCATOR
-  123 SchUG, BGBl 472/1986 idF BGBl I 80/2020; SchUG, BGBl 472/1986 idF BGBl I 117/2008.
-FIRST w/LABEL
-  Abs 123 SchUG, BGBl 472/1986 idF BGBl I 80/2020; SchUG, BGBl 472/1986 idF BGBl I 117/2008.
-SUBSEQUENT
-  SchUG; SchUG, BGBl 472/1986 idF BGBl I 117/2008.
-SUBSEQUENT w/LOCATOR
-  123 SchUG; SchUG, BGBl 472/1986 idF BGBl I 117/2008.
-BIBLIOGRAPHY
-<div class="csl-bib-body">
-</div>
+§ 43 SchUG, BGBl 472/1986 idF BGBl I 80/2020; § 23 SchUG, BGBl 472/1986 idF BGBl I 80/2020.
+§ 87 SchUG, BGBl 472/1986 idF BGBl I 117/2008; § 87 SchUG, BGBl 472/1986 idF BGBl I 117/2008.
+§ 119 SchUG, BGBl 472/1986 idF BGBl I 80/2020; § 101 SchUG, BGBl 472/1986 idF BGBl I 117/2008.
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>
@@ -78,6 +68,7 @@ BIBLIOGRAPHY
 ]
 <<===== INPUT =====<<
 
+
 >>===== CITATION-ITEMS =====>>
 [
   [
@@ -118,4 +109,3 @@ BIBLIOGRAPHY
   ]
 ]
 <<===== CITATION-ITEMS =====<<
-

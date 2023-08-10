@@ -1,0 +1,56 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "IMWTYBLL"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Online journal w/ issue
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  <i>Binder</i>, euro.lexunited 2006/2.
+FIRST w/LOCATOR
+  <i>Binder</i>, euro.lexunited 2006/2, 123.
+FIRST w/LABEL
+  <i>Binder</i>, euro.lexunited 2006/2 Abs 123.
+SUBSEQUENT
+  <i>Binder</i>, euro.lexunited 2006/2.
+SUBSEQUENT w/LOCATOR
+  <i>Binder</i>, euro.lexunited 2006/2, 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry"><i>Binder</i>, Die erste Runde im Kampf um das Hauptinsolvenzverfahren ist entschieden, euro.lexunited 2006/2, 1 &#60;eurolexunited.com&#62;.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "article-journal",
+    "title": "Die erste Runde im Kampf um das Hauptinsolvenzverfahren ist entschieden",
+    "author": [
+      {
+        "given": "Kathrin",
+        "family": "Binder"
+      }
+    ],
+    "container-title": "euro.lexunited",
+    "number": "2",
+    "page": "1",
+    "issued": {
+      "raw": "2006"
+    },
+    "archive": "eurolexunited.com",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<

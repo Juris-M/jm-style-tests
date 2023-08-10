@@ -48,7 +48,8 @@ BIBLIOGRAPHY
     "multi": {
       "main": {},
       "_keys": {}
-    }
+    },
+    "language-name": "fr"
   }
 ]
 <<===== INPUT =====<<

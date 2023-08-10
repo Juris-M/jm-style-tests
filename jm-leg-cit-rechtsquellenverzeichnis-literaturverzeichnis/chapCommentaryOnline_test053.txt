@@ -1,0 +1,55 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "SR46PYE2"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Online comentary
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  <i>Kodek</i> in Kodek, Grundbuchsrecht § 13 GBG.
+FIRST w/LOCATOR
+  <i>Kodek</i> in Kodek, Grundbuchsrecht § 13 GBG 123.
+FIRST w/LABEL
+  <i>Kodek</i> in Kodek, Grundbuchsrecht § 13 GBG Abs 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Kodek (Hg), Grundbuchsrecht [01.09.2016] (rdb).</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_commentary",
+    "title": "§ 13 GBG",
+    "author": [
+      {
+        "family": "Kodek"
+      }
+    ],
+    "editor": [
+      {
+        "family": "Kodek"
+      }
+    ],
+    "container-title": "Grundbuchsrecht",
+    "issued": {
+      "raw": "2016-09-01"
+    },
+    "archive": "rdb",
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<

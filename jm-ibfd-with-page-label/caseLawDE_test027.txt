@@ -14,11 +14,11 @@ DE/subjurisdiction case
 
 >>===== RESULT =====>>
 FIRST
-  DE: Tax Court Berlin-Brandenburg, 6 May 2010, 7 K 2083/06 B, Tax Treaty Case Law IBFD.
+  DE: FG Berlin-Brandenburg [Tax Court], 6 May 2010, 7 K 2083/06 B, Tax Treaty Case Law IBFD.
 FIRST w/LOCATOR
-  DE: Tax Court Berlin-Brandenburg, 6 May 2010, 7 K 2083/06 B, p. 123, Tax Treaty Case Law IBFD.
+  DE: FG Berlin-Brandenburg [Tax Court], 6 May 2010, 7 K 2083/06 B, p. 123, Tax Treaty Case Law IBFD.
 FIRST w/LABEL
-  DE: Tax Court Berlin-Brandenburg, 6 May 2010, 7 K 2083/06 B, para. 123, Tax Treaty Case Law IBFD.
+  DE: FG Berlin-Brandenburg [Tax Court], 6 May 2010, 7 K 2083/06 B, para. 123, Tax Treaty Case Law IBFD.
 IBID
   <i>Id.</i>
 IBID w/LOCATOR
@@ -33,7 +33,7 @@ SUBSEQUENT w/BACKREF+LOCATOR
   7 K 2083/06 B (6 May 2010), at p. 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">DE: Tax Court Berlin-Brandenburg, 6 May 2010, 7 K 2083/06 B, Tax Treaty Case Law IBFD.</div>
+  <div class="csl-entry">DE: FG Berlin-Brandenburg [Tax Court], 6 May 2010, 7 K 2083/06 B, Tax Treaty Case Law IBFD.</div>
 </div>
 <<===== RESULT =====<<
 

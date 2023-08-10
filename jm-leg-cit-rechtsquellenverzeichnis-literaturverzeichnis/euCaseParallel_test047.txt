@@ -19,7 +19,7 @@ FIRST
 FIRST w/LOCATOR
   EuGH Rs C-40/15 (Minister Finansov/Aspiro SA) = Revista española de Derecho Financiero 2016/171, 263 (123 <i>Carrasco González</i>).
 FIRST w/LABEL
-  EuGH Rs C-40/15 (Minister Finansov/Aspiro SA) = Revista española de Derecho Financiero 2016/171, 263 (123 <i>Carrasco González</i>).
+  EuGH Rs C-40/15 (Minister Finansov/Aspiro SA) = Revista española de Derecho Financiero 2016/171, 263 Abs 123 (<i>Carrasco González</i>).
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry">EuGH 17.03.2016 Rs C-40/15 (Minister Finansov/Aspiro SA) ECLI:EU:C:2016:172 = Revista española de Derecho Financiero 2016/171, 263 (<i>Carrasco González</i>) = Jurisprudence de la CJUE 2016: Décisions et commentaires (2017) 703 (<i>Pailler</i>).</div>
@@ -33,7 +33,7 @@ BIBLIOGRAPHY
     "type": "legal_case",
     "title": "Minister Finansov/Aspiro SA",
     "authority": "ecj",
-    "number": "Rs C-40/15",
+    "number": "C-40/15",
     "page": "263",
     "issued": {
       "date-parts": [
@@ -68,14 +68,15 @@ BIBLIOGRAPHY
     },
     "seeAlso": [
       "ZMBMZR4R"
-    ]
+    ],
+    "language-name": "es"
   },
   {
     "id": "ZMBMZR4R",
     "type": "legal_case",
     "title": "Minister Finansov/Aspiro SA",
     "authority": "ecj",
-    "number": "Rs C-40/15",
+    "number": "C-40/15",
     "page": "703",
     "issued": {
       "date-parts": [
@@ -110,7 +111,8 @@ BIBLIOGRAPHY
     },
     "seeAlso": [
       "MSHK9RS3"
-    ]
+    ],
+    "language-name": "fr"
   }
 ]
 <<===== INPUT =====<<

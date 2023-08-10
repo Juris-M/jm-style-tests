@@ -14,11 +14,11 @@ Book section
 
 >>===== RESULT =====>>
 FIRST
-  M. Lang, <i>“Fictitious Income” and Tax Treaties</i>, in <i>A Tax Globalist: Essays in honour of Maarten J. Ellis</i> (H. van Arendonk, F. Engelen &#38; S. Jansen eds., IBFD 2005), Online Books IBFD.
+  M. Lang, <i>“Fictitious Income” and Tax Treaties</i>, in <i>A Tax Globalist: Essays in Honour of Maarten J. Ellis</i> (H. van Arendonk, F. Engelen &#38; S. Jansen eds., IBFD 2005), Online Books IBFD.
 FIRST w/LOCATOR
-  M. Lang, <i>“Fictitious Income” and Tax Treaties</i>, in <i>A Tax Globalist: Essays in honour of Maarten J. Ellis</i> p. 123 (H. van Arendonk, F. Engelen &#38; S. Jansen eds., IBFD 2005), Online Books IBFD.
+  M. Lang, <i>“Fictitious Income” and Tax Treaties</i>, in <i>A Tax Globalist: Essays in Honour of Maarten J. Ellis</i> p. 123 (H. van Arendonk, F. Engelen &#38; S. Jansen eds., IBFD 2005), Online Books IBFD.
 FIRST w/LABEL
-  M. Lang, <i>“Fictitious Income” and Tax Treaties</i>, in <i>A Tax Globalist: Essays in honour of Maarten J. Ellis</i> para. 123 (H. van Arendonk, F. Engelen &#38; S. Jansen eds., IBFD 2005), Online Books IBFD.
+  M. Lang, <i>“Fictitious Income” and Tax Treaties</i>, in <i>A Tax Globalist: Essays in Honour of Maarten J. Ellis</i> para. 123 (H. van Arendonk, F. Engelen &#38; S. Jansen eds., IBFD 2005), Online Books IBFD.
 IBID
   <i>Id.</i>
 IBID w/LOCATOR
@@ -33,7 +33,7 @@ SUBSEQUENT w/BACKREF+LOCATOR
   Lang, <i>supra</i> n. 1, at p. 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">M. Lang, <i>“Fictitious Income” and Tax Treaties</i>, in <i>A Tax Globalist: Essays in honour of Maarten J. Ellis</i> (H. van Arendonk, F. Engelen &#38; S. Jansen eds., IBFD 2005), Online Books IBFD.</div>
+  <div class="csl-entry">M. Lang, <i>“Fictitious Income” and Tax Treaties</i>, in <i>A Tax Globalist: Essays in Honour of Maarten J. Ellis</i> (H. van Arendonk, F. Engelen &#38; S. Jansen eds., IBFD 2005), Online Books IBFD.</div>
 </div>
 <<===== RESULT =====<<
 

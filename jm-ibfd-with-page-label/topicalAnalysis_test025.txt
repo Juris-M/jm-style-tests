@@ -14,11 +14,11 @@ Topical analyses
 
 >>===== RESULT =====>>
 FIRST
-  S. Zapata, <i>Brazil—Permanent Establishments</i>, Topical Analyses IBFD (accessed 1 Mar. 2010).
+  S. Zapata, <i>Brazil - Permanent Establishments</i>, Topical Analyses IBFD.
 FIRST w/LOCATOR
-  S. Zapata, <i>Brazil—Permanent Establishments</i> p. 123, Topical Analyses IBFD (accessed 1 Mar. 2010).
+  S. Zapata, <i>Brazil - Permanent Establishments</i> p. 123, Topical Analyses IBFD.
 FIRST w/LABEL
-  S. Zapata, <i>Brazil—Permanent Establishments</i> para. 123, Topical Analyses IBFD (accessed 1 Mar. 2010).
+  S. Zapata, <i>Brazil - Permanent Establishments</i> para. 123, Topical Analyses IBFD.
 IBID
   <i>Id.</i>
 IBID w/LOCATOR
@@ -33,7 +33,7 @@ SUBSEQUENT w/BACKREF+LOCATOR
   Zapata, <i>supra</i> n. 1, at p. 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">S. Zapata, <i>Brazil—Permanent Establishments</i>, Topical Analyses IBFD (accessed 1 Mar. 2010).</div>
+  <div class="csl-entry">S. Zapata, <i>Brazil - Permanent Establishments</i>, Topical Analyses IBFD.</div>
 </div>
 <<===== RESULT =====<<
 
